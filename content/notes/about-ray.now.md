@@ -4,7 +4,6 @@ modified: 2021-12-18T02:22:36
 tags: []
 alias: []
 title: "now"
-notoc: true
 ---
 > This is a [/now page](https://nownownow.com/about) for Ray
 

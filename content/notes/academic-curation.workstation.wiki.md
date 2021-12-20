@@ -3,6 +3,7 @@ id: GHNidRLG8Vg9TUNwEcwOG
 title: Wiki
 desc: "A Wiki with Hierarchical Bases for long-term knowledge on Mathematics and Sciences"
 created: 1635797143525
+toc: true
 ---
 
 > A Dendron Workspace for building a "Wiki" for Hierarchical but Networked, Non-Linear Notemaking and Studying
