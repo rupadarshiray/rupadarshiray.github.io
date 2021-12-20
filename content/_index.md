@@ -1,5 +1,5 @@
 ---
-title: 🪴 ℝ²
+title: ℝ²
 modified: 2021-11-24T14:54:31
 notoc: true
 ---
