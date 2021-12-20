@@ -1,0 +1,27 @@
+baseURL = "https://riddyrayes.github.io/"
+languageCode = "en-GB"
+googleAnalytics = ""
+pygmentsUseClasses = true
+relativeURLs = true
+disablePathToLower = true
+ignoreFiles = [
+    "/content/templates/*",
+    "/content/private/*",
+]
+
+[markup]
+    [markup.tableOfContents]
+        endLevel = 15
+        ordered = false
+        startLevel = 1
+    [markup.highlight]
+        anchorLineNos = false
+        codeFences = true
+        guessSyntax = true
+        hl_Lines = ""
+        lineAnchors = ""
+        lineNoStart = 1
+        lineNos = true
+        lineNumbersInTable = true
+        style = "dracula"
+        tabWidth = 4

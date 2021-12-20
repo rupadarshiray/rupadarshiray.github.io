@@ -1,0 +1,28 @@
+<head>
+    <!-- Meta tags -->
+    <meta charset="UTF-8">
+    <meta name="description" content="{{$.Site.Data.config.description}}">
+    <title>{{ if .IsHome }}Home - {{ else }}{{ if .Page.Title }}{{ .Page.Title }} - {{ end }}{{ end }}ℝ²</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/png" href="/R2new-biggr.jpg" />
+
+    <!-- CSS Stylesheets and Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Source+Sans+Pro:wght@400;700&family=Fira+Code:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://pvinis.github.io/iosevka-webfont/7.0.2/iosevka.css" rel="stylesheet">
+    {{ $css := slice "custom.scss" "base.scss" "darkmode.scss" "syntax.scss"}}
+    {{range $css}}
+    {{$sass := resources.Get . | resources.ToCSS }}
+    {{with $sass | minify}}
+    <style>
+        {{.Content | safeCSS}}
+    </style>
+    {{end}}
+    {{end}}
+
+    {{- with resources.Get "darkmode.js" | minify -}}
+    <script>
+      {{.Content | safeJS }}
+    </script>
+    {{- end -}}
+</head>
+{{ template "_internal/google_analytics.html" . }}
