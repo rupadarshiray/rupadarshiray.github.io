@@ -2,7 +2,7 @@
 id: GHNidRLG8Vg9TUNwEcwOG
 title: Wiki
 desc: "A Wiki with Hierarchical Bases for long-term knowledge on Mathematics and Sciences"
-created: 1635797143525
+created: 2021-11-02T01:35:43
 toc: true
 ---
 
@@ -78,7 +78,7 @@ I prefer the simple `parent.child.grandchild.great-gandchild` style of "."-separ
 
 
 # Further developments
-- Building the hierarchies for various disciplines and fields of study: [Hierarchical bases](academic-curation.workstation.wiki.hierarchical-bases)
+- Building the hierarchies for various disciplines and fields of study: [Hierarchical bases](academic-curation.workstation.wiki.hierarchical-bases.md)
 
 # Testing of power
 **TO BE YET TESTED BY ME ;)**

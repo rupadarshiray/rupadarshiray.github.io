@@ -16,7 +16,7 @@ modified: 2021-11-24T14:54:31
 ## Latest posts
 
 - On a [Wiki](notes/academic-curation.workstation.wiki) with Hierarchical Bases for long-term knowledge on Mathematics and Sciences
-
+- [log: December 12021](notes/journals.log.12021-12)
 
 
 

@@ -1,0 +1,11 @@
+---
+id: JW6llpxZg4YEyP6wsF74l
+title: 12021-11-02
+created: 2021-11-02T23:47:02
+modified: 2021-12-18T01:50:22
+tags: []
+alias: []
+---
+
+## Obsidian Graph
+![Obsidian Graph](https://i.imgur.com/VGVKZGO.png)
