@@ -2,8 +2,9 @@
 created: 2022-06-29T17:06:07
 modified: 2022-06-29T17:06:07
 tags: []
-alias: []
 title: 'Ted Shifrin’s Linear algebra and Multivariable calculus'
+aliases:
+    - /Shifrin-Multivariable-Mathematics/
 ---
 
 # Ted Shifrin’s Linear algebra and Multivariable calculus
