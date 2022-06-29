@@ -9,4 +9,4 @@ title: 'Academic Curation'
 - Workstation
 	- [Wiki](notes/academic-curation.workstation.wiki)
 - [Books](notes/academic-curation.books)
-- [Material Recommendations](academic-curation.recomm.md)
+- [Material Recommendations](notes/academic-curation.recomm)

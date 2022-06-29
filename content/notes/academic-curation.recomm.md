@@ -8,4 +8,4 @@ title: 'Material Recommendations'
 
 # Material Recommendations
 
-- [Ted Shifrin’s Linear algebra and Multivariable calculus](academic-curation.recomm.Shifrin-MultivariableMathematics.md)
+- [Ted Shifrin’s Linear algebra and Multivariable calculus](notes/academic-curation.recomm.Shifrin-MultivariableMathematics)
