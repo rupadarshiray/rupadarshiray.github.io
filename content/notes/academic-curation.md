@@ -7,5 +7,6 @@ title: 'Academic Curation'
 > academia and bliss
 
 - Workstation
-      - [Wiki](notes/academic-curation.workstation.wiki)
+	- [Wiki](notes/academic-curation.workstation.wiki)
 - [Books](notes/academic-curation.books)
+- [Material Recommendations](notes/academic-curation.recomm)

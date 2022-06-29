@@ -78,7 +78,7 @@ I prefer the simple `parent.child.grandchild.great-gandchild` style of "."-separ
 
 
 # Further developments
-- Building the hierarchies for various disciplines and fields of study: [Hierarchical bases](academic-curation.workstation.wiki.hierarchical-bases.md)
+- Building the hierarchies for various disciplines and fields of study: [Hierarchical bases](academic-curation.workstation.wiki.hierarchical-bases)
 
 # Testing of power
 **TO BE YET TESTED BY ME ;)**
