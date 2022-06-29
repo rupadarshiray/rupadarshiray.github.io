@@ -11,7 +11,7 @@ aliases:
 
 <iframe width="650" height="415" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL5I-Eyk8l9FHdJUd9UujGcvumjCFPHbrd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This fairly rigorous by very entertaining set of lectures (where the instructor uses blackboard!) explains all the stuff encountered in Multivariable calculus one encounters during the  core years of a Fundamental Sciences programme: derivatives, volumous integrals, change of coordinates, and especially does everything in a proper linear algebraic setting (which becomes very important )
+This fairly rigorous but very entertaining set of lectures (where the instructor uses blackboard!) explains all the stuff in Multivariable calculus one encounters during the core years of a Fundamental Sciences programme: multiple derivatives, _volumous_ integrals, change of coordinates, and especially does everything in a proper linear algebraic setting (which becomes very important in the long run) and with lots of examples and pictures!
 
 ## Lecture videos, notes and textbook
 - The lectures playlist [Math 3500 & 3510: Multivariable Calculus and Linear Algebra - YouTube](https://www.youtube.com/playlist?list=PL5I-Eyk8l9FHdJUd9UujGcvumjCFPHbrd)
