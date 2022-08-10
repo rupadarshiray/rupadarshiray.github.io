@@ -8,4 +8,5 @@ title: "now"
 ---
 > This is a [/now page](https://nownownow.com/about) for Ray
 
-- Starting Semester 1 at IISER Mohali on January 3rd, 2022
+- Completed Semester 2 of BSMS at IISER Mohali on 6th August 2022.
+- Editing and writing for this website.

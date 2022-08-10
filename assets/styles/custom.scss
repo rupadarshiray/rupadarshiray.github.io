@@ -1,0 +1,63 @@
+// Add your own CSS here!
+
+:root {
+  --light: #faf8f8;
+  --dark: #141021;
+  --secondary: #284b63;
+  --tertiary: #84a59d;
+  --visited: #afbfc9;
+  --primary: #f28482;
+  --gray: #4e4e4e;
+  --lightgray: #f0f0f0;
+  --outlinegray: #dadada;
+  --million-progress-bar-color: var(--secondary);
+}
+
+[saved-theme="dark"] {
+  --light: #0D0B0F !important;
+  --dark: #fbfffe !important;
+  --secondary: #6b879a !important;
+  --visited: #4a575e !important;
+  --tertiary: #84a59d !important;
+  --primary: #f58382 !important;
+  --gray: #d4d4d4 !important;
+  --lightgray: #292633 !important;
+  --outlinegray: #343434 !important;
+
+  h1 {
+    color: #fa4d1e;
+    font-weight: 900;
+    font-size: 1.7rem;
+  }
+
+  h2 {
+    color: #F89C1C;
+    font-weight: 700;
+    font-size: 1.5 rem;
+  }
+
+  h3 {
+    color: #ede482;
+    font-weight: 600;
+  }
+
+  h4 {
+    color: #aade62;
+  }
+
+  h5 {
+    color: #62deac;
+  }
+
+  h6 {
+    color: #62b7de;
+  }
+
+  article{
+    & > h1 {
+      font-size: 2.25em;
+      color: white;
+      font-weight: 900;
+  }
+  }
+}

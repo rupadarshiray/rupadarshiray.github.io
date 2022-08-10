@@ -1,13 +1,13 @@
 ---
-created: 2022-06-29T17:06:07
-modified: 2022-06-29T17:06:07
-tags: []
+created: 2022-07-29T17:06:07
+modified: 2022-07-29T17:06:07
+tags: [math]
 title: 'Ted Shifrin’s Linear algebra and Multivariable calculus'
 aliases:
     - /Shifrin-Multivariable-Mathematics/
 ---
 
-
+- parent:: [[notes/academic-recommendations]]
 
 <iframe width="650" height="415" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL5I-Eyk8l9FHdJUd9UujGcvumjCFPHbrd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

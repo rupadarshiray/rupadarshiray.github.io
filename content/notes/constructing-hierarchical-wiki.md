@@ -1,6 +1,6 @@
 ---
 id: 1pMVxQT9bCpITrQhazStP
-title: Hierarchial Bases in Wiki
+title: 'Constructing a hierarchical wiki'
 desc: 'Building an ecosystem of knowledge with the philosophy, on top of Dendron'
 created: 2021-11-06T01:44:39
 modified: 2021-12-18T01:50:22
@@ -8,6 +8,8 @@ tags: []
 alias: []
 toc: true
 ---
+
+- previous:: [[notes/hierarchical-longterm-wiki]]
 
 > Building an ecosystem of knowledge with the philosophy from [Wiki](notes/academic-curation.workstation.wiki), on top of Dendron
 
@@ -17,7 +19,7 @@ Note: Everything mentioned is only a presently chosen custom, and is possible to
 
 As it was clarified[^1], its best to create the wiki in its primary stage with a cascading style definition of subjects.
 
-[^1]: [Wiki > a mix of the above two is nice](notes/academic-curation.workstation.wiki#a%20mix%20of%20the%20above%20two%20is%20nice)
+[^1]: [[notes/hierarchical-longterm-wiki#a mix of the above two is nice]]
 
 Let each subject reside in their own folder with a shortened name.
 ```yml
@@ -127,12 +129,6 @@ The Physics part of the wiki currently looks like this:
 
 
 ### Chemistry
-
-#### Physical Chemistry
-> yet to be developed
-
-#### Inorganic Chemistry
-> yet to be developed
 
 #### Organic Chemistry
 Let there be three hierarchies:

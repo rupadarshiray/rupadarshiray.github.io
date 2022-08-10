@@ -1,11 +1,26 @@
-name: R²
+name: Rupadarshi Ray
 enableToc: true
+openToc: false
+enableLinkPreview: true
+enableLatex: true
+enableCodeBlockTitle: true
+enableCodeBlockCopy: true
+enableCallouts: true
+enableSPA: true
+enableFooter: true
+enableContextualBacklinks: true
+enableRecentNotes: true
+enableGitHubEdit: false
+enableSemanticSearch: false
+operandApiKey: ""
 description:
   Academic Curation and Journaling by Ray
 page_title:
-  R²
+  ℝ²
 links:
   - link_name: Twitter
     link: https://twitter.com/riddyrayes
   - link_name: Github
     link: https://github.com/riddyrayes
+favicon:
+  - { rel: "shortcut icon", href: "R2new-biggr.jpg", type: "image/jpg" }
