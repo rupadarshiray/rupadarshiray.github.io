@@ -16,7 +16,7 @@
 [saved-theme="dark"] {
   --light: #0D0B0F !important;
   --dark: #fbfffe !important;
-  --secondary: #6b879a !important;
+  --secondary: #3993cf !important;
   --visited: #4a575e !important;
   --tertiary: #84a59d !important;
   --primary: #f58382 !important;
@@ -53,11 +53,16 @@
     color: #62b7de;
   }
 
-  article{
-    & > h1 {
+  article {
+    &>h1 {
       font-size: 2.25em;
       color: white;
       font-weight: 900;
+    }
   }
+
+  header a {
+    color: white;
+    font-size: xx-large;
   }
 }
