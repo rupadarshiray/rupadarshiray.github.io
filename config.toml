@@ -1,6 +1,6 @@
 baseURL = "https://riddyrayes.github.io/"
 languageCode = "en-GB"
-googleAnalytics = ""
+googleAnalytics = "G-SD58QPFGKF"
 pygmentsUseClasses = true
 relativeURLs = false
 ignoreFiles = [
