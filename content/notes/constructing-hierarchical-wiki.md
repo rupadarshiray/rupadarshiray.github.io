@@ -11,7 +11,7 @@ toc: true
 
 - previous:: [[notes/hierarchical-longterm-wiki]]
 
-> Building an ecosystem of knowledge with the philosophy from [Wiki](notes/academic-curation.workstation.wiki), on top of Dendron
+> Building an ecosystem of knowledge with the philosophy from [[notes/hierarchical-longterm-wiki|Wiki]], on top of Dendron
 
 Note: Everything mentioned is only a presently chosen custom, and is possible to change in the future, as the wiki develops.
 
@@ -47,7 +47,8 @@ Let each subject reside in their own folder with a shortened name.
 ```
 
 With Dendron each such subject is given a "root" note.
-![](https://i.imgur.com/DuDzWeN.png)
+
+![|300](https://i.imgur.com/DuDzWeN.png)
 
 
 ### Physics

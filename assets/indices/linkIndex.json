@@ -27,7 +27,7 @@
         {
           "source": "/about/about-me",
           "target": "/about/now",
-          "text": "Now"
+          "text": "now-a-days here"
         }
       ],
       "/log/log-12021-10-31": [
@@ -71,11 +71,6 @@
         },
         {
           "source": "/notes/academia",
-          "target": "/academic-workstation",
-          "text": "academic-workstation"
-        },
-        {
-          "source": "/notes/academia",
           "target": "/notes/hierarchical-longterm-wiki",
           "text": "notes/hierarchical-longterm-wiki"
         },
@@ -110,6 +105,11 @@
       "/notes/academic-workstation": [
         {
           "source": "/notes/academic-workstation",
+          "target": "/notes/why-write-in-obsidian",
+          "text": "Why write in Obsidian"
+        },
+        {
+          "source": "/notes/academic-workstation",
           "target": "/notes/hierarchical-longterm-wiki",
           "text": "A hierarchical longterm Wiki"
         },
@@ -131,6 +131,11 @@
           "source": "/notes/constructing-hierarchical-wiki",
           "target": "/notes/hierarchical-longterm-wiki",
           "text": "notes/hierarchical-longterm-wiki"
+        },
+        {
+          "source": "/notes/constructing-hierarchical-wiki",
+          "target": "/notes/hierarchical-longterm-wiki",
+          "text": "Wiki"
         }
       ],
       "/notes/my-books": [
@@ -165,14 +170,7 @@
         {
           "source": "/about/about-me",
           "target": "/about/now",
-          "text": "Now"
-        }
-      ],
-      "/academic-workstation": [
-        {
-          "source": "/notes/academia",
-          "target": "/academic-workstation",
-          "text": "academic-workstation"
+          "text": "now-a-days here"
         }
       ],
       "/hierarchical-longterm-wiki": [
@@ -277,6 +275,11 @@
           "source": "/notes/constructing-hierarchical-wiki",
           "target": "/notes/hierarchical-longterm-wiki",
           "text": "notes/hierarchical-longterm-wiki"
+        },
+        {
+          "source": "/notes/constructing-hierarchical-wiki",
+          "target": "/notes/hierarchical-longterm-wiki",
+          "text": "Wiki"
         }
       ],
       "/notes/my-books": [
@@ -291,6 +294,13 @@
           "source": "/notes/academic-recommendations",
           "target": "/notes/shifrin-multivariable-mathematics",
           "text": "Ted Shifrin’s Linear algebra and Multivariable calculus"
+        }
+      ],
+      "/notes/why-write-in-obsidian": [
+        {
+          "source": "/notes/academic-workstation",
+          "target": "/notes/why-write-in-obsidian",
+          "text": "Why write in Obsidian"
         }
       ]
     }
@@ -319,7 +329,7 @@
     {
       "source": "/about/about-me",
       "target": "/about/now",
-      "text": "Now"
+      "text": "now-a-days here"
     },
     {
       "source": "/log/log-12021-10-31",
@@ -353,11 +363,6 @@
     },
     {
       "source": "/notes/academia",
-      "target": "/academic-workstation",
-      "text": "academic-workstation"
-    },
-    {
-      "source": "/notes/academia",
       "target": "/notes/hierarchical-longterm-wiki",
       "text": "notes/hierarchical-longterm-wiki"
     },
@@ -388,6 +393,11 @@
     },
     {
       "source": "/notes/academic-workstation",
+      "target": "/notes/why-write-in-obsidian",
+      "text": "Why write in Obsidian"
+    },
+    {
+      "source": "/notes/academic-workstation",
       "target": "/notes/hierarchical-longterm-wiki",
       "text": "A hierarchical longterm Wiki"
     },
@@ -405,6 +415,11 @@
       "source": "/notes/constructing-hierarchical-wiki",
       "target": "/notes/hierarchical-longterm-wiki",
       "text": "notes/hierarchical-longterm-wiki"
+    },
+    {
+      "source": "/notes/constructing-hierarchical-wiki",
+      "target": "/notes/hierarchical-longterm-wiki",
+      "text": "Wiki"
     },
     {
       "source": "/notes/my-books",

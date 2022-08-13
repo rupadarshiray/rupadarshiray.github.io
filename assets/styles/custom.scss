@@ -1,19 +1,19 @@
 // Add your own CSS here!
 
 :root {
-//   --light: #faf8f8;
-//   --dark: #141021;
-//   --secondary: #284b63;
-//   --tertiary: #84a59d;
-//   --visited: #afbfc9;
-//   --primary: #f28482;
-//   --gray: #4e4e4e;
-//   --lightgray: #f0f0f0;
-//   --outlinegray: #dadada;
-//   --million-progress-bar-color: var(--secondary);
-// }
+  //   --light: #faf8f8;
+  //   --dark: #141021;
+  //   --secondary: #284b63;
+  //   --tertiary: #84a59d;
+  //   --visited: #afbfc9;
+  //   --primary: #f28482;
+  //   --gray: #4e4e4e;
+  //   --lightgray: #f0f0f0;
+  //   --outlinegray: #dadada;
+  //   --million-progress-bar-color: var(--secondary);
+  // }
 
-// [saved-theme="dark"] {
+  // [saved-theme="dark"] {
   --light: #0D0B0F !important;
   --dark: #fbfffe !important;
   --secondary: #3993cf !important;
@@ -65,4 +65,44 @@
     color: rgb(255, 251, 28);
     font-size: xx-large;
   }
+
+  ul>li,
+  ol>li {
+    position: relative;
+  }
+
+  ol,
+  ul {
+    position: relative;
+    padding-inline-start: 30px;
+  }
+
+  /* Actual definition of ::before-pseudo-elements with left border */
+
+  li>ul::before,
+  li>ol::before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    top: 0em;
+    margin-left: -47px;
+    border-left: 2px solid var(--secondary);
+    opacity: 1;
+  }
+
+  ::marker {
+    color: var(--secondary);
+  }
+
+  /*Bold Italics*/
+  strong {
+    color: #90d332;
+    font-weight: 700;
+  }
+
+  em {
+    color: #8f60e6 !important;
+    font-weight: 500 !important;
+  }
+
 }

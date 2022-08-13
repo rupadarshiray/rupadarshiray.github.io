@@ -7,7 +7,6 @@ title: 'Academia'
 > [!bug] academia, bliss and beyond
 
 - Building an [[notes/academic-workstation|Academic Workstation]]
-[[academic-workstation]]
 	- [[notes/hierarchical-longterm-wiki]], [[notes/constructing-hierarchical-wiki]]
 - [[notes/my-books]]
 - [[notes/academic-recommendations]]
