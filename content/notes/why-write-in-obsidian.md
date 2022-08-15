@@ -1,10 +1,10 @@
 ---
 created: 2022-08-13T14:01:18
 modified: 2022-08-13T14:01:18
-tags: []
+tags: [Obsidian]
 title: 'Why write in Obsidian'
 aliases:
-    - 
+    - 'Why write in Obsidian'
 ---
 
 There are drawbacks to writing in Obsidian for taking notes for Mathematics and Sciences - be it lecture notes or long-term notes. There are two other possibilities:
@@ -43,5 +43,22 @@ Writing in Obsidian in this way provides benefits over each of the individual me
 - ### Drawing and diagrams
 	- Excalidraw plugin is a *active-in-development* plugin and even without a drawing device, it can be used to draw figures, flowcharts and also can be used to hand-write notes!
 
-
 [^1]: [Zettelkasten + LaTeX + VS Code = Productivity++ ? | by Xavier Pinho | Level Up Coding (gitconnected.com)](https://levelup.gitconnected.com/zettelkasten-latex-vs-code-productivity-a7deb650608e)
+
+
+## advantages over other tools
+- **OneNote**
+	- Embedding notes, LaTeX, and way more functionality from plugins.
+	- Plaintext.
+	- Files like PDF doesn’t loose being “files”.
+	- PDFs can be edited externally, linked/embedded to exact page number.
+- **Notion**
+	- Fast. Offline.
+	- 
+- **Most other tools**
+	- Free!
+- 
+
+## other advantages
+- Various tools can be used alongside it.
+	- Any text editor like VScode, Atom etc.

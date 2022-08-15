@@ -105,8 +105,18 @@
       "/notes/academic-workstation": [
         {
           "source": "/notes/academic-workstation",
+          "target": "/notes/what-is-obsidian",
+          "text": "What is Obsidian"
+        },
+        {
+          "source": "/notes/academic-workstation",
           "target": "/notes/why-write-in-obsidian",
           "text": "Why write in Obsidian"
+        },
+        {
+          "source": "/notes/academic-workstation",
+          "target": "/notes/starting-with-obsidian",
+          "text": "Starting with Obsidian"
         },
         {
           "source": "/notes/academic-workstation",
@@ -151,9 +161,192 @@
           "target": "/notes/academic-recommendations",
           "text": "notes/academic-recommendations"
         }
+      ],
+      "/notes/starting-with-obsidian": [
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Internals",
+          "text": "Internals"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Templates",
+          "text": "Templates"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Daily-Notes",
+          "text": "Daily Notes"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Community-Plugins",
+          "text": "Community Plugins"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Community-Themes",
+          "text": "Community Themes"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/CSS-Snippets",
+          "text": "CSS Snippets"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/CSS-Development",
+          "text": "CSS Development"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Mechanisms",
+          "text": "Mechanisms"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Folders",
+          "text": "Folders"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Tags",
+          "text": "Tags"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Xjournal++",
+          "text": "Xjournal++"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/notes/obsidian-metadata-and-query",
+          "text": "Metadata and Query"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Mechanisms",
+          "text": "Mechanisms"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/LaTex",
+          "text": "LaTex"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/LaTex",
+          "text": "LaTex"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/VScode",
+          "text": "VScode"
+        }
       ]
     },
     "backlinks": {
+      "/CSS-Development": [
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/CSS-Development",
+          "text": "CSS Development"
+        }
+      ],
+      "/CSS-Snippets": [
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/CSS-Snippets",
+          "text": "CSS Snippets"
+        }
+      ],
+      "/Community-Plugins": [
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Community-Plugins",
+          "text": "Community Plugins"
+        }
+      ],
+      "/Community-Themes": [
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Community-Themes",
+          "text": "Community Themes"
+        }
+      ],
+      "/Daily-Notes": [
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Daily-Notes",
+          "text": "Daily Notes"
+        }
+      ],
+      "/Folders": [
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Folders",
+          "text": "Folders"
+        }
+      ],
+      "/Internals": [
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Internals",
+          "text": "Internals"
+        }
+      ],
+      "/LaTex": [
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/LaTex",
+          "text": "LaTex"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/LaTex",
+          "text": "LaTex"
+        }
+      ],
+      "/Mechanisms": [
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Mechanisms",
+          "text": "Mechanisms"
+        },
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Mechanisms",
+          "text": "Mechanisms"
+        }
+      ],
+      "/Tags": [
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Tags",
+          "text": "Tags"
+        }
+      ],
+      "/Templates": [
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Templates",
+          "text": "Templates"
+        }
+      ],
+      "/VScode": [
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/VScode",
+          "text": "VScode"
+        }
+      ],
+      "/Xjournal++": [
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/Xjournal++",
+          "text": "Xjournal++"
+        }
+      ],
       "/about/about-me": [
         {
           "source": "/",
@@ -289,11 +482,32 @@
           "text": "notes/my-books"
         }
       ],
+      "/notes/obsidian-metadata-and-query": [
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/notes/obsidian-metadata-and-query",
+          "text": "Metadata and Query"
+        }
+      ],
       "/notes/shifrin-multivariable-mathematics": [
         {
           "source": "/notes/academic-recommendations",
           "target": "/notes/shifrin-multivariable-mathematics",
           "text": "Ted Shifrin’s Linear algebra and Multivariable calculus"
+        }
+      ],
+      "/notes/starting-with-obsidian": [
+        {
+          "source": "/notes/academic-workstation",
+          "target": "/notes/starting-with-obsidian",
+          "text": "Starting with Obsidian"
+        }
+      ],
+      "/notes/what-is-obsidian": [
+        {
+          "source": "/notes/academic-workstation",
+          "target": "/notes/what-is-obsidian",
+          "text": "What is Obsidian"
         }
       ],
       "/notes/why-write-in-obsidian": [
@@ -393,8 +607,18 @@
     },
     {
       "source": "/notes/academic-workstation",
+      "target": "/notes/what-is-obsidian",
+      "text": "What is Obsidian"
+    },
+    {
+      "source": "/notes/academic-workstation",
       "target": "/notes/why-write-in-obsidian",
       "text": "Why write in Obsidian"
+    },
+    {
+      "source": "/notes/academic-workstation",
+      "target": "/notes/starting-with-obsidian",
+      "text": "Starting with Obsidian"
     },
     {
       "source": "/notes/academic-workstation",
@@ -430,6 +654,86 @@
       "source": "/notes/shifrin-multivariable-mathematics",
       "target": "/notes/academic-recommendations",
       "text": "notes/academic-recommendations"
+    },
+    {
+      "source": "/notes/starting-with-obsidian",
+      "target": "/Internals",
+      "text": "Internals"
+    },
+    {
+      "source": "/notes/starting-with-obsidian",
+      "target": "/Templates",
+      "text": "Templates"
+    },
+    {
+      "source": "/notes/starting-with-obsidian",
+      "target": "/Daily-Notes",
+      "text": "Daily Notes"
+    },
+    {
+      "source": "/notes/starting-with-obsidian",
+      "target": "/Community-Plugins",
+      "text": "Community Plugins"
+    },
+    {
+      "source": "/notes/starting-with-obsidian",
+      "target": "/Community-Themes",
+      "text": "Community Themes"
+    },
+    {
+      "source": "/notes/starting-with-obsidian",
+      "target": "/CSS-Snippets",
+      "text": "CSS Snippets"
+    },
+    {
+      "source": "/notes/starting-with-obsidian",
+      "target": "/CSS-Development",
+      "text": "CSS Development"
+    },
+    {
+      "source": "/notes/starting-with-obsidian",
+      "target": "/Mechanisms",
+      "text": "Mechanisms"
+    },
+    {
+      "source": "/notes/starting-with-obsidian",
+      "target": "/Folders",
+      "text": "Folders"
+    },
+    {
+      "source": "/notes/starting-with-obsidian",
+      "target": "/Tags",
+      "text": "Tags"
+    },
+    {
+      "source": "/notes/starting-with-obsidian",
+      "target": "/Xjournal++",
+      "text": "Xjournal++"
+    },
+    {
+      "source": "/notes/starting-with-obsidian",
+      "target": "/notes/obsidian-metadata-and-query",
+      "text": "Metadata and Query"
+    },
+    {
+      "source": "/notes/starting-with-obsidian",
+      "target": "/Mechanisms",
+      "text": "Mechanisms"
+    },
+    {
+      "source": "/notes/starting-with-obsidian",
+      "target": "/LaTex",
+      "text": "LaTex"
+    },
+    {
+      "source": "/notes/starting-with-obsidian",
+      "target": "/LaTex",
+      "text": "LaTex"
+    },
+    {
+      "source": "/notes/starting-with-obsidian",
+      "target": "/VScode",
+      "text": "VScode"
     }
   ]
 }

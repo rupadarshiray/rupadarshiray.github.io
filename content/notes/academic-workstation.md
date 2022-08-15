@@ -7,18 +7,19 @@ aliases:
     - 'Academic Workstation'
 ---
 
+Here we make a academic workstation in the *Obsidian ecosystem* - completely free in both sense of the word, and with endless possibilities. Start with the first three articles, after that this page will become a reference for further progress.
 
-
-- [[notes/why-write-in-obsidian|Why write in Obsidian]]
-- Starting with Obsidian
-- Working in Obsidian
-	- **Functionality and extensions**
+- # [[notes/what-is-obsidian|What is Obsidian]]
+- # [[notes/why-write-in-obsidian|Why write in Obsidian]]
+- # [[notes/starting-with-obsidian|Starting with Obsidian]]
+- # Working in Obsidian
+	- ## Functionality and extensions
 		- MathJax and beyond
 			- Preamble
 			- Snippets and Conceal
 			- TikZ
 		- Mermaid
-		- Metadata and Query
+		- [[notes/obsidian-metadata-and-query|Metadata and Query]]
 		- Daily notes
 		- Folders and files
 		- Links and Embeds
@@ -44,28 +45,22 @@ aliases:
 		- Backup → Git, Google Drive
 		- Publish
 		- Syncing
-	- **Tinkering with superplugins**
-		- Templater+JS
-		- Dataview+JS
-		- Buttons+API
-		- Excalidraw+API
-		- Breadcrumbs+API
-		- QuickAdd
-		- **Mixing plugins**
-			- Kanban+Dataview
-			- Templater+Dataview
-			- Buttons+Dataview
-			- Excalidraw+Breadcrumbs
-	- Community themes
-	- CSS tinkering
-		- dark pdf
-- External apps in the Obsidian ecosystem
-	- Dendron
-	- *fullon* LaTeX
+- ## Trifle with superplugins
+	- Templater+JS
+	- Dataview+JS, and extensions!
+	- Buttons+API
+	- Excalidraw+API
+	- Breadcrumbs+API
+	- QuickAdd
+	- **Mixing plugins**
+		- Kanban+Dataview
+		- Templater+Dataview
+		- Buttons+Dataview
+		- Excalidraw+Breadcrumbs
+- ## Trifle with CSS
+	- dark pdf
+- ## Workflows
 	- Stuff you can do with a drawing tablet
-	- Zotero
-	- VCcode
-- Workflows
 	- Working as a Sciences student in Obsidian
 		- University: Semester pages, Lecture notes
 		- Problem database
