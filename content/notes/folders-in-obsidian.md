@@ -33,4 +33,4 @@ path:-Attachments
 ~~~
 
 # Folder Note (plugin)
-Links: [GitHub repository](https://github.com/xpgo/obsidian-folder-note-plugin) or [Open in Obsidian](obsidian://show-plugin?id=folder-note-plugin)
+[GitHub repository](https://github.com/xpgo/obsidian-folder-note-plugin)

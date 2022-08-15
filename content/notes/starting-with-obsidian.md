@@ -266,7 +266,7 @@ There are numerous CSS snippets from the community used for various purposes.
 ## Idea Emergence
 
 - **LYT Kit**
-	- The kit suggests readers to have at least 100 notes. This is a best place to expand more on [[Mechanisms]].
+	- The kit suggests readers to have at least 100 notes.
 
 ---
 
@@ -293,4 +293,4 @@ There are numerous CSS snippets from the community used for various purposes.
 - [[notes/academic-workstation#Tinkering with superplugins|Tinkering with superplugins]]
 - Dendron
 - *full-on* **LaTex**
-	- For more rigorous use of mathematical notation and equations, chemical structures and equations, diagrams, we must use the industry standard - [[LaTex]]. Various Tex utility software like TexStudio, services, or even Vim can be used to create LaTex documents but for the purpose of keeping a familiar aspect to a unfamiliar wold, we shall use [[VScode]] to write LaTex documents and integrate with Obsidian.
+	- For more rigorous use of mathematical notation and equations, chemical structures and equations, diagrams, we must use the industry standard - LaTex. Various Tex utility software like TexStudio, services, or even Vim can be used to create LaTex documents but for the purpose of keeping a familiar aspect to a unfamiliar wold, we shall use VScode to write LaTex documents and integrate with Obsidian.
