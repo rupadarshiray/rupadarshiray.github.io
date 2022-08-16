@@ -1,5 +1,5 @@
 name: Rupadarshi Ray
-enableToc: true
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -11,7 +11,7 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: true
 enableGitHubEdit: false
-enableSemanticSearch: false
+enableSemanticSearch: true
 operandApiKey: ""
 description:
   Academic Curation and Journaling by Ray

@@ -141,6 +141,13 @@
           "text": "notes/academia"
         }
       ],
+      "/notes/constructing-a-mathematics-wiki": [
+        {
+          "source": "/notes/constructing-a-mathematics-wiki",
+          "target": "/notes/constructing-hierarchical-wiki",
+          "text": "construct a wiki"
+        }
+      ],
       "/notes/constructing-hierarchical-wiki": [
         {
           "source": "/notes/constructing-hierarchical-wiki",
@@ -151,13 +158,11 @@
           "source": "/notes/constructing-hierarchical-wiki",
           "target": "/notes/hierarchical-longterm-wiki",
           "text": "Wiki"
-        }
-      ],
-      "/notes/folders-in-obsidian": [
+        },
         {
-          "source": "/notes/folders-in-obsidian",
-          "target": "/obsidian//show-pluginidfolder-note-plugin",
-          "text": "Open in Obsidian"
+          "source": "/notes/constructing-hierarchical-wiki",
+          "target": "/notes/constructing-a-mathematics-wiki",
+          "text": "Constructing a Mathematics Wiki"
         }
       ],
       "/notes/my-books": [
@@ -299,6 +304,13 @@
           "text": "Academic Workstation"
         }
       ],
+      "/notes/constructing-a-mathematics-wiki": [
+        {
+          "source": "/notes/constructing-hierarchical-wiki",
+          "target": "/notes/constructing-a-mathematics-wiki",
+          "text": "Constructing a Mathematics Wiki"
+        }
+      ],
       "/notes/constructing-hierarchical-wiki": [
         {
           "source": "/notes/academia",
@@ -309,6 +321,11 @@
           "source": "/notes/academic-workstation",
           "target": "/notes/constructing-hierarchical-wiki",
           "text": "Constructing a hierarchical wiki"
+        },
+        {
+          "source": "/notes/constructing-a-mathematics-wiki",
+          "target": "/notes/constructing-hierarchical-wiki",
+          "text": "construct a wiki"
         }
       ],
       "/notes/folders-in-obsidian": [
@@ -395,13 +412,6 @@
           "source": "/notes/what-is-obsidian",
           "target": "/notes/why-write-in-obsidian",
           "text": "Why write in Obsidian"
-        }
-      ],
-      "/obsidian//show-pluginidfolder-note-plugin": [
-        {
-          "source": "/notes/folders-in-obsidian",
-          "target": "/obsidian//show-pluginidfolder-note-plugin",
-          "text": "Open in Obsidian"
         }
       ],
       "/starting-with-obsidian": [
@@ -535,6 +545,11 @@
       "text": "notes/academia"
     },
     {
+      "source": "/notes/constructing-a-mathematics-wiki",
+      "target": "/notes/constructing-hierarchical-wiki",
+      "text": "construct a wiki"
+    },
+    {
       "source": "/notes/constructing-hierarchical-wiki",
       "target": "/notes/hierarchical-longterm-wiki",
       "text": "notes/hierarchical-longterm-wiki"
@@ -545,9 +560,9 @@
       "text": "Wiki"
     },
     {
-      "source": "/notes/folders-in-obsidian",
-      "target": "/obsidian//show-pluginidfolder-note-plugin",
-      "text": "Open in Obsidian"
+      "source": "/notes/constructing-hierarchical-wiki",
+      "target": "/notes/constructing-a-mathematics-wiki",
+      "text": "Constructing a Mathematics Wiki"
     },
     {
       "source": "/notes/my-books",

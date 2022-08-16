@@ -4,52 +4,54 @@ title: 'Constructing a hierarchical wiki'
 desc: 'Building an ecosystem of knowledge with the philosophy, on top of Dendron'
 created: 2021-11-06T01:44:39
 modified: 2021-12-18T01:50:22
-tags: []
+tags: [Workstation, Wiki]
 alias: []
 toc: true
 ---
 
 - previous:: [[notes/hierarchical-longterm-wiki]]
 
-> Building an ecosystem of knowledge with the philosophy from [[notes/hierarchical-longterm-wiki|Wiki]], on top of Dendron
+> Building an ecosystem of knowledge with the philosophy from [[notes/hierarchical-longterm-wiki|Wiki]]
 
-Note: Everything mentioned is only a presently chosen custom, and is possible to change in the future, as the wiki develops.
+Note: Everything mentioned is only a presently chosen custom, and is possible to change in the future (and has been changed times again), as the wiki develops.
 
 ## The Subjects
 
-As it was clarified[^1], its best to create the wiki in its primary stage with a cascading style definition of subjects.
-
-[^1]: [[notes/hierarchical-longterm-wiki#a mix of the above two is nice]]
+[[notes/hierarchical-longterm-wiki#a mix of the above two is nice|As it was clarified]], its best to create the wiki in its primary stage with a cascading style definition of subjects.
 
 Let each subject reside in their own folder with a shortened name.
-```yml
-    -
-        path: cs/
-        name: Computer
-    -
-        path: chm/
-        name: Chemistry
-    -
-        path: ea/
-        name: Earth
-    -
-        path: ast/
-        name: Astronomy
-    -
-        path: mat/
-        name: Mathematics
-    -
-        path: phy/
-        name: Physics
-    -
-        path: bio/
-        name: Biology
+```js
+- 00 Wiki
+	- cs/          \\ Computer
+	- chm/         \\ Chemistry
+	- ea/          \\ Earth
+	- ast/         \\ Astronomy
+	- mat/         \\ Mathematics
+	- phy/         \\ Physics
+	- bio/         \\ Biology
 ```
 
 With Dendron each such subject is given a "root" note.
 
 ![|300](https://i.imgur.com/DuDzWeN.png)
 
+```js
+- 00 Wiki
+	- cs/
+		- cs-root.md
+	- chm/
+		- chm-root.md
+	- ea/
+		- ea-root.md
+	- ast/
+		- ast-root.md
+	- mat/
+		- mat-root.md
+	- phy/
+		- phy-root.md
+	- bio/
+		- bio-root.md
+```
 
 ### Physics
 
@@ -182,17 +184,10 @@ chm/root
 ```
 ### Mathematics
 
-It is difficult, in my opinion to have a strong divisions in Mathematics topics. But we may use the classification developed in [zbMATH Open](https://www.zbmath.org/classification/) with the following first level in hierarchy grouping the numbered classes:
-- `f` Foundations: `03` Logic, Proofs, Sets
-- `a` Abstraction: `05-22` Combinatorics, Algebra, Abstract algebra, Number theory, etc.
-- `y` Analysis: `26-49` Analysis in $\mathbb{R}, \mathbb{R}^n, \mathbb{C}$
-- `g` Geometry: `51-53`
-- `t` Topology: `54-58`
-- `p` Applications: `60-97`
+I have constructed a second iteration of the Mathematics wiki structure over at [[notes/constructing-a-mathematics-wiki|Constructing a Mathematics Wiki]].
 
-This can easily lead to problems, and thus must be handled and refactored in due course.
-
-### Biology
+<!---
+ Biology
 > yet to be developed further
 
 ```yml
@@ -205,6 +200,7 @@ bio/root
 		- king.pl 
 		- king.an
 ```
+--->
 
 ### Astronomy
 
