@@ -1,0 +1,214 @@
+<!doctype html><html lang=en><head><script async src="https://www.googletagmanager.com/gtag/js?id=G-SD58QPFGKF"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date),gtag('config','G-SD58QPFGKF')</script><meta charset=utf-8><meta name=description content="To [[notes/constructing-hierarchical-wiki|construct a wiki]] for for Mathematics initially I had chosen this structure:
+ [!bug] First iteration of wiki structure"><title>Constructing a Mathematics Wiki</title><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" type=image/jpg href=https://riddyrayes.github.io//R2new-biggr.jpg><link href=https://riddyrayes.github.io/styles.155d89184be3dcb72ec4dccedc3a779d.min.css rel=stylesheet><link href=https://pvinis.github.io/iosevka-webfont/7.0.2/iosevka.css rel=stylesheet><link href=https://riddyrayes.github.io/styles/_dark_syntax.bec558461529f0dd343a0b008c343934.min.css rel=stylesheet id=theme-link><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css integrity=sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs crossorigin=anonymous><script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js integrity=sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx crossorigin=anonymous></script><script defer src=https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js integrity=sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR crossorigin=anonymous></script><script src=https://unpkg.com/@floating-ui/core@0.7.3></script><script src=https://unpkg.com/@floating-ui/dom@0.5.4></script><script src=https://riddyrayes.github.io/js/popover.37b1455b8f0603154072b9467132c659.min.js></script><script src=https://riddyrayes.github.io/js/code-title.b35124ad8db0ba37162b886afb711cbc.min.js></script><script src=https://riddyrayes.github.io/js/clipboard.c20857734e53a3fb733b7443879efa61.min.js></script><script src=https://riddyrayes.github.io/js/callouts.7723cac461d613d118ee8bb8216b9838.min.js></script><script>const BASE_URL="https://riddyrayes.github.io/",fetchData=Promise.all([fetch("https://riddyrayes.github.io/indices/linkIndex.294ae1e465b0cc3b18158a7ec154d016.min.json").then(a=>a.json()).then(a=>({index:a.index,links:a.links})),fetch("https://riddyrayes.github.io/indices/contentIndex.7b533e323f38ff7d7122e8646d4c3bfa.min.json").then(a=>a.json())]).then(([{index:a,links:b},c])=>({index:a,links:b,content:c})),render=()=>{const c=new URL(BASE_URL),d=c.pathname,e=window.location.pathname,f=d==e;addCopyButtons(),addTitleToCodeBlocks(),addCollapsibleCallouts();const a=document.getElementById("graph-container");if(!a)return requestAnimationFrame(render);a.textContent="";const b=f&&!0;drawGraph("https://riddyrayes.github.io",b,[{"/moc":"#4388cc"},{"/log":"#007089"}],b?{centerForce:1,depth:-1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.5,linkDistance:1,opacityScale:3,repelForce:1,scale:1.4}:{centerForce:1,depth:1,enableDrag:!0,enableLegend:!1,enableZoom:!0,fontSize:.6,linkDistance:1,opacityScale:3,repelForce:2,scale:1.2}),initPopover("https://riddyrayes.github.io",!0,!0)},init=(a=document)=>{addCopyButtons(),addTitleToCodeBlocks(),renderMathInElement(a.body,{delimiters:[{left:'$$',right:'$$',display:!0},{left:'$',right:'$',display:!1}],throwOnError:!1})}</script><script type=module>
+    import { attachSPARouting } from "https:\/\/riddyrayes.github.io\/js\/router.9d4974281069e9ebb189f642ae1e3ca2.min.js"
+    attachSPARouting(init, render)
+  </script></head><script async src="https://www.googletagmanager.com/gtag/js?id=G-SD58QPFGKF"></script><script>var doNotTrack=!1;if(!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date),gtag('config','G-SD58QPFGKF',{anonymize_ip:!1})}</script><body><div id=search-container><div id=search-space><input autocomplete=off id=search-bar name=search type=text aria-label=Search placeholder="Search for something..."><div id=results-container></div></div></div><script defer src=https://riddyrayes.github.io/js/semantic-search.ede0b6777823f37eab418bf63ce1c655.min.js></script><div class=singlePage><header><h1 id=page-title><a href=https://riddyrayes.github.io/>ℝ²</a></h1><div class=spacer></div><div id=search-icon><p>Search</p><svg tabindex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Search Icon</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg></div></header><article><h1>Constructing a Mathematics Wiki</h1><p class=meta>Last updated
+16 Aug, 2022</p><ul class=tags><li><a href=https://riddyrayes.github.io/tags/workstation/>Workstation</a></li><li><a href=https://riddyrayes.github.io/tags/wiki/>Wiki</a></li></ul><p>To <a href=/notes/constructing-hierarchical-wiki rel=noopener class=internal-link data-src=/notes/constructing-hierarchical-wiki>construct a wiki</a> for for Mathematics initially I had chosen this structure:</p><blockquote class=bug-callout><p>First iteration of wiki structure</p><p>It is difficult, in my opinion to have a strong divisions in Mathematics topics. But we may use the classification developed in
+<a href=https://www.zbmath.org/classification/ rel=noopener>zbMATH Open</a> with the following first level in hierarchy grouping the numbered classes:</p><ul><li><code>f</code> Foundations: <code>03</code><ul><li>Logic, Proofs, Sets</li></ul></li><li><code>a</code> Abstraction: <code>05-22</code><ul><li>Combinatorics, Algebra, Abstract algebra, Number theory, etc.</li></ul></li><li><code>y</code> Analysis: <code>26-49</code><ul><li>Analysis in $\mathbb{R}, \mathbb{R}^n, \mathbb{C}$</li></ul></li><li><code>g</code> Geometry: <code>51-53</code></li><li><code>t</code> Topology: <code>54-58</code></li><li><code>p</code> Applications: <code>60-97</code></li></ul><p>This can easily lead to problems, and thus must be handled and refactored in due course.</p></blockquote><p>which finally resulted in:</p><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span><span class=lnt>26
+</span><span class=lnt>27
+</span><span class=lnt>28
+</span><span class=lnt>29
+</span><span class=lnt>30
+</span><span class=lnt>31
+</span><span class=lnt>32
+</span><span class=lnt>33
+</span><span class=lnt>34
+</span><span class=lnt>35
+</span><span class=lnt>36
+</span><span class=lnt>37
+</span><span class=lnt>38
+</span><span class=lnt>39
+</span></code></pre></td><td class=lntd><pre class=chroma><code class=language-js data-lang=js><span class=nx>f</span><span class=p>.</span> <span class=s2>&#34;Formalism&#34;</span>
+	<span class=o>-</span> <span class=nx>logic</span>
+	<span class=o>-</span> <span class=nx>proofs</span>
+	<span class=o>-</span> <span class=nx>sets</span>
+<span class=nx>a</span><span class=p>.</span> <span class=s2>&#34;Algebra and Abstraction&#34;</span>
+	<span class=o>-</span> <span class=nx>N</span>
+	<span class=o>-</span> <span class=nx>Z</span>
+	<span class=o>-</span> <span class=nx>Q</span>
+	<span class=o>-</span> <span class=nx>R</span>
+		<span class=o>-</span> <span class=nx>exixtence</span> <span class=nx>and</span> <span class=nx>construction</span>
+		<span class=o>-</span> <span class=nx>algebra</span>
+		<span class=o>-</span> <span class=nx>plolynomials</span>
+	<span class=o>-</span> <span class=nx>a</span><span class=p>.</span><span class=nx>matrices</span>
+	<span class=o>-</span> <span class=nx>a</span><span class=p>.</span><span class=nx>polynomials</span>
+	<span class=o>-</span> <span class=nx>a</span><span class=p>.</span><span class=nx>combinatorics</span>
+	<span class=o>-</span> <span class=nx>a</span><span class=p>.</span><span class=nx>groups</span>
+	<span class=o>-</span> <span class=nx>a</span><span class=p>.</span><span class=nx>vector</span> <span class=nx>spaces</span>
+	<span class=o>-</span> <span class=nx>a</span><span class=p>.</span><span class=nx>number</span> <span class=nx>theory</span>
+<span class=nx>y</span><span class=p>.</span> <span class=s2>&#34;Analysis&#34;</span>
+	<span class=o>-</span> <span class=nx>analysis</span> <span class=nx>on</span> <span class=nx>spaces</span>
+		<span class=o>-</span> <span class=nx>R</span>
+			<span class=o>-</span> <span class=nx>construction</span>
+			<span class=o>-</span> <span class=nx>real</span> <span class=nx>functions</span>
+			<span class=o>-</span> <span class=nx>real</span> <span class=nx>functions</span><span class=p>.</span><span class=nx>single</span>
+			<span class=o>-</span> <span class=nx>real</span> <span class=nx>functions</span><span class=p>.</span><span class=nx>multi</span>
+			<span class=o>-</span> <span class=nx>limits</span>
+		<span class=o>-</span> <span class=nx>analysis</span> <span class=nx>on</span> <span class=nx>metric</span> <span class=nx>spaces</span>
+			<span class=o>-</span> <span class=nx>functions</span> <span class=nx>between</span> <span class=nx>metric</span> <span class=nx>spaces</span>
+				<span class=o>-</span> <span class=nx>limits</span> <span class=k>of</span> <span class=nx>functions</span> <span class=nx>between</span> <span class=nx>metric</span> <span class=nx>spaces</span>
+				<span class=o>-</span> <span class=nx>continuous</span> <span class=nx>functions</span> <span class=nx>between</span> <span class=nx>metric</span> <span class=nx>spaces</span>
+		<span class=o>-</span> <span class=nx>analysis</span> <span class=nx>on</span> <span class=nx>vector</span> <span class=nx>spaces</span>
+	<span class=o>-</span> <span class=nx>analysis</span> <span class=nx>on</span> <span class=nx>systems</span>
+		<span class=o>-</span> <span class=nx>dynamical</span> <span class=nx>systems</span>
+		<span class=o>-</span> <span class=nx>PDEs</span>
+<span class=nx>g</span><span class=p>.</span> <span class=s2>&#34;Geometry&#34;</span>
+<span class=nx>t</span><span class=p>.</span> <span class=s2>&#34;Topology&#34;</span>
+	<span class=o>-</span> <span class=nx>metric</span> <span class=nx>spaces</span>
+<span class=nx>p</span><span class=p>.</span> <span class=s2>&#34;Applied&#34;</span>
+	<span class=o>-</span> <span class=nx>statistics</span>
+</code></pre></td></tr></table></div></div><p>And it eventually lead to problems, as visible from the multiple presence of a note on <code>R</code> (the reals) under Algebra <em>and</em> analysis.</p><p>It was also difficult to write on <code>metric spaces</code>, the definition had to kept under <code>topology</code> but the definition of limit of functions etc. had to kept under <code>analysis</code>.</p><p>But this gave me and idea to look it with a different light. The present system is as follows:</p><blockquote class=done-callout><p>Second iteration of vault structure</p><p>We have a four level hierarchy:</p><ul><li><strong>Mathematical Foundations</strong><ul><li>Logic, proofs</li></ul></li><li><strong>Mathematical Structures</strong><ul><li>Essentially <code>sets</code> all “structure” defined on <code>sets</code></li><li>All abstract stuff, no precise constructions, all from vector spaces to manifolds are here.</li></ul></li><li><strong>Mathematical Spaces</strong><ul><li>All precise constructions.</li><li>Starting from all “number sets”: $\mathbb{N, Z, Q, R, C}$</li><li>Their algebra, topology, analysis on them - all studied under them - as it should be.</li><li>All the other sets like $\mathbb{R}^n$ and matrices also fall here.</li></ul></li><li><strong>Mathematical Systems</strong><ul><li>Essentially everything else.</li><li>Analytical systems: from dynamical system to PDEs</li><li>Algebraic systems: from polynomials to system of equations</li></ul></li></ul></blockquote><div class=highlight><div class=chroma><table class=lntable><tr><td class=lntd><pre class=chroma><code><span class=lnt> 1
+</span><span class=lnt> 2
+</span><span class=lnt> 3
+</span><span class=lnt> 4
+</span><span class=lnt> 5
+</span><span class=lnt> 6
+</span><span class=lnt> 7
+</span><span class=lnt> 8
+</span><span class=lnt> 9
+</span><span class=lnt>10
+</span><span class=lnt>11
+</span><span class=lnt>12
+</span><span class=lnt>13
+</span><span class=lnt>14
+</span><span class=lnt>15
+</span><span class=lnt>16
+</span><span class=lnt>17
+</span><span class=lnt>18
+</span><span class=lnt>19
+</span><span class=lnt>20
+</span><span class=lnt>21
+</span><span class=lnt>22
+</span><span class=lnt>23
+</span><span class=lnt>24
+</span><span class=lnt>25
+</span><span class=lnt>26
+</span><span class=lnt>27
+</span><span class=lnt>28
+</span><span class=lnt>29
+</span><span class=lnt>30
+</span><span class=lnt>31
+</span><span class=lnt>32
+</span><span class=lnt>33
+</span><span class=lnt>34
+</span><span class=lnt>35
+</span><span class=lnt>36
+</span><span class=lnt>37
+</span><span class=lnt>38
+</span><span class=lnt>39
+</span><span class=lnt>40
+</span><span class=lnt>41
+</span><span class=lnt>42
+</span><span class=lnt>43
+</span><span class=lnt>44
+</span><span class=lnt>45
+</span><span class=lnt>46
+</span><span class=lnt>47
+</span><span class=lnt>48
+</span><span class=lnt>49
+</span><span class=lnt>50
+</span><span class=lnt>51
+</span><span class=lnt>52
+</span><span class=lnt>53
+</span><span class=lnt>54
+</span><span class=lnt>55
+</span><span class=lnt>56
+</span><span class=lnt>57
+</span><span class=lnt>58
+</span><span class=lnt>59
+</span><span class=lnt>60
+</span><span class=lnt>61
+</span><span class=lnt>62
+</span><span class=lnt>63
+</span><span class=lnt>64
+</span></code></pre></td><td class=lntd><pre class=chroma><code class=language-js data-lang=js><span class=c1>//second iteration of wiki structure
+</span><span class=c1></span>
+<span class=o>-</span> <span class=nx>foundations</span>
+	<span class=o>-</span> <span class=nx>logic</span>
+<span class=o>-</span> <span class=nx>structures</span>
+	<span class=o>-</span> <span class=nx>sets</span>
+	<span class=o>-</span> <span class=nx>groups</span>
+	<span class=o>-</span> <span class=nx>rings</span>
+	<span class=o>-</span> <span class=nx>fields</span>
+	<span class=o>-</span> <span class=nx>vector</span> <span class=nx>spaces</span>
+	<span class=o>-</span> <span class=nx>vector</span> <span class=nx>spaces</span> <span class=nx>inner</span> <span class=nx>product</span>
+	<span class=o>-</span> <span class=nx>vector</span> <span class=nx>spaces</span> <span class=nx>normed</span>
+		<span class=o>-</span> <span class=nx>analysis</span>
+	<span class=o>-</span> <span class=nx>algebras</span>
+		<span class=o>-</span> <span class=nx>Grassmann</span><span class=o>/</span><span class=nx>Exterior</span> <span class=nx>algebra</span>
+		<span class=o>-</span> <span class=nx>Clifford</span><span class=o>/</span><span class=nx>Geometric</span> <span class=nx>algebra</span>
+		<span class=o>-</span> <span class=nx>Tensor</span> <span class=nx>algebra</span>
+	<span class=o>-</span> <span class=nx>metric</span> <span class=nx>spaces</span>
+		<span class=o>|-</span> <span class=nx>topology</span><span class=p>,</span> <span class=nx>analysis</span><span class=p>,</span> <span class=nx>etc</span><span class=p>.</span>
+	<span class=o>-</span> <span class=nx>topological</span> <span class=nx>spaces</span>
+	<span class=o>-</span> <span class=nx>topological</span> <span class=nx>vector</span> <span class=nx>spaces</span>
+	<span class=o>-</span> <span class=nx>Hilbert</span> <span class=nx>spaces</span>
+	<span class=o>-</span> <span class=nx>Fréchet</span> <span class=nx>spaces</span>
+	<span class=o>-</span> <span class=nx>Banach</span> <span class=nx>Spaces</span>
+	<span class=o>-</span> <span class=nx>topological</span> <span class=nx>manifolds</span>
+		<span class=o>-</span> <span class=nx>smooth</span>
+			<span class=o>-</span> <span class=nx>Riemannian</span>
+			<span class=o>-</span> <span class=nx>Pseudo</span><span class=o>-</span><span class=nx>Riemannian</span>
+			<span class=o>-</span> <span class=nx>Symplectic</span>
+			<span class=o>-</span> <span class=p>...</span>
+	<span class=o>-</span> <span class=nx>category</span>
+<span class=o>-</span> <span class=nx>spaces</span>
+	<span class=o>-</span> <span class=nx>N</span>
+	<span class=o>-</span> <span class=nx>Z</span>
+	<span class=o>-</span> <span class=nx>Q</span>
+	<span class=o>-</span> <span class=nx>R</span>
+		<span class=o>|-</span> <span class=nx>algebra</span>
+		<span class=o>|-</span> <span class=nx>analysis</span>
+		<span class=o>|-</span> <span class=nx>topology</span>
+		<span class=o>|-</span> <span class=nx>geometry</span>
+	<span class=o>-</span> <span class=nx>R</span><span class=o>^</span><span class=mi>3</span>
+	<span class=o>-</span> <span class=nx>R</span><span class=o>^</span><span class=nx>n</span>
+		<span class=o>|-</span> <span class=nx>algebra</span>
+		<span class=o>|-</span> <span class=nx>analysis</span>
+		<span class=o>|-</span> <span class=nx>topology</span>
+		<span class=o>|-</span> <span class=nx>geometry</span>
+	<span class=o>-</span> <span class=nx>M_nxm</span><span class=p>(</span><span class=nx>F</span><span class=p>)</span> <span class=c1>//matrices from field F
+</span><span class=c1></span>	<span class=o>-</span> <span class=nx>C</span>
+	<span class=o>-</span> <span class=nx>G</span><span class=o>^</span><span class=nx>n</span>
+	<span class=o>-</span> <span class=nx>l</span><span class=o>^</span><span class=nx>p</span>
+	<span class=o>-</span> <span class=nx>L</span><span class=o>^</span><span class=nx>p</span>
+	<span class=o>-</span> <span class=nx>C</span><span class=o>^</span><span class=nx>p</span><span class=p>(</span><span class=nx>U</span><span class=p>)</span>
+	<span class=o>-</span> <span class=nx>C</span><span class=o>^</span><span class=nx>n</span>
+<span class=o>-</span> <span class=nx>systems</span>
+	<span class=o>-</span> <span class=nx>polynomials</span>
+	<span class=o>-</span> <span class=nx>comninatorics</span>
+	<span class=o>-</span> <span class=nx>system</span> <span class=k>of</span> <span class=nx>equations</span>
+	<span class=o>-</span> <span class=nx>sequences</span><span class=p>,</span> <span class=nx>series</span>
+	<span class=o>-</span> <span class=nx>dynamical</span> <span class=nx>systems</span>
+	<span class=o>-</span> <span class=nx>functional</span> <span class=nx>equations</span>
+	<span class=o>-</span> <span class=nx>PDEs</span>
+	<span class=o>-</span> <span class=nx>geometry</span>
+	<span class=o>-</span> <span class=nx>number</span> <span class=nx>theory</span>
+	<span class=o>-</span> <span class=nx>statistics</span>
+</code></pre></td></tr></table></div></div><p>This shows the page for Mathematical Structures:
+<img src=https://i.imgur.com/AInJrZU.png width=auto alt></p></article><hr><div class=page-end><div class=backlinks-container><h3>Backlinks</h3><ul class=backlinks><li><a href=/notes/constructing-hierarchical-wiki/ data-ctx="Constructing a Mathematics Wiki" data-src=/notes/constructing-hierarchical-wiki class=internal-link>Constructing a hierarchical wiki</a></li></ul></div><div><script src=https://cdn.jsdelivr.net/npm/d3@6.7.0/dist/d3.min.js integrity="sha256-+7jaYCp29O1JusNWHaYtgUn6EhuP0VaFuswhNV06MyI=" crossorigin=anonymous></script><h3>Interactive Graph</h3><div id=graph-container></div><style>:root{--g-node:var(--secondary);--g-node-active:var(--primary);--g-node-inactive:var(--visited);--g-link:var(--outlinegray);--g-link-active:#5a7282}</style><script src=https://riddyrayes.github.io/js/graph.abd4bc2af3869a96524d7d23b76152c7.js></script></div></div><div id=contact_buttons><footer><p>Made by Rupadarshi Ray using <a href=https://github.com/jackyzha0/quartz>Quartz</a>, © 2022</p><ul><li><a href=https://riddyrayes.github.io/>Home</a></li><li><a href=https://twitter.com/riddyrayes>Twitter</a></li><li><a href=https://github.com/riddyrayes>Github</a></li></ul></footer></div></div></body></html>
