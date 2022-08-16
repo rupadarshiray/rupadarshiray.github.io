@@ -7,6 +7,10 @@ aliases:
     - 
 ---
 
+- parent:: [[notes/academia]]
+
+In a wit contest in Discord, I had to give 20 prerequisites for Quantum Mechanics, so here they are from the top of my head:
+
 1. Fluid mechanics
 2. Group theory
 3. Heat transfer, thermodynamics, and fluid mechanics
