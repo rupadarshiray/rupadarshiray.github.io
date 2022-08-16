@@ -11,7 +11,7 @@ aliases:
 2. Group theory
 3. Heat transfer, thermodynamics, and fluid mechanics
 4. Linear algebra 101 
-5. Newtonian mechanics (you do NOT know it sucker, talk to me if you wanna challenge)
+5. Newtonian mechanics (you do NOT know it)
 6. Special relativistic mechanics
 7. Electrodynamics
 8. Action in the relativistic mechanics, Action principle in classical mechanics (okay only basics) 
