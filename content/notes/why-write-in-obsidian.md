@@ -12,7 +12,8 @@ There are drawbacks to writing in Obsidian for taking notes for Mathematics and 
 	- This is certainly not for everyone.
 	- One can even compile topic-wise notes and embed them onto Obsidian notes: 
 		- ![|550](https://i.imgur.com/Lonjhi3.png)
-		- [^1]
+	- The epitome of this would be [How I'm able to take notes in mathematics lectures using LaTeX and Vim | Gilles Castel](https://castel.dev/post/lecture-notes-1/).
+	- [^1]
 - # **handwriting them digitally** *completely* and keeping them as PDFs
 	- This requires a stylus/pen equipped device.
 	- Again, we can embed the PDFs: 

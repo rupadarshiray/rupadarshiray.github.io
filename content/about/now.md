@@ -6,6 +6,7 @@ alias: []
 permalink: '/now'
 title: "now"
 ---
+
 > This is a [/now page](https://nownownow.com/about) for Ray
 
 - Completed Semester 2 of BSMS at IISER Mohali on 6th August 2022.

@@ -14,13 +14,13 @@ enableGitHubEdit: false
 enableSemanticSearch: true
 operandApiKey: ""
 description:
-  Academic Curation and Journaling by Ray
+  Academic curation and journaling
 page_title:
   ℝ²
 links:
   - link_name: Twitter
-    link: https://twitter.com/riddyrayes
+    link: https://twitter.com/rupadarshiray
   - link_name: Github
-    link: https://github.com/riddyrayes
+    link: https://github.com/rupadarshiray
 favicon:
   - { rel: "shortcut icon", href: "R2new-biggr.jpg", type: "image/jpg" }

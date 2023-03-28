@@ -205,7 +205,7 @@ There are numerous CSS snippets from the community used for various purposes.
 > _Vault Management Techniques, Other Editors, Folders, Tags_
 
 ## Vault Structure
-- [[notes/folders-in-obsidian|Folders]]
+- [[folders-in-obsidian|Folders]]
 - Tags
 - Hierarchies
 
@@ -231,7 +231,7 @@ There are numerous CSS snippets from the community used for various purposes.
 # The Buildup
 > technical aspects of note taking and managing_
 - Search
-- [[notes/obsidian-metadata-and-query|Metadata and Query]]
+- [[obsidian-metadata-and-query|Metadata and Query]]
 - Diagrams
 - Equations
 	- also check the full on LaTeX implementation
@@ -290,7 +290,7 @@ There are numerous CSS snippets from the community used for various purposes.
 
 # Back to Dormant
 > _further development in ecosystem and workflow_
-- [[notes/academic-workstation#Tinkering with superplugins|Tinkering with superplugins]]
+- [[academic-workstation#Tinkering with superplugins|Tinkering with superplugins]]
 - Dendron
 - *full-on* **LaTex**
 	- For more rigorous use of mathematical notation and equations, chemical structures and equations, diagrams, we must use the industry standard - LaTex. Various Tex utility software like TexStudio, services, or even Vim can be used to create LaTex documents but for the purpose of keeping a familiar aspect to a unfamiliar wold, we shall use VScode to write LaTex documents and integrate with Obsidian.

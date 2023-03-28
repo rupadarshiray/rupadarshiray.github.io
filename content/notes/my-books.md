@@ -10,8 +10,9 @@ title: "My Books"
 
 Books I own:
 
-| Title                                         | Author        |
-| --------------------------------------------- | ------------- |
-| Feynman Lectures on Physics Vol I, II and III | R P Feynman              |
-| Classical Theory of Fields                    | Leonard Susskind              |
-| Statistical Physics of Particles              | Mehran Kardar |
+| Title                                         | Author           |
+| --------------------------------------------- | ---------------- |
+| Feynman Lectures on Physics Vol I, II and III | R P Feynman      |
+| Classical Theory of Fields                    | Leonard Susskind |
+| Statistical Physics of Particles              | Mehran Kardar    |
+| Mathematical Analysis                         | Apostol                 |

@@ -56,7 +56,7 @@ This is encountered while learning topics linearly.
 
 This duplicity is at the core of the nature of the concepts at play here. There may be two tracts (organic reactions and organic compounds) which follow each other and link parts of themselves. One path takes a compound, through a reaction, to another compound. And there are hundreds of reactions that goes back and forth from thousands of reactions.
 
-### Choosing the _most balanced_
+### choosing the _most balanced_
 In this manner the right balance between hierarchy, parents, networks, relationships which keep the conceptual nature intact must be obtained. The conventional education and research literature might impose some different approach, which is simpler to teach to beginners, linearly - but that does not mean it follows the objective conceptual approach. It may be historical approach, or just some cherry-picked topics chosen for a final goal.
 
 The fight is also between reductionism and holism. Reducing a topic to its bare fundamentals is a good approach but by analysing very broad scale developments and similarities of separated fundamentals broadens understanding of the topics.
@@ -94,6 +94,7 @@ I prefer the simple `parent.child.grandchild.great-gandchild` style of "."-separ
 - Building the hierarchies for various disciplines and fields of study: [Hierarchical bases](academic-curation.workstation.wiki.hierarchical-bases)
 
 # Testing of power
+
 **TO BE YET TESTED BY ME ;)**
 
 - *test if this wiki can help to generate new ideas (whatever that means?!)*
