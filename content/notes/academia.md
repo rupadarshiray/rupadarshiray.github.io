@@ -10,4 +10,6 @@ title: 'Academia'
 	- [[notes/hierarchical-longterm-wiki]], [[notes/constructing-hierarchical-wiki]]
 - [[notes/my-books]]
 - [[notes/my-notes]]
+- me explaining stuff
+	- [[notes/derivatives-differential-forms-and-beyond-youtube]]
 - [[notes/inculcation]]

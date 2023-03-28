@@ -7,7 +7,8 @@ permalink: '/now'
 title: "now"
 ---
 
-> This is a [/now page](https://nownownow.com/about) for Ray
+> This is a [/now page](https://nownownow.com/about) for me!
 
-- Completed Semester 2 of BSMS at IISER Mohali on 6th August 2022.
-- Editing and writing for this website.
+- In my 4th semester of BSMS at IISER Mohali.
+- Applying for Mathematics summer internships.
+- Reading category theory, on smooth manifolds, gauge, gravity etc.

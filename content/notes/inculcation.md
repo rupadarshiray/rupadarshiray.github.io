@@ -9,40 +9,42 @@ aliases:
 
 # Driven by Infinite Enthusiasm
 > All opinion are strictly mine.
-- # What to study? Where to study from?
+
+# What to study? Where to study from?
   > (order is not strict, life is very *non-linear*)
-- ## start with the little things and the big things
-	- ### little things: Groups (group theory, group actions)
-		- One should start their journey with groups!
-		- [Group theory, abstraction, and the 196,883-dimensional monster - YouTube](https://www.youtube.com/watch?v=mH0oCDa74tE)
-		- [Essence of Group Theory - YouTube](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
-		- Chapter 1 and 3 from [[notes/Evan Chen Napkin]]
-	- ### big things: Vector spaces (Linear algebra)
-		- [[driven_by_infinite_enthusiasm/linear_algebra]]
-		- {{embed ((641d9110-6ff4-4aef-b72d-957c9fc5a5f5))}}
-	- [A Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf)
-	  id:: 63971467-7987-4f85-989d-47792d81d4a2
-		- an introduction to a lots of fields of math! (NOT a textbook but a really nice book)
-		- starts with groups and metric spaces!
-	- ### Analysis in $\R$
-		- {{embed ((641d830b-938a-487c-a39a-88d9d5016479))}}
-	- ### Anaysis and linear algebra in $\mathbb{R}^n$
-		- from [[notes/Evan Chen Napkin]]
-			- Chapters 26-30 - Calculus 101
-			- Chapters 42-45 - Total derivatives and differential forms
-			- Chapters 2, 6-8 - Topology
-		- [[Shifrin_Multivariable_Mathematics]] - a 2 semester course that covers linear algebra and (proper) multivariable calc
-	- ### Classical mechanics, a bit of statistical and chaos
-		- sadly no "really good" references can be used now/Morin, Goldstein etc all okayish
-			- try doing (Newtonian mechanics)
-				- rigid bodies
-				- central forces
-				- n-body problem with different force laws
-					- #question Which force law produces simple solutions for the n-body problem? ~~Hint: Newton answers this in principia~~
-		- (short #lectures ) [Mechanics using the Action by T Paddy](https://youtube.com/playlist?list=PLlFCvH2vR5kRzC1LQtHy_MUAquC-tQiiW)
-		- [[Balakrishnan_Classical_Physics]]
-		- #book LandauL volume I
-		- [Non-linear dynamics by Balki](https://www.youtube.com/watch?v=nh4TFzg30eQ&list=PLbMVogVj5nJQKk1E7OUQs_TcW_zQoaO4t)
+
+## start with the little things and the big things
+- ### little things: groups (group theory, group actions)
+	- One should start their journey with groups!
+	- [Group theory, abstraction, and the 196,883-dimensional monster - YouTube](https://www.youtube.com/watch?v=mH0oCDa74tE)
+	- [Essence of Group Theory - YouTube](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
+	- Chapter 1 and 3 from [[notes/evan-chen-napkin]]
+- ### big things: Vector spaces (linear algebra)
+	- [[inculction-linear-algebra]]
+- [[notes/evan-chen-napkin]]
+	- an introduction to a lots of fields of math! (NOT a textbook but a really nice book)
+	- starts with groups and metric spaces!
+- ### Analysis in $\R$
+	- {{embed ((641d830b-938a-487c-a39a-88d9d5016479))}}
+- ### Anaysis and linear algebra in $\mathbb{R}^n$
+	- from [[notes/evan-chen-napkin]]
+		- Chapters 26-30 - Calculus 101
+		- Chapters 42-45 - Total derivatives and differential forms
+		- Chapters 2, 6-8 - Topology
+	- [[notes/shifrin-multivariable-mathematics]] - a 2 semester course that covers linear algebra and (proper) multivariable calc
+- ### Classical mechanics, a bit of statistical and chaos
+	- sadly no "really good" references can be used now/Morin, Goldstein etc all okayish
+		- try doing (Newtonian mechanics)
+			- rigid bodies
+			- central forces
+			- n-body problem with different force laws
+				- #question Which force law produces simple solutions for the n-body problem? ~~Hint: Newton answers this in principia~~
+	- (short #lectures ) [Mechanics using the Action by T Paddy](https://youtube.com/playlist?list=PLlFCvH2vR5kRzC1LQtHy_MUAquC-tQiiW)
+	- [[Balakrishnan_Classical_Physics]]
+	- #book LandauL volume I
+	- [Non-linear dynamics by Balki](https://www.youtube.com/watch?v=nh4TFzg30eQ&list=PLbMVogVj5nJQKk1E7OUQs_TcW_zQoaO4t)
+
+
 - ## dive deeper into math ✨
 	- ### Algebra
 		- #lectures [Abstract Algebra by Benedict Gross - YouTube](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3)
@@ -58,7 +60,7 @@ aliases:
 	- [[driven_by_infinite_enthusiasm/classical_physics]]
 - ## (only if you wanna do quantum)
 	- Quantum Physics by Balki
-	- Quantum computation - chapters 23-25 from [[notes/Evan Chen Napkin]]
+	- Quantum computation - chapters 23-25 from [[notes/evan-chen-napkin]]
 - ## Rigorous constructions
   id:: 24df46a2-7dbd-4e68-9d3b-6fcb4d02c62f
   > Now that you see how deep things are, go back and focus on the details
