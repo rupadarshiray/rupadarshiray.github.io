@@ -7,6 +7,8 @@ aliases:
     - 
 ---
 
+# Iteration I
+
 To [[notes/constructing-hierarchical-wiki|construct a wiki]] for for Mathematics initially I had chosen this structure:
 
 > [!bug] First iteration of wiki structure
@@ -68,10 +70,12 @@ p. "Applied"
 	- statistics
 ```
 
+
+
 And it eventually lead to problems, as visible from the multiple presence of a note on `R` (the reals) under Algebra *and* analysis.
 
 It was also difficult to write on `metric spaces`, the definition had to kept under `topology` but the definition of limit of functions etc. had to kept under `analysis`.
-
+# Iteration II
 But this gave me and idea to look it with a different light. The present system is as follows:
 
 > [!done] Second iteration of vault structure

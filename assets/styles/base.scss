@@ -1,33 +1,29 @@
 // Replace this with your own font imports!
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
-
 :root {
-  --font-body: "Iosevka Web";
-  --font-header: "Iosevka Web";
+  --font-body: "Source Sans Pro";
+  --font-header: "Inter";
   --font-mono: "Fira Code"
-    --default-font: 'Iosevka Web';
 }
 
 // typography
 html {
   scroll-behavior: smooth;
-
   &:lang(ar) {
-
-    & p,
-    & h1,
-    & h2,
-    & h3,
-    article {
+    & p, & h1, & h2, & h3, article, header {
       direction: rtl;
       text-align: right;
     }
   }
+  & footer > p {
+    text-align: center !important;
+  }
 }
 
 .singlePage {
-  padding: 4em 20vw;
-
+  padding: 4em 30vw;
+  margin: 0 auto;
+  max-width: 1000px;
   @media all and (max-width: 1200px) {
     padding: 25px 5vw;
   }
@@ -43,20 +39,14 @@ body {
   background-color: var(--light);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-thead {
+h1, h2, h3, h4, h5, h6, thead {
   font-family: var(--font-header);
   color: var(--dark);
   font-weight: revert;
   margin: 2rem 0 0;
   padding: 2rem auto 1rem;
 
-  &:hover>.hanchor {
+  &:hover > .hanchor {
     color: var(--secondary);
   }
 }
@@ -68,15 +58,7 @@ thead {
   color: var(--dark);
 }
 
-p,
-ul,
-text,
-a,
-tr,
-td,
-li,
-ol,
-ul {
+p, ul, text, a, tr, td, li, ol, ul {
   font-family: var(--font-body);
   color: var(--gray);
   fill: var(--gray);
@@ -85,9 +67,7 @@ ul {
   padding: revert;
 }
 
-tbody,
-li,
-p {
+tbody, li, p {
   line-height: 1.5em;
 }
 
@@ -109,20 +89,16 @@ p {
   }
 }
 
-#TableOfContents>ol {
+#TableOfContents > ol {
   counter-reset: section;
-  margin-left: 0em;
+  margin-left: 0;
   padding-left: 1.5em;
-
-  &>li {
+  & > li {
     counter-increment: section;
-
-    &>ol {
+    & > ol {
       counter-reset: subsection;
-
-      &>li {
+      & > li {
         counter-increment: subsection;
-
         &::marker {
           content: counter(section) "." counter(subsection) "  ";
         }
@@ -130,12 +106,11 @@ p {
     }
   }
 
-  &>li::marker {
+  & > li::marker {
     content: counter(section) "  ";
   }
 
-  &>li::marker,
-  &>li>ol>li::marker {
+  & > li::marker, & > li > ol > li::marker {
     font-family: var(--font-body);
     font-weight: 700;
   }
@@ -148,8 +123,7 @@ table {
   border-collapse: collapse;
 }
 
-td,
-th {
+td, th {
   padding: 0.2em 1em;
   border: 1px solid var(--outlinegray);
 }
@@ -160,7 +134,7 @@ img {
   margin: 1em 0;
 }
 
-p>img+em {
+p > img + em {
   display: block;
   transform: translateY(-1em);
 }
@@ -170,7 +144,7 @@ sup {
 }
 
 blockquote {
-  margin-left: 0em;
+  margin-left: 0;
   border-left: 3px solid var(--secondary);
   padding-left: 1em;
   transition: border-color 0.2s ease;
@@ -192,7 +166,7 @@ blockquote {
     opacity: 0.2;
   }
 
-  &>li {
+  & > li {
     text-align: center;
     display: inline-block;
 
@@ -200,20 +174,19 @@ blockquote {
       background-color: transparent !important;
     }
 
-    & a[href$="#"],
-    &.active a {
+    & a[href$="#"], &.active a {
       opacity: 0.2;
     }
   }
 }
 
 article {
-  &>h1 {
+  & > h1 {
     margin-top: 2em;
     font-size: 2em;
   }
 
-  &>.meta {
+  & > .meta {
     margin: 0 0 1em 0;
     opacity: 0.7;
   }
@@ -246,26 +219,23 @@ article {
 
   & .meta {
     margin: 1.5em 0;
-
-    &>h1 {
+    & > h1 {
       margin: 0;
     }
-
-    &>p {
+    & > p {
       margin: 0;
     }
   }
 
-  &>li {
+  & > li {
     display: inline-block;
-    margin: 0.4em 0;
+    margin: 0.4em 0.2em;
   }
 
-  &>li>a {
+  & > li > a {
     border-radius: 8px;
     border: var(--outlinegray) 1px solid;
     padding: 0.2em 0.5em;
-
     &::before {
       content: "#";
       margin-right: 0.3em;
@@ -279,15 +249,14 @@ article {
   font-size: 0.9rem;
 }
 
-sup>a {
+sup > a {
   text-decoration: none;
   padding: 0 0.1em 0 0.2em;
 }
 
 #page-title {
   margin: 0;
-
-  &>a {
+  & > a {
     font-family: var(--font-header);
   }
 }
@@ -298,7 +267,6 @@ a {
   text-decoration: none;
   transition: all 0.2s ease;
   color: var(--secondary);
-
   &:hover {
     color: var(--tertiary) !important;
   }
@@ -320,32 +288,24 @@ code {
 }
 
 @keyframes fadeIn {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
+  0% {opacity:0;}
+  100% {opacity:1;}
 }
 
 footer {
   margin-top: 4em;
   text-align: center;
-
   & ul {
     padding-left: 0;
   }
 }
 
 hr {
-  width: 25%;
-  margin: 4em auto;
-  height: 2px;
-  border-radius: 1px;
-  border-width: 0;
-  color: var(--dark);
-  background-color: var(--dark);
+  width: 100%;
+  margin: 2em auto;
+  height: 1px;
+  border: none;
+  background-color: var(--outlinegray);
 }
 
 .page-end {
@@ -357,17 +317,17 @@ hr {
     flex-direction: column;
   }
 
-  &>* {
+  & > * {
     flex: 1 0 0;
   }
 
-  &>.backlinks-container {
-    &>ul {
+  & > .backlinks-container {
+    & > ul {
       list-style: none;
       padding: 0;
       margin: 0;
 
-      &>li {
+      & > li {
         margin: 0.5em 0;
         padding: 0.25em 1em;
         border: var(--outlinegray) 1px solid;
@@ -383,7 +343,7 @@ hr {
     min-height: 250px;
     margin: 0.5em 0;
 
-    &>svg {
+    & > svg {
       margin-bottom: -5px;
 
     }
@@ -404,11 +364,11 @@ header {
   align-items: center;
   margin: 1em 0 2em;
 
-  &>h1 {
+  & > h1 {
     font-size: 2em;
   }
 
-  &>nav {
+  & > nav {
     @media all and (max-width: 600px) {
       display: none;
     }
@@ -421,8 +381,7 @@ header {
     display: flex;
     align-items: center;
     cursor: pointer;
-
-    &>p {
+    & > p {
       display: inline;
       padding: 0 1.5em 0 2em;
     }
@@ -458,7 +417,7 @@ header {
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
 
-  &>div {
+  & > div {
     width: 50%;
     margin-top: 15vh;
     margin-left: auto;
@@ -468,7 +427,7 @@ header {
       width: 90%;
     }
 
-    &>* {
+    & > * {
       width: 100%;
       border-radius: 4px;
       background: var(--light);
@@ -476,7 +435,7 @@ header {
       margin-bottom: 2em;
     }
 
-    &>input {
+    & > input {
       box-sizing: border-box;
       padding: 0.5em 1em;
       font-family: var(--font-body);
@@ -489,7 +448,7 @@ header {
       }
     }
 
-    &>#results-container {
+    & > #results-container {
       & .result-card {
         padding: 1em;
         cursor: pointer;
@@ -509,8 +468,7 @@ header {
         background: var(--light);
         outline: none;
 
-        &:hover,
-        &:focus {
+        &:hover, &:focus {
           background: rgba(180, 180, 180, 0.15);
         }
 
@@ -525,8 +483,7 @@ header {
           border-bottom: 1px solid var(--outlinegray);
         }
 
-        &>h3,
-        &>p {
+        & > h3, & > p {
           margin: 0;
         }
       }
@@ -550,7 +507,7 @@ header {
 .section-li {
   margin-bottom: 1em;
 
-  &>.section {
+  & > .section {
     display: flex;
     align-items: center;
 
@@ -560,7 +517,7 @@ header {
       }
     }
 
-    & h3>a {
+    & h3 > a {
       font-weight: 700;
       margin: 0;
     }
@@ -575,7 +532,7 @@ header {
   & h3 {
     opacity: 1;
     font-weight: 700;
-    margin: 0em;
+    margin: 0;
   }
 
   & .meta {
@@ -589,12 +546,10 @@ header {
     opacity: 0;
     visibility: hidden;
   }
-
   1% {
     display: inline-block;
     opacity: 0;
   }
-
   100% {
     opacity: 1;
     visibility: visible;
@@ -615,7 +570,7 @@ header {
   transition: opacity 0.2s ease, transform 0.2s ease;
   user-select: none;
   overflow-wrap: anywhere;
-  box-shadow: 6px 6px 36px 0px rgba(0, 0, 0, 0.25);
+  box-shadow: 6px 6px 36px 0 rgba(0,0,0,0.25);
 
   @media all and (max-width: 600px) {
     display: none !important;
@@ -628,22 +583,25 @@ header {
     animation: dropin 0.2s ease;
   }
 
-  &>h3 {
+  & > h3 {
     font-size: 1rem;
     margin: 0.25rem 0;
   }
 
-  &>.meta {
+  & .meta {
     margin-top: 0.25rem;
     opacity: 0.5;
     font-family: var(--font-mono);
     font-size: 0.8rem;
   }
 
-  &>p,
-  &>a {
+  & > p {
+    margin: 0;
+    padding: 0.5rem 0;
+  }
+
+  & > p, & > a {
     font-size: 1rem;
-    margin: 0.7rem 0;
     font-weight: 400;
     user-select: none;
   }
@@ -659,4 +617,9 @@ header {
   li a {
     padding: 0 1em;
   }
+}
+
+mark {
+  background-color: var(--highlighted);
+  color: var(--gray);
 }

@@ -18,8 +18,8 @@ const switchTheme = (e) => {
     syntaxTheme.href = '{{ $darkSyntax.Permalink }}';
   }
   else {
-    document.documentElement.setAttribute('saved-theme', 'dark')
-    localStorage.setItem('theme', 'dark')
+    document.documentElement.setAttribute('saved-theme', 'light')
+    localStorage.setItem('theme', 'light')
     syntaxTheme.href = '{{ $lightSyntax.Permalink }}';
   }
 }

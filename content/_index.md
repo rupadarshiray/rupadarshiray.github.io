@@ -12,4 +12,4 @@ This is an _academic curation_ and _journaling_ by me, Rupadarshi Ray, a prospec
 - [[about/about-me|About me]]
   - [[about/now|/now]]
 - [[log/logs|logs]]
-- [[academia]]
+- [[notes/academia]]

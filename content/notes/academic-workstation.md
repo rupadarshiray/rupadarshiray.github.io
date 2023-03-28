@@ -9,9 +9,9 @@ aliases:
 
 Here we make a academic workstation in the *Obsidian ecosystem* - completely free in both sense of the word, and with endless possibilities. Start with the first three articles, after that this page will become a reference for further progress.
 
-- # [[notes/what-is-obsidian|What is Obsidian]]
-- # [[notes/why-write-in-obsidian|Why write in Obsidian]]
-- # [[notes/starting-with-obsidian|Starting with Obsidian]]
+- [[notes/what-is-obsidian|What is Obsidian]]
+- [[notes/why-write-in-obsidian|Why write in Obsidian]]
+- [[notes/starting-with-obsidian|Starting with Obsidian]]
 - # Working in Obsidian
 	- ## Functionality and extensions
 		- MathJax and beyond

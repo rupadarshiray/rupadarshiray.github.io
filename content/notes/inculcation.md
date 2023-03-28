@@ -8,7 +8,7 @@ aliases:
 ---
 
 # Driven by Infinite Enthusiasm
-	- All opinion are strictly mine.
+> All opinion are strictly mine.
 - # What to study? Where to study from?
   > (order is not strict, life is very *non-linear*)
 - ## start with the little things and the big things

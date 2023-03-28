@@ -1,31 +1,31 @@
 :root {
-//   --callout-summary: #00b0ff;
-//   --callout-summary-accent: #7fd7ff;
-//   --callout-bug: #f50057;
-//   --callout-bug-accent: #ff7aa9;
-//   --callout-danger: #ff1744;
-//   --callout-danger-accent: #ff8aa1;
-//   --callout-example: #7c4dff;
-//   --callout-example-accent: #bda5ff;
-//   --callout-fail: #ff5252;
-//   --callout-fail-accent: #ffa8a8;
-//   --callout-info: #00b8d4;
-//   --callout-info-accent: #69ebff;
-//   --callout-note: #448aff;
-//   --callout-note-accent: #a1c4ff;
-//   --callout-question: #64dd17;
-//   --callout-question-accent: #b0f286;
-//   --callout-quote: #9e9e9e;
-//   --callout-quote-accent: #cecece;
-//   --callout-done: #00c853;
-//   --callout-done-accent: #63ffa4;
-//   --callout-important: #00bfa5;
-//   --callout-important-accent: #5fffe9;
-//   --callout-warning: #ff9100;
-//   --callout-warning-accent: #ffc87f;
-// }
+  --callout-summary: #00b0ff;
+  --callout-summary-accent: #7fd7ff;
+  --callout-bug: #f50057;
+  --callout-bug-accent: #ff7aa9;
+  --callout-danger: #ff1744;
+  --callout-danger-accent: #ff8aa1;
+  --callout-example: #7c4dff;
+  --callout-example-accent: #bda5ff;
+  --callout-fail: #ff5252;
+  --callout-fail-accent: #ffa8a8;
+  --callout-info: #00b8d4;
+  --callout-info-accent: #69ebff;
+  --callout-note: #448aff;
+  --callout-note-accent: #a1c4ff;
+  --callout-question: #64dd17;
+  --callout-question-accent: #b0f286;
+  --callout-quote: #9e9e9e;
+  --callout-quote-accent: #cecece;
+  --callout-done: #00c853;
+  --callout-done-accent: #63ffa4;
+  --callout-important: #00bfa5;
+  --callout-important-accent: #5fffe9;
+  --callout-warning: #ff9100;
+  --callout-warning-accent: #ffc87f;
+}
 
-// [saved-theme=dark] {
+[saved-theme=dark] {
   --callout-summary: #00b0ff !important;
   --callout-summary-accent: #00587f !important;
   --callout-bug: #f50057 !important;

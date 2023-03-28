@@ -19,8 +19,8 @@
         },
         {
           "source": "/",
-          "target": "/academia",
-          "text": "academia"
+          "target": "/notes/academia",
+          "text": "notes/academia"
         }
       ],
       "/about/about-me": [
@@ -66,122 +66,125 @@
       "/notes/20-prerequisites-for-quantum-mechanics": [
         {
           "source": "/notes/20-prerequisites-for-quantum-mechanics",
-          "target": "/academia",
-          "text": "academia"
+          "target": "/notes/academia",
+          "text": "notes/academia"
         }
       ],
       "/notes/academia": [
         {
           "source": "/notes/academia",
-          "target": "/academic-workstation",
+          "target": "/notes/academic-workstation",
           "text": "Academic Workstation"
         },
         {
           "source": "/notes/academia",
-          "target": "/hierarchical-longterm-wiki",
-          "text": "hierarchical-longterm-wiki"
+          "target": "/notes/hierarchical-longterm-wiki",
+          "text": "notes/hierarchical-longterm-wiki"
         },
         {
           "source": "/notes/academia",
-          "target": "/constructing-hierarchical-wiki",
-          "text": "constructing-hierarchical-wiki"
+          "target": "/notes/constructing-hierarchical-wiki",
+          "text": "notes/constructing-hierarchical-wiki"
         },
         {
           "source": "/notes/academia",
-          "target": "/my-books",
-          "text": "my-books"
+          "target": "/notes/my-books",
+          "text": "notes/my-books"
         },
         {
           "source": "/notes/academia",
-          "target": "/academic-recommendations",
-          "text": "academic-recommendations"
-        }
-      ],
-      "/notes/academic-recommendations": [
-        {
-          "source": "/notes/academic-recommendations",
-          "target": "/academia",
-          "text": "academia"
+          "target": "/notes/my-notes",
+          "text": "notes/my-notes"
         },
         {
-          "source": "/notes/academic-recommendations",
-          "target": "/shifrin-multivariable-mathematics",
-          "text": "Ted Shifrin’s Linear algebra and Multivariable calculus"
+          "source": "/notes/academia",
+          "target": "/notes/inculcation",
+          "text": "notes/inculcation"
         }
       ],
       "/notes/academic-workstation": [
         {
           "source": "/notes/academic-workstation",
-          "target": "/what-is-obsidian",
+          "target": "/notes/what-is-obsidian",
           "text": "What is Obsidian"
         },
         {
           "source": "/notes/academic-workstation",
-          "target": "/why-write-in-obsidian",
+          "target": "/notes/why-write-in-obsidian",
           "text": "Why write in Obsidian"
         },
         {
           "source": "/notes/academic-workstation",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "Starting with Obsidian"
         },
         {
           "source": "/notes/academic-workstation",
-          "target": "/obsidian-metadata-and-query",
+          "target": "/notes/obsidian-metadata-and-query",
           "text": "Metadata and Query"
         },
         {
           "source": "/notes/academic-workstation",
-          "target": "/hierarchical-longterm-wiki",
+          "target": "/notes/hierarchical-longterm-wiki",
           "text": "A hierarchical longterm Wiki"
         },
         {
           "source": "/notes/academic-workstation",
-          "target": "/constructing-hierarchical-wiki",
+          "target": "/notes/constructing-hierarchical-wiki",
           "text": "Constructing a hierarchical wiki"
         }
       ],
       "/notes/best-works-in-some1": [
         {
           "source": "/notes/best-works-in-some1",
-          "target": "/academia",
-          "text": "academia"
+          "target": "/notes/academia",
+          "text": "notes/academia"
         }
       ],
       "/notes/constructing-a-mathematics-wiki": [
         {
           "source": "/notes/constructing-a-mathematics-wiki",
-          "target": "/constructing-hierarchical-wiki",
+          "target": "/notes/constructing-hierarchical-wiki",
           "text": "construct a wiki"
         }
       ],
       "/notes/constructing-hierarchical-wiki": [
         {
           "source": "/notes/constructing-hierarchical-wiki",
-          "target": "/hierarchical-longterm-wiki",
-          "text": "hierarchical-longterm-wiki"
+          "target": "/notes/hierarchical-longterm-wiki",
+          "text": "notes/hierarchical-longterm-wiki"
         },
         {
           "source": "/notes/constructing-hierarchical-wiki",
-          "target": "/hierarchical-longterm-wiki",
+          "target": "/notes/hierarchical-longterm-wiki",
           "text": "Wiki"
         },
         {
           "source": "/notes/constructing-hierarchical-wiki",
-          "target": "/hierarchical-longterm-wiki",
+          "target": "/notes/hierarchical-longterm-wiki",
           "text": "As it was clarified"
         },
         {
           "source": "/notes/constructing-hierarchical-wiki",
-          "target": "/constructing-a-mathematics-wiki",
+          "target": "/notes/constructing-a-mathematics-wiki",
           "text": "Constructing a Mathematics Wiki"
         }
       ],
       "/notes/inculcation": [
         {
           "source": "/notes/inculcation",
+          "target": "/notes/Evan-Chen-Napkin",
+          "text": "notes/Evan Chen Napkin"
+        },
+        {
+          "source": "/notes/inculcation",
           "target": "/driven_by_infinite_enthusiasm/linear_algebra",
           "text": "driven_by_infinite_enthusiasm/linear_algebra"
+        },
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/Evan-Chen-Napkin",
+          "text": "notes/Evan Chen Napkin"
         },
         {
           "source": "/notes/inculcation",
@@ -200,6 +203,11 @@
         },
         {
           "source": "/notes/inculcation",
+          "target": "/notes/Evan-Chen-Napkin",
+          "text": "notes/Evan Chen Napkin"
+        },
+        {
+          "source": "/notes/inculcation",
           "target": "/driven_by_infinite_enthusiasm/analysis_in_normed_vector_spaces",
           "text": "driven_by_infinite_enthusiasm/analysis_in_normed_vector_spaces"
         }
@@ -207,71 +215,71 @@
       "/notes/my-books": [
         {
           "source": "/notes/my-books",
-          "target": "/academia",
-          "text": "academia"
+          "target": "/notes/academia",
+          "text": "notes/academia"
         }
       ],
       "/notes/shifrin-multivariable-mathematics": [
         {
           "source": "/notes/shifrin-multivariable-mathematics",
-          "target": "/academic-recommendations",
-          "text": "academic-recommendations"
+          "target": "/notes/academic-recommendations",
+          "text": "notes/academic-recommendations"
         }
       ],
       "/notes/starting-with-obsidian": [
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/what-is-obsidian",
+          "target": "/notes/what-is-obsidian",
           "text": "What is Obsidian"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "The Quakes"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "The Emissions"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "The Venting"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "The Buildup"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "The Collapse"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "The Explosion"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "The Growth and failures"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "The Ash and Lava"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "Back to Dormant"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "Tags"
         },
         {
@@ -293,7 +301,7 @@
       "/notes/what-is-obsidian": [
         {
           "source": "/notes/what-is-obsidian",
-          "target": "/why-write-in-obsidian",
+          "target": "/notes/why-write-in-obsidian",
           "text": "Why write in Obsidian"
         },
         {
@@ -337,79 +345,11 @@
           "text": "now-a-days here"
         }
       ],
-      "/academia": [
-        {
-          "source": "/",
-          "target": "/academia",
-          "text": "academia"
-        },
-        {
-          "source": "/notes/20-prerequisites-for-quantum-mechanics",
-          "target": "/academia",
-          "text": "academia"
-        },
-        {
-          "source": "/notes/academic-recommendations",
-          "target": "/academia",
-          "text": "academia"
-        },
-        {
-          "source": "/notes/best-works-in-some1",
-          "target": "/academia",
-          "text": "academia"
-        },
-        {
-          "source": "/notes/my-books",
-          "target": "/academia",
-          "text": "academia"
-        }
-      ],
-      "/academic-recommendations": [
-        {
-          "source": "/notes/academia",
-          "target": "/academic-recommendations",
-          "text": "academic-recommendations"
-        },
-        {
-          "source": "/notes/shifrin-multivariable-mathematics",
-          "target": "/academic-recommendations",
-          "text": "academic-recommendations"
-        }
-      ],
       "/academic-workstation": [
-        {
-          "source": "/notes/academia",
-          "target": "/academic-workstation",
-          "text": "Academic Workstation"
-        },
         {
           "source": "/notes/starting-with-obsidian",
           "target": "/academic-workstation",
           "text": "Tinkering with superplugins"
-        }
-      ],
-      "/constructing-a-mathematics-wiki": [
-        {
-          "source": "/notes/constructing-hierarchical-wiki",
-          "target": "/constructing-a-mathematics-wiki",
-          "text": "Constructing a Mathematics Wiki"
-        }
-      ],
-      "/constructing-hierarchical-wiki": [
-        {
-          "source": "/notes/academia",
-          "target": "/constructing-hierarchical-wiki",
-          "text": "constructing-hierarchical-wiki"
-        },
-        {
-          "source": "/notes/academic-workstation",
-          "target": "/constructing-hierarchical-wiki",
-          "text": "Constructing a hierarchical wiki"
-        },
-        {
-          "source": "/notes/constructing-a-mathematics-wiki",
-          "target": "/constructing-hierarchical-wiki",
-          "text": "construct a wiki"
         }
       ],
       "/driven_by_infinite_enthusiasm/analysis_in_normed_vector_spaces": [
@@ -445,31 +385,6 @@
           "source": "/log/log-12021-12",
           "target": "/hierarchical-longterm-wiki",
           "text": "Wiki"
-        },
-        {
-          "source": "/notes/academia",
-          "target": "/hierarchical-longterm-wiki",
-          "text": "hierarchical-longterm-wiki"
-        },
-        {
-          "source": "/notes/academic-workstation",
-          "target": "/hierarchical-longterm-wiki",
-          "text": "A hierarchical longterm Wiki"
-        },
-        {
-          "source": "/notes/constructing-hierarchical-wiki",
-          "target": "/hierarchical-longterm-wiki",
-          "text": "hierarchical-longterm-wiki"
-        },
-        {
-          "source": "/notes/constructing-hierarchical-wiki",
-          "target": "/hierarchical-longterm-wiki",
-          "text": "Wiki"
-        },
-        {
-          "source": "/notes/constructing-hierarchical-wiki",
-          "target": "/hierarchical-longterm-wiki",
-          "text": "As it was clarified"
         }
       ],
       "/log/logs": [
@@ -499,116 +414,231 @@
           "text": "logs"
         }
       ],
-      "/my-books": [
+      "/notes/Evan-Chen-Napkin": [
         {
-          "source": "/notes/academia",
-          "target": "/my-books",
-          "text": "my-books"
-        }
-      ],
-      "/obsidian-metadata-and-query": [
-        {
-          "source": "/notes/academic-workstation",
-          "target": "/obsidian-metadata-and-query",
-          "text": "Metadata and Query"
+          "source": "/notes/inculcation",
+          "target": "/notes/Evan-Chen-Napkin",
+          "text": "notes/Evan Chen Napkin"
         },
         {
-          "source": "/notes/starting-with-obsidian",
-          "target": "/obsidian-metadata-and-query",
+          "source": "/notes/inculcation",
+          "target": "/notes/Evan-Chen-Napkin",
+          "text": "notes/Evan Chen Napkin"
+        },
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/Evan-Chen-Napkin",
+          "text": "notes/Evan Chen Napkin"
+        }
+      ],
+      "/notes/academia": [
+        {
+          "source": "/",
+          "target": "/notes/academia",
+          "text": "notes/academia"
+        },
+        {
+          "source": "/notes/20-prerequisites-for-quantum-mechanics",
+          "target": "/notes/academia",
+          "text": "notes/academia"
+        },
+        {
+          "source": "/notes/best-works-in-some1",
+          "target": "/notes/academia",
+          "text": "notes/academia"
+        },
+        {
+          "source": "/notes/my-books",
+          "target": "/notes/academia",
+          "text": "notes/academia"
+        }
+      ],
+      "/notes/academic-recommendations": [
+        {
+          "source": "/notes/shifrin-multivariable-mathematics",
+          "target": "/notes/academic-recommendations",
+          "text": "notes/academic-recommendations"
+        }
+      ],
+      "/notes/academic-workstation": [
+        {
+          "source": "/notes/academia",
+          "target": "/notes/academic-workstation",
+          "text": "Academic Workstation"
+        }
+      ],
+      "/notes/constructing-a-mathematics-wiki": [
+        {
+          "source": "/notes/constructing-hierarchical-wiki",
+          "target": "/notes/constructing-a-mathematics-wiki",
+          "text": "Constructing a Mathematics Wiki"
+        }
+      ],
+      "/notes/constructing-hierarchical-wiki": [
+        {
+          "source": "/notes/academia",
+          "target": "/notes/constructing-hierarchical-wiki",
+          "text": "notes/constructing-hierarchical-wiki"
+        },
+        {
+          "source": "/notes/academic-workstation",
+          "target": "/notes/constructing-hierarchical-wiki",
+          "text": "Constructing a hierarchical wiki"
+        },
+        {
+          "source": "/notes/constructing-a-mathematics-wiki",
+          "target": "/notes/constructing-hierarchical-wiki",
+          "text": "construct a wiki"
+        }
+      ],
+      "/notes/hierarchical-longterm-wiki": [
+        {
+          "source": "/notes/academia",
+          "target": "/notes/hierarchical-longterm-wiki",
+          "text": "notes/hierarchical-longterm-wiki"
+        },
+        {
+          "source": "/notes/academic-workstation",
+          "target": "/notes/hierarchical-longterm-wiki",
+          "text": "A hierarchical longterm Wiki"
+        },
+        {
+          "source": "/notes/constructing-hierarchical-wiki",
+          "target": "/notes/hierarchical-longterm-wiki",
+          "text": "notes/hierarchical-longterm-wiki"
+        },
+        {
+          "source": "/notes/constructing-hierarchical-wiki",
+          "target": "/notes/hierarchical-longterm-wiki",
+          "text": "Wiki"
+        },
+        {
+          "source": "/notes/constructing-hierarchical-wiki",
+          "target": "/notes/hierarchical-longterm-wiki",
+          "text": "As it was clarified"
+        }
+      ],
+      "/notes/inculcation": [
+        {
+          "source": "/notes/academia",
+          "target": "/notes/inculcation",
+          "text": "notes/inculcation"
+        }
+      ],
+      "/notes/my-books": [
+        {
+          "source": "/notes/academia",
+          "target": "/notes/my-books",
+          "text": "notes/my-books"
+        }
+      ],
+      "/notes/my-notes": [
+        {
+          "source": "/notes/academia",
+          "target": "/notes/my-notes",
+          "text": "notes/my-notes"
+        }
+      ],
+      "/notes/obsidian-metadata-and-query": [
+        {
+          "source": "/notes/academic-workstation",
+          "target": "/notes/obsidian-metadata-and-query",
           "text": "Metadata and Query"
         }
       ],
-      "/shifrin-multivariable-mathematics": [
-        {
-          "source": "/notes/academic-recommendations",
-          "target": "/shifrin-multivariable-mathematics",
-          "text": "Ted Shifrin’s Linear algebra and Multivariable calculus"
-        }
-      ],
-      "/starting-with-obsidian": [
+      "/notes/starting-with-obsidian": [
         {
           "source": "/notes/academic-workstation",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "Starting with Obsidian"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "The Quakes"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "The Emissions"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "The Venting"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "The Buildup"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "The Collapse"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "The Explosion"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "The Growth and failures"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "The Ash and Lava"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "Back to Dormant"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/starting-with-obsidian",
+          "target": "/notes/starting-with-obsidian",
           "text": "Tags"
-        },
-        {
-          "source": "/notes/what-is-obsidian",
-          "target": "/starting-with-obsidian",
-          "text": "Starting with Obsidian"
         }
       ],
-      "/what-is-obsidian": [
+      "/notes/what-is-obsidian": [
         {
           "source": "/notes/academic-workstation",
-          "target": "/what-is-obsidian",
+          "target": "/notes/what-is-obsidian",
           "text": "What is Obsidian"
         },
         {
           "source": "/notes/starting-with-obsidian",
-          "target": "/what-is-obsidian",
+          "target": "/notes/what-is-obsidian",
           "text": "What is Obsidian"
         }
       ],
-      "/why-write-in-obsidian": [
+      "/notes/why-write-in-obsidian": [
         {
           "source": "/notes/academic-workstation",
-          "target": "/why-write-in-obsidian",
+          "target": "/notes/why-write-in-obsidian",
           "text": "Why write in Obsidian"
         },
         {
           "source": "/notes/what-is-obsidian",
-          "target": "/why-write-in-obsidian",
+          "target": "/notes/why-write-in-obsidian",
           "text": "Why write in Obsidian"
+        }
+      ],
+      "/obsidian-metadata-and-query": [
+        {
+          "source": "/notes/starting-with-obsidian",
+          "target": "/obsidian-metadata-and-query",
+          "text": "Metadata and Query"
+        }
+      ],
+      "/starting-with-obsidian": [
+        {
+          "source": "/notes/what-is-obsidian",
+          "target": "/starting-with-obsidian",
+          "text": "Starting with Obsidian"
         }
       ]
     }
@@ -631,8 +661,8 @@
     },
     {
       "source": "/",
-      "target": "/academia",
-      "text": "academia"
+      "target": "/notes/academia",
+      "text": "notes/academia"
     },
     {
       "source": "/about/about-me",
@@ -666,108 +696,113 @@
     },
     {
       "source": "/notes/20-prerequisites-for-quantum-mechanics",
-      "target": "/academia",
-      "text": "academia"
+      "target": "/notes/academia",
+      "text": "notes/academia"
     },
     {
       "source": "/notes/academia",
-      "target": "/academic-workstation",
+      "target": "/notes/academic-workstation",
       "text": "Academic Workstation"
     },
     {
       "source": "/notes/academia",
-      "target": "/hierarchical-longterm-wiki",
-      "text": "hierarchical-longterm-wiki"
+      "target": "/notes/hierarchical-longterm-wiki",
+      "text": "notes/hierarchical-longterm-wiki"
     },
     {
       "source": "/notes/academia",
-      "target": "/constructing-hierarchical-wiki",
-      "text": "constructing-hierarchical-wiki"
+      "target": "/notes/constructing-hierarchical-wiki",
+      "text": "notes/constructing-hierarchical-wiki"
     },
     {
       "source": "/notes/academia",
-      "target": "/my-books",
-      "text": "my-books"
+      "target": "/notes/my-books",
+      "text": "notes/my-books"
     },
     {
       "source": "/notes/academia",
-      "target": "/academic-recommendations",
-      "text": "academic-recommendations"
+      "target": "/notes/my-notes",
+      "text": "notes/my-notes"
     },
     {
-      "source": "/notes/academic-recommendations",
-      "target": "/academia",
-      "text": "academia"
-    },
-    {
-      "source": "/notes/academic-recommendations",
-      "target": "/shifrin-multivariable-mathematics",
-      "text": "Ted Shifrin’s Linear algebra and Multivariable calculus"
+      "source": "/notes/academia",
+      "target": "/notes/inculcation",
+      "text": "notes/inculcation"
     },
     {
       "source": "/notes/academic-workstation",
-      "target": "/what-is-obsidian",
+      "target": "/notes/what-is-obsidian",
       "text": "What is Obsidian"
     },
     {
       "source": "/notes/academic-workstation",
-      "target": "/why-write-in-obsidian",
+      "target": "/notes/why-write-in-obsidian",
       "text": "Why write in Obsidian"
     },
     {
       "source": "/notes/academic-workstation",
-      "target": "/starting-with-obsidian",
+      "target": "/notes/starting-with-obsidian",
       "text": "Starting with Obsidian"
     },
     {
       "source": "/notes/academic-workstation",
-      "target": "/obsidian-metadata-and-query",
+      "target": "/notes/obsidian-metadata-and-query",
       "text": "Metadata and Query"
     },
     {
       "source": "/notes/academic-workstation",
-      "target": "/hierarchical-longterm-wiki",
+      "target": "/notes/hierarchical-longterm-wiki",
       "text": "A hierarchical longterm Wiki"
     },
     {
       "source": "/notes/academic-workstation",
-      "target": "/constructing-hierarchical-wiki",
+      "target": "/notes/constructing-hierarchical-wiki",
       "text": "Constructing a hierarchical wiki"
     },
     {
       "source": "/notes/best-works-in-some1",
-      "target": "/academia",
-      "text": "academia"
+      "target": "/notes/academia",
+      "text": "notes/academia"
     },
     {
       "source": "/notes/constructing-a-mathematics-wiki",
-      "target": "/constructing-hierarchical-wiki",
+      "target": "/notes/constructing-hierarchical-wiki",
       "text": "construct a wiki"
     },
     {
       "source": "/notes/constructing-hierarchical-wiki",
-      "target": "/hierarchical-longterm-wiki",
-      "text": "hierarchical-longterm-wiki"
+      "target": "/notes/hierarchical-longterm-wiki",
+      "text": "notes/hierarchical-longterm-wiki"
     },
     {
       "source": "/notes/constructing-hierarchical-wiki",
-      "target": "/hierarchical-longterm-wiki",
+      "target": "/notes/hierarchical-longterm-wiki",
       "text": "Wiki"
     },
     {
       "source": "/notes/constructing-hierarchical-wiki",
-      "target": "/hierarchical-longterm-wiki",
+      "target": "/notes/hierarchical-longterm-wiki",
       "text": "As it was clarified"
     },
     {
       "source": "/notes/constructing-hierarchical-wiki",
-      "target": "/constructing-a-mathematics-wiki",
+      "target": "/notes/constructing-a-mathematics-wiki",
       "text": "Constructing a Mathematics Wiki"
+    },
+    {
+      "source": "/notes/inculcation",
+      "target": "/notes/Evan-Chen-Napkin",
+      "text": "notes/Evan Chen Napkin"
     },
     {
       "source": "/notes/inculcation",
       "target": "/driven_by_infinite_enthusiasm/linear_algebra",
       "text": "driven_by_infinite_enthusiasm/linear_algebra"
+    },
+    {
+      "source": "/notes/inculcation",
+      "target": "/notes/Evan-Chen-Napkin",
+      "text": "notes/Evan Chen Napkin"
     },
     {
       "source": "/notes/inculcation",
@@ -786,72 +821,77 @@
     },
     {
       "source": "/notes/inculcation",
+      "target": "/notes/Evan-Chen-Napkin",
+      "text": "notes/Evan Chen Napkin"
+    },
+    {
+      "source": "/notes/inculcation",
       "target": "/driven_by_infinite_enthusiasm/analysis_in_normed_vector_spaces",
       "text": "driven_by_infinite_enthusiasm/analysis_in_normed_vector_spaces"
     },
     {
       "source": "/notes/my-books",
-      "target": "/academia",
-      "text": "academia"
+      "target": "/notes/academia",
+      "text": "notes/academia"
     },
     {
       "source": "/notes/shifrin-multivariable-mathematics",
-      "target": "/academic-recommendations",
-      "text": "academic-recommendations"
+      "target": "/notes/academic-recommendations",
+      "text": "notes/academic-recommendations"
     },
     {
       "source": "/notes/starting-with-obsidian",
-      "target": "/what-is-obsidian",
+      "target": "/notes/what-is-obsidian",
       "text": "What is Obsidian"
     },
     {
       "source": "/notes/starting-with-obsidian",
-      "target": "/starting-with-obsidian",
+      "target": "/notes/starting-with-obsidian",
       "text": "The Quakes"
     },
     {
       "source": "/notes/starting-with-obsidian",
-      "target": "/starting-with-obsidian",
+      "target": "/notes/starting-with-obsidian",
       "text": "The Emissions"
     },
     {
       "source": "/notes/starting-with-obsidian",
-      "target": "/starting-with-obsidian",
+      "target": "/notes/starting-with-obsidian",
       "text": "The Venting"
     },
     {
       "source": "/notes/starting-with-obsidian",
-      "target": "/starting-with-obsidian",
+      "target": "/notes/starting-with-obsidian",
       "text": "The Buildup"
     },
     {
       "source": "/notes/starting-with-obsidian",
-      "target": "/starting-with-obsidian",
+      "target": "/notes/starting-with-obsidian",
       "text": "The Collapse"
     },
     {
       "source": "/notes/starting-with-obsidian",
-      "target": "/starting-with-obsidian",
+      "target": "/notes/starting-with-obsidian",
       "text": "The Explosion"
     },
     {
       "source": "/notes/starting-with-obsidian",
-      "target": "/starting-with-obsidian",
+      "target": "/notes/starting-with-obsidian",
       "text": "The Growth and failures"
     },
     {
       "source": "/notes/starting-with-obsidian",
-      "target": "/starting-with-obsidian",
+      "target": "/notes/starting-with-obsidian",
       "text": "The Ash and Lava"
     },
     {
       "source": "/notes/starting-with-obsidian",
-      "target": "/starting-with-obsidian",
+      "target": "/notes/starting-with-obsidian",
       "text": "Back to Dormant"
     },
     {
       "source": "/notes/starting-with-obsidian",
-      "target": "/starting-with-obsidian",
+      "target": "/notes/starting-with-obsidian",
       "text": "Tags"
     },
     {
@@ -871,7 +911,7 @@
     },
     {
       "source": "/notes/what-is-obsidian",
-      "target": "/why-write-in-obsidian",
+      "target": "/notes/why-write-in-obsidian",
       "text": "Why write in Obsidian"
     },
     {

@@ -9,4 +9,5 @@ title: 'Academia'
 - Building an [[notes/academic-workstation|Academic Workstation]]
 	- [[notes/hierarchical-longterm-wiki]], [[notes/constructing-hierarchical-wiki]]
 - [[notes/my-books]]
-- [[notes/academic-recommendations]]
+- [[notes/my-notes]]
+- [[notes/inculcation]]
