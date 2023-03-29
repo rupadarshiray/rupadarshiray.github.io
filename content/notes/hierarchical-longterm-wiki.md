@@ -4,10 +4,10 @@ title: Wiki
 tags: [Workstation, Wiki]
 desc: "A Wiki with Hierarchical Bases for long-term knowledge on Mathematics and Sciences"
 created: 2021-11-02T01:35:43
-toc: true
+enableToc: true
 ---
 
-> A Dendron Workspace for building a "Wiki" for Hierarchical but Networked, Non-Linear Notemaking and Studying
+> for building a "Wiki" for hierarchical but networked, non-linear notemaking and studying
 
 > [!note] Note
 > 

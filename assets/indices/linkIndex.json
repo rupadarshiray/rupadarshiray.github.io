@@ -98,6 +98,11 @@
         },
         {
           "source": "/notes/academia",
+          "target": "/notes/derivatives-differential-forms-and-beyond-youtube",
+          "text": "notes/derivatives-differential-forms-and-beyond-youtube"
+        },
+        {
+          "source": "/notes/academia",
           "target": "/notes/inculcation",
           "text": "notes/inculcation"
         }
@@ -173,23 +178,33 @@
       "/notes/inculcation": [
         {
           "source": "/notes/inculcation",
-          "target": "/notes/Evan-Chen-Napkin",
-          "text": "notes/Evan Chen Napkin"
+          "target": "/notes/evan-chen-napkin",
+          "text": "notes/evan-chen-napkin"
         },
         {
           "source": "/notes/inculcation",
-          "target": "/driven_by_infinite_enthusiasm/linear_algebra",
-          "text": "driven_by_infinite_enthusiasm/linear_algebra"
+          "target": "/notes/inculction-linear-algebra",
+          "text": "notes/inculction-linear-algebra"
         },
         {
           "source": "/notes/inculcation",
-          "target": "/notes/Evan-Chen-Napkin",
-          "text": "notes/Evan Chen Napkin"
+          "target": "/notes/evan-chen-napkin",
+          "text": "notes/evan-chen-napkin"
         },
         {
           "source": "/notes/inculcation",
-          "target": "/Shifrin_Multivariable_Mathematics",
-          "text": "Shifrin_Multivariable_Mathematics"
+          "target": "/inculcation",
+          "text": "Analysis in $\\R$"
+        },
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/evan-chen-napkin",
+          "text": "notes/evan-chen-napkin"
+        },
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/shifrin-multivariable-mathematics",
+          "text": "notes/shifrin-multivariable-mathematics"
         },
         {
           "source": "/notes/inculcation",
@@ -203,13 +218,20 @@
         },
         {
           "source": "/notes/inculcation",
-          "target": "/notes/Evan-Chen-Napkin",
-          "text": "notes/Evan Chen Napkin"
+          "target": "/notes/evan-chen-napkin",
+          "text": "notes/evan-chen-napkin"
         },
         {
           "source": "/notes/inculcation",
-          "target": "/driven_by_infinite_enthusiasm/analysis_in_normed_vector_spaces",
-          "text": "driven_by_infinite_enthusiasm/analysis_in_normed_vector_spaces"
+          "target": "/notes/inculcation-analysis-normed-vector-spaces",
+          "text": "Analysis in normed vector spaces"
+        }
+      ],
+      "/notes/inculction-linear-algebra": [
+        {
+          "source": "/notes/inculction-linear-algebra",
+          "target": "/notes/inculcation",
+          "text": "notes/inculcation"
         }
       ],
       "/notes/my-books": [
@@ -222,8 +244,8 @@
       "/notes/shifrin-multivariable-mathematics": [
         {
           "source": "/notes/shifrin-multivariable-mathematics",
-          "target": "/notes/academic-recommendations",
-          "text": "notes/academic-recommendations"
+          "target": "/notes/inculcation",
+          "text": "notes/inculcation"
         }
       ],
       "/notes/starting-with-obsidian": [
@@ -319,13 +341,6 @@
           "text": "Balakrishnan_Classical_Physics"
         }
       ],
-      "/Shifrin_Multivariable_Mathematics": [
-        {
-          "source": "/notes/inculcation",
-          "target": "/Shifrin_Multivariable_Mathematics",
-          "text": "Shifrin_Multivariable_Mathematics"
-        }
-      ],
       "/about/about-me": [
         {
           "source": "/",
@@ -352,25 +367,11 @@
           "text": "Tinkering with superplugins"
         }
       ],
-      "/driven_by_infinite_enthusiasm/analysis_in_normed_vector_spaces": [
-        {
-          "source": "/notes/inculcation",
-          "target": "/driven_by_infinite_enthusiasm/analysis_in_normed_vector_spaces",
-          "text": "driven_by_infinite_enthusiasm/analysis_in_normed_vector_spaces"
-        }
-      ],
       "/driven_by_infinite_enthusiasm/classical_physics": [
         {
           "source": "/notes/inculcation",
           "target": "/driven_by_infinite_enthusiasm/classical_physics",
           "text": "driven_by_infinite_enthusiasm/classical_physics"
-        }
-      ],
-      "/driven_by_infinite_enthusiasm/linear_algebra": [
-        {
-          "source": "/notes/inculcation",
-          "target": "/driven_by_infinite_enthusiasm/linear_algebra",
-          "text": "driven_by_infinite_enthusiasm/linear_algebra"
         }
       ],
       "/folders-in-obsidian": [
@@ -385,6 +386,13 @@
           "source": "/log/log-12021-12",
           "target": "/hierarchical-longterm-wiki",
           "text": "Wiki"
+        }
+      ],
+      "/inculcation": [
+        {
+          "source": "/notes/inculcation",
+          "target": "/inculcation",
+          "text": "Analysis in $\\R$"
         }
       ],
       "/log/logs": [
@@ -414,23 +422,6 @@
           "text": "logs"
         }
       ],
-      "/notes/Evan-Chen-Napkin": [
-        {
-          "source": "/notes/inculcation",
-          "target": "/notes/Evan-Chen-Napkin",
-          "text": "notes/Evan Chen Napkin"
-        },
-        {
-          "source": "/notes/inculcation",
-          "target": "/notes/Evan-Chen-Napkin",
-          "text": "notes/Evan Chen Napkin"
-        },
-        {
-          "source": "/notes/inculcation",
-          "target": "/notes/Evan-Chen-Napkin",
-          "text": "notes/Evan Chen Napkin"
-        }
-      ],
       "/notes/academia": [
         {
           "source": "/",
@@ -451,13 +442,6 @@
           "source": "/notes/my-books",
           "target": "/notes/academia",
           "text": "notes/academia"
-        }
-      ],
-      "/notes/academic-recommendations": [
-        {
-          "source": "/notes/shifrin-multivariable-mathematics",
-          "target": "/notes/academic-recommendations",
-          "text": "notes/academic-recommendations"
         }
       ],
       "/notes/academic-workstation": [
@@ -489,6 +473,35 @@
           "source": "/notes/constructing-a-mathematics-wiki",
           "target": "/notes/constructing-hierarchical-wiki",
           "text": "construct a wiki"
+        }
+      ],
+      "/notes/derivatives-differential-forms-and-beyond-youtube": [
+        {
+          "source": "/notes/academia",
+          "target": "/notes/derivatives-differential-forms-and-beyond-youtube",
+          "text": "notes/derivatives-differential-forms-and-beyond-youtube"
+        }
+      ],
+      "/notes/evan-chen-napkin": [
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/evan-chen-napkin",
+          "text": "notes/evan-chen-napkin"
+        },
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/evan-chen-napkin",
+          "text": "notes/evan-chen-napkin"
+        },
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/evan-chen-napkin",
+          "text": "notes/evan-chen-napkin"
+        },
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/evan-chen-napkin",
+          "text": "notes/evan-chen-napkin"
         }
       ],
       "/notes/hierarchical-longterm-wiki": [
@@ -523,6 +536,30 @@
           "source": "/notes/academia",
           "target": "/notes/inculcation",
           "text": "notes/inculcation"
+        },
+        {
+          "source": "/notes/inculction-linear-algebra",
+          "target": "/notes/inculcation",
+          "text": "notes/inculcation"
+        },
+        {
+          "source": "/notes/shifrin-multivariable-mathematics",
+          "target": "/notes/inculcation",
+          "text": "notes/inculcation"
+        }
+      ],
+      "/notes/inculcation-analysis-normed-vector-spaces": [
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/inculcation-analysis-normed-vector-spaces",
+          "text": "Analysis in normed vector spaces"
+        }
+      ],
+      "/notes/inculction-linear-algebra": [
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/inculction-linear-algebra",
+          "text": "notes/inculction-linear-algebra"
         }
       ],
       "/notes/my-books": [
@@ -544,6 +581,13 @@
           "source": "/notes/academic-workstation",
           "target": "/notes/obsidian-metadata-and-query",
           "text": "Metadata and Query"
+        }
+      ],
+      "/notes/shifrin-multivariable-mathematics": [
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/shifrin-multivariable-mathematics",
+          "text": "notes/shifrin-multivariable-mathematics"
         }
       ],
       "/notes/starting-with-obsidian": [
@@ -726,6 +770,11 @@
     },
     {
       "source": "/notes/academia",
+      "target": "/notes/derivatives-differential-forms-and-beyond-youtube",
+      "text": "notes/derivatives-differential-forms-and-beyond-youtube"
+    },
+    {
+      "source": "/notes/academia",
       "target": "/notes/inculcation",
       "text": "notes/inculcation"
     },
@@ -791,23 +840,33 @@
     },
     {
       "source": "/notes/inculcation",
-      "target": "/notes/Evan-Chen-Napkin",
-      "text": "notes/Evan Chen Napkin"
+      "target": "/notes/evan-chen-napkin",
+      "text": "notes/evan-chen-napkin"
     },
     {
       "source": "/notes/inculcation",
-      "target": "/driven_by_infinite_enthusiasm/linear_algebra",
-      "text": "driven_by_infinite_enthusiasm/linear_algebra"
+      "target": "/notes/inculction-linear-algebra",
+      "text": "notes/inculction-linear-algebra"
     },
     {
       "source": "/notes/inculcation",
-      "target": "/notes/Evan-Chen-Napkin",
-      "text": "notes/Evan Chen Napkin"
+      "target": "/notes/evan-chen-napkin",
+      "text": "notes/evan-chen-napkin"
     },
     {
       "source": "/notes/inculcation",
-      "target": "/Shifrin_Multivariable_Mathematics",
-      "text": "Shifrin_Multivariable_Mathematics"
+      "target": "/inculcation",
+      "text": "Analysis in $\\R$"
+    },
+    {
+      "source": "/notes/inculcation",
+      "target": "/notes/evan-chen-napkin",
+      "text": "notes/evan-chen-napkin"
+    },
+    {
+      "source": "/notes/inculcation",
+      "target": "/notes/shifrin-multivariable-mathematics",
+      "text": "notes/shifrin-multivariable-mathematics"
     },
     {
       "source": "/notes/inculcation",
@@ -821,13 +880,18 @@
     },
     {
       "source": "/notes/inculcation",
-      "target": "/notes/Evan-Chen-Napkin",
-      "text": "notes/Evan Chen Napkin"
+      "target": "/notes/evan-chen-napkin",
+      "text": "notes/evan-chen-napkin"
     },
     {
       "source": "/notes/inculcation",
-      "target": "/driven_by_infinite_enthusiasm/analysis_in_normed_vector_spaces",
-      "text": "driven_by_infinite_enthusiasm/analysis_in_normed_vector_spaces"
+      "target": "/notes/inculcation-analysis-normed-vector-spaces",
+      "text": "Analysis in normed vector spaces"
+    },
+    {
+      "source": "/notes/inculction-linear-algebra",
+      "target": "/notes/inculcation",
+      "text": "notes/inculcation"
     },
     {
       "source": "/notes/my-books",
@@ -836,8 +900,8 @@
     },
     {
       "source": "/notes/shifrin-multivariable-mathematics",
-      "target": "/notes/academic-recommendations",
-      "text": "notes/academic-recommendations"
+      "target": "/notes/inculcation",
+      "text": "notes/inculcation"
     },
     {
       "source": "/notes/starting-with-obsidian",

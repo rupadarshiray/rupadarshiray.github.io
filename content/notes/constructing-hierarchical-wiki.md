@@ -6,7 +6,7 @@ created: 2021-11-06T01:44:39
 modified: 2021-12-18T01:50:22
 tags: [Workstation, Wiki]
 alias: []
-toc: true
+enableToc: true
 ---
 
 - previous:: [[notes/hierarchical-longterm-wiki]]

@@ -1,8 +1,8 @@
 ---
 created: 2023-03-28T15:58:54
 modified: 2023-03-28T15:58:54
-tags: []
-title: 'Inculction: Linear algebra'
+tags: [Inculcation]
+title: 'Inculcation: Linear algebra'
 aliases:
     - 
 ---
