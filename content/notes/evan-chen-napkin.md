@@ -7,4 +7,6 @@ aliases:
     - 
 ---
 
+> parent:: [[notes/inculcation]]
+
 [A Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf)

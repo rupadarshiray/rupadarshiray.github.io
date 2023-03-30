@@ -26,6 +26,7 @@
   --outlinegray: #343434 !important;
   --highlighted: #574010;
 }
+
 // Add your own CSS here!
 
 :root {
@@ -51,6 +52,19 @@
   --gray: #d4d4d4 !important;
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
+
+
+
+  .singlePage {
+    padding: 4em 15vw;
+    margin: 0 auto;
+    max-width: 2000px;
+
+    @media all and (max-width: 1200px) {
+      padding: 25px 5vw;
+    }
+  }
+
 
   h1 {
     color: #fa4d1e;
@@ -160,8 +174,3 @@
 
 
 }
-
-
-
-
-

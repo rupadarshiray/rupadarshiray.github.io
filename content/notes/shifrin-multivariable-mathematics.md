@@ -7,7 +7,7 @@ aliases:
     - /Shifrin-Multivariable-Mathematics/
 ---
 
-- parent:: [[notes/inculcation]]
+> parent:: [[notes/inculcation]]
 
 <iframe width="650" height="415" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL5I-Eyk8l9FHdJUd9UujGcvumjCFPHbrd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

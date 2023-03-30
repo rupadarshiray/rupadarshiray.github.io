@@ -29,7 +29,9 @@ aliases:
 - [[notes/evan-chen-napkin]]
 	- an introduction to a lots of fields of math! (NOT a textbook but a really nice book)
 	- starts with groups and metric spaces!
+
 ---
+
  [[notes/inculcation#Inside dim - - 1 spaces|Analysis in $\R$]]
  
 - ### Anaysis and linear algebra in $\mathbb{R}^n$
@@ -95,19 +97,21 @@ aliases:
 
 ---
 
-### Inside normed vector spaces
+### Inside $1 \leq \dim \leq \infty$ spaces
 (mostly finite dim)
 
-We do more inside $\mathbb{R}^{n}$ and venture out to do analysis in normed vector spaces. This also cascades while doing analysis in inner product spaces.
+We do more inside $\mathbb{R}^{n}$ and venture slightly out to do analysis in normed vector spaces. This also cascades while doing analysis in inner product spaces.
 
-- ### [[notes/inculcation-analysis-normed-vector-spaces|Analysis in normed vector spaces]]
+- #### In normved vector spaces
+	- [[notes/inculcation-analysis-normed-vector-spaces|Analysis in normed vector spaces]]
 - #### Differential geometry of submanifolds of $\mathbb{R}^{n}$
 	- #lecturenotes [diffgeo.pdf (ethz.ch)](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) One can distinguish extrinsic differential geometry and intrinsic differential geometry. The former restricts attention to submanifolds of Euclidean space while the latter studies manifolds equipped with a Riemannian metric. The extrinsic theory is more accessible because we can visualize curves and surfaces in $\mathbb{R}^{3}$ , but some topics can best be handled with the intrinsic theory...
 
 ---
 
 ### *Measure spaces* (measure theory)
-<ahem.>
+
+> I've no idea yet.
 
 
 
@@ -116,6 +120,10 @@ We do more inside $\mathbb{R}^{n}$ and venture out to do analysis in normed vect
 
 - Topology (AKA general topology/point set topology) - *as opposed to cute topology, we prove more content here*
 	- #book Munkres
+	- http://www.math.toronto.edu/ivan/mat327/?resources
+	- http://math.iisc.ac.in/~gadgil/topology-2021/all-lectures/
+	- [Topology (MTH-TOP) - YouTube](https://www.youtube.com/playlist?list=PLp0hSY2uBeP8jgD0wTQM-RjkakSEBdHUD)
+	- For a quick one lecture introduction with motivation: [Lecture 1: Topology (International Winter School on Gravity and Light 2015) - YouTube](https://www.youtube.com/watch?v=7G4SqIboeig)
 - Algebraic Topology - *study of holes in topological spaces*
 	- #book Hatcher
 

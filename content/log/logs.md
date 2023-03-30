@@ -7,3 +7,4 @@ aliases:
     - 
 ---
 
+Some are day journals, some are articles based on events happening during a year or so.

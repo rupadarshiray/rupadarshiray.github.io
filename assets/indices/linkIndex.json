@@ -52,8 +52,8 @@
         },
         {
           "source": "/log/log-12021-12",
-          "target": "/hierarchical-longterm-wiki",
-          "text": "Wiki"
+          "target": "/notes/hierarchical-longterm-wiki",
+          "text": "notes/hierarchical-longterm-wiki"
         }
       ],
       "/log/log-12021-12-29": [
@@ -61,6 +61,13 @@
           "source": "/log/log-12021-12-29",
           "target": "/log/logs",
           "text": "logs"
+        }
+      ],
+      "/log/log-12023-03": [
+        {
+          "source": "/log/log-12023-03",
+          "target": "/log/logs",
+          "text": "log/logs"
         }
       ],
       "/notes/20-prerequisites-for-quantum-mechanics": [
@@ -193,7 +200,7 @@
         },
         {
           "source": "/notes/inculcation",
-          "target": "/inculcation",
+          "target": "/notes/inculcation",
           "text": "Analysis in $\\R$"
         },
         {
@@ -213,8 +220,13 @@
         },
         {
           "source": "/notes/inculcation",
-          "target": "/driven_by_infinite_enthusiasm/classical_physics",
-          "text": "driven_by_infinite_enthusiasm/classical_physics"
+          "target": "/inculcation",
+          "text": "Rigorous constructions"
+        },
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/inculcation-fluid-mechanics",
+          "text": "Fluid mechanics"
         },
         {
           "source": "/notes/inculcation",
@@ -367,13 +379,6 @@
           "text": "Tinkering with superplugins"
         }
       ],
-      "/driven_by_infinite_enthusiasm/classical_physics": [
-        {
-          "source": "/notes/inculcation",
-          "target": "/driven_by_infinite_enthusiasm/classical_physics",
-          "text": "driven_by_infinite_enthusiasm/classical_physics"
-        }
-      ],
       "/folders-in-obsidian": [
         {
           "source": "/notes/starting-with-obsidian",
@@ -381,18 +386,11 @@
           "text": "Folders"
         }
       ],
-      "/hierarchical-longterm-wiki": [
-        {
-          "source": "/log/log-12021-12",
-          "target": "/hierarchical-longterm-wiki",
-          "text": "Wiki"
-        }
-      ],
       "/inculcation": [
         {
           "source": "/notes/inculcation",
           "target": "/inculcation",
-          "text": "Analysis in $\\R$"
+          "text": "Rigorous constructions"
         }
       ],
       "/log/logs": [
@@ -420,6 +418,11 @@
           "source": "/log/log-12021-12",
           "target": "/log/logs",
           "text": "logs"
+        },
+        {
+          "source": "/log/log-12023-03",
+          "target": "/log/logs",
+          "text": "log/logs"
         }
       ],
       "/notes/academia": [
@@ -506,6 +509,11 @@
       ],
       "/notes/hierarchical-longterm-wiki": [
         {
+          "source": "/log/log-12021-12",
+          "target": "/notes/hierarchical-longterm-wiki",
+          "text": "notes/hierarchical-longterm-wiki"
+        },
+        {
           "source": "/notes/academia",
           "target": "/notes/hierarchical-longterm-wiki",
           "text": "notes/hierarchical-longterm-wiki"
@@ -538,6 +546,11 @@
           "text": "notes/inculcation"
         },
         {
+          "source": "/notes/inculcation",
+          "target": "/notes/inculcation",
+          "text": "Analysis in $\\R$"
+        },
+        {
           "source": "/notes/inculction-linear-algebra",
           "target": "/notes/inculcation",
           "text": "notes/inculcation"
@@ -553,6 +566,13 @@
           "source": "/notes/inculcation",
           "target": "/notes/inculcation-analysis-normed-vector-spaces",
           "text": "Analysis in normed vector spaces"
+        }
+      ],
+      "/notes/inculcation-fluid-mechanics": [
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/inculcation-fluid-mechanics",
+          "text": "Fluid mechanics"
         }
       ],
       "/notes/inculction-linear-algebra": [
@@ -735,8 +755,13 @@
     },
     {
       "source": "/log/log-12021-12",
-      "target": "/hierarchical-longterm-wiki",
-      "text": "Wiki"
+      "target": "/notes/hierarchical-longterm-wiki",
+      "text": "notes/hierarchical-longterm-wiki"
+    },
+    {
+      "source": "/log/log-12023-03",
+      "target": "/log/logs",
+      "text": "log/logs"
     },
     {
       "source": "/notes/20-prerequisites-for-quantum-mechanics",
@@ -855,7 +880,7 @@
     },
     {
       "source": "/notes/inculcation",
-      "target": "/inculcation",
+      "target": "/notes/inculcation",
       "text": "Analysis in $\\R$"
     },
     {
@@ -875,8 +900,13 @@
     },
     {
       "source": "/notes/inculcation",
-      "target": "/driven_by_infinite_enthusiasm/classical_physics",
-      "text": "driven_by_infinite_enthusiasm/classical_physics"
+      "target": "/inculcation",
+      "text": "Rigorous constructions"
+    },
+    {
+      "source": "/notes/inculcation",
+      "target": "/notes/inculcation-fluid-mechanics",
+      "text": "Fluid mechanics"
     },
     {
       "source": "/notes/inculcation",
