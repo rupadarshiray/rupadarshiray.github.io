@@ -9,7 +9,7 @@ aliases:
 
 > parent:: [[notes/inculcation]]
 
-> [!tip] The architecture of fluid mechanics I: Averaging a differential equation system with high number of dynamical variables
+> [!check] The architecture of fluid mechanics I: Averaging a differential equation system with high number of dynamical variables
 > 
 > Hamiltonian system of a system of particles
 > $$\downarrow$$

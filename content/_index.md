@@ -13,3 +13,4 @@ This is an _academic curation_ and _journaling_ by me, Rupadarshi Ray, a prospec
   - [[about/now|/now]]
 - [[log/logs|logs]]
 - [[notes/academia]]
+	- [[notes/inculcation]]

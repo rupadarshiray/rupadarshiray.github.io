@@ -21,6 +21,11 @@
           "source": "/",
           "target": "/notes/academia",
           "text": "notes/academia"
+        },
+        {
+          "source": "/",
+          "target": "/notes/inculcation",
+          "text": "notes/inculcation"
         }
       ],
       "/about/about-me": [
@@ -96,22 +101,22 @@
         {
           "source": "/notes/academia",
           "target": "/notes/my-books",
-          "text": "notes/my-books"
+          "text": "books that I have"
         },
         {
           "source": "/notes/academia",
           "target": "/notes/my-notes",
-          "text": "notes/my-notes"
+          "text": "notes that I have made"
+        },
+        {
+          "source": "/notes/academia",
+          "target": "/notes/inculcation",
+          "text": "Inculcation"
         },
         {
           "source": "/notes/academia",
           "target": "/notes/derivatives-differential-forms-and-beyond-youtube",
           "text": "notes/derivatives-differential-forms-and-beyond-youtube"
-        },
-        {
-          "source": "/notes/academia",
-          "target": "/notes/inculcation",
-          "text": "notes/inculcation"
         }
       ],
       "/notes/academic-workstation": [
@@ -182,6 +187,13 @@
           "text": "Constructing a Mathematics Wiki"
         }
       ],
+      "/notes/evan-chen-napkin": [
+        {
+          "source": "/notes/evan-chen-napkin",
+          "target": "/notes/inculcation",
+          "text": "notes/inculcation"
+        }
+      ],
       "/notes/inculcation": [
         {
           "source": "/notes/inculcation",
@@ -237,6 +249,52 @@
           "source": "/notes/inculcation",
           "target": "/notes/inculcation-analysis-normed-vector-spaces",
           "text": "Analysis in normed vector spaces"
+        },
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/inculcation-smooth-manifolds",
+          "text": "notes/inculcation-smooth-manifolds"
+        },
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/20-prerequisites-for-quantum-mechanics",
+          "text": "notes/20-prerequisites-for-quantum-mechanics"
+        }
+      ],
+      "/notes/inculcation-analysis-normed-vector-spaces": [
+        {
+          "source": "/notes/inculcation-analysis-normed-vector-spaces",
+          "target": "/notes/inculcation",
+          "text": "notes/inculcation"
+        },
+        {
+          "source": "/notes/inculcation-analysis-normed-vector-spaces",
+          "target": "/notes/derivatives-differential-forms-and-beyond-youtube",
+          "text": "notes/derivatives-differential-forms-and-beyond-youtube"
+        },
+        {
+          "source": "/notes/inculcation-analysis-normed-vector-spaces",
+          "target": "/notes/evan-chen-napkin",
+          "text": "Napkin"
+        }
+      ],
+      "/notes/inculcation-fluid-mechanics": [
+        {
+          "source": "/notes/inculcation-fluid-mechanics",
+          "target": "/notes/inculcation",
+          "text": "notes/inculcation"
+        }
+      ],
+      "/notes/inculcation-smooth-manifolds": [
+        {
+          "source": "/notes/inculcation-smooth-manifolds",
+          "target": "/notes/inculcation",
+          "text": "notes/inculcation"
+        },
+        {
+          "source": "/notes/inculcation-smooth-manifolds",
+          "target": "/notes/evan-chen-napkin",
+          "text": "notes/evan-chen-napkin"
         }
       ],
       "/notes/inculction-linear-algebra": [
@@ -425,6 +483,13 @@
           "text": "log/logs"
         }
       ],
+      "/notes/20-prerequisites-for-quantum-mechanics": [
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/20-prerequisites-for-quantum-mechanics",
+          "text": "notes/20-prerequisites-for-quantum-mechanics"
+        }
+      ],
       "/notes/academia": [
         {
           "source": "/",
@@ -483,9 +548,24 @@
           "source": "/notes/academia",
           "target": "/notes/derivatives-differential-forms-and-beyond-youtube",
           "text": "notes/derivatives-differential-forms-and-beyond-youtube"
+        },
+        {
+          "source": "/notes/inculcation-analysis-normed-vector-spaces",
+          "target": "/notes/derivatives-differential-forms-and-beyond-youtube",
+          "text": "notes/derivatives-differential-forms-and-beyond-youtube"
         }
       ],
       "/notes/evan-chen-napkin": [
+        {
+          "source": "/notes/inculcation-analysis-normed-vector-spaces",
+          "target": "/notes/evan-chen-napkin",
+          "text": "Napkin"
+        },
+        {
+          "source": "/notes/inculcation-smooth-manifolds",
+          "target": "/notes/evan-chen-napkin",
+          "text": "notes/evan-chen-napkin"
+        },
         {
           "source": "/notes/inculcation",
           "target": "/notes/evan-chen-napkin",
@@ -541,7 +621,32 @@
       ],
       "/notes/inculcation": [
         {
+          "source": "/",
+          "target": "/notes/inculcation",
+          "text": "notes/inculcation"
+        },
+        {
           "source": "/notes/academia",
+          "target": "/notes/inculcation",
+          "text": "Inculcation"
+        },
+        {
+          "source": "/notes/evan-chen-napkin",
+          "target": "/notes/inculcation",
+          "text": "notes/inculcation"
+        },
+        {
+          "source": "/notes/inculcation-analysis-normed-vector-spaces",
+          "target": "/notes/inculcation",
+          "text": "notes/inculcation"
+        },
+        {
+          "source": "/notes/inculcation-fluid-mechanics",
+          "target": "/notes/inculcation",
+          "text": "notes/inculcation"
+        },
+        {
+          "source": "/notes/inculcation-smooth-manifolds",
           "target": "/notes/inculcation",
           "text": "notes/inculcation"
         },
@@ -575,6 +680,13 @@
           "text": "Fluid mechanics"
         }
       ],
+      "/notes/inculcation-smooth-manifolds": [
+        {
+          "source": "/notes/inculcation",
+          "target": "/notes/inculcation-smooth-manifolds",
+          "text": "notes/inculcation-smooth-manifolds"
+        }
+      ],
       "/notes/inculction-linear-algebra": [
         {
           "source": "/notes/inculcation",
@@ -586,14 +698,14 @@
         {
           "source": "/notes/academia",
           "target": "/notes/my-books",
-          "text": "notes/my-books"
+          "text": "books that I have"
         }
       ],
       "/notes/my-notes": [
         {
           "source": "/notes/academia",
           "target": "/notes/my-notes",
-          "text": "notes/my-notes"
+          "text": "notes that I have made"
         }
       ],
       "/notes/obsidian-metadata-and-query": [
@@ -729,6 +841,11 @@
       "text": "notes/academia"
     },
     {
+      "source": "/",
+      "target": "/notes/inculcation",
+      "text": "notes/inculcation"
+    },
+    {
       "source": "/about/about-me",
       "target": "/about/now",
       "text": "now-a-days here"
@@ -786,22 +903,22 @@
     {
       "source": "/notes/academia",
       "target": "/notes/my-books",
-      "text": "notes/my-books"
+      "text": "books that I have"
     },
     {
       "source": "/notes/academia",
       "target": "/notes/my-notes",
-      "text": "notes/my-notes"
+      "text": "notes that I have made"
+    },
+    {
+      "source": "/notes/academia",
+      "target": "/notes/inculcation",
+      "text": "Inculcation"
     },
     {
       "source": "/notes/academia",
       "target": "/notes/derivatives-differential-forms-and-beyond-youtube",
       "text": "notes/derivatives-differential-forms-and-beyond-youtube"
-    },
-    {
-      "source": "/notes/academia",
-      "target": "/notes/inculcation",
-      "text": "notes/inculcation"
     },
     {
       "source": "/notes/academic-workstation",
@@ -864,6 +981,41 @@
       "text": "Constructing a Mathematics Wiki"
     },
     {
+      "source": "/notes/evan-chen-napkin",
+      "target": "/notes/inculcation",
+      "text": "notes/inculcation"
+    },
+    {
+      "source": "/notes/inculcation-analysis-normed-vector-spaces",
+      "target": "/notes/inculcation",
+      "text": "notes/inculcation"
+    },
+    {
+      "source": "/notes/inculcation-analysis-normed-vector-spaces",
+      "target": "/notes/derivatives-differential-forms-and-beyond-youtube",
+      "text": "notes/derivatives-differential-forms-and-beyond-youtube"
+    },
+    {
+      "source": "/notes/inculcation-analysis-normed-vector-spaces",
+      "target": "/notes/evan-chen-napkin",
+      "text": "Napkin"
+    },
+    {
+      "source": "/notes/inculcation-fluid-mechanics",
+      "target": "/notes/inculcation",
+      "text": "notes/inculcation"
+    },
+    {
+      "source": "/notes/inculcation-smooth-manifolds",
+      "target": "/notes/inculcation",
+      "text": "notes/inculcation"
+    },
+    {
+      "source": "/notes/inculcation-smooth-manifolds",
+      "target": "/notes/evan-chen-napkin",
+      "text": "notes/evan-chen-napkin"
+    },
+    {
       "source": "/notes/inculcation",
       "target": "/notes/evan-chen-napkin",
       "text": "notes/evan-chen-napkin"
@@ -917,6 +1069,16 @@
       "source": "/notes/inculcation",
       "target": "/notes/inculcation-analysis-normed-vector-spaces",
       "text": "Analysis in normed vector spaces"
+    },
+    {
+      "source": "/notes/inculcation",
+      "target": "/notes/inculcation-smooth-manifolds",
+      "text": "notes/inculcation-smooth-manifolds"
+    },
+    {
+      "source": "/notes/inculcation",
+      "target": "/notes/20-prerequisites-for-quantum-mechanics",
+      "text": "notes/20-prerequisites-for-quantum-mechanics"
     },
     {
       "source": "/notes/inculction-linear-algebra",
