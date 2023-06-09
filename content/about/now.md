@@ -9,6 +9,5 @@ title: "now"
 
 > This is a [/now page](https://nownownow.com/about) for me!
 
-- In my 4th semester of BSMS at IISER Mohali.
-- Applying for Mathematics summer internships.
-- Reading category theory, on smooth manifolds, gauge, gravity etc.
+- Doing a reading project on differential topology.
+- Studying analysis, sympathetic geometry, etc.
