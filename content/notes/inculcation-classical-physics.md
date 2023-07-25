@@ -68,6 +68,9 @@ Also, Balki name drops a LOT of stuff. You may choose to ignore them initially, 
 
 
 - **Main Goal:StatM** derive the empirical laws of thermodynamics from mechanics.
+- [Statistical Mechanics From Thermodynamics to the Renormalization Group](http://library.lol/main/A8C329B75A3CB6CEEF87790E8C8C88BA)
 - https://www.math.uni-tuebingen.de/de/forschung/maphy/lehre/ss-2019/statisticalphysics/dateien/lecture-notes.pdf - best reference I've seen
 	- actually talks about the main goal
-- 
+- [Information Geometry (ucr.edu)](https://math.ucr.edu/home/baez/information/)
+	- Part 17-21 is where thermodynamics is discussed
+- [Classical Mechanics versus Thermodynamics (ucr.edu)](https://math.ucr.edu/home/baez/classical_vs_thermo/)
