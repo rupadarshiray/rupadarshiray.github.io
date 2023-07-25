@@ -7,6 +7,7 @@ aliases:
     - 
 ---
 
+> parent:: [[notes/inculcation]]
 
 - Mechanics ($\hbar = 0$): 
 	- *pure physics formalisms* Newtonian ($c=\infty$), special relativistic ($c=1$)
