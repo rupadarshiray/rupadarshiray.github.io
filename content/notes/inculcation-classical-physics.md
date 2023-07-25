@@ -9,9 +9,9 @@ aliases:
 
 
 - Mechanics ($\hbar = 0$): 
-	- *pure physics formalism* Newtonian ($c=\infty$), special relativistic ($c=1$)
-	- *pure differential equations put geometrically formalism* Lagriangian, Hamiltonian systems
-	- *converting to probabilistic questions* Statistical mechanics, ergodic theory
+	- *pure physics formalisms* Newtonian ($c=\infty$), special relativistic ($c=1$)
+	- *pure "differential equations put geometrically"-formalisms* Lagriangian, Hamiltonian systems
+	- *"converting to probabilistic questions"-formalisms* Statistical mechanics, ergodic theory
 - sadly no "really good" physics references can be used now/Morin, Goldstein etc all okayish in terms of motivation, insight
 - try doing (Newtonian mechanics)
 	- rigid bodies
