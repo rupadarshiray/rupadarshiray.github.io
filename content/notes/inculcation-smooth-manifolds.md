@@ -10,6 +10,15 @@ aliases:
 > parent:: [[notes/inculcation]]
 
 
+## initial philosophy of manifolds
+
+> [!tip] Philosophy of manifolds I: to go out of submanifolds of $\R^{n}$
+> 
+> After studying submanifolds of $\R^{n}$, or just surfaces in $\R^{2}$, why do we want to think of arbitary sets as "manifolds", as something we can do things we could do to smooth surfaces? Because then *anything* could be a manifolds. 
+> 
+> Well not *anything*, but many sets can be attached with a smooth manifold structures. For example, $SO(\R^{3})$ (which is a group or a set of functions really!), spacetime in physics, . This helps us do *analysis* in more kinds of spaces, and generalise geometry equipped with differentiation.
+
+
 ## architecture of manifolds
 
 Sadly, the definition and introductory theory of manifolds is "complete garbage" [^evan]
@@ -30,11 +39,6 @@ There are three motivations for the definitions and ideas
 - Topology, algebraic topology
 
 
-> [!tip] Philosophy of manifolds I: to go out of submanifolds of $\R^{n}$
-> 
-> After studying submanifolds of $\R^{n}$, or just surfaces in $\R^{2}$, why do we want to think of arbitary sets as "manifolds", as something we can do things we could do to smooth surfaces? Because then *anything* could be a manifolds. 
-> 
-> Well not *anything*, but many sets can be attached with a smooth manifold structures. For example, $SO(\R^{3})$ (which is a group or a set of functions really!), spacetime in physics, . This helps us do *analysis* in more kinds of spaces, and generalise geometry equipped with differentiation.
 
 
 There are some absurdity in the definitions of objects which are very simple in the case of normed vector spaces
@@ -67,13 +71,14 @@ There are some absurdity in the definitions of objects which are very simple in 
 
 ## beyond the first course and uses
 
-- Riemannian geometry, GR
+- (semi)Riemannian geometry, GR
 - Differential topology
 	- Morse theory
 	- Cobordism theory
-	- Knots
+- Knots
 - Gauge theory
-- Canonical mechanics
-- Symplectic geometry, Hamiltonian dynamics
-- geometric quantization
-- Smooth dynamical systems
+- Canonical mechanics (classical mechanics done right)
+	- Lagrangian dynamics
+	- Symplectic geometry (Hamiltonian dynamics)
+- geometric quantization (classical mechanics $\to$ quantum mechanics, proper)
+- Smooth dynamical systems: vector fields on manifolds can give us ODEs

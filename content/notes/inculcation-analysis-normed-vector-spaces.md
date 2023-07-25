@@ -14,7 +14,9 @@ aliases:
 
 #### Functions
 - Total derivative of functions between normed vector spaces
-- Integrating differential forms on chains
+- Differential forms
+    - Exterior derivatives (generalizing grad, curl and div)
+    - Integrating differential forms on chains (generalizing line, surface, volume integrals)
 
 > This is me explaining tensors, derivatives and differential forms, focusing mostly on motivation of the philosophy and also looking for no-brain symbolic calculation: [[notes/derivatives-differential-forms-and-beyond-youtube]]
 

@@ -52,28 +52,22 @@ This has five major sections
 	- #book Artin - Algebra
 	- #book Algebra Chapter 0
 - ### cute topology
+	- [Topology & Geometry by Dr Tadashi Tokieda - YouTube](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
 - ### Differential geometry in $\mathbb{R}^3$ proper with introducing yourself *cute topology*
 	- These lectures below has pre-requisites of basic topology and linear algebra, analysis in $\mathbb{R}^{n}$ #lectures [ICTP Diploma - Differential Geometry - Claudio Arezzo - YouTube](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz)
 - You can definitely continue with rigorous analysis at this point here (instead of doing *handwavey* physics), it's always an inculcating and ever-increasing skill and knowledge-base: [[inculcation#Rigorous constructions|Rigorous constructions]]
 - ### *handwavey* physics
-	- To to anything *properly* in classical mechanics/quantum mechanics, the theory of manifolds, normed vector spaces and measure becomes important. They are constructed in [[inculcation#Rigorous constructions|Rigorous constructions]], but doing vague stuff first does not hurt.
+	- To to anything *properly* in classical mechanics/quantum mechanics, the theory of analysis in normed vector spaces and  manifolds, measure, ODEs, dyanmical systems becomes important. They are constructed in [[inculcation#Rigorous constructions|Rigorous constructions]], but doing vague stuff first does not hurt - anything for **motivations**!.
 		- One would think while reading these basic books that there are these "untouchable books" which are very far off - while they are actually easy to grasp if basic ideas of manifolds/normed vector spaces are known.
-	- #### I DECREE: DO MORE CLASSICAL!
-		- Mechanics: Newtonian, special relativistic and statistical.
-			- sadly no "really good" references can be used now/Morin, Goldstein etc all okayish
-			- try doing (Newtonian mechanics)
-				- rigid bodies
-				- central forces
-				- n-body problem with different force laws
-					- #question Which force law produces simple solutions for the n-body problem? ~~Hint: Newton answers this in principia~~
-			- [[Balakrishnan_Classical_Physics]]
-			- #book LandauL volume I
+	- #### I DECREE: DO MORE CLASSICAL (before quantum)!
+		- [[notes/inculcation-classical-physics|Classical physics]]
 		- ⭐ [[notes/inculcation-fluid-mechanics|Fluid mechanics]]
-		- [Non-linear dynamics by Balki](https://www.youtube.com/watch?v=nh4TFzg30eQ&list=PLbMVogVj5nJQKk1E7OUQs_TcW_zQoaO4t)
+		- [Non-linear dynamics by Balki](https://www.youtube.com/watch?v=nh4TFzg30eQ&list=PLbMVogVj5nJQKk1E7OUQs_TcW_zQoaO4t) - also substitute this with any ODE+Dynamical system course
 	- #### (only if you wanna do quantum)
+		- Griffiths Quantum Mechanics if you really lack motivation
 		- Quantum Physics by Balki
 		- Quantum computation - chapters 23-25 from [[notes/evan-chen-napkin]]
-- Category theory - *a new way to think about structures, spaces and mathematics*
+- Category theory - *a new way to think about structures, spaces and mathematics* - critical if you want to start with algebriac topology
 - graph theory
 
 ## Rigorous constructions
@@ -167,7 +161,7 @@ With the language of manifolds/normed vector spaces we can work in geometry, top
 
 ## new way of looking at things never ends ✨
 - #lectures [MathHistory: A course in the History of Mathematics](https://www.youtube.com/playlist?list=PL55C7C83781CF4316)
-
+- Category theory, $n$-categories, infinity-categories, etc.
 # How to study?
 - ## How to do lectures?
 	- Use https://obsidian.md to organize the amount of content/
@@ -186,7 +180,7 @@ With the language of manifolds/normed vector spaces we can work in geometry, top
 # more references, roadmaps
 
 > [!bug] Stuff missing from here
-> - Number theory
+> - Number theory! 
 
 > [!info] Newsletter?, channel, chat?
 > 
