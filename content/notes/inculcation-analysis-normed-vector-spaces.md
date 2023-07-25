@@ -9,7 +9,7 @@ aliases:
 
 > parent:: [[notes/inculcation]]
 
-#### Prerequisites
+#### Algebriac structures
 - **Algebras of a vector space**: Tensor algebra, symmetric algebra, exterior algebra
 
 #### Functions
