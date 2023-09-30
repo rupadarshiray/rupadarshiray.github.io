@@ -1,11 +1,10 @@
 ---
 created: 2023-09-30T09:58:25
 modified: 2023-09-30T09:58:28
-tags: 
+tags:
+  - Inculcation
 title: "Inculcation: ODEs"
-aliases: 
-alias:
-  - "Inculcation: ODEs"
+aliases:
 ---
 
 # Inculcation: ODEs
