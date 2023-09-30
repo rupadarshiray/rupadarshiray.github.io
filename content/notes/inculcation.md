@@ -21,8 +21,8 @@ This has five major sections
 1. journey starts: [[notes/inculcation#start with the little things and the big things|start with the little things and the big things]]
 2. discoveries: [[notes/inculcation#dive into mathphysics -|dive into math physics ✨]]
 3. a need for clarity and details: [[notes/inculcation#Rigorous constructions|Rigorous constructions]]
-4. the old discoveries in new light: [[notes/inculcation#apply your new-found knowledge|apply your new-found knowledge]]
-5. epilogue: [[notes/inculcation#new way of looking at things never ends -|new way of looking at things never ends ✨]]
+4. the old discoveries in new light: [[notes/inculcation#apply your new-found knowledge new way of looking at things never ends ✨|apply your new-found knowledge new way of looking at things never ends ✨]]
+5. epilogue: [[notes/inculcation#starting again?|starting again?]]
 
 ## start with the little things and the big things
 
@@ -36,37 +36,59 @@ This has five major sections
 - ### [[notes/evan-chen-napkin]]
 	- an introduction to a lots of fields of math! (NOT a textbook but a really nice introductory reference)
 	- starts with groups and metric spaces!
-- ### [[notes/inculcation#Inside dim - - 1 spaces|Analysis in $\R$]]
-- ### Anaysis and linear algebra in $\mathbb{R}^n$
-	- from [[notes/evan-chen-napkin]]
-		- Chapters 26-30 - Calculus 101
-		- Chapters 42-45 - Total derivatives and differential forms
-		- Chapters 2, 6-8 - Topology
-	- [[notes/shifrin-multivariable-mathematics]] - a 2 semester course/book that covers linear algebra and (proper) multivariable calc
+- ### things in the middle: Analysis
+	- definitely start with Tao's Analysis volumes 1 and 2, but for more: [[notes/inculcation#Inside reals and metric spaces|Analysis in $\R$]]
+	- #### Anaysis and linear algebra in $\mathbb{R}^n$
+		- from [[notes/evan-chen-napkin]]
+			- Chapters 26-30 - Calculus 101
+			- Chapters 42-45 - Total derivatives and differential forms
+			- Chapters 2, 6-8 - Topology
+		- [[notes/shifrin-multivariable-mathematics]] - a 2 semester course/book that covers linear algebra and (proper) multivariable calc
+	- more in [[inculcation#Rigorous constructions|Rigorous constructions]]
 - ### Mechanics and action
-	- Never start physics in the conventional road, start right here: (short #lectures ) [Mechanics using the Action by T Paddy](https://youtube.com/playlist?list=PLlFCvH2vR5kRzC1LQtHy_MUAquC-tQiiW)
+	- Never start physics in the conventional road, start right here: ==(short lectures)== [Mechanics using the Action by T Paddy](https://youtube.com/playlist?list=PLlFCvH2vR5kRzC1LQtHy_MUAquC-tQiiW)
 
 ## dive into math/physics ✨
-- ### Algebra
-	- #lectures [Abstract Algebra by Benedict Gross - YouTube](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3)
-	- #book Artin - Algebra
-	- #book Algebra Chapter 0
-- ### cute topology
+
+- ### continued algebra
+
+
+- #lectures [Abstract Algebra by Benedict Gross - YouTube](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3)
+- #book Artin - Algebra
+- #book Algebra Chapter 0
+
+
+### cute topology and geometry
+
+
+- #### differential geometry of curves and surfaces in $\mathbb{R}^3$ 
+	- These lectures has pre-requisites of linear algebra, analysis in $\mathbb{R}^{n}$ #lectures [ICTP Diploma - Differential Geometry - Claudio Arezzo - YouTube](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz) knowing total derivatives and bilinear forms with introducing yourself a little *topology* (compactness, connectedness)
+- #### cute topology
 	- [Topology & Geometry by Dr Tadashi Tokieda - YouTube](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
-- ### Differential geometry in $\mathbb{R}^3$ proper with introducing yourself *cute topology*
-	- These lectures below has pre-requisites of basic topology and linear algebra, analysis in $\mathbb{R}^{n}$ #lectures [ICTP Diploma - Differential Geometry - Claudio Arezzo - YouTube](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz)
+	- Knot theory
+	- [Dirac's belt trick, Topology, and Spin ½ particles - YouTube](https://www.youtube.com/watch?v=ACZC_XEyg9U)
+
+### *handwavey* physics
+
+![](https://i.imgur.com/dkGS1Kx.png)
+
+
 - You can definitely continue with rigorous analysis at this point here (instead of doing *handwavey* physics), it's always an inculcating and ever-increasing skill and knowledge-base: [[inculcation#Rigorous constructions|Rigorous constructions]]
-- ### *handwavey* physics
-	- To to anything *properly* in classical mechanics/quantum mechanics, the theory of analysis in normed vector spaces and  manifolds, measure, ODEs, dyanmical systems becomes important. They are constructed in [[inculcation#Rigorous constructions|Rigorous constructions]], but doing vague stuff first does not hurt - anything for **motivations**!.
-		- One would think while reading these basic books that there are these "untouchable books" which are very far off - while they are actually easy to grasp if basic ideas of manifolds/normed vector spaces are known.
-	- #### I DECREE: DO MORE CLASSICAL (before quantum)!
-		- [[notes/inculcation-classical-physics|Classical physics]]
-		- ⭐ [[notes/inculcation-fluid-mechanics|Fluid mechanics]]
-		- [Non-linear dynamics by Balki](https://www.youtube.com/watch?v=nh4TFzg30eQ&list=PLbMVogVj5nJQKk1E7OUQs_TcW_zQoaO4t) - also substitute this with any ODE+Dynamical system course
-	- #### (only if you wanna do quantum)
-		- Griffiths Quantum Mechanics if you really lack motivation
-		- Quantum Physics by Balki
-		- Quantum computation - chapters 23-25 from [[notes/evan-chen-napkin]]
+- To to anything *properly* in classical mechanics/quantum mechanics, the theory of analysis in normed vector spaces and  manifolds, measure, ODEs, dyanmical systems becomes important. They are constructed in [[inculcation#Rigorous constructions|Rigorous constructions]], but doing vague stuff first does not hurt - anything for **motivations**!
+- One would think while reading these basic books that there are these "untouchable books" which are very far off - while they are actually easy to grasp if basic ideas of manifolds/normed vector spaces are known - things like coordinate transformation, "objects that transform like objects" becomes trivial.
+- #### DO MORE CLASSICAL (before quantum)!
+	- [[notes/inculcation-classical-physics|Classical physics]]
+	- ⭐ [[notes/inculcation-fluid-mechanics|Fluid mechanics]]
+	- [Non-linear dynamics by Balki](https://www.youtube.com/watch?v=nh4TFzg30eQ&list=PLbMVogVj5nJQKk1E7OUQs_TcW_zQoaO4t) - also substitute this with any ODE+Dynamical system course
+	- ##### statistical mechanics
+		- definitely do this before quantum
+- #### (only if you wanna do quantum)
+	- Griffiths Quantum Mechanics if you are an absolute beginner
+	- Quantum Physics by Balki
+	- Quantum computation - chapters 23-25 from [[notes/evan-chen-napkin]]
+
+### categories, graphs and probabilities
+
 - Category theory - *a new way to think about structures, spaces and mathematics* - critical if you want to start with algebriac topology
 - graph theory
 
@@ -78,22 +100,38 @@ This has five major sections
 > - the idea is to *create* meaning, objects out of nothing..., even in familiar spaces and then going to unfamiliar ones!
 > - reminder: nothing (even rigor) is more scary than doing wrong stuff!
 
-### Inside dim = 1 spaces
-(and  a little metric space more)
+The order might so something like this
 
-- #book Tao Analysis vol I, II
+- inside $\R$
+- inside metric spaces
+- inside vector spaces
+	- inside normed $\R$-vector spaces, inner product spaces, or *just* inside $\R^{n}$
+- on submanifolds of $\R^{n}$
+- inside rings and modules
+- inside categories
+- out on topological spaces
+- out on measure spaces
+- out on smooth manifolds
+- inside infinite dim spaces
+### Inside reals and metric spaces
+
+
+- #book Tao Analysis vol I, II - this is the best reference for any beginner!
 - #book Apostol - Mathematical Analysis
 - #book Rudin Analysis (Baby Rudin)
-- Content
-	- Construct(!!) reals from integers -> rationals
-	- Metric spaces
+- #### Analysis in $\R$
+	- Construct(!!) from $\mathbb{Z} \to \mathbb{Q} \to \mathbb{R}$
+	- Sequences, limits of sequences
+- #### Metric spaces
 	- Sequences and series
 	- $\epsilon-\delta$ limits of functions, continuity
+	- get motivated for topological spaces
 
 
 ---
 
-### Inside $1 \leq \dim \leq \infty$ spaces
+### Inside finite dim spaces
+
 (mostly finite dim)
 
 We do more inside $\mathbb{R}^{n}$ and venture slightly out to do analysis in normed vector spaces. This also cascades while doing analysis in inner product spaces.
@@ -107,12 +145,12 @@ We do more inside $\mathbb{R}^{n}$ and venture slightly out to do analysis in no
 
 ### *Measure spaces* (measure theory)
 
-> I've no idea yet.
+> I've no idea yet!
 
 
+### *Topological spaces* 
 
-
-### *Topological spaces* (topology, algebraic topology)
+AKA the fields of topology, algebraic topology
 
 - Topology (AKA general topology/point set topology) - *as opposed to cute topology, we prove more content here*
 	- #book Munkres
@@ -135,33 +173,35 @@ We do more inside $\mathbb{R}^{n}$ and venture slightly out to do analysis in no
 
 May try #lectures [Frederic Schuller -International Winter School on Gravity and Light 2015](https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_) without any other context or to get into it fully: [[notes/inculcation-smooth-manifolds]].
 
+### Inside not finite dim spaces 
 
-### Inside dim $=\infty$ spaces (functional analysis)
+AKA functional analysis!
 
 Of course, I've no idea about this.
 - #lectures Frederic Schuller - Quantum Theory
 
-## apply your new-found knowledge
+## apply your new-found knowledge: new way of looking at things never ends ✨
 
 With the language of manifolds/normed vector spaces we can work in geometry, topology and physics properly! (no handwaves!)
 
-- ### geometry
-	- Riemannian geometry
-- ODEs, PDEs
-- ### dynamical systems
-	- req: topology, manifolds, measure
-	- #talk [Mathematics of Turbulent Flows: A Million Dollar Problem! by Edriss S Titi - YouTube](https://www.youtube.com/watch?v=VH4oawCiHPU)
-	- Hamiltonian systems and symplectic geometry
-	- PDEs
-	- Ergodic theory
-	- #lecturenotes Use measure theory to do [Classical Equilibrium Statistical Mechanics](https://warwick.ac.uk/fac/sci/maths/people/staff/stefan_adams/lecturenotestvi/cdias-adams-30.pdf)
-- Differential topology
-- ### GR
-- probability
+- Riemannian geometry, semi-Riemannian geometry, GR
+- ODEs [[notes/inculcation-odes|Inculcation: ODEs]]
+- Ergodic theory
+- PDEs
+- ==talk== [Mathematics of Turbulent Flows: A Million Dollar Problem! by Edriss S Titi - YouTube](https://www.youtube.com/watch?v=VH4oawCiHPU)
+- Hamiltonian systems and symplectic geometry
+- Thermodynamic systems, ODEs and contact geometry
+- QM
+- ==lecturenotes== Use measure theory to do [Classical Equilibrium Statistical Mechanics](https://warwick.ac.uk/fac/sci/maths/people/staff/stefan_adams/lecturenotestvi/cdias-adams-30.pdf)
+- Differential topology, or algebriac topology with a differential viewpoint
+- Probability, information theory
 
-## new way of looking at things never ends ✨
+## starting again?
+
 - #lectures [MathHistory: A course in the History of Mathematics](https://www.youtube.com/playlist?list=PL55C7C83781CF4316)
-- Category theory, $n$-categories, infinity-categories, etc.
+
+
+
 # How to study?
 - ## How to do lectures?
 	- Use https://obsidian.md to organize the amount of content/

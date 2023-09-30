@@ -14,13 +14,17 @@ aliases:
 	- *pure "differential equations put geometrically"-formalisms* Lagriangian, Hamiltonian systems
 	- *"converting to probabilistic questions"-formalisms* Statistical mechanics, ergodic theory
 - sadly no "really good" physics references can be used now/Morin, Goldstein etc all okayish in terms of motivation, insight
-- try doing (Newtonian mechanics)
+
+
+# starting classical mechanics
+
+- try doing Newtonian mechanics first
 	- rigid bodies
 	- central forces
 	- n-body problem with different force laws
 		- #question Which force law produces simple solutions for the n-body problem? ~~Hint: Newton answers this in principia~~
 - #book LandauL volume I
-
+- definitely do a little [[notes/inculcation-odes|Inculcation: ODEs]] - understand the *geometric pov*, flows etc.
 
 ## Balakrishnan's Classical Physics
 
@@ -31,8 +35,6 @@ Newotonian, Lagrangian, Hamiltonian, Statistical mechanics, special relativity.
 These are nice as an intro proper physics, they will look fascinating, but my recommended levels of motivation and precision is absent. These are "Feynman lectures done right".
 
 Also, Balki name drops a LOT of stuff. You may choose to ignore them initially, because each term becomes a rabbit hole for math topics.
-
-
 
 ### Lecture wise book references
 
