@@ -19,7 +19,7 @@ This is a standard geometric interpretation.
 
 Did you ever think an ordinary differential equations book will have this picture:
 
-![](https://i.imgur.com/yRrKeIe.png)
+![|700](https://i.imgur.com/yRrKeIe.png)
 
 
 This is Perko's book [Differential Equations and Dynamical Systems, Third Edition (2006)](http://library.lol/main/B2FA263686F1AAB9F19B2EBA8E12DD04), a good read, if youre familiar with Analysis in $\R^{n}$. Otherwise any physics text on "non-linear dynamics" works..
