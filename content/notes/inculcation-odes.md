@@ -27,9 +27,11 @@ This is Perko's book [Differential Equations and Dynamical Systems, Third Editio
 What we do is, write a differential equation like 
 
 $$\begin{bmatrix} \dot{x}_{1} \\\dot{x}_{2} \\ \dots \\ \dot{x}_{n} \end{bmatrix} = \begin{bmatrix} f_{1}(x_{1},x_{2}\dots,x_{n}) \\ f_{2}(x_{1},x_{2}\dots,x_{n}) \\ \dots \\f_{n}(x_{1},x_{2}\dots,x_{n}) \\ \end{bmatrix}$$
+
 and make it even more compact by 
 
 $$\dot{\mathbf{x}}=\mathbf{f}(\mathbf{x})$$
+
 where $\mathbf{f}:\mathcal{U} \subseteq \R^{n} \to \R^{n}$ is a *vector field* on the open domain $\mathcal{U}$.
 
 This gives us a geometric pov on ODEs in $\R^{n}$, *and* we have a 
