@@ -26,9 +26,9 @@ This is Perko's book [Differential Equations and Dynamical Systems, Third Editio
 
 What we do is, write a differential equation like 
 
-$$\begin{aligned} \dot{x}_{1} &= f_{1}(x_{1},x_{2}\dots,x_{n}) \\\dot{x}_{2} &= f_{2}(x_{1},x_{2}\dots,x_{n}) \\ &\dots \\ \dot{x}_{n} &= f_{1}(x_{1},x_{2}\dots,x_{n}) \end{aligned}$$
+$$\dot{x}_{i} = f_{i}(x_{1},x_{2}\dots,x_{n})$$
 
-and make it even more compact by 
+for all $1\leq i \leq n$so we have $n$ equations for $n$ variables $x_{i}$ and make it even more compact by
 
 $$\dot{\mathbf{x}}=\mathbf{f}(\mathbf{x})$$
 
