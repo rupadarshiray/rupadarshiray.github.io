@@ -21,7 +21,7 @@ This has five major sections
 1. journey starts: [[notes/inculcation#start with the little things and the big things|start with the little things and the big things]]
 2. discoveries: [[notes/inculcation#dive into mathphysics -|dive into math physics ✨]]
 3. a need for clarity and details: [[notes/inculcation#Rigorous constructions|Rigorous constructions]]
-4. the old discoveries in new light: [[notes/inculcation#apply your new-found knowledge new way of looking at things never ends ✨|apply your new-found knowledge new way of looking at things never ends ✨]]
+4. the old discoveries in new light: [[notes/inculcation#apply your new-found knowledge new way of looking at things never ends-|apply your new-found knowledge new way of looking at things never ends ✨]]
 5. epilogue: [[notes/inculcation#starting again?|starting again?]]
 
 ## start with the little things and the big things
@@ -70,7 +70,7 @@ This has five major sections
 
 ### *handwavey* physics
 
-![](https://i.imgur.com/dkGS1Kx.png)
+![|600](https://i.imgur.com/dkGS1Kx.png)
 
 
 - You can definitely continue with rigorous analysis at this point here (instead of doing *handwavey* physics), it's always an inculcating and ever-increasing skill and knowledge-base: [[inculcation#Rigorous constructions|Rigorous constructions]]
