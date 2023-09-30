@@ -26,7 +26,7 @@ This is Perko's book [Differential Equations and Dynamical Systems, Third Editio
 
 What we do is, write a differential equation like 
 
-$$\dot{x}_{i} = f_{i}(x_{1},x_{2}\dots,x_{n})$$
+$$\dot{x}_{i}=f_{i}(x_{1},x_{2}\dots,x_{n})$$
 
 for all $1\leq i \leq n$so we have $n$ equations for $n$ variables $x_{i}$ and make it even more compact by
 
