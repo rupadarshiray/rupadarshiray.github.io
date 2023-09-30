@@ -26,7 +26,7 @@ This is Perko's book [Differential Equations and Dynamical Systems, Third Editio
 
 What we do is, write a differential equation like 
 
-$$\begin{pmatrix} \dot{x}_{1} \\\dot{x}_{2} \\ \dots \\ \dot{x}_{n} \end{pmatrix} = \begin{pmatrix} f_{1}(x_{1},x_{2}\dots,x_{n}) \\ f_{2}(x_{1},x_{2}\dots,x_{n}) \\ \dots \\f_{n}(x_{1},x_{2}\dots,x_{n}) \\ \end{pmatrix}$$
+$$\begin{aligned} \dot{x}_{1} &= f_{1}(x_{1},x_{2}\dots,x_{n}) \\\dot{x}_{2} &= f_{2}(x_{1},x_{2}\dots,x_{n}) \\ &\dots \\ \dot{x}_{n} &= f_{1}(x_{1},x_{2}\dots,x_{n}) \end{aligned}$$
 
 and make it even more compact by 
 
