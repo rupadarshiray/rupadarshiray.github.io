@@ -22,13 +22,15 @@ Did you ever think an ordinary differential equations book will have this pictur
 ![|700](https://i.imgur.com/yRrKeIe.png)
 
 
-This is Perko's book [Differential Equations and Dynamical Systems, Third Edition (2006)](http://library.lol/main/B2FA263686F1AAB9F19B2EBA8E12DD04), a good read, if youre familiar with Analysis in $\R^{n}$. Otherwise any physics text on "non-linear dynamics" works..
+This is Perko's book [Differential Equations and Dynamical Systems, Third Edition (2006)](http://library.lol/main/B2FA263686F1AAB9F19B2EBA8E12DD04), a good read, if youre familiar with Analysis in $\R^{n}$. Otherwise any physics text on "non-linear dynamics" works, for example Steven Strogatz's Non-linear dynamics lecture videos and book.
+
+---
 
 What we do is, write a differential equation like 
 
-$$\dot{x}_{i}=f_{i}(x_{1},x_{2}\dots,x_{n})$$
+$$\dot{x}_{i}=f_{i}(x_{1},x_{2},\dots,x_{n})$$
 
-for all $1\leq i \leq n$so we have $n$ equations for $n$ variables $x_{i}$ and make it even more compact by
+for all $1\leq i \leq n$ so we have $n$ equations for $n$ variables $x_{i}$ and make it even more compact by
 
 $$\dot{\mathbf{x}}=\mathbf{f}(\mathbf{x})$$
 

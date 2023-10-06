@@ -31,7 +31,7 @@ Sadly, the definition and introductory theory of manifolds is "complete garbage"
 
 ### hence manifolds generalize coordinate systems
 
-## motivation for manifolds and its technologies
+## motivation for the technologies
 
 There are three motivations for the definitions and ideas
 - Analysis and geometry in the submanifolds of $\mathbb{R}^{n}$ or surfaces in $\mathbb{R}^{3}$
@@ -51,23 +51,32 @@ There are some absurdity in the definitions of objects which are very simple in 
 |                                             |                                                                                                    |                                                                                                                              |
 | tangent vector fields                       | a smooth function $V \to V$                                                                        | a smooth function $M \to TM$ such that $p \in M$ is mapped to a vector in $v \in T_{p}M$ (called a *smooth section of $TM$*) |
 | dual (tangent) space                        | $V^{*}:=\mathrm{Hom} \mathsf{Vec}_{\R}(V,\R)$                                                      | $T^{*}_{p}M := (T_{p}M)^{*}$                                                                                                 |
-| $(p,q)$-(tangent) tensor space              | $\mathbfit{T}^{p,q}(V)$                                                                            | $\mathbfit{T}^{p,q}(T_{p}M)$                                                                                                 |
-| tensor bundle                               | (not essential)                                                                                    | $\mathbfit{T}^{p,q}TM:= \bigcup_{p \in M} \{ p \} \times \mathbfit{T}^{p,q}(T_{p}M)$                                         |
+| $(p,q)$-(tangent) tensor space              | $\mathbf{T}^{p,q}(V)$                                                                            | $\mathbf{T}^{p,q}(T_{p}M)$                                                                                                 |
+| tensor bundle                               | (not essential)                                                                                    | $\mathbf{T}^{p,q}TM:= \bigcup_{p \in M} \{ p \} \times \mathbf{T}^{p,q}(T_{p}M)$                                         |
 | $k$-exterior (tangent) vectors              | $\Lambda^{k}(V)$                                                                                   |                                                                                                                              |
 | differential $k$-form                       | a smooth function $\omega: V\to \Lambda^{k}(V)$                                                    |                                                                                                                              |
 | integration of differential forms on chains |                                                                                                    |                                                                                                                              |
 |                                             |                                                                                                    |                                                                                                                              |
+
 ## a first course just to construct the theory :(
 
-- #book Lee - Smooth manifolds
-- #book Boothby - manifolds
+- ==book== Lee - Smooth manifolds
+- ==book== Boothby - manifolds
 - also uses the theory inside physics
-	- #lectures [Frederic Schuller -International Winter School on Gravity and Light 2015](https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_)
-	- #lectures Frederic Schuller - Lectures on the Geometric Anatomy of Theoretical Physics
+	- ==lectures== [Frederic Schuller -International Winter School on Gravity and Light 2015](https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_)
+	- ==lectures== Frederic Schuller - Lectures on the Geometric Anatomy of Theoretical Physics
 
 ### tangents
 
-### bundles and fibres
+
+#### differential forms
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1lGM5DEdMaw?si=NbdykTqGLyJzPNTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ptFnIj71SM?si=pX0YhRJVtog6IZNu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### bundles
+
 
 ## beyond the first course and uses
 
@@ -76,9 +85,11 @@ There are some absurdity in the definitions of objects which are very simple in 
 	- Morse theory
 	- Cobordism theory
 - Knots
-- Gauge theory
-- Canonical mechanics (classical mechanics done right)
+- Geometric classical mechanics (classical mechanics done right)
 	- Lagrangian dynamics
-	- Symplectic geometry (Hamiltonian dynamics)
-- geometric quantization (classical mechanics $\to$ quantum mechanics, proper)
-- Smooth dynamical systems: vector fields on manifolds can give us ODEs
+	- Symplectic geometry and Hamiltonian dynamics
+- Geometric classical field theory
+- Gauge theory
+- Geometric quantum mechanics
+	- quantization (classical mechanics $\to$ quantum mechanics, proper)
+- Smooth dynamical systems: vector fields on manifolds can give us ODEs [[inculcation-odes|Inculcation: ODEs]]
