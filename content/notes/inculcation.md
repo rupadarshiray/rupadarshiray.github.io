@@ -10,6 +10,7 @@ aliases:
 ---
 
 # Driven by infinite enthusiasm
+
 > All opinion are strictly mine.
 
 This list was made with materials mostly found on the internet, to give say what I want completely without repetition, etc.
@@ -50,8 +51,9 @@ This has five major sections
 
 ## dive into math/physics ✨
 
-- ### continued algebra
+- ### continue with algebra
 
+---
 
 - #lectures [Abstract Algebra by Benedict Gross - YouTube](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3)
 - #book Artin - Algebra
@@ -102,17 +104,20 @@ This has five major sections
 
 The order might so something like this
 
+- logic: propositional, first order
+- set theory
 - inside $\R$
-- inside metric spaces
-- inside vector spaces
-	- inside normed $\R$-vector spaces, inner product spaces, or *just* inside $\R^{n}$
+- out on metric spaces
+- out on vector spaces
+	- out on normed $\R$-vector spaces, inner product spaces, or *just* inside $\R^{n}$
 - on submanifolds of $\R^{n}$
-- inside rings and modules
-- inside categories
+- out on rings and modules
+- out on categories
 - out on topological spaces
 - out on measure spaces
 - out on smooth manifolds
-- inside infinite dim spaces
+- out on infinite dim spaces
+
 ### Inside reals and metric spaces
 
 

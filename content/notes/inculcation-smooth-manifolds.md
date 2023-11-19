@@ -1,6 +1,6 @@
 ---
 created: 2023-03-30T15:26:34
-modified: 2023-06-08T18:25:54
+modified: 2023-10-06T22:20:32
 tags: [Inculcation]
 title: 'Inculcation: smooth manifolds'
 aliases:
