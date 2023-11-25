@@ -33,7 +33,7 @@ This has five major sections
 	- [Essence of Group Theory - YouTube](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
 	- Chapter 1 and 3 from [[notes/evan-chen-napkin]]
 - ### big things: Vector spaces (linear algebra)
-	- [[notes/inculction-linear-algebra]]
+	- [[inculcation-linear-algebra]]
 - ### [[notes/evan-chen-napkin]]
 	- an introduction to a lots of fields of math! (NOT a textbook but a really nice introductory reference)
 	- starts with groups and metric spaces!

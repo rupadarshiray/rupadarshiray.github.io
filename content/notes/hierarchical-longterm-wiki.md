@@ -37,6 +37,7 @@ Structures must be let changed over time. This is simpler to do when just files 
 The dilemma of placing notes on topics with mixed-concepts, which is practically all of the Sciences and especially Mathematics, will be a waste of time. The hierarchy must be kept simple and easy. A unending series of sub-folders would not be such an example.
 
 ### a mix of the above two is nice
+
 Hierarchy should be allowed to grow naturally. For initiating the wiki, one may choose to divide by subjects/disciplines, and then by the first level division of topics in the subject, however large in numbers they may be. 
 The lower branches of the hierarchy must maintain a value of looseness without loosing identity structures. The hierarchy headers might give a linear list of topics in a special conceptual manner, but the notes itself might not follow those divisions.
 There maybe two places a note can be, if one relationship can not be prioritised over the other, one can loosen the hierarchy and let the note reside above (or create a or more fake-parents using tags).

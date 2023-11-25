@@ -25,7 +25,7 @@ aliases:
 > - Entropy inequality
 > - ...is that it?
 
-My question is ==can we do this for any Hamiltonian system?== Any smooth dynamical system with high dimension? But let's not worry about that!
+My question is ==can we do this for any Hamiltonian system?== Any smooth dynamical system with high enough ($\sim 10^{23}$) dimension? But let's not worry about that!
 
 ---
 

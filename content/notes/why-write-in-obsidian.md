@@ -55,11 +55,11 @@ Writing in Obsidian in this way provides benefits over each of the individual me
 	- PDFs can be edited externally, linked/embedded to exact page number.
 - **Notion**
 	- Fast. Offline.
-	- 
+	- Local.
 - **Most other tools**
 	- Free!
 - 
 
 ## other advantages
-- Various tools can be used alongside it.
-	- Any text editor like VScode, Atom etc.
+
+- Various tools can be used alongside it. Any text editor like VScode, Atom etc.
