@@ -1,6 +1,11 @@
+.DS_Store
+.gitignore
+node_modules
 public
-resources
-.idea
-data/linkIndex.yaml
-data/contentIndex.yaml
-R²-site*
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix

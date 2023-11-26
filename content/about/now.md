@@ -9,5 +9,5 @@ title: "now"
 
 > This is a [/now page](https://nownownow.com/about) for me!
 
-- Doing a reading project on differential topology.
-- Studying analysis, sympathetic geometry, etc.
+- Completing the 5th semester.
+- Going home on 4th.
