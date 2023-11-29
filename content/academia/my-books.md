@@ -14,3 +14,4 @@ Books I own:
 - Leonard Susskind - Classical Theory of Fields
 - Mehran Kardar - Statistical Physics of Particles
 - Apostol - Mathematical Analysis
+- Seiberg Witten Gauge Theory - Matilde Marcolli

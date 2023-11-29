@@ -6,37 +6,7 @@ tags:
 title: "Inculcation: all of mechanics"
 aliases:
 ---
-
-
-
-Before doing anything, just watch this [Mechanics using the Action by T Paddy](https://youtube.com/playlist?list=PLlFCvH2vR5kRzC1LQtHy_MUAquC-tQiiW).
-
-After that watch these lectures covering *Newtonian, Lagrangian, Hamiltonian, Statistical mechanics, special relativity* all at once!
-
-<iframe src="https://www.youtube.com/embed/videoseries?list=PL5E4E56893588CBA8" style=" top:0; left:0; width:80%; border:none;  height:500px;" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-These are nice as an intro "proper" physics, they will look fascinating, but my recommended levels of motivation and precision is absent. These are "Feynman lectures done right". One may watch his non-linear dynamics and quantum mechanics lectures right after this.
-
-But nothing is explained rigorously, lots of details are skipped and Balki name drops a LOT of stuff. You may choose to ignore them initially, because each term becomes a rabbit hole for math topics.
-
-How one should do is by [[inculcation-linear-constructions|constructing everything linearly]]:
-
-- [[inculcation-general-dynamics]] -> [[inculcation-all-of-mechanics]]
-	- [[inculcation-odes]] -> [[inculcation-all-of-mechanics#Mechanics of "points"|Mechanics of "points"]]
-	- PDEs -> [[inculcation-mechanics-fields]]
-	- ? [[inculcation-mechanics-branes]]
-	- PDEs -> [[inculcation-mechanics-fluids]]
-
-
-# Mechanics of "points"
-
-
-AKA *"classical mechanics"*.
-
-
-- #book LandauL volume I is the big reference.
-- Other books include Goldstein and Morin
-
+I perceive all of physics to be "mechanics".
 
 ## Trying to do mechanics but failing
 
@@ -50,19 +20,53 @@ AKA *"classical mechanics"*.
 	- $1$ point
 		- what is equation of motion??
 	- field
+- Any random GR spacetime
+
+> [!tip] Mechanics using the Action principle
+> Before doing anything, just watch this 
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=_JXvZTvRZWIzq9M0&amp;list=PLlFCvH2vR5kRzC1LQtHy_MUAquC-tQiiW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+> [!tip] After that watch these lectures covering *Newtonian, Lagrangian, Hamiltonian, Statistical mechanics, special relativity* all at once!
+> 
+> <iframe src="https://www.youtube.com/embed/videoseries?list=PL5E4E56893588CBA8" style=" top:0; left:0; width:80%; border:none;  height:500px;" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+> 
+> These are nice as an intro "proper" physics, they will look fascinating, but my recommended levels of motivation and precision is absent. These are "Feynman lectures done right". One may watch his non-linear dynamics and quantum mechanics lectures right after this.
+>
+>
+> But nothing is explained rigorously, lots of details are skipped and Balki name drops a LOT of stuff. You may choose to ignore them initially, because each term becomes a rabbit hole for math topics.
+
+
+- #book LandauL volume I is the big reference.
+- Other books include Goldstein and Morin
 
 ## Doing the math part of mechanics properly
 
-- Analysis in $\R^{n}$ and/or analysis on smooth manifolds
-- [[inculcation-odes]]
+How one should do is by [[inculcation-linear-constructions|constructing everything linearly]]: first analysis in $\R^{n}$ and/or analysis on smooth manifolds, then
+
+- [[inculcation-general-dynamics]] -> [[inculcation-all-of-mechanics]]
+	- [[inculcation-odes]] -> [[inculcation-all-of-mechanics#Mechanics of "points"|Mechanics of "points"]] $\hbar =0$
+	- PDEs 
+	- PDEs -> [[inculcation-mechanics-fields]]
+	- ? [[inculcation-mechanics-branes]]
+	- PDEs -> [[inculcation-mechanics-fluids]]
+
+
+ [[inculcation-odes]]
+
 - Configuration spaces
 - Lagrangian dynamics
 - Phase space
 - Hamiltonian dynamics
 
-## Now doing the physics part of mechanics properly
+# Mechanics of "points" done properly
+
+
+AKA *"classical mechanics"*.
+
+
+## writing the equations
+
 
 - What is spacetime? 
 	- Relativistic: a semi-Riemannian manifold.
@@ -82,6 +86,10 @@ AKA *"classical mechanics"*.
 - Minkowski spacetime
 	- $1$ point
 	- field
+
+## solving the equations
+
+
 
 ## Trying to do probabilistic 
 
@@ -106,7 +114,7 @@ classical field theory was COOKED up to teach QFT because any quantum theory is 
 
 this is VERY UNPHYSICAL, proper physics says we must have a THEORY OF EVERYTHING and then we may take some limits c → ∞ , ħ, G →0, etc to get "approximate" theories, BUT WE CAN'T HAVE SUCH THINGS,  so we just just do mathematically inspired stuff
 
-## Doing the proper theory of lagrangian fields
+## Doing the proper theory of Lagrangian fields
 
 so the actual content must be this 
 
@@ -121,7 +129,6 @@ spin geometry:= study of dirac operators on such bundles
 ## Doing the proper theory of gauge fields
 
 - gauge fields DO NOT happen on spacetime! (field ka domain isn't spacetime manifold)
-
 
 ## quantization
 

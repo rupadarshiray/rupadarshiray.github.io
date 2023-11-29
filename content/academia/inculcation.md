@@ -48,8 +48,8 @@ A very good place to start is this
 			- Chapters 2, 6-8 - Topology
 		- [[shifrin-multivariable-mathematics]] - a 2 semester course/book that covers linear algebra and (proper) multivariable calc
 	- more in [[inculcation#Linear constructions|Rigorous constructions]]
-- ### Mechanics using the action
-	- Never start physics in the conventional road, start right here: ==(short lectures)== [Mechanics using the Action by T Paddy](https://youtube.com/playlist?list=PLlFCvH2vR5kRzC1LQtHy_MUAquC-tQiiW)
+- ### Mechanics
+	- Start here: [[inculcation-all-of-mechanics]]
 
 
 ## dive into math/physics ✨
@@ -88,10 +88,18 @@ The first section had groups, vector spaces and analysis
 
 ![|600](https://i.imgur.com/dkGS1Kx.png)
 
+- Start with [[inculcation-all-of-mechanics]]
+- Definitely do more math: lie groups, representations, fluid dynamics, and classical mechanics etc before quantum.
+
+
+%%
 
 - You can definitely continue with rigorous analysis at this point here (instead of doing *handwavey* physics), it's always an inculcating and ever-increasing skill and knowledge-base: [[inculcation#Linear constructions|Rigorous constructions]]
 - To to anything *properly* in classical mechanics/quantum mechanics, the theory of analysis in normed vector spaces and  manifolds, measure, ODEs, dyanmical systems becomes important. They are constructed in [[inculcation#Linear constructions|Rigorous constructions]], but doing vague stuff first does not hurt - anything for **motivations**!
 - One would think while reading these basic books that there are these "untouchable books" which are very far off - while they are actually easy to grasp if basic ideas of manifolds/normed vector spaces are known - things like coordinate transformation, "objects that transform like objects" becomes trivial.
+
+
+
 - #### DO MORE CLASSICAL (before quantum)!
 	- [[inculcation-classical-physics|Classical physics]]
 	- ⭐ [[inculcation-fluid-mechanics|Fluid mechanics]]
@@ -103,7 +111,7 @@ The first section had groups, vector spaces and analysis
 	- Quantum Physics by Balki
 	- Quantum computation - chapters 23-25 from [[evan-chen-napkin]]
 
-
+%%
 ## Linear constructions
 
 ![[inculcation-linear-constructions]]
