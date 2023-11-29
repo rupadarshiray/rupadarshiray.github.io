@@ -9,17 +9,37 @@ aliases:
 
 
 
+Before doing anything, just watch this [Mechanics using the Action by T Paddy](https://youtube.com/playlist?list=PLlFCvH2vR5kRzC1LQtHy_MUAquC-tQiiW).
+
+After that watch these lectures covering *Newtonian, Lagrangian, Hamiltonian, Statistical mechanics, special relativity* all at once!
+
+<iframe src="https://www.youtube.com/embed/videoseries?list=PL5E4E56893588CBA8" style=" top:0; left:0; width:80%; border:none;  height:500px;" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+These are nice as an intro "proper" physics, they will look fascinating, but my recommended levels of motivation and precision is absent. These are "Feynman lectures done right". One may watch his non-linear dynamics and quantum mechanics lectures right after this.
+
+But nothing is explained rigorously, lots of details are skipped and Balki name drops a LOT of stuff. You may choose to ignore them initially, because each term becomes a rabbit hole for math topics.
+
+How one should do is by [[inculcation-linear-constructions|constructing everything linearly]]:
+
 - [[inculcation-general-dynamics]] -> [[inculcation-all-of-mechanics]]
-	- [[inculcation-odes]] -> [[inculcation-mechanics-points]]
+	- [[inculcation-odes]] -> [[inculcation-all-of-mechanics#Mechanics of "points"|Mechanics of "points"]]
 	- PDEs -> [[inculcation-mechanics-fields]]
 	- ? [[inculcation-mechanics-branes]]
 	- PDEs -> [[inculcation-mechanics-fluids]]
 
+
 # Mechanics of "points"
 
 
+AKA *"classical mechanics"*.
+
+
+- #book LandauL volume I is the big reference.
+- Other books include Goldstein and Morin
+
 
 ## Trying to do mechanics but failing
+
 
 - What is spacetime? What is an inertial frame?
 - Newtonian spacetime
@@ -32,9 +52,11 @@ aliases:
 	- field
 
 
+
 ## Doing the math part of mechanics properly
 
 - Analysis in $\R^{n}$ and/or analysis on smooth manifolds
+- [[inculcation-odes]]
 - Configuration spaces
 - Lagrangian dynamics
 - Phase space
@@ -61,7 +83,9 @@ aliases:
 	- $1$ point
 	- field
 
-## Trying to do statistical
+## Trying to do probabilistic 
+
+AKA statistical
 
 
 
@@ -131,3 +155,4 @@ etc
 
 
 # Mechanics of fluids
+

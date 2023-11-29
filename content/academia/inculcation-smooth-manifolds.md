@@ -11,11 +11,14 @@ aliases: ''
 
 ## initial philosophy of manifolds
 
+
 > [!tip] Philosophy of manifolds I: to go out of submanifolds of $\R^{n}$
 > 
 > After studying submanifolds of $\R^{n}$, or just surfaces in $\R^{2}$, why do we want to think of arbitary sets as "manifolds", as something we can do things we could do to smooth surfaces? Because then *anything* could be a manifolds. 
 > 
 > Well not *anything*, but many sets can be attached with a smooth manifold structures. For example, $SO(\R^{3})$ (which is a group or a set of functions really!), spacetime in physics, . This helps us do *analysis* in more kinds of spaces, and generalise geometry equipped with differentiation.
+
+^5e4c03
 
 
 ## architecture of manifolds
@@ -36,8 +39,6 @@ There are three motivations for the definitions and ideas
 - Analysis and geometry in the submanifolds of $\mathbb{R}^{n}$ or surfaces in $\mathbb{R}^{3}$
 - Analysis in normed vector spaces
 - Topology, algebraic topology
-
-
 
 
 There are some absurdity in the definitions of objects which are very simple in the case of normed vector spaces
@@ -74,7 +75,7 @@ There are some absurdity in the definitions of objects which are very simple in 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ptFnIj71SM?si=pX0YhRJVtog6IZNu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### bundles
+### bundles on smooth manifolds
 
 
 ## beyond the first course and uses

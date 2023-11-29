@@ -15,12 +15,13 @@ aliases: ''
 This list was made with materials mostly found on the internet, to give say what I want completely without repetition, etc.
 
 # What to study? Where to study from?
+
   > (order is not strict, life is very *non-linear*)
 
 This has five major sections
 1. journey starts: [[inculcation#start with the little things and the big things|start with the little things and the big things]]
 2. discoveries: [[inculcation#dive into mathphysics -|dive into math physics ✨]]
-3. a need for clarity and details: [[inculcation#Rigorous constructions|Rigorous constructions]]
+3. a need for clarity and details: [[inculcation#Linear constructions|Linear constructions]]
 4. the old discoveries in new light: [[inculcation#apply your new-found knowledge new way of looking at things never ends-|apply your new-found knowledge new way of looking at things never ends ✨]]
 5. epilogue: [[inculcation#starting again?|starting again?]]
 
@@ -33,9 +34,11 @@ This has five major sections
 	- Chapter 1 and 3 from [[evan-chen-napkin]]
 - ### big things: Vector spaces (linear algebra)
 	- [[inculcation-linear-algebra]]
-- ### [[evan-chen-napkin]]
-	- an introduction to a lots of fields of math! (NOT a textbook but a really nice introductory reference)
-	- starts with groups and metric spaces!
+
+A very good place to start is this
+
+![[evan-chen-napkin]]
+
 - ### things in the middle: Analysis
 	- definitely start with Tao's Analysis volumes 1 and 2, but for more: [[inculcation#Inside reals and metric spaces|Analysis in $\R$]]
 	- #### Anaysis and linear algebra in $\mathbb{R}^n$
@@ -44,15 +47,17 @@ This has five major sections
 			- Chapters 42-45 - Total derivatives and differential forms
 			- Chapters 2, 6-8 - Topology
 		- [[shifrin-multivariable-mathematics]] - a 2 semester course/book that covers linear algebra and (proper) multivariable calc
-	- more in [[inculcation#Rigorous constructions|Rigorous constructions]]
-- ### Mechanics and action
+	- more in [[inculcation#Linear constructions|Rigorous constructions]]
+- ### Mechanics using the action
 	- Never start physics in the conventional road, start right here: ==(short lectures)== [Mechanics using the Action by T Paddy](https://youtube.com/playlist?list=PLlFCvH2vR5kRzC1LQtHy_MUAquC-tQiiW)
+
 
 ## dive into math/physics ✨
 
-- ### continue with algebra
+The first section had groups, vector spaces and analysis
 
----
+### continue with algebra
+
 
 - #lectures [Abstract Algebra by Benedict Gross - YouTube](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3)
 - #book Artin - Algebra
@@ -69,13 +74,23 @@ This has five major sections
 	- Knot theory
 	- [Dirac's belt trick, Topology, and Spin ½ particles - YouTube](https://www.youtube.com/watch?v=ACZC_XEyg9U)
 
+
+### dynamical systems and ODEs
+
+
+
+
+### probability and information
+
+
+
 ### *handwavey* physics
 
 ![|600](https://i.imgur.com/dkGS1Kx.png)
 
 
-- You can definitely continue with rigorous analysis at this point here (instead of doing *handwavey* physics), it's always an inculcating and ever-increasing skill and knowledge-base: [[inculcation#Rigorous constructions|Rigorous constructions]]
-- To to anything *properly* in classical mechanics/quantum mechanics, the theory of analysis in normed vector spaces and  manifolds, measure, ODEs, dyanmical systems becomes important. They are constructed in [[inculcation#Rigorous constructions|Rigorous constructions]], but doing vague stuff first does not hurt - anything for **motivations**!
+- You can definitely continue with rigorous analysis at this point here (instead of doing *handwavey* physics), it's always an inculcating and ever-increasing skill and knowledge-base: [[inculcation#Linear constructions|Rigorous constructions]]
+- To to anything *properly* in classical mechanics/quantum mechanics, the theory of analysis in normed vector spaces and  manifolds, measure, ODEs, dyanmical systems becomes important. They are constructed in [[inculcation#Linear constructions|Rigorous constructions]], but doing vague stuff first does not hurt - anything for **motivations**!
 - One would think while reading these basic books that there are these "untouchable books" which are very far off - while they are actually easy to grasp if basic ideas of manifolds/normed vector spaces are known - things like coordinate transformation, "objects that transform like objects" becomes trivial.
 - #### DO MORE CLASSICAL (before quantum)!
 	- [[inculcation-classical-physics|Classical physics]]
@@ -88,101 +103,11 @@ This has five major sections
 	- Quantum Physics by Balki
 	- Quantum computation - chapters 23-25 from [[evan-chen-napkin]]
 
-### categories, graphs and probabilities
 
-- Category theory - *a new way to think about structures, spaces and mathematics* - critical if you want to start with algebriac topology
-- graph theory
+## Linear constructions
 
-## Rigorous constructions
+![[inculcation-linear-constructions]]
 
-> Now that you see how deep things are, go back and focus on the details
-
-> [!tip] Philosophy: construct spaces and do algebra, analysis, geometry, and whatever we can do!
-> - the idea is to *create* meaning, objects out of nothing..., even in familiar spaces and then going to unfamiliar ones!
-> - reminder: nothing (even rigor) is more scary than doing wrong stuff!
-
-The order might so something like this
-
-- logic: propositional, first order
-- set theory
-- inside $\R$
-- out on metric spaces
-- out on vector spaces
-	- out on normed $\R$-vector spaces, inner product spaces, or *just* inside $\R^{n}$
-- on submanifolds of $\R^{n}$
-- out on rings and modules
-- out on categories
-- out on topological spaces
-- out on measure spaces
-- out on smooth manifolds
-- out on infinite dim spaces
-
-### Inside reals and metric spaces
-
-
-- #book Tao Analysis vol I, II - this is the best reference for any beginner!
-- #book Apostol - Mathematical Analysis
-- #book Rudin Analysis (Baby Rudin)
-- #### Analysis in $\R$
-	- Construct(!!) from $\mathbb{Z} \to \mathbb{Q} \to \mathbb{R}$
-	- Sequences, limits of sequences
-- #### Metric spaces
-	- Sequences and series
-	- $\epsilon-\delta$ limits of functions, continuity
-	- get motivated for topological spaces
-
-
----
-
-### Inside finite dim spaces
-
-(mostly finite dim)
-
-We do more inside $\mathbb{R}^{n}$ and venture slightly out to do analysis in normed vector spaces. This also cascades while doing analysis in inner product spaces.
-
-- #### In normed vector spaces
-	- [[inculcation-analysis-normed-vector-spaces|Analysis in normed vector spaces]]
-- #### Differential geometry of submanifolds of $\mathbb{R}^{n}$
-	- #lecturenotes [diffgeo.pdf (ethz.ch)](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) One can distinguish extrinsic differential geometry and intrinsic differential geometry. The former restricts attention to submanifolds of Euclidean space while the latter studies manifolds equipped with a Riemannian metric. The extrinsic theory is more accessible because we can visualize curves and surfaces in $\mathbb{R}^{3}$ , but some topics can best be handled with the intrinsic theory...
-
----
-
-### *Measure spaces* (measure theory)
-
-> I've no idea yet!
-
-
-### *Topological spaces* 
-
-AKA the fields of topology, algebraic topology
-
-- Topology (AKA general topology/point set topology) - *as opposed to cute topology, we prove more content here*
-	- #book Munkres
-	- http://www.math.toronto.edu/ivan/mat327/?resources
-	- http://math.iisc.ac.in/~gadgil/topology-2021/all-lectures/
-	- [Topology (MTH-TOP) - YouTube](https://www.youtube.com/playlist?list=PLp0hSY2uBeP8jgD0wTQM-RjkakSEBdHUD)
-	- For a quick one lecture introduction with motivation: [Lecture 1: Topology (International Winter School on Gravity and Light 2015) - YouTube](https://www.youtube.com/watch?v=7G4SqIboeig)
-- Algebraic Topology - *study of holes in topological spaces*
-	- #book Hatcher
-
----
-
-> [!danger] Going outside of $\mathbb{R}^{n}$ for *analysis*: there are two routes
-> - *analysis on (finite dim) manifolds* (classical mechanics, ODEs, Hamiltonian systems, oscillations)
-> - *analysis in function spaces(infinite dim complete normed/inner product spaces)* (quantum mechanics, PDEs, waves)
-
-### Out on smooth manifolds
-
-> this is the *intrinsic differential geometry* AKA *analysis on manifolds*
-
-May try #lectures [Frederic Schuller -International Winter School on Gravity and Light 2015](https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_) without any other context or to get into it fully: [[inculcation-smooth-manifolds]].
-
-### Inside not finite dim spaces 
-
-AKA functional analysis!
-
-Of course, I've no idea about this.
-- #lectures Frederic Schuller - Quantum Theory
 
 ## apply your new-found knowledge: new way of looking at things never ends ✨
 

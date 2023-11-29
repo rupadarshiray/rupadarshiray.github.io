@@ -22,7 +22,6 @@ aliases: ''
 	- central forces
 	- n-body problem with different force laws
 		- #question Which force law produces simple solutions for the n-body problem? ~~Hint: Newton answers this in principia~~
-- #book LandauL volume I
 - definitely do a little [[inculcation-odes|Inculcation: ODEs]] - understand the *geometric pov*, flows etc.
 
 ## Balakrishnan's Classical Physics
