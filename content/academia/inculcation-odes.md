@@ -63,6 +63,12 @@ Shorter videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=WhjHlL_dhxpBQ_dy&amp;list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+> [!success]- ![|500](https://i.imgur.com/FfULVge.png) [Differential Equations and Dynamical Systems, Third Edition (2006)](http://library.lol/main/B2FA263686F1AAB9F19B2EBA8E12DD04)
+> ![](https://i.imgur.com/5wSZ3Dr.png)
+
+ 
+
+
 ### vector fields on smooth manifolds
 
 Should be motivated from Perko, classical mechanics, etc.
