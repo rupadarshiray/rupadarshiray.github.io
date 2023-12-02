@@ -92,7 +92,21 @@ And as I said above, this book has a pre-requisite of some analysis, but still o
 
 Should be motivated from Perko, classical mechanics, etc. We, very naturally, want to write ODEs on surfaces, toruses or other "surfaces" of even higher dimensions AKA manifolds.
 
-- Symplectic geometry helps study Hamiltonian systems in a general setting.
+- Define the **Lie bracket** of vector fields, **exponential** of vector fields $$\exp: \mathrm{Vec}(M)\to \mathrm{LDiff}(M)$$ 
+	- think of  the Lie algebra of vector fields as "the Lie algebra" of the "Lie group" local diffeomorphisms on the manifold $M$.
+	- The flows of two vector fields commute $\iff$ their Lie bracket is $0$
+- **Symplectic geometry** helps study Hamiltonian systems in a general setting.
+
+For more on smooth manifolds: [[inculcation-smooth-manifolds]].
+
+Use topology in your study of ODEs
+
+- On **compact manifolds**, every vector field is *complete*, that is, the solutions of ODEs exist *globally* in time.
+- On the **sphere**, any vector field is zero atleast at one point, has atleast one fixed point (Hairy ball theorem!).
+- In general, use **index theorems** to know about vector fields on manifolds.
+- and more!
+
+In general, study **smooth Lie group action on smooth manifolds**, whose special case is an $\R$-action - that is a complete vector field.
 
 ### complete resource on the study of ODEs
 
