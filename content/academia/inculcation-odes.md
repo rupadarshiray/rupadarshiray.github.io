@@ -86,13 +86,32 @@ And as I said above, this book has a pre-requisite of some analysis, but still o
 > ![|500](https://i.imgur.com/FfULVge.png)
 > ![](https://i.imgur.com/5wSZ3Dr.png)
 
- 
+[Arnold's Ordinary Differential Equations](http://library.lol/main/9C48404C4DC01501F08C25351487916C) is also a good resource.
 
 ### vector fields on smooth manifolds
 
 Should be motivated from Perko, classical mechanics, etc. We, very naturally, want to write ODEs on surfaces, toruses or other "surfaces" of even higher dimensions AKA manifolds.
 
-Resources may be googled.
+- Symplectic geometry helps study Hamiltonian systems in a general setting.
+
+### complete resource on the study of ODEs
+
+This series by Arnold exists:
+
+> [!tip] Encyclopaedia of Mathematical Sciences Dynamical Systems vol 1-10
+> 
+> 1. [Dynamical Systems I: ODEs and smooth dynamical systems](http://library.lol/main/50AEF13AFA55CF451CDF5F2DDCE4B5F9)
+> 2. [Dynamical Systems II: Ergodic Theory with Applications to Dynamical Systems and Statistical Mechanics](http://library.lol/main/0F843795B86B9CFE0B6B2CF07C70F247)
+> 3. [Dynamical Systems III: Mathematical Aspects of Classical and Celestial Mechanics](http://library.lol/main/3202BBEBE8B9815467107F1A97BF0B3D)
+> 4. [Dynamical Systems IV: Symplectic Geometry and its Applications](http://library.lol/main/A32CB3180B87DD46A49AC5215A84003E)
+> 5. [Dynamical Systems V: Bifurcation Theory and Catastrophe Theory](http://library.lol/main/42FB2D5A011C751A5BAD704A88D3C1EF)
+> 6. Dynamical Systems VI: Singularity Theory I (pdf missing!)
+> 7. [Dynamical Systems VII: Integrable Systems, Nonholonomic Dynamical Systems](http://library.lol/main/123E78A46F90C712BFE3FA4283D278F4)
+> 8. [Dynamical Systems VIII: Singularity Theory II - Applications](http://library.lol/main/1BE6B3E2B2203C12B3B99C810F2C9C7E)
+> 9. [Dynamical Systems IX: Dynamical Systems with Hyperbolic Behaviour](http://library.lol/main/F4FCF5C2E7BE3916542E18A0FED5D6C7)
+> 10. [Dynamical Systems X: General Theory of Vortices](http://library.lol/main/9898F298DFF5DDDF2CE7558AE336ECBD)
+> 
+
 
 ### go beyond finite dimension
 
