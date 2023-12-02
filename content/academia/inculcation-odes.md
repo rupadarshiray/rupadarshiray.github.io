@@ -42,10 +42,27 @@ This gives us a geometric pov on ODEs in $\R^{n}$, *and* we have a
 | solving differential equations                     | analysis and geometry of vector fields                                    |
 | ------------------------------------------ | ----------------------------------- |
 | an equation $$\dot{x}=\mathbf{f}(x)$$                                | a vector field $$\mathbf{f}:\mathcal{U} \subseteq \R^{n} \to \R^{n}$$         |
-| solutions of the equation $$\begin{align} \dot{x}(t)&=\mathbf{f}(x(t)) \\ x(0)&=x_0 \end{align}$$                 | integral curves of the vector field $$t \mapsto \Phi^\mathbf{f}_{t}(x_{0})$$ |
+| solutions of the eq uation $$\begin{align} \dot{x}(t)&=\mathbf{f}(x(t)) \\ x(0)&=x_0 \end{align}$$                 | integral curves of the vector field $$t \mapsto \Phi^\mathbf{f}_{t}(x_{0})$$ |
 | how solutions depend on initial conditions $$x_0 \mapsto x(t)$$ | flows of the vector field    $$x_0 \mapsto \Phi^\mathbf{f}_{t}(x_0)$$                          |
 | conserved quantities                        | integrals of the vector field      |
 | (linearly) decoupling the differential equation $$\dot{z_{i}}= f_{i}(z_i)$$ | (linear) coordinate transformation such that $$\mathbf{f}=\sum_i f_i(z_{i}) \hat{z}_i$$ |
+
+### much  elementary introduction
+
+Inspired from models in population dynamics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=RWkkdMxW5eoywhc6&amp;list=PLhkiT_RYTEU1ibOVwE5Af5GE_WybGa9J_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=_X3mgtZ6do3oX5aj&amp;list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### more formal lectures
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=hlva1bjtL_s2MCYJ&amp;list=PLLq_gUfXAnkmC-VWIJ_HW8cdOZLEtHfXJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Shorter videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=WhjHlL_dhxpBQ_dy&amp;list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### vector fields on smooth manifolds
 
 Should be motivated from Perko, classical mechanics, etc.
