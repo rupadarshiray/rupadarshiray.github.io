@@ -9,7 +9,7 @@ aliases:
 
 # Inculcation: ODEs
 
-AKA "Non-linear dynamics", "smooth dynamical systems", "systems" even as in most of the content in "systems biology".
+AKA "non-linear dynamics", "smooth dynamical systems", "systems" even (as in most of the content in "systems biology").
 
 ## interpret an ODE as a vector field
 
@@ -119,7 +119,7 @@ This series by Arnold exists:
 > 3. [Dynamical Systems III: Mathematical Aspects of Classical and Celestial Mechanics](http://library.lol/main/3202BBEBE8B9815467107F1A97BF0B3D)
 > 4. [Dynamical Systems IV: Symplectic Geometry and its Applications](http://library.lol/main/A32CB3180B87DD46A49AC5215A84003E)
 > 5. [Dynamical Systems V: Bifurcation Theory and Catastrophe Theory](http://library.lol/main/42FB2D5A011C751A5BAD704A88D3C1EF)
-> 6. Dynamical Systems VI: Singularity Theory I (pdf missing!)
+> 6. [Dynamical Systems VI: Singularity Theory I](http://library.lol/main/4C640F6B177EEC1BCA3608562A9E72BD)
 > 7. [Dynamical Systems VII: Integrable Systems, Nonholonomic Dynamical Systems](http://library.lol/main/123E78A46F90C712BFE3FA4283D278F4)
 > 8. [Dynamical Systems VIII: Singularity Theory II - Applications](http://library.lol/main/1BE6B3E2B2203C12B3B99C810F2C9C7E)
 > 9. [Dynamical Systems IX: Dynamical Systems with Hyperbolic Behaviour](http://library.lol/main/F4FCF5C2E7BE3916542E18A0FED5D6C7)

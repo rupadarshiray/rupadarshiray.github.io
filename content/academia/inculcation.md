@@ -33,7 +33,7 @@ This has five major sections
 	- [Essence of Group Theory - YouTube](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
 	- Chapter 1 and 3 from [[evan-chen-napkin]]
 - ### big things: Vector spaces (linear algebra)
-	- [[inculcation-linear-algebra]]
+	- start here: [[inculcation-linear-algebra]]
 
 A very good place to start is this
 
@@ -54,7 +54,7 @@ A very good place to start is this
 
 ## dive into math/physics ✨
 
-The first section had groups, vector spaces and analysis
+The first section had groups, vector spaces and analysis. Now we shall continue and add some geometry, dynamics and physics too!
 
 ### continue with algebra
 
@@ -78,7 +78,7 @@ The first section had groups, vector spaces and analysis
 ### dynamical systems and ODEs
 
 
-
+More on this: [[inculcation-odes]]
 
 ### probability and information
 
