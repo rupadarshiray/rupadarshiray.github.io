@@ -60,6 +60,10 @@ Hence, there is a component to this in the second step of the 3 step process: wh
 
 This makes sense to me because generally quantum mechanics is taught before fluid mechanics, which is true because the former is a linear PDE - which makes it much easier - just introduce eigenvectors and eigenvalues and the method can be explained!
 
+![](https://i.imgur.com/XYgxUjp.png)
+
+This is an example of the table for *electromagnetic field* (for $\hbar =0$).
+
 > [!info]  Lectures on Geometrical Anatomy of Theoretical Physics by Frederic Schuller
 > These lectures start from logic!
 > 
