@@ -18,6 +18,8 @@ Before doing anything, just watch this:
 > [!tip] Mechanics using the Action principle
 > 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=_JXvZTvRZWIzq9M0&amp;list=PLlFCvH2vR5kRzC1LQtHy_MUAquC-tQiiW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+>
+> Continue with GR and action: [General Relativity by Prof. Thanu Padmanabhan - YouTube](https://www.youtube.com/playlist?list=PLfrsXbPUIUSB6xoXyIvVEHYiG-hVmJhHf)
 
 
 > [!tip] After that watch these lectures covering *Newtonian, Lagrangian, Hamiltonian, Statistical mechanics, special relativity* all at once!
@@ -53,17 +55,18 @@ BUT! Does the description of matter really depend very much on the spacetime? Ye
 
 Hence, there is a component to this in the second step of the 3 step process: which is *"abstract"*. How much of the things we study can we abstract out? Can it be really useful in doing physics?
 
-![](https://i.imgur.com/qU4YtHw.png)
+![](https://i.imgur.com/BIqIRsH.png)
 
 
+This makes sense to me because generally quantum mechanics is taught before fluid mechanics, which is true because the former is a linear PDE - which makes it much easier - just introduce eigenvectors and eigenvalues and the method can be explained!
 
-These lectures start from logic!
+> [!info]  Lectures on Geometrical Anatomy of Theoretical Physics by Frederic Schuller
+> These lectures start from logic!
+> 
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=3JE4_9J8N1KMemlr&amp;list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=3JE4_9J8N1KMemlr&amp;list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
-Although we must do physics as well, so we make this table of resources:
+Although we must do physics as well, so we make this little table for reference with common terminology:
 
 | contents | description | $c^{-1}=0$ Newtonian spacetime | $c^{-1}=1, G=0$ Minkowski spacetime (SR) | $c^{-1}=1, G=1$ Lorentzian manifolds (GR) |
 | ---- | ---- | ---- | ---- | ---- |
@@ -105,13 +108,13 @@ How one should do is by [[inculcation-linear-constructions|constructing everythi
 	- ? [[inculcation-mechanics-branes]]
 	- PDEs -> [[inculcation-mechanics-fluids]]
 - What one must understand is, in the side of ODEs: Lagrangian, Hamiltonian etc really *do not care* about the spacetime, or what you are trying to describe even: give it a ray of light in Newtonian spcaetime, or a point particle moving around a black hole (Swartzchild spacetime): the description remains the same.
-	- Configuration space $\leftrightarrow$ Lagrangian dynamics
+	- Configuration space $\leftrightarrow$ Lagrangian dynamics, any other ODE
 	- Phase space $\leftrightarrow$ Hamiltonian dynamics
 - I do not mean the equations remains the same btw! I just mean use can use the general prescription (math!) like Lagrangians and Hamiltonians for any spacetime!
-- This would therefore mean, the "statistical mechanics" prescription would also be, in this way, independent of spacetimes as they only depend on the configuration spaces.
+- This would therefore mean, the "statistical mechanics" prescription would also be, in this way - because statistical mechanics just starts from the phase space - the methods independent of "spacetimes" per say as phase space only depend on the configuration spaces.
 
 > [!hint]
-> You might wonder that we do not need this much details, or need to do things "properly", whatever that means. The physics textbooks
+> You might wonder that we do not need this much details, or need to do things "properly", whatever that means. The physics textbooks do cover most of the content, with a bit of analysis and geometry everything becomes well-understood as well as "proper". I am assuming things like linear algebra "trivial", but one has to start from that, thats why [[inculcation-linear-constructions]] exists!
 
 
 
