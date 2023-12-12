@@ -57,15 +57,19 @@ Hence, there is a component to this in the second step of the 3 step process: wh
 
 
 
+These lectures start from logic!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=3JE4_9J8N1KMemlr&amp;list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-Hence, we make this table of resources:
+
+Although we must do physics as well, so we make this table of resources:
 
 | contents | description | $c^{-1}=0$ Newtonian spacetime | $c^{-1}=1, G=0$ Minkowski spacetime (SR) | $c^{-1}=1, G=1$ Lorentzian manifolds (GR) |
 | ---- | ---- | ---- | ---- | ---- |
 |  | $\hbar =0$ |  |  |  |
 | points | "actual" | "classical mechanics" Kleppner, Goldstein, David Morin, LandauLifshitz vol 1, Balki's lectures | "relativistic mechanics" LandauLifshitz vol 2 | "general relativity" LandauLifshitz vol 2 |
-|  | "stat" | "statistical mechanics"   | "relativistic statistical mechanics" Pal's book |  |
+|  | "stat" | "statistical mechanics"  Kardar  | "relativistic statistical mechanics" Palash Pal  |  |
 | fields | "actual" | "non-relativistic classical field theory" | "classical field theory"  | "classical field theory in curved spacetime" |
 |  | "stat" |  | "statistical field theory" |  |
 | fluids |  | "fluid mechanics" | "relativistic fluid mechanics" | "fluid mechanics in curved spacetime" |
@@ -110,9 +114,6 @@ How one should do is by [[inculcation-linear-constructions|constructing everythi
 > You might wonder that we do not need this much details, or need to do things "properly", whatever that means. The physics textbooks
 
 
-These lectures start from logic!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=3JE4_9J8N1KMemlr&amp;list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## doing the spacetimes bit
 
