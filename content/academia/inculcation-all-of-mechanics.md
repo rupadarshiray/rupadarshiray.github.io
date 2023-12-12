@@ -60,9 +60,13 @@ Hence, there is a component to this in the second step of the 3 step process: wh
 
 This makes sense to me because generally quantum mechanics is taught before fluid mechanics, which is true because the former is a linear PDE - which makes it much easier - just introduce eigenvectors and eigenvalues and the method can be explained!
 
+Now for an example:
+
+> [!quote] Around 1850 Maxwell realized that the [field strength](https://ncatlab.org/nlab/show/field+strength) of the [electromagnetic field](https://ncatlab.org/nlab/show/electromagnetic+field) is modeled by what today we call a closed [differential 2-form](https://ncatlab.org/nlab/show/differential+form) on [spacetime](https://ncatlab.org/nlab/show/spacetime). In the 1930s Dirac observed that more precisely this 2-form is the [curvature](https://ncatlab.org/nlab/show/curvature) 2-form of a [U(1)](https://ncatlab.org/nlab/show/circle+group)-[principal bundle](https://ncatlab.org/nlab/show/principal+bundle) with [connection](https://ncatlab.org/nlab/show/connection+on+a+bundle), hence that the electromagnetic field is modeled by what today is called a degree 2-cocycle in _[ordinary differential cohomology](https://ncatlab.org/nlab/show/ordinary+differential+cohomology)_ . ^[https://ncatlab.org/nlab/show/higher+category+theory+and+physics#GaugeTheory]
+
 ![](https://i.imgur.com/XYgxUjp.png)
 
-This is an example of the table for *electromagnetic field* (for $\hbar =0$).
+This is an example of the table for *electromagnetic field* (for $\hbar =0$). Gauge fields will be discussed in [[#Doing the proper theory of gauge fields]].
 
 > [!info]  Lectures on Geometrical Anatomy of Theoretical Physics by Frederic Schuller
 > These lectures start from logic!
@@ -254,11 +258,11 @@ spin geometry:= study of dirac operators on such bundles
 
 > [!check] The **physics** of fluid mechanics: Averaging a differential equation system with high number of dynamical variables
 > 
-> Hamiltonian system of a system of particles
+> - Hamiltonian system of a system of particles
 > $$\downarrow$$
-> Statistical mechanics of the system of particles: Boltzmann equation with the probability distribution $f(\mathbf{x},t)$
+> - Statistical mechanics of the system of particles: Boltzmann equation with the probability distribution $f(\mathbf{x},t)$
 > $$\downarrow$$
-> Take the average of quantities at the point $(\mathbf{x},t)$ and get equations for them 
+> - Take the average of quantities at the point $(\mathbf{x},t)$ and get equations for them 
 > $$\mathbf{v}(\mathbf{x},t)$$
 > $$p(\mathbf{x},t)$$
 > equations obtained: 
