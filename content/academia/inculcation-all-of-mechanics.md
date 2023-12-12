@@ -49,9 +49,9 @@ From these previous lectures, one must agree that doing **physics** is a three s
 	- $\hbar =1$ "quantum mechanics/QFT" description
 	- $\hbar=1$ "quantum statistical" description
 
-BUT! Does the description of matter really depend very much on the spacetime? Yes sure, the equation of motion will change drastically, but the methods in ODEs do not change at all! We can study about spherical harmonics in waves, electrodynamics and in QM class - their physical interpretation is same but their *math* interpretation remains the same!
+BUT! Does the description of matter really depend very much on the spacetime? Yes sure, the equation of motion will change drastically, but the methods in ODEs do not change at all! We can study about spherical harmonics in waves, electrodynamics and in QM class - their physical interpretation is different but their *math* interpretation remains the same!
 
-Hence, there is a component to this in the second step of the 3 step process: which is *"abstract"*. How much of the things we study can we abstract out? Can it be really useful in physics?
+Hence, there is a component to this in the second step of the 3 step process: which is *"abstract"*. How much of the things we study can we abstract out? Can it be really useful in doing physics?
 
 ![](https://i.imgur.com/qU4YtHw.png)
 
