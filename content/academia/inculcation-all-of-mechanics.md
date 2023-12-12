@@ -1,14 +1,14 @@
 ---
 created: 2023-11-19T11:00:14
-modified: 2023-11-23T11:04:04:51
+modified: 2023-12-12T12:14:21
 tags:
   - Inculcation
 title: "Inculcation: all of mechanics"
 aliases:
 ---
-I perceive all of physics to be "mechanics", be it electrodynamics or condensed matter.
+> I make a very specific use of the words "physics" and "mechanics", here. Ofcourse I shall explain what I mean, but do note, it is a personal choice.  
 
-## trying to do mechanics but failing
+## trying to do physics but failing
 
 
 - What is spacetime? What is an inertial frame?
@@ -30,9 +30,9 @@ Before doing anything, just watch this:
 ^3431f3
 
 
-## what is mechanics then
+## what is physics actually then
 
-From these previous lectures, one must agree that doing **physics** (AKA "mechanics") is a three step process:
+From these previous lectures, one must agree that doing **physics** is a three step process:
 
 - Step 1: Choose your ***spacetime***, you have 3 major types of options:
 	- $c^{-1}=0$ Newtonian: the good ol' "non-relativistic" spacetime
@@ -49,21 +49,31 @@ From these previous lectures, one must agree that doing **physics** (AKA "mechan
 	- $\hbar =1$ "quantum mechanics/QFT" description
 	- $\hbar=1$ "quantum statistical" description
 
-Hence, we make this table:
+BUT! Does the description of matter really depend very much on the spacetime? Yes sure, the equation of motion will change drastically, but the methods in ODEs do not change at all! We can study about spherical harmonics in waves, electrodynamics and in QM class - their physical interpretation is same but their *math* interpretation remains the same!
+
+Hence, there is a component to this in the second step of the 3 step process: which is *"abstract"*. How much of the things we study can we abstract out? Can it be really useful in physics?
+
+![](https://i.imgur.com/qU4YtHw.png)
+
+
+
+
+
+Hence, we make this table of resources:
 
 | contents | description | $c^{-1}=0$ Newtonian spacetime | $c^{-1}=1, G=0$ Minkowski spacetime (SR) | $c^{-1}=1, G=1$ Lorentzian manifolds (GR) |
 | ---- | ---- | ---- | ---- | ---- |
 |  | $\hbar =0$ |  |  |  |
-| points | "actual" | "classical mechanics" Kleppner, Goldstein, David Morin, LandauLifshitz vol 1, Balki's lectures - [[#Mechanics of points done properly]] | "relativistic mechanics" LandauLifshitz vol 2 | "general relativity" LandauLifshitz vol 2, [[inculcation-all-of-mechanics#^uii1hk\|Schuller's lectures]] |
-|  | "stat" | "statistical mechanics" [[inculcation-all-of-mechanics#probabilistic description of points\|probabilistic description of points]]   | "relativistic statistical mechanics" Pal's book |  |
-| fields | "actual" | "non-relativistic classical field theory" | "classical field theory" [[#Mechanics of fields]]  | "classical field theory in curved spacetime" |
+| points | "actual" | "classical mechanics" Kleppner, Goldstein, David Morin, LandauLifshitz vol 1, Balki's lectures | "relativistic mechanics" LandauLifshitz vol 2 | "general relativity" LandauLifshitz vol 2 |
+|  | "stat" | "statistical mechanics"   | "relativistic statistical mechanics" Pal's book |  |
+| fields | "actual" | "non-relativistic classical field theory" | "classical field theory"  | "classical field theory in curved spacetime" |
 |  | "stat" |  | "statistical field theory" |  |
-| fluids |  | "fluid mechanics" [[#Mechanics of fluids]] [[inculcation-odes]] | "relativistic fluid mechanics" | "fluid mechanics in curved spacetime" |
+| fluids |  | "fluid mechanics" | "relativistic fluid mechanics" | "fluid mechanics in curved spacetime" |
 |  |  |  |  |  |
 |  | $\hbar =1$ |  |  |  |
-| points | "actual" | "quantum mechanics" Griffiths, [[inculcation-all-of-mechanics#^3fyeee\|Balki's lectures]], Shankar [[#quantization of the mechanics of points]] | - | - |
+| points | "actual" | "quantum mechanics" Griffiths, Balki's lectures, Shankar | - | - |
 |  | "stat" | "quantum statistical mechanics" QM textbooks ^ should cover this | - | - |
-| fields | "actual" |  | "QFT" [[#quantization of field theories]] | "QFT in curved spacetime" or "global QFT" |
+| fields | "actual" |  | "QFT"  | "QFT in curved spacetime" or "global QFT" |
 |  | "stat" |  |  |  |
 | fluids | quantum fluids? | ? | ? | ? |
 | atoms? |  |  |  |  |
@@ -74,6 +84,7 @@ In general, there are
 
 - Landau Lifshitz volumes 1-10
 - [David Tong's notes](http://www.damtp.cam.ac.uk/user/tong/teaching.html) for many of the elements in the table
+- look below!
 
 So, essentially we did all of physics together. But did we do it properly? Did we went onto understanding the details?
 
@@ -98,6 +109,10 @@ How one should do is by [[inculcation-linear-constructions|constructing everythi
 > [!hint]
 > You might wonder that we do not need this much details, or need to do things "properly", whatever that means. The physics textbooks
 
+
+These lectures start from logic!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=3JE4_9J8N1KMemlr&amp;list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## doing the spacetimes bit
 
