@@ -255,14 +255,11 @@ spin geometry:= study of dirac operators on such bundles
 # Mechanics of fluids
 
 
-
 > [!check] The **physics** of fluid mechanics: Averaging a differential equation system with high number of dynamical variables
 > 
-> - Hamiltonian system of a system of particles
-> $$\downarrow$$
-> - Statistical mechanics of the system of particles: Boltzmann equation with the probability distribution $f(\mathbf{x},t)$
-> $$\downarrow$$
-> - Take the average of quantities at the point $(\mathbf{x},t)$ and get equations for them 
+> Hamiltonian system of a system of particles <center> $\downarrow$ </center>
+> Statistical mechanics of the system of particles: Boltzmann equation with the probability distribution $f(\mathbf{x},t)$ <center> $\downarrow$ </center>
+> Take the average of quantities at the point $(\mathbf{x},t)$ and get equations for them 
 > $$\mathbf{v}(\mathbf{x},t)$$
 > $$p(\mathbf{x},t)$$
 > equations obtained: 

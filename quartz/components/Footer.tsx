@@ -14,6 +14,9 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <hr />
         <p>
+          <a href="https://rupadarshiray.notion.site/Comments-0819d544016843a189b162670d7ac315?pvs=4">Comment about the site here!</a>
+        </p>
+        <p>
           Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
         </p>
         <ul>

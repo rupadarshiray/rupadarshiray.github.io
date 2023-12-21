@@ -92,7 +92,7 @@ More on this: [[inculcation-odes]]
 - Definitely do more math: lie groups, representations, fluid dynamics, and classical mechanics etc before quantum.
 
 
-%%
+<!---
 
 - You can definitely continue with rigorous analysis at this point here (instead of doing *handwavey* physics), it's always an inculcating and ever-increasing skill and knowledge-base: [[inculcation#Linear constructions|Rigorous constructions]]
 - To to anything *properly* in classical mechanics/quantum mechanics, the theory of analysis in normed vector spaces and  manifolds, measure, ODEs, dyanmical systems becomes important. They are constructed in [[inculcation#Linear constructions|Rigorous constructions]], but doing vague stuff first does not hurt - anything for **motivations**!
@@ -111,7 +111,8 @@ More on this: [[inculcation-odes]]
 	- Quantum Physics by Balki
 	- Quantum computation - chapters 23-25 from [[evan-chen-napkin]]
 
-%%
+--->
+
 ## Linear constructions
 
 ![[inculcation-linear-constructions]]
