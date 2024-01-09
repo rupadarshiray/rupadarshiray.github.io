@@ -6,4 +6,4 @@ title: 'Inculcation: Fluid mechanics'
 aliases: ''
 ---
 
-> parent:: [[inculcation]]
+> parent:: [[inculcation-all-of-mechanics]]

@@ -243,12 +243,12 @@ spin geometry:= study of dirac operators on such bundles
 ## quantization of field theories
 
 
-(1) https://www.youtube.com/watch?v=fjJsX4ektBA&list=PLbMVogVj5nJRYLTwyuusiiFchFU-WvElW
-(2) https://www.youtube.com/@tobiasjosborne/playlists
-(3) https://www.youtube.com/watch?v=ACZC_XEyg9U
-(4) https://www.youtube.com/playlist?list=PLDlWMHnDwyljrnVxoGoBkHclt3VEkP0Kf
-(5)  https://www.youtube.com/playlist?list=PLbMVogVj5nJQ3slQodXQ5cSEtcp4HbNFc
-(6) https://www.youtube.com/watch?v=29v0B2Fol3k&list=PL04QVxpjcnjiByGS5xGhiqC_G0rJVDDem&index=6&t=994
+- https://www.youtube.com/watch?v=fjJsX4ektBA&list=PLbMVogVj5nJRYLTwyuusiiFchFU-WvElW
+- https://www.youtube.com/@tobiasjosborne/playlists
+- https://www.youtube.com/watch?v=ACZC_XEyg9U
+- https://www.youtube.com/playlist?list=PLDlWMHnDwyljrnVxoGoBkHclt3VEkP0Kf
+-  https://www.youtube.com/playlist?list=PLbMVogVj5nJQ3slQodXQ5cSEtcp4HbNFc
+- https://www.youtube.com/watch?v=29v0B2Fol3k&list=PL04QVxpjcnjiByGS5xGhiqC_G0rJVDDem&index=6&t=994
 
 
 
@@ -273,12 +273,28 @@ spin geometry:= study of dirac operators on such bundles
 
 ---
 
+There are various physical and computational aspects to it
+
+- [Interfacial Phenomena | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-357-interfacial-phenomena-fall-2010/)
+- [Lectures on Finite Element Methods for Fluid Dynamics, a full semester course on CFD using FEM. - YouTube](https://www.youtube.com/playlist?list=PLseC-R59hYulujxXowYDySos6dkg7QAD7)
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XoefjJdFq6k?si=xltnMasUkduN11UQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VH4oawCiHPU?si=Wt1hxgkK4cpt_eWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Thus there is an analysis side to it.
+
+But there is a (manifolds) geometric, and [topological](https://en.wikipedia.org/wiki/Topological_fluid_dynamics) side to it too,
+
+- [The Euler-Arnold equation | What's new (wordpress.com)](https://terrytao.wordpress.com/2010/06/07/the-euler-arnold-equation/)
+- [Vladimir I. Arnold, Boris A. Khesin - Topological Methods in Hydrodynamics](https://library.lol/main/061427D2C2ACB6D593D99EEE8B1CAD25)
+- https://www2.math.upenn.edu/~ghrist/preprints/fluidshandbook.pdf
+- [Introduction to Topological Fluid Dynamics - Lecture 1 (of 7) (youtube.com)](https://www.youtube.com/playlist?list=PLWoCS9bDDOr3v2iyTjhEENtH5zM3Ytkdf) and more: [Short Course Video Lectures – Welcome to Renzo Ricca's website](https://www.renzoricca.com/2023/07/03/video-courses/)
+- [Geometric Fluid Dynamics, Fall 2021 (utoronto.ca)](https://www.math.utoronto.ca/khesin/teaching/henan/geometricfluids21.html)
+- [fea-khesin-alt.qxp (toronto.edu)](https://www.math.toronto.edu/khesin/papers/amshydro.pdf)
+- [Topological fluid dynamics - Wikipedia - references](https://en.wikipedia.org/wiki/Topological_fluid_dynamics#References)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_UoTTq651dE?si=EOi15dGihAaJzt79" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
