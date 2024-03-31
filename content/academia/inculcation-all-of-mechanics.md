@@ -6,6 +6,9 @@ tags:
 title: "Inculcation: all of mechanics"
 aliases:
 ---
+
+Main article: [[inculcation]]
+
 > I make a very specific use of the words "physics" and "mechanics", here. Ofcourse I shall explain what I mean, but do note, it is a personal choice.  
 
 ## trying to do physics but failing
