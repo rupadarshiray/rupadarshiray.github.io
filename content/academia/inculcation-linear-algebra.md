@@ -80,7 +80,10 @@ I am still looking on how to understand *two* linear endomorphisms giving a $k[X
 ## representation theory = spicy linear algebra
 
 A group homomorphism from a (say, finite for now) group $G$ to the general linear group on a vector space $V$ 
+
 $$
 G \to {GL}(V)
-$$ is called a *representation of the group $G$*. One can classify and study such homomorphisms (upto an equivalence ofcourse) and it's called representation theory (of finite groups). This "helps" in doing linear algebra when we have a invertible linear map $V\to V$, in my opinion.
+$$ 
+
+is called a *representation of the group $G$*. One can classify and study such homomorphisms (upto an equivalence ofcourse) and it's called representation theory (of finite groups). This "helps" in doing linear algebra when we have a invertible linear map $V\to V$, in my opinion.
 
