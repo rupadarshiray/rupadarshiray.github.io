@@ -63,7 +63,7 @@ Need help proving stuff? Try following the arrows:
 ## a second semester on linear algebra
 
 - In the first semester, you were probably in first year and only did "real" vector spaces, that is vector spaces where scalars are only coming from real numbers $\R$. We can generalize this to any "*field*" $k$ and there are many motivations to do this.
-	- $\C$ is algebraically closed 
+	- $\mathbb{C}$ is algebraically closed 
 - The canonical forms of a linear endomorphism (fancy name for linear map $V\to V$)
 - Every if you did do linear algebra on general fields in the first semester you might like to understand the intersection: category theory $\cap$ linear algebra
 	- Duality is a functor $V\mapsto V^{*}$
@@ -79,5 +79,8 @@ I am still looking on how to understand *two* linear endomorphisms giving a $k[X
 
 ## representation theory = spicy linear algebra
 
-A group homomorphism from a (say, finite for now) group $G$ to the general linear group on a vector space $V$ $$G\to \nit{GL}(V)$$ is called a *representation of the group $G$*. One can classify and study such homomorphisms (upto an equivalence ofcourse) and it's called representation theory (of finite groups). This "helps" in doing linear algebra when we have a invertible linear map $V\to V$, in my opinion.
+A group homomorphism from a (say, finite for now) group $G$ to the general linear group on a vector space $V$ 
+$$
+G \to {GL}(V)
+$$ is called a *representation of the group $G$*. One can classify and study such homomorphisms (upto an equivalence ofcourse) and it's called representation theory (of finite groups). This "helps" in doing linear algebra when we have a invertible linear map $V\to V$, in my opinion.
 
