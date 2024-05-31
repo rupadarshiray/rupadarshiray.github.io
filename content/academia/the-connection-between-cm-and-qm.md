@@ -6,7 +6,7 @@ title: 'The connection between CM and QM'
 aliases: '' 
 ---
 
-### though the one point problem
+## though the one point problem
 
 We must notice the analogy
 
@@ -32,7 +32,7 @@ We must notice the analogy
 This analogy can be generalised many folds (geometric quantization of a Hamiltonian group action).
 
 
-## plot twist!
-
+## plot twist: QM $\subset$ Hamiltonian dynamics
 
 [Geometric formulation of quantum mechanics - arxiv.org/pdf/1503.00238.pdf](https://arxiv.org/pdf/1503.00238.pdf)
+

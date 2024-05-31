@@ -15,8 +15,6 @@ AKA "non-linear dynamics", "smooth dynamical systems", "systems" even (as in mos
 
 This is a standard geometric interpretation.
 
-### vector fields on $\R^{n}$
-
 Did you ever think an ordinary differential equations book will have this picture:
 
 ![|700](https://i.imgur.com/yRrKeIe.png)
@@ -24,7 +22,7 @@ Did you ever think an ordinary differential equations book will have this pictur
 
 This is Perko's book [Differential Equations and Dynamical Systems, Third Edition (2006)](http://library.lol/main/B2FA263686F1AAB9F19B2EBA8E12DD04), a good read, if youre familiar with Analysis in $\R^{n}$. Otherwise any physics text on "non-linear dynamics" works, for example Steven Strogatz's Non-linear dynamics lecture videos and book.
 
----
+### vector fields and ODE dictionary
 
 What we do is, write a differential equation like 
 
@@ -43,18 +41,21 @@ where $\mathbf{f}:\mathcal{U} \subseteq \R^{n} \to \R^{n}$ is a *vector field* o
 This gives us a geometric pov on ODEs in $\R^{n}$, *and* we have a 
 
 
-| solving differential equations                     | analysis and geometry of vector fields                                    |
-| ------------------------------------------ | ----------------------------------- |
-| an equation $$\dot{x}=\mathbf{f}(x)$$                                | a vector field $$\mathbf{f}:\mathcal{U} \subseteq \R^{n} \to \R^{n}$$         |
-| solutions of the equation $$\begin{aligned} \dot{x}(t)&=\mathbf{f}(x(t)) \\ x(0)&=x_0 \end{aligned}$$                 | integral curves of the vector field $$t \mapsto \Phi^\mathbf{f}_{t}(x_{0})$$ |
-| how solutions depend on initial conditions $$x_0 \mapsto x(t)$$ | flows of the vector field    $$x_0 \mapsto \Phi^\mathbf{f}_{t}(x_0)$$                          |
-| conserved quantities                        | integrals of the vector field      |
-| (linearly) decoupling the differential equation $$\dot{z_{i}}= f_{i}(z_i)$$ | (linear) coordinate transformation such that $$\mathbf{f}=\sum_i f_i(z_{i}) \hat{z}_i$$ |
+| solving differential equations                                                                        | analysis and geometry of vector fields                                                  |
+| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| an equation $\dot{x}=\mathbf{f}(x)$                                                                 | a vector field $\mathbf{f}:\mathcal{U} \subseteq \R^{n} \to \R^{n}$                   |
+| solutions of the equation $\begin{aligned} \dot{x}(t)&=\mathbf{f}(x(t)) \\ x(0)&=x_0 \end{aligned}$ | integral curves of the vector field $t \mapsto \Phi^\mathbf{f}_{t}(x_{0})$            |
+| how solutions depend on initial conditions $x_0 \mapsto x(t)$                                       | flows of the vector field    $x_0 \mapsto \Phi^\mathbf{f}_{t}(x_0)$                   |
+| conserved quantities                                                                                  | integrals of the vector field                                                           |
+| (linearly) decoupling the differential equation $\dot{z_{i}}= f_{i}(z_i)$                           | (linear) coordinate transformation such that $\mathbf{f}=\sum_i f_i(z_{i}) \hat{z}_i$ |
+
+
+^d2a7b1
 
 
 We may convert ordinary differential equation of *any* order to first order by taking enough independent variables and defining them to be higher derivatives.
 
-### much  elementary introduction
+### much elementary introduction
 
 A short introduction with examples from models in population dynamics:
 
@@ -117,14 +118,14 @@ This series by Arnold exists:
 > 1. [Dynamical Systems I: ODEs and smooth dynamical systems](http://library.lol/main/50AEF13AFA55CF451CDF5F2DDCE4B5F9)
 > 2. [Dynamical Systems II: Ergodic Theory with Applications to Dynamical Systems and Statistical Mechanics](http://library.lol/main/0F843795B86B9CFE0B6B2CF07C70F247)
 > 3. [Dynamical Systems III: Mathematical Aspects of Classical and Celestial Mechanics](http://library.lol/main/3202BBEBE8B9815467107F1A97BF0B3D)
-> 4. [Dynamical Systems IV: Symplectic Geometry and its Applications](http://library.lol/main/A32CB3180B87DD46A49AC5215A84003E)
+> 4. [Dynamical Systems IV: Symplectic Geometry and its Applications](http://library.lol/main/18B86ACD9AB90E7B1AEE3AEA6DDFD9C2)
 > 5. [Dynamical Systems V: Bifurcation Theory and Catastrophe Theory](http://library.lol/main/42FB2D5A011C751A5BAD704A88D3C1EF)
 > 6. [Dynamical Systems VI: Singularity Theory I](http://library.lol/main/4C640F6B177EEC1BCA3608562A9E72BD)
 > 7. [Dynamical Systems VII: Integrable Systems, Nonholonomic Dynamical Systems](http://library.lol/main/123E78A46F90C712BFE3FA4283D278F4)
 > 8. [Dynamical Systems VIII: Singularity Theory II - Applications](http://library.lol/main/1BE6B3E2B2203C12B3B99C810F2C9C7E)
 > 9. [Dynamical Systems IX: Dynamical Systems with Hyperbolic Behaviour](http://library.lol/main/F4FCF5C2E7BE3916542E18A0FED5D6C7)
 > 10. [Dynamical Systems X: General Theory of Vortices](http://library.lol/main/9898F298DFF5DDDF2CE7558AE336ECBD)
-> 
+>  ^jcq2iy
 
 
 ### go beyond finite dimension

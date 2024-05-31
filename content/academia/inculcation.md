@@ -63,16 +63,29 @@ The first section had groups, vector spaces and analysis. Now we shall continue 
 - #book Artin - Algebra
 - #book Algebra Chapter 0
 
+### continue real analysis
+
+After
+
+![[inculcation-linear-constructions#Inside reals and metric spaces]]
+
+we move onto [[inculcation-analysis-finite-vector-spaces|finite-dimensional vector spaces]] or just $\R^{n}$.
+
 
 ### cute topology and geometry
 
 
 - #### differential geometry of curves and surfaces in $\mathbb{R}^3$ 
+	- *spicy multi-variable calculus in dimension 3!*
 	- These lectures has pre-requisites of linear algebra, analysis in $\mathbb{R}^{n}$ #lectures [ICTP Diploma - Differential Geometry - Claudio Arezzo - YouTube](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz) knowing total derivatives and bilinear forms with introducing yourself a little *topology* (compactness, connectedness)
 - #### cute topology
 	- [Topology & Geometry by Dr Tadashi Tokieda - YouTube](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
 	- Knot theory
+		- [How The Most Useless Branch of Math Could Save Your Life - YouTube](https://www.youtube.com/watch?v=8DBhTXM_Br4&t=246s)
+		- [Knot Theory - YouTube](https://www.youtube.com/playlist?list=PLOROtRhtegr4c1H1JaWN1f6J_q1HdWZOY)
+- how topology affects geometry, analysis, algebra (Lie groups, say) and physics
 	- [Dirac's belt trick, Topology, and Spin ½ particles - YouTube](https://www.youtube.com/watch?v=ACZC_XEyg9U)
+	- [The derivative isn't what you think it is. - YouTube](https://www.youtube.com/watch?v=2ptFnIj71SM)
 
 
 ### dynamical systems and ODEs

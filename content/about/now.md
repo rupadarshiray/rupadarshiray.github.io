@@ -21,3 +21,7 @@ On 1st May, 12024, I am:
 Not really fun using twitter these days, but here's my feed:
 
 <a class="twitter-timeline" data-lang="en" data-width="600" data-height="700" data-dnt="true" data-theme="dark" href="https://twitter.com/rupadarshiray?ref_src=twsrc%5Etfw">Tweets by rupadarshiray</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<iframe src="https://mathstodon.xyz/@rupadarshiray" style="width:600; border:none;height:900;"></iframe>
+

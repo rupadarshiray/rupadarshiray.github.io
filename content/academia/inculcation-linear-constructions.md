@@ -67,24 +67,24 @@ We start with logic and set theory, do analysis, algebra, geometry and topology:
 - #### Analysis in $\R$
 	- Construct(!!) from $\mathbb{Z} \to \mathbb{Q} \to \mathbb{R}$
 	- Sequences, limits of sequences
-- #### Metric spaces
+- #### Metric spaces with the intuition of $\R$
 	- Sequences and series
-	- $\epsilon-\delta$ limits of functions, continuity
-	- get motivated for topological spaces
+	- $\epsilon-\delta$ limits of functions, continuous functions
+	- *get motivated for topological spaces*: prove the theorem that a function is continuous if and only if preimage of open sets is open
 
 
 ---
 
-### Inside finite dim spaces
+### Inside finite dim vector spaces spaces
 
-(mostly finite dim)
-
-We do more inside $\mathbb{R}^{n}$ and venture slightly out to do analysis in normed vector spaces. This also cascades while doing analysis in inner product spaces.
+We do more inside $\mathbb{R}^{n}$ and venture slightly out to do analysis in finite-dim real normed vector spaces, which are ofcourse diffeomorphic to $\R^{n}$.
 
 - #### In normed vector spaces
-	- [[inculcation-analysis-normed-vector-spaces|Analysis in normed vector spaces]]
+	- [[inculcation-analysis-finite-vector-spaces|Analysis in finite-dimensional normed vector spaces]]
 - #### Differential geometry of submanifolds of $\mathbb{R}^{n}$
 	- #lecturenotes [diffgeo.pdf (ethz.ch)](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) One can distinguish extrinsic differential geometry and intrinsic differential geometry. The former restricts attention to submanifolds of Euclidean space while the latter studies manifolds equipped with a Riemannian metric. The extrinsic theory is more accessible because we can visualize curves and surfaces in $\mathbb{R}^{3}$ , but some topics can best be handled with the intrinsic theory...
+	- better thing to do is directly jump to smooth manifolds altogether.
+
 
 ## Living completely outside $\R^{n}$
 
@@ -92,8 +92,7 @@ We do more inside $\mathbb{R}^{n}$ and venture slightly out to do analysis in no
 > - *analysis on (finite dim) manifolds* (classical mechanics, ODEs, Hamiltonian systems, oscillations)
 > - *analysis in function spaces(infinite dim complete normed/inner product spaces)* (quantum mechanics, PDEs, waves)
 
-
-[[inculcation-analysis-normed-vector-spaces|Analysis in normed vector spaces]] was just the begining.
+[[inculcation-analysis-finite-vector-spaces|Analysis in normed vector spaces]] was just the begining.
 
 ### *Measure spaces* (measure theory)
 
@@ -122,11 +121,13 @@ AKA the fields of topology, algebraic topology
 
 ### Out on smooth manifolds
 
-> this is *"intrinsic differential geometry"* AKA *analysis on manifolds*
+AKA *"intrinsic differential geometry"* or *analysis on manifolds*.
 
 May try #lectures [Frederic Schuller -International Winter School on Gravity and Light 2015](https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_) without any other context or to get into it fully: [[inculcation-smooth-manifolds]].
 
-### Inside not finite dim spaces 
+
+
+### Inside infinite dim spaces 
 
 AKA functional analysis!
 

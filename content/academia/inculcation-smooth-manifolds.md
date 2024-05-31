@@ -12,7 +12,7 @@ aliases: ''
 ## initial philosophy of manifolds
 
 
-> [!tip] Philosophy of manifolds I: to go out of submanifolds of $\R^{n}$
+> [!tip] Philosophy of manifolds I: to go out of open sets in $\R^{n}$
 > 
 > After studying submanifolds of $\R^{n}$, or just surfaces in $\R^{2}$, why do we want to think of arbitary sets as "manifolds", as something we can do things we could do to smooth surfaces? Because then *anything* could be a manifolds. 
 > 
