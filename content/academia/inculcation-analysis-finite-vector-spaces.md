@@ -37,21 +37,22 @@ $$\begin{array}{} \mathcal{C}^{\infty}(U) &\xrightarrow{\mathrm{grad} } &\mathrm
 &&&& \mathrm{div}\circ \mathrm{curl}=0  \\
 \end{array}$$
 
+where $U \subseteq \mathbb{R}^{3}$.
 
-writing this in the following notation
+writing this in a different notation, for $\mathcal{C}^{\infty}(U) \xrightarrow{\mathrm{grad} } \mathrm{Vec}^{\infty}(U)\xrightarrow{\mathrm{curl}} \mathrm{Vec}^{\infty}(U)$
 
-$$ \begin{array}{c} f & \xmapsto{\mathrm{d}} &\mathrm{d}f= \underbrace{ \sum_{i} \frac{\partial f}{\partial x_{i}} \mathrm{d}{x_{i}} }_{ \text{this behaves like grad} } \\
-& & \omega= \sum_{i} \omega_{i} \mathrm{d}{x_{i}} & \xmapsto{\mathrm{d}} & \mathrm{d}\omega = \underbrace{ \sum_{i} \mathrm{d}\omega_{i} \wedge \mathrm{d}{x_{i}} }_{ \text{this behaves like curl} }  \end{array}
+$$ \begin{array}{c} f & \xmapsto{\mathrm{d}} &\mathrm{d}f= \underbrace{ \sum_{i} \frac{\partial f}{\partial x_{i}} \mathrm{d}{x_{i}} }_{ \text{this looks like grad} } \\
+& & \omega= \sum_{i} \omega_{i} \mathrm{d}{x_{i}} & \xmapsto{\mathrm{d}} & \mathrm{d}\omega = \underbrace{ \sum_{i} \mathrm{d}\omega_{i} \wedge \mathrm{d}{x_{i}} }_{ \text{this looks like curl} }  \end{array}
 $$
 
-for the first three spaces
+and then continuing for $\mathrm{Vec}^{\infty}(U)\xrightarrow{\mathrm{div}} \mathcal{C}^{\infty}(U)$
 
-$$\begin{array}{c}
-&&& & \alpha = \sum_{i>j} \alpha_{ij} \mathrm{d}x_{i} \wedge \mathrm{d}x_{j} & \xmapsto{\mathrm{d}} & \mathrm{d}\alpha = \underbrace{ \sum_{i>j} \mathrm{d}\alpha_{ij} \wedge \mathrm{d}x_{i} \wedge \mathrm{d}x_{j}  }_{ \text{this behaves like div (check!)} }\\
+$$\begin{array}{c} 
+&&&&\mathrm{d}\omega = \underbrace{ \sum_{i} \mathrm{d}\omega_{i} \wedge \mathrm{d}{x_{i}} }_{ \text{this looks like curl} } \\
+
+&&& & \alpha = \sum_{i>j} \alpha_{ij} \mathrm{d}x_{i} \wedge \mathrm{d}x_{j} & \xmapsto{\mathrm{d}} & \mathrm{d}\alpha = \underbrace{ \sum_{i>j} \mathrm{d}\alpha_{ij} \wedge \mathrm{d}x_{i} \wedge \mathrm{d}x_{j}  }_{ \text{this looks like div (check!)} }\\
 &&&&&&\beta= \beta_{123}  \ \mathrm{d}{x_{1}}  \wedge \mathrm{d}{x_{2}}  \wedge\mathrm{d}{x_{3}} &\xmapsto{\mathrm{d}} 0 \end{array} $$
-where the $\wedge$ works like the cross product $$ \mathrm{d}{x_{i}} \wedge \mathrm{d}x_{j} = - \mathrm{d}x_{j} \wedge \mathrm{d}x_{i} $$
-
-
+where we understand that the "wedge" $\wedge$ works like the cross product $$ \mathrm{d}{x_{i}} \wedge \mathrm{d}x_{j} = - \mathrm{d}x_{j} \wedge \mathrm{d}x_{i} $$
 It is easily seen $$ \mathrm{d}(\mathrm{d} (-) )=0 $$
 doesn't matter what's inside the $(-)$, a real function $f$ or the objects $\omega$, $\alpha$ or $\beta$ (called 0,1,2,3-forms respectively) when their components are differentiable functions.
 
