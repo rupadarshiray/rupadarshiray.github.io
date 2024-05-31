@@ -39,7 +39,7 @@ $$\begin{array}{} \mathcal{C}^{\infty}(U) &\xrightarrow{\mathrm{grad} } &\mathrm
 
 where $U \subseteq \mathbb{R}^{3}$.
 
-writing this in a different notation, for $\mathcal{C}^{\infty}(U) \xrightarrow{\mathrm{grad} } \mathrm{Vec}^{\infty}(U)\xrightarrow{\mathrm{curl}} \mathrm{Vec}^{\infty}(U)$
+Writing this in a different notation: for $\mathcal{C}^{\infty}(U) \xrightarrow{\mathrm{grad} } \mathrm{Vec}^{\infty}(U)\xrightarrow{\mathrm{curl}} \mathrm{Vec}^{\infty}(U)$ 
 
 $$ \begin{array}{c} f & \xmapsto{\mathrm{d}} &\mathrm{d}f= \underbrace{ \sum_{i} \frac{\partial f}{\partial x_{i}} \mathrm{d}{x_{i}} }_{ \text{this looks like grad} } \\
 & & \omega= \sum_{i} \omega_{i} \mathrm{d}{x_{i}} & \xmapsto{\mathrm{d}} & \mathrm{d}\omega = \underbrace{ \sum_{i} \mathrm{d}\omega_{i} \wedge \mathrm{d}{x_{i}} }_{ \text{this looks like curl} }  \end{array}
@@ -56,7 +56,7 @@ where we understand that the "wedge" $\wedge$ works like the cross product $$ \m
 It is easily seen $$ \mathrm{d}(\mathrm{d} (-) )=0 $$
 doesn't matter what's inside the $(-)$, a real function $f$ or the objects $\omega$, $\alpha$ or $\beta$ (called 0,1,2,3-forms respectively) when their components are differentiable functions.
 
-We see this "exterior derivative" $$\mathrm{d}$$ thus unifies grad, curl and div and generalizes because it may be defined as $$\text{d}\omega=\mathrm{d}{\left( \sum\omega_{I} \mathrm{d}{x_{I}} \right)}:= \mathrm{d}{\omega_{I}}\wedge \mathrm{d}{x_{I}}$$
+We see this "exterior derivative" $$\mathrm{d}$$ thus "unifies" grad, curl and div and generalizes because it may be defined as $$\text{d}\omega=\mathrm{d}{\left( \sum\omega_{I} \mathrm{d}{x_{I}} \right)}:= \mathrm{d}{\omega_{I}}\wedge \mathrm{d}{x_{I}}$$
 in any dimension.
 
 But what are these $$ \mathrm{d}x_{i} $$
