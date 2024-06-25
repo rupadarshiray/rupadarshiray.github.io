@@ -34,7 +34,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options> | und
   return {
     name: "CreatedModifiedDate",
     markdownPlugins() {
-      return [
+      return [  
         () => {
           let repo: Repository | undefined = undefined
           return async (_tree, file) => {
@@ -50,7 +50,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options> | und
                 created ||= st.birthtimeMs
                 modified ||= st.mtimeMs
               } else if (source === "frontmatter" && file.data.frontmatter) {
-                created ||= file.data.frontmatter.date
+                created ||= file.data.frontmatter.created
                 modified ||= file.data.frontmatter.lastmod
                 modified ||= file.data.frontmatter.updated
                 modified ||= file.data.frontmatter["last-modified"]

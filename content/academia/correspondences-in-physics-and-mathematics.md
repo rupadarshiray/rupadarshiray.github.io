@@ -6,14 +6,15 @@ title: 'Correspondences in physics and mathematics'
 aliases: '' 
 ---
 
+We are concerned with finding patterns
+
 - Galois correspondence
-- Langlands
+- the correspondence between algebra and geometry
+- the Langlands program
 - [[the-connection-between-cm-and-qm]]
-- Relative langlands
+- the relative langlands program
 - the StatMech-QM correspondence
 - the CM-Therm correspondence
 - AdS/CFT or gauge/gravity
 - Mirror symmetry
-- marks/grades
-
-
+- marks/grades xD

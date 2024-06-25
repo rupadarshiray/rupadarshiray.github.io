@@ -5,7 +5,7 @@ tags: [Inculcation]
 title: 'Inculcation: Analysis in finite-dimensional normed vector spaces'
 aliases: ''
 ---
-
+	
 > parent:: [[inculcation]]
 
 

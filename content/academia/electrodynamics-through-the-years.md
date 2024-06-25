@@ -8,17 +8,17 @@ aliases: ''
 
 > 4 years with electrodynamics
 
-## 2019 April
+## April, 12019
 
 
 
-## 3 years go
+## May, 12020
 
 it was the fact that integration (eg: ∇ ⋅ E) on volumes/surfaces work so nicely that that cut each other off when you integrate over smaller volumes vs the whole ; i mean like the divergence theorem etc
 
 the whole small set of equations describing everything, the unification etc
 
-## 2 years ago
+## August, 12021
 
 the dance of particles and field with their stress energy momentum tensor 
 
@@ -34,14 +34,14 @@ action principle describing everything
 
 A = -c ∫ mds + ∫ A ⋅ dx + ∫ F^ab _ab dV
 
-## 1 year ago
+## May, 12022
 
 uniqueness theorems, how the field is a differential 2-form and the Maxwell's equations are really is set of 2 equations
 
 dF =0
 *d * F = J
 
-## now
+## June, 12023
 
 ...
 trying to do gauge theory and stuff eventually... let's see
