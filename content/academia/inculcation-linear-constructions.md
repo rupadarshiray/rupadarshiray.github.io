@@ -19,7 +19,7 @@ Life is very non-linear, but arguments should not be circular.
 
 We start with logic and set theory, do analysis, algebra, geometry and topology: there is no actual distinction between their build-up, only in their vibes.
 
-![[inculcation-linear-constructions.Drawing 231119143637]]
+![](https://i.imgur.com/RFZF0UK.png)
 
 - build the grounds
 	- logic: propositional
@@ -131,5 +131,6 @@ May try #lectures [Frederic Schuller -International Winter School on Gravity and
 
 AKA functional analysis!
 
-Of course, I've no idea about this.
+Of course, I've no idea about this, yet.
+
 - #lectures Frederic Schuller - Quantum Theory

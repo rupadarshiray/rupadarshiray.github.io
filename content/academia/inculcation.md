@@ -12,7 +12,7 @@ aliases: ''
 
 > All opinion are strictly mine.
 
-This list was made with materials mostly found on the internet, to give say what I want completely without repetition, etc.
+This list was made with materials mostly found on the internet, to reduce repetition from my side.
 
 # What to study? Where to study from?
 
@@ -59,9 +59,9 @@ The first section had groups, vector spaces and analysis. Now we shall continue 
 ### continue with algebra
 
 
-- #lectures [Abstract Algebra by Benedict Gross - YouTube](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3)
-- #book Artin - Algebra
-- #book Algebra Chapter 0
+- `lectures` [Abstract Algebra by Benedict Gross - YouTube](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3)
+- `book` Artin - Algebra
+- `book` Algebra Chapter 0
 
 ### continue real analysis
 
@@ -76,26 +76,32 @@ we move onto [[inculcation-analysis-finite-vector-spaces|finite-dimensional vect
 
 
 - #### differential geometry of curves and surfaces in $\mathbb{R}^3$ 
-	- *spicy multi-variable calculus in dimension 3!*
-	- These lectures has pre-requisites of linear algebra, analysis in $\mathbb{R}^{n}$ #lectures [ICTP Diploma - Differential Geometry - Claudio Arezzo - YouTube](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz) knowing total derivatives and bilinear forms with introducing yourself a little *topology* (compactness, connectedness)
-- #### cute topology
+	- AKA what I would call *spicy multi-variable calculus in dimension 3!*
+	- `lectures` [ICTP Diploma - Differential Geometry - Claudio Arezzo - YouTube](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz) 
+		- These lectures has pre-requisites of baisic linear algebra, analysis in $\mathbb{R}^{n}$"  knowing total derivatives and bilinear forms with introducing yourself a little *topology* (compactness, connectedness)
+- #### *cute* topology
 	- [Topology & Geometry by Dr Tadashi Tokieda - YouTube](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
 	- Knot theory
 		- [How The Most Useless Branch of Math Could Save Your Life - YouTube](https://www.youtube.com/watch?v=8DBhTXM_Br4&t=246s)
 		- [Knot Theory - YouTube](https://www.youtube.com/playlist?list=PLOROtRhtegr4c1H1JaWN1f6J_q1HdWZOY)
-- how topology affects geometry, analysis, algebra (Lie groups, say) and physics
+- how topology affects and interacts with geometry, analysis, algebra (Lie groups, say) and physics
+	- [Gauss–Bonnet theorem - Wikipedia](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem) 
 	- [Dirac's belt trick, Topology, and Spin ½ particles - YouTube](https://www.youtube.com/watch?v=ACZC_XEyg9U)
 	- [The derivative isn't what you think it is. - YouTube](https://www.youtube.com/watch?v=2ptFnIj71SM)
 
 
 ### dynamical systems and ODEs
 
+![[inculcation-odes#vector fields and ODE dictionary]]
 
 More on this: [[inculcation-odes]]
 
 ### probability and information
 
 
+Well, I have no idea yet!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v68zYyaEmEA?si=jHpmEwYRdWKGO01Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### *handwavey* physics
 
@@ -136,21 +142,20 @@ More on this: [[inculcation-odes]]
 With the language of manifolds/normed vector spaces we can work in geometry, topology and physics properly! (no handwaves!)
 
 - Riemannian geometry, semi-Riemannian geometry, GR
-- ODEs [[inculcation-odes|Inculcation: ODEs]]
-- Ergodic theory
+- ODEs [[inculcation-odes|Inculcation: ODEs]], smooth dynamical systems
+- Ergodic theory, dynamical systems in measure spaces
 - PDEs
-- ==talk== [Mathematics of Turbulent Flows: A Million Dollar Problem! by Edriss S Titi - YouTube](https://www.youtube.com/watch?v=VH4oawCiHPU)
+- `talk` [Mathematics of Turbulent Flows: A Million Dollar Problem! by Edriss S Titi - YouTube](https://www.youtube.com/watch?v=VH4oawCiHPU)
 - Hamiltonian systems and symplectic geometry
 - Thermodynamic systems, ODEs and contact geometry
 - QM
-- ==lecturenotes== Use measure theory to do [Classical Equilibrium Statistical Mechanics](https://warwick.ac.uk/fac/sci/maths/people/staff/stefan_adams/lecturenotestvi/cdias-adams-30.pdf)
+- `lecturenotes` Use measure theory to do [Classical Equilibrium Statistical Mechanics](https://warwick.ac.uk/fac/sci/maths/people/staff/stefan_adams/lecturenotestvi/cdias-adams-30.pdf)
 - Differential topology, or algebriac topology with a differential viewpoint
 - Probability, information theory
 
 ## starting again?
 
-- #lectures [MathHistory: A course in the History of Mathematics](https://www.youtube.com/playlist?list=PL55C7C83781CF4316)
-
+- `lectures` [MathHistory: A course in the History of Mathematics](https://www.youtube.com/playlist?list=PL55C7C83781CF4316)
 
 
 # How to study?
@@ -164,14 +169,13 @@ With the language of manifolds/normed vector spaces we can work in geometry, top
 		- in physical notebook.
 			- Scan the lecture notes as PDF into one file and save it inside your vault.
 			- Might seem/be a waste of time, but loosing hard worked lecture notes/not organizing them is a bigger loss.
-		- Filling pages upon pages and never returning back onto them is NOT the process. Return to the notes, think, and solve your own questions.
-- ## How to do books?
-	- honestly I've no idea
+		- Filling pages upon pages and never returning back onto them is NOT the process, it seems ro me. Return to the notes, think, and solve your own questions.
 
 # more references, roadmaps
 
 > [!bug] Stuff missing from here
-> - Number theory! 
+> - Number theory!
+> - Graph theory, algorithms, combinatorics, etc.
 
 > [!info] Newsletter?, channel, chat?
 > 
@@ -182,7 +186,7 @@ With the language of manifolds/normed vector spaces we can work in geometry, top
 	- [How to become a GOOD Theoretical Physicist (goodtheorist.science)](https://www.goodtheorist.science/)
 	- http://theportal.wiki/wiki/Read
 	- ~~[[20-prerequisites-for-quantum-mechanics]]~~
-	- #book Paddy - Theoretical Astrophysics volumes I, II & III
+	- `book` Paddy - Theoretical Astrophysics volumes I, II & III
 - Watch (any one or all even) these one lecture and tell me how can you not love this!! (don’t pay attention to the name of the video)
 	- [Partial Differential Equations - Giovanni Bellettini - Lecture 01 - YouTube](https://www.youtube.com/watch?v=Rq1iRT2LL-8)
 	- [History of Algebraic Topology - Pierre Albin - YouTube](https://www.youtube.com/watch?v=XxFGokyYo6g)

@@ -48,3 +48,7 @@ remixes of known music in arabic
 play distracting music in the next room
 
 (search for "bathroom mix")
+
+---
+
+[Playlist para estudiar como Albert Einstein. Descubriendo la relatividad - YouTube](https://www.youtube.com/watch?v=3ghcIeZxn-k)
