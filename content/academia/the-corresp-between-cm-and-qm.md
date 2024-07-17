@@ -34,8 +34,8 @@ This analogy can be generalised many folds (geometric quantization of a Hamilton
 
 ## plot twist: QM $\subset$ Hamiltonian dynamics
 
-For finite dimensions, any anti-Hermitian matrix $i \hat{H}$ (so $\hat{H}$ is Hermitian) can be written as a Hamiltonian vector field of some function $$ H : \C^{N} \to \R $$ which is given by $$ v \mapsto \ip{v,i \hat{H} v }  $$
-This can be seen as the following statement $$U(N) \subseteq \mathrm{Sp}(2N, \R)$$ (I think this is correct ^[[Unitary group - Wikipedia](https://en.wikipedia.org/wiki/Unitary_group#2-out-of-3_property)] ^[[Symplectic group - Wikipedia](https://en.wikipedia.org/wiki/Symplectic_group#Quantum_mechanics)])
+For finite dimensions, any anti-Hermitian matrix $i \hat{H}$ (so $\hat{H}$ is Hermitian) can be written as a Hamiltonian vector field of some function $$ H : \mathbb{C} ^{N} \to \R $$ which is given by $$ v \mapsto  \langle v \mid i \hat{H} v \rangle  $$
+This can be seen as the following statement $$U(N) \subseteq \mathrm{Sp}(2N, \R)$$ (I think this is correct) where the groups are [Unitary group - Wikipedia](https://en.wikipedia.org/wiki/Unitary_group#2-out-of-3_property) and [Symplectic group - Wikipedia](https://en.wikipedia.org/wiki/Symplectic_group#Quantum_mechanics).
 
 Hence, what this means is $$ \text{finite dim QM} \subset \text{Hamiltonian dynamics} $$
 This just means we could easily work with Hamilton's equations and the Hamiltonian $H$ rather than the Schrodinger equation with the operator $\hat{H}$.
@@ -43,12 +43,11 @@ This just means we could easily work with Hamilton's equations and the Hamiltoni
 Notice the Hamiltonian for a operator $i \hat{H}$ is $$ v \mapsto \ip{v, i \hat{H} v }  $$ has a QM interpretation!
 
 
-As a consequence of this chain of thought, I give the example of how two harmonic oscillators and the spin-$\frac{1}{2}$ particle share a phase space $\R^{4}=\C^{2}$ and thir flows commute! ^[https://www.math.unipd.it/~fasso/research/papers/sc.pdf#page=90]
+As a consequence of this chain of thought, I give the example of how two harmonic oscillators and the spin-$\frac{1}{2}$ particle share a phase space $\R^{4}=\C^{2}$ [and thir flows commute!](https://www.math.unipd.it/~fasso/research/papers/sc.pdf#page=90)
 
 
-This can be generalized to infinite dimensions. ^[[Geometric formulation of quantum mechanics - arxiv.org/pdf/1503.00238.pdf](https://arxiv.org/pdf/1503.00238.pdf)
-]
+This can be generalized to infinite dimensions: [Geometric formulation of quantum mechanics - arxiv.org/pdf/1503.00238.pdf](https://arxiv.org/pdf/1503.00238.pdf).
 
-What does this mean physically, philosophically?
+What does this mean physically, or even (physics) philosophically?
 
 

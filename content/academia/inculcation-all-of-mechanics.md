@@ -164,7 +164,7 @@ Doing this lectures mean you shall be clear of all spacetimes not just GR.
 - Both local and global properties of ODEs are studied in [[inculcation-odes]], in for example Perko's book.
 
 
-## geometry behind the dynamics
+### geometry behind the dynamics
 
 The geometry behind dynamics of a ODE is that of a vector field on a manifold.
 
@@ -173,6 +173,7 @@ The geometry behind dynamics of a ODE is that of a vector field on a manifold.
 The geometry of a Lagrangian is behind the algebra of a chain complex it creates, it seems to me.
 
 The geometry behind hamiltonian dynamics is symplectic geometry.
+
 
 https://people.math.harvard.edu/~jeffs/SymplecticNotes.pdf
 ## probabilistic description of points
@@ -275,8 +276,7 @@ spin geometry:= study of dirac operators on such bundles
 > 
 > Hamiltonian system of a system of particles <center> $\downarrow$ </center>
 > Statistical mechanics of the system of particles: Boltzmann equation with the probability distribution $f(\mathbf{x},t)$ <center> $\downarrow$ </center>
-> Take the average of quantities at the point $(\mathbf{x},t)$ and get equations for them $$\mathbf{v}(\mathbf{x},t)$$ $$p(\mathbf{x},t)$$
-> equations obtained: 
+> Take the average of quantities at the point $(\mathbf{x},t)$ and get equations for velocity and pressure $\mathbf{v}(\mathbf{x},t),p(\mathbf{x},t)$: 
 > - Continuity of mass
 > - Continuity of momentum
 > - Continuity of energy
