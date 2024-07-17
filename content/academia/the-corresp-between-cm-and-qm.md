@@ -43,7 +43,7 @@ This just means we could easily work with Hamilton's equations and the Hamiltoni
 Notice the Hamiltonian for a operator $i \hat{H}$ is $$ v \mapsto  \langle v \mid i \hat{H} v \rangle  $$ has a QM interpretation!
 
 
-As a consequence of this chain of thought, I give the example of how two harmonic oscillators and the spin-$\frac{1}{2}$ particle share a phase space $\R^{4}=\mathbb{C}^{2}$ [and thir flows commute!](https://www.math.unipd.it/~fasso/research/papers/sc.pdf#page=90)
+As a consequence of this chain of thought, I give the example of how two harmonic oscillators and the spin-$\frac{1}{2}$ particle share a phase space $\R^{4}=\mathbb{C}^{2}$ [and their flows commute!](https://www.math.unipd.it/~fasso/research/papers/sc.pdf#page=90)
 
 
 This can be generalized to infinite dimensions: [Geometric formulation of quantum mechanics - arxiv.org/pdf/1503.00238.pdf](https://arxiv.org/pdf/1503.00238.pdf).
