@@ -11,7 +11,7 @@ We are concerned with finding patterns
 - Galois correspondence
 - the correspondence between algebra and geometry
 - the Langlands program
-- [[the-connection-between-cm-and-qm]]
+- [[the-corresp-between-cm-and-qm]]
 - the relative langlands program
 - the StatMech-QM correspondence
 - the CM-Therm correspondence
