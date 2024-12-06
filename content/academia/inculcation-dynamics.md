@@ -1,9 +1,8 @@
 ---
 created: 2024-10-21T15:20:34+05:30
-modified: 2024-12-07T00:48:59+05:30
+modified: 2024-12-07T00:51:21+05:30
 tags: [Inculcation]
 title: 'Inculcation: everything in a dynamics pov'
-type: Journal
 aliases: null
 ---
 
