@@ -1,11 +1,10 @@
 ---
-created: 2024-10-21T15:28:58
-modified: 2024-10-21T15:28:58
-tags: []
+created: 2024-10-21T15:28:58+05:30
+modified: 2024-12-07T00:49:03+05:30
 title: 'Inculcation: the many faces of groups'
-aliases: '' 
+aliases: 
+type: Journal
 ---
-
 
 ## Finite groups
 
