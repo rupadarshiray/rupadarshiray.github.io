@@ -75,14 +75,14 @@ We start with logic and set theory, do analysis, algebra, geometry and topology:
 
 ---
 
-### Inside finite dim vector spaces spaces
+### Inside finite dim vector spaces
 
 We do more inside $\mathbb{R}^{n}$ and venture slightly out to do analysis in finite-dim real normed vector spaces, which are ofcourse diffeomorphic to $\R^{n}$.
 
 - #### In normed vector spaces
 	- [[inculcation-analysis-finite-vector-spaces|Analysis in finite-dimensional normed vector spaces]]
 - #### Differential geometry of submanifolds of $\mathbb{R}^{n}$
-	- #lecturenotes [diffgeo.pdf (ethz.ch)](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) One can distinguish extrinsic differential geometry and intrinsic differential geometry. The former restricts attention to submanifolds of Euclidean space while the latter studies manifolds equipped with a Riemannian metric. The extrinsic theory is more accessible because we can visualize curves and surfaces in $\mathbb{R}^{3}$ , but some topics can best be handled with the intrinsic theory...
+	- `lecturenotes` [diffgeo.pdf (ethz.ch)](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) One can distinguish extrinsic differential geometry and intrinsic differential geometry. The former restricts attention to submanifolds of Euclidean space while the latter studies manifolds equipped with a Riemannian metric. The extrinsic theory is more accessible because we can visualize curves and surfaces in $\mathbb{R}^{3}$ , but some topics can best be handled with the intrinsic theory...
 	- better thing to do is directly jump to smooth manifolds altogether.
 
 

@@ -7,7 +7,6 @@ title: "Inculcation: ODEs"
 aliases:
 ---
 
-# Inculcation: ODEs
 
 AKA "non-linear dynamics", "smooth dynamical systems", "systems" even (as in most of the content in "systems biology").
 
@@ -94,16 +93,17 @@ And as I said above, this book has a pre-requisite of some analysis, but still o
 Should be motivated from Perko, classical mechanics, etc. We, very naturally, want to write ODEs on surfaces, toruses or other "surfaces" of even higher dimensions AKA manifolds.
 
 - Define the **Lie bracket** of vector fields, **exponential** of vector fields $$\exp: \mathrm{Vec}(M)\to \mathrm{LDiff}(M)$$ 
-	- think of  the Lie algebra of vector fields as "the Lie algebra" of the "Lie group" local diffeomorphisms on the manifold $M$.
-	- The flows of two vector fields commute $\iff$ their Lie bracket is $0$
-- **Symplectic geometry** helps study Hamiltonian systems in a general setting.
+	- think of  the Lie algebra of vector fields as "the Lie algebra" of the "Lie group" local diffeomorphisms on the manifold $M$
+	- show that the flows of two vector fields commute $\iff$ their Lie bracket is $0$.
+- Given a smooth $H:\R^{2}\to \R$, how can we produce a vector field that "preserves" this function? Well Hamilton's equations on $\R^{2}$ $$ \begin{bmatrix} \dot{x} \\ \dot{y} \end{bmatrix} = \begin{bmatrix} 0 & -1 \\ 1 & 0 \end{bmatrix} \begin{bmatrix} \frac{{\partial H}}{\partial x} \\ \frac{{\partial H}}{\partial y} \end{bmatrix} $$ produces a vector field perpendicular to the gradient of $H$ which does the job! But in doing so, this "Hamiltonian vector field" of $H$ produces nice geometrical properties. For example it has zero divergence, implying its flow preserves area (in $\R^2$ )! 
+	- **Symplectic geometry** helps study the geometry of Hamilton's equations in a general setting.
 
 For more on smooth manifolds: [[inculcation-smooth-manifolds]].
 
-Use topology in your study of ODEs
+Use topology in your study of ODEs:
 
 - On **compact manifolds**, every vector field is *complete*, that is, the solutions of ODEs exist *globally* in time.
-- On the **sphere**, any vector field is zero atleast at one point, has atleast one fixed point (Hairy ball theorem!).
+- On the **2-sphere**, any vector field is zero atleast at one point, has atleast one fixed point (Hairy ball theorem!).
 - In general, use **index theorems** to know about vector fields on manifolds.
 - and more!
 

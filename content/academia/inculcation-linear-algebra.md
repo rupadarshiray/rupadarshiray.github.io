@@ -43,7 +43,7 @@ aliases: ''
 
 ## a first semester course
 
-Need help proving stuff? Try following the arrows:
+Need help proving stuff? Try following the arrows to prove equivalent conditions for injectivity of linear maps on finite dim spaces:
 
 ![](https://i.imgur.com/Jf457uG.png)
 
@@ -77,7 +77,7 @@ I am still looking on how to understand *two* linear endomorphisms giving a $k[X
 
 > Let's say we have a $k[X,Y]$-module $V$ defined by two linear endomorphisms $V\to V$. Then we always have at least one *simple* non-trivial $k[X,Y]$-submodule of $V$. 
 
-## representation theory = spicy linear algebra
+## representation theory is just spicy linear algebra
 
 A group homomorphism from a (say, finite for now) group $G$ to the general linear group on a vector space $V$  $$ G \to {GL}(V) $$ is called a *representation of the group $G$*. One can classify and study such homomorphisms (upto an equivalence ofcourse) and it's called representation theory (of finite groups). This "helps" in doing linear algebra when we have a invertible linear map $V\to V$, in my opinion.
 

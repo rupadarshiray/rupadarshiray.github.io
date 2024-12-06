@@ -19,6 +19,7 @@ This list was made with materials mostly found on the internet, to reduce repeti
   > (order is not strict, life is very *non-linear*)
 
 This has five major sections
+
 1. journey starts: [[inculcation#start with the little things and the big things|start with the little things and the big things]]
 2. discoveries: [[inculcation#dive into mathphysics -|dive into math physics ✨]]
 3. a need for clarity and details: [[inculcation#Linear constructions|Linear constructions]]
@@ -27,15 +28,16 @@ This has five major sections
 
 ## start with the little things and the big things
 
-- ### little things: groups (group theory, group actions)
+- ### little things: groups (group theory, group actions) ^kn3dkj
 	- ==One should start their journey with groups!==
 	- [Group theory, abstraction, and the 196,883-dimensional monster - YouTube](https://www.youtube.com/watch?v=mH0oCDa74tE)
 	- [Essence of Group Theory - YouTube](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
 	- Chapter 1 and 3 from [[evan-chen-napkin]]
-- ### big things: Vector spaces (linear algebra)
+	- Artin's Algebra is a good text.
+- ### big things: vector spaces (linear algebra)
 	- start here: [[inculcation-linear-algebra]]
 
-A very good place to start is this
+A very good place to start mathematics is this
 
 ![[evan-chen-napkin]]
 
@@ -47,9 +49,9 @@ A very good place to start is this
 			- Chapters 42-45 - Total derivatives and differential forms
 			- Chapters 2, 6-8 - Topology
 		- [[shifrin-multivariable-mathematics]] - a 2 semester course/book that covers linear algebra and (proper) multivariable calc
-	- more in [[inculcation#Linear constructions|Rigorous constructions]]
+	- more in [[inculcation#Linear constructions|Linear constructions]]
 - ### Mechanics
-	- Start here: [[inculcation-all-of-mechanics]]
+	- if you're into physics, start here: [[inculcation-all-of-mechanics]]
 
 
 ## dive into math/physics ✨
@@ -108,7 +110,7 @@ Well, I have no idea yet!
 ![|600](https://i.imgur.com/dkGS1Kx.png)
 
 - Start with [[inculcation-all-of-mechanics]]
-- Definitely do more math: lie groups, representations, fluid dynamics, and classical mechanics etc before quantum.
+- Definitely do more math: lie groups, representations, fluid dynamics, and classical mechanics etc before quantum, or atleast before doing quantum a second time.
 
 
 <!---
@@ -144,6 +146,7 @@ With the language of manifolds/normed vector spaces we can work in geometry, top
 - Riemannian geometry, semi-Riemannian geometry, GR
 - ODEs [[inculcation-odes|Inculcation: ODEs]], smooth dynamical systems
 - Ergodic theory, dynamical systems in measure spaces
+- Lie groups
 - PDEs
 - `talk` [Mathematics of Turbulent Flows: A Million Dollar Problem! by Edriss S Titi - YouTube](https://www.youtube.com/watch?v=VH4oawCiHPU)
 - Hamiltonian systems and symplectic geometry
