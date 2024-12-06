@@ -15,3 +15,11 @@ aliases: ''
 
 - Doing a reading project on differential topology.
 - Studying analysis, sympathetic geometry, etc.
+
+## Summer 12024
+
+On 1st May, 12024, I am:
+
+- chillin because exams are over, and summer holidays have begun!
+- doing a summer reading on representations in IISER Mohali
+- reading things like complex analysis, singularity theory on the side

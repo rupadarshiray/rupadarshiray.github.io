@@ -9,10 +9,7 @@ title: "now"
 
 > This is a [/now page](https://nownownow.com/about) for me!
 
-On 1st May, 12024, I am:
+On 6 December 12024,
 
-- chillin because exams are over, and summer holidays have begun!
-- doing a summer reading on representations in IISER Mohali
-- reading things like complex analysis, singularity theory on the side
-
-
+- Attending https://www.atmschools.org/school/2024/AIS/rtqbcssla
+- Studying papa Rudin, fourier analysis, etc. on the side

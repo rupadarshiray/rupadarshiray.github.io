@@ -11,7 +11,28 @@ export const sharedPageComponents: SharedLayout = {
       Twitter: "https://twitter.com/rupadarshiray",
     },
   }),
+
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'rupadarshiray/rupadarshiray.github.io',
+        // from data-repo-id
+        repoId: 'R_kgDOGjxAlw',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOGjxAl84Ck-fd',
+      }
+    }),
+  ],
+
+
+
 }
+
+
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
@@ -46,3 +67,5 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+
