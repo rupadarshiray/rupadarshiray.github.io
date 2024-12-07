@@ -42,6 +42,12 @@ We use Lie algebras to do representation theory of Lie groups.
 
 ## representation theory of topological groups
 
+## various groups in topology, geometry and dynamics
+
+- Homotopy and homology groups
+- Riemannian isometry groups
+- Symplectic groups
+
 
 ## Using algebraic topology to study groups
 
