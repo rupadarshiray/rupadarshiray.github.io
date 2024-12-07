@@ -16,7 +16,7 @@ The actual division is into
 - (I) Informal theory
 - (R) Formal and rigorous theories
 
-How do you build a theory?
+> How do you build a theory?
 
 
 ## it is not divided into classical and quantum mechanics

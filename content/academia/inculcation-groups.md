@@ -51,4 +51,3 @@ We can use the ideas of fundamental groups and covering spaces to say somethings
 
 "geometric group theory", "Fuchsian groups"
 
-## relations to symplectic geometry
