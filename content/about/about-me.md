@@ -18,11 +18,11 @@ You can learn what I am doing [[about/now|now-a-days here]].
 - [Twitch](https://www.twitch.tv/riddyrayes)
 - [GitHub](https://github.com/rupadarshiray)
 - [LinkedIn](https://www.linkedin.com/in/riddyrayes)
-- [Quora](https://www.quora.com/profile/riddyrayes)
-
+- [Mathstodon](https://mathstodon.xyz/deck/@rupadarshiray)
 
 
 <!--
+- [Quora](https://www.quora.com/profile/riddyrayes)
 - [[About Ray.CV]]
 - [[About Ray.Education]]
   - [[About Ray.Education.Higher Secondary]]
