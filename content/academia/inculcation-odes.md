@@ -10,16 +10,16 @@ aliases:
 
 AKA "non-linear dynamics", "smooth dynamical systems", "systems" even (as in most of the content in "systems biology").
 
-## interpret an ODE as a vector field
+## interpret any general ODE as a vector field and study it *visually*
 
-This is a standard geometric interpretation.
+This is a standard *geometric* interpretation.
 
 Did you ever think an ordinary differential equations book will have this picture:
 
 ![|700](https://i.imgur.com/yRrKeIe.png)
 
 
-This is Perko's book [Differential Equations and Dynamical Systems, Third Edition (2006)](http://library.lol/main/B2FA263686F1AAB9F19B2EBA8E12DD04), a good read, if youre familiar with Analysis in $\R^{n}$. Otherwise any physics text on "non-linear dynamics" works, for example Steven Strogatz's Non-linear dynamics lecture videos and book.
+This is Perko's book [Differential Equations and Dynamical Systems, Third Edition (2006)](http://library.lol/main/B2FA263686F1AAB9F19B2EBA8E12DD04), a good read, if you're familiar with Analysis in $\R^{n}$. Otherwise any physics text on "non-linear dynamics" works, for example Steven Strogatz's Non-linear dynamics lecture videos and book.
 
 ### vector fields and ODE dictionary
 
@@ -88,7 +88,11 @@ And as I said above, this book has a pre-requisite of some analysis, but still o
 
 [Arnold's Ordinary Differential Equations](http://library.lol/main/9C48404C4DC01501F08C25351487916C) is also a good resource.
 
-### vector fields on smooth manifolds
+
+## formal theory of ODEs
+
+### hard analysis perspective on ODEs
+### generalizing ODEs to manifolds: flow of vector fields on smooth manifolds
 
 Should be motivated from Perko, classical mechanics, etc. We, very naturally, want to write ODEs on surfaces, toruses or other "surfaces" of even higher dimensions AKA manifolds.
 
