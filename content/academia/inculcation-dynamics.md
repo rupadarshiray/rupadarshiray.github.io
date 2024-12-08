@@ -6,14 +6,15 @@ title: 'Inculcation: everything in a dynamics pov'
 aliases: null
 ---
 
-What is "dynamics"? A dynamical system is a monoid action on a set.
+What is "dynamics"? A dynamical system, in general, is a monoid action on a set.
 
 
 We reinterpret a lot of math in terms of dynamics:
 
-- [[inculcation-linear-algebra|Linear algebra]] is study of iterations of one linear map on a vector space
-- Finite group theory: group action on a set are by definition "dynamics"
+- [[inculcation-linear-algebra|Linear algebra]] is study of iterations of one linear map on a vector space.
+- Finite group theory: group action on a (finte) set are by definition "dynamics"
 - Rings and modules
-- solutions ODEs produce a flow map on the phase space which is the "dynamics"
-- proof of existence of ODEs using contraction mapping theorem
+- application of theorems that are dynamical
+	- solutions ODEs produce a flow map on the phase space which is the "dynamics"
+	- proof of existence of ODEs using contraction mapping theorem
 - machines

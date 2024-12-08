@@ -134,7 +134,7 @@ Interpret heat equation, fluid flows, Schrodinger equation as infinite dimension
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VH4oawCiHPU?si=Wt1hxgkK4cpt_eWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## interpret an ODE as an operator on a function space
+## interpret a linear ODE as an operator on a function space
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=GLHHWk-09diiCYuu&amp;list=PLgAugiET8rrL7uMN9c15Br9Tmn3q6v52l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
