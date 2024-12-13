@@ -19,6 +19,7 @@ What I do is simply follow
 
 * **step 0**: Picture 1, 2, 3 dimensional vector spaces
 * **step 1**: Write $n$ instead of 1, 2 or 3 (imagine n=1,2 or 3 but don't write it down, only use *n*) whenever I am generalizing. Note if we never use the fact that $n = 2$ or $3$, i.e. we write ${e_{1}, e_{2},...e_{n}}$ all the time etc, *pretend* we're working with $n\in \mathbb{N}$ a natural number but *visualize* only 2 or 3 dimensions then our work is done: we have "visualized dim $= n$", by simply forgetting $n=2$ or $3$, yay!
+- **step 2**: put $n=$ whatever natural number you like!
 
 That's what a first semester course on [[inculcation-linear-algebra|linear algebra]] is supposed to do initially (after defining the "dimension" of a vector space). This is the algebraic way to visualize things: *using symbols*!
 
