@@ -7,6 +7,7 @@ title: "Inculcation: Linear constructions"
 aliases:
 ---
 
+main article: [[inculcation]]
 
 > Now that you see how deep things are, go back and focus on the details.
 
@@ -77,7 +78,7 @@ We start with logic and set theory, do analysis, algebra, geometry and topology:
 
 ### Inside finite dim vector spaces
 
-We do more inside $\mathbb{R}^{n}$ and venture slightly out to do analysis in finite-dim real normed vector spaces, which are ofcourse diffeomorphic to $\R^{n}$.
+We do more inside $\mathbb{R}^{n}$ and venture slightly out to do analysis in finite-dim real normed vector spaces, which are of course linearly bijective to $\R^{n}$.
 
 - #### In normed vector spaces
 	- [[inculcation-analysis-finite-vector-spaces|Analysis in finite-dimensional normed vector spaces]]
@@ -88,15 +89,14 @@ We do more inside $\mathbb{R}^{n}$ and venture slightly out to do analysis in fi
 
 ## Living completely outside $\R^{n}$
 
-> [!danger] Going outside of $\mathbb{R}^{n}$ for *analysis*: there are two routes
-> - *analysis on (finite dim) manifolds* (classical mechanics, ODEs, Hamiltonian systems, oscillations)
-> - *analysis in function spaces(infinite dim complete normed/inner product spaces)* (quantum mechanics, PDEs, waves)
+> [!danger] Going outside of $\mathbb{R}^{n}$ (or finite dim vector spaces) for *analysis*: there are two routes
+> - *analysis on (finite dim) manifolds* (comes up in classical mechanics, ODEs, Hamiltonian systems, oscillations)
+> - *analysis in function spaces(infinite dim complete normed/inner product spaces)* (comes up in quantum mechanics, PDEs, waves) ^bggpgh
 
-[[inculcation-analysis-finite-vector-spaces|Analysis in normed vector spaces]] was just the begining.
+[[inculcation-analysis-finite-vector-spaces|Analysis in finite dimensional vector spaces]] was just the beginning 🔥🔥🔥
 
 ### *Measure spaces* (measure theory)
 
-> I've no idea yet!
 
 
 ### *Topological spaces*
@@ -129,8 +129,9 @@ May try #lectures [Frederic Schuller -International Winter School on Gravity and
 
 ### Inside infinite dim spaces 
 
-AKA functional analysis!
+AKA *functional analysis*!
 
-Of course, I've no idea about this, yet.
 
 - #lectures Frederic Schuller - Quantum Theory
+- `<some book before Papa Rudin>`
+- Papa Rudin

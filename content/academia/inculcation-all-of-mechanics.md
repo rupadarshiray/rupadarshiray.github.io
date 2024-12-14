@@ -7,25 +7,29 @@ title: "Inculcation: all of mechanics"
 aliases:
 ---
 
-Main article: [[inculcation]]
+main article: [[inculcation]]
 
-> I make a very specific use of the words "physics" and "mechanics", here. Ofcourse I shall explain what I mean, but do note, it is a personal choice.  
+> I make a very specific use of the words "physics" and "mechanics", here. Of course I shall explain what I mean, but do note, it is a personal choice.  
 
 ## trying to do physics but failing
 
 
-- What is spacetime? What is an inertial frame?
+> [!question] 
+> What is spacetime? What is an inertial frame?
 
 Before doing anything, just watch this:
 
-> [!tip] Mechanics using the Action principle
+> [!important] Mechanics using the Action principle
 > 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=_JXvZTvRZWIzq9M0&amp;list=PLlFCvH2vR5kRzC1LQtHy_MUAquC-tQiiW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> 
+>(ignore the Fourier expansion of electric field stuff, just the ideas behind GR, QFT matters!)
 >
-> Continue with GR and action: [General Relativity by Prof. Thanu Padmanabhan - YouTube](https://www.youtube.com/playlist?list=PLfrsXbPUIUSB6xoXyIvVEHYiG-hVmJhHf)
+> Continue with GR and action: [General Relativity by Prof. Thanu Padmanabhan - YouTube](https://www.youtube.com/playlist?list=PLfrsXbPUIUSB6xoXyIvVEHYiG-hVmJhHf) ^keitg9
 
 
-> [!tip] After that watch these lectures covering *Newtonian, Lagrangian, Hamiltonian, Statistical mechanics, special relativity* all at once!
+
+> [!important] After that watch these lectures covering *Newtonian, Lagrangian, Hamiltonian, Statistical mechanics, special relativity* all at once!
 > 
 > <iframe src="https://www.youtube.com/embed/videoseries?list=PL5E4E56893588CBA8" style=" top:0; left:0; width:80%; border:none;  height:500px;" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 > 
@@ -35,20 +39,25 @@ Before doing anything, just watch this:
 ^3431f3
 
 
+> [!important] Balakrishnan's quantum physics
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=6JKljRVWEioPWlTx&amp;list=PL0F530F3BAF8C6FCC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+^3fyeee
+
+
 ## what is physics actually then
 
 From these previous lectures, one must agree that doing **physics** is a three step process:
 
-- Step 1: Choose your ***spacetime***, you have 3 major types of options:
+- **Step 1**: Choose your ***spacetime***, you have 3 major types of options:
 	- $c^{-1}=0$ Newtonian: the good ol' "non-relativistic" spacetime
 	- $c^{-1}=1, G=0$ Minkowski: the SR spacetime
 	- $c^{-1}=1, G=1$ Lorentzian: a whole range of GR spacetimes
-- Step 2: Choose what the ***contents*** of your spacetime must be:
+- **Step 2**: Choose what the ***contents*** of your spacetime must be:
 	- points: point particles, bodies with finite number of degrees of freedom, rays
 	- fields: infinite degrees of freedom
 	- fluids: "spacetime itself flowing" (they are different from fields, yes)
 	- condensed matter
-- Step 3: Choose a ***description*** for the contents (although not all of the following is possible for all the *contents* in step 2)
+- **Step 3**: Choose a ***description*** for the contents (although not all of the following is possible for all the *contents* in step 2)
 	- $\hbar = 0$ "classical mechanics/classical field theory" description - that is, writing equations of motion, $ma=F$ for particles in $c\to \infty$ or Maxwell's equations for EM fields
 	- $\hbar =0$ "classical statistics" description
 	- $\hbar =1$ "quantum mechanics/QFT" description
@@ -71,38 +80,41 @@ Now for an example:
 
 This is an example of the table for *electromagnetic field* (for $\hbar =0$). Gauge fields will be discussed in [[#Doing the proper theory of gauge fields]].
 
-> [!info]  Lectures on Geometrical Anatomy of Theoretical Physics by Frederic Schuller
+> [!important]  Lectures on Geometrical Anatomy of Theoretical Physics by Frederic Schuller
 > These lectures start from logic!
 > 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=3JE4_9J8N1KMemlr&amp;list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=3JE4_9J8N1KMemlr&amp;list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+> 
+
+^4mh1b2
 
 
 Although we must do physics as well, so we make this little table for reference with common terminology:
 
-| contents | description | $c^{-1}=0$ Newtonian spacetime | $c^{-1}=1, G=0$ Minkowski spacetime (SR) | $c^{-1}=1, G=1$ Lorentzian manifolds (GR) |
-| ---- | ---- | ---- | ---- | ---- |
-|  | $\hbar =0$ |  |  |  |
-| points | "actual" | "classical mechanics" Kleppner, Goldstein, David Morin, LandauLifshitz vol 1, Balki's lectures | "relativistic mechanics" LandauLifshitz vol 2 | "general relativity" LandauLifshitz vol 2 |
-|  | "stat" | "statistical mechanics"  Kardar  | "relativistic statistical mechanics" Palash Pal  |  |
-| fields | "actual" | "non-relativistic classical field theory" | "classical field theory"  | "classical field theory in curved spacetime" |
-|  | "stat" |  | "statistical field theory" |  |
-| fluids |  | "fluid mechanics" | "relativistic fluid mechanics" | "fluid mechanics in curved spacetime" |
-|  |  |  |  |  |
-|  | $\hbar =1$ |  |  |  |
-| points | "actual" | "quantum mechanics" Griffiths, Balki's lectures, Shankar | - | - |
-|  | "stat" | "quantum statistical mechanics" QM textbooks ^ should cover this | - | - |
-| fields | "actual" |  | "QFT"  | "QFT in curved spacetime" or "global QFT" |
-|  | "stat" |  |  |  |
-| fluids | quantum fluids? | ? | ? | ? |
-| atoms? |  |  |  |  |
-| condensed matter? |  |  |  |  |
-|  |  |  |  | QG? |
+| contents          | description     | $c^{-1}=0$ Newtonian spacetime                                                                 | $c^{-1}=1, G=0$ Minkowski spacetime (SR)        | $c^{-1}=1, G=1$ Lorentzian manifolds (GR)    |
+| ----------------- | --------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
+|                   | $\hbar =0$      |                                                                                                |                                                 |                                              |
+| points            | "actual"        | "classical mechanics" Kleppner, Goldstein, David Morin, LandauLifshitz vol 1, Balki's lectures | "relativistic mechanics" LandauLifshitz vol 2   | "general relativity" LandauLifshitz vol 2    |
+|                   | "stat"          | "statistical mechanics"  Kardar                                                                | "relativistic statistical mechanics" Palash Pal |                                              |
+| fields            | "actual"        | "non-relativistic classical field theory"                                                      | "classical field theory"                        | "classical field theory in curved spacetime" |
+|                   | "stat"          |                                                                                                | "statistical field theory"                      |                                              |
+| fluids            |                 | "fluid mechanics"                                                                              | "relativistic fluid mechanics"                  | "fluid mechanics in curved spacetime"        |
+|                   |                 |                                                                                                |                                                 |                                              |
+|                   | $\hbar =1$      |                                                                                                |                                                 |                                              |
+| points            | "actual"        | "quantum mechanics" Griffiths, Balki's lectures, Shankar                                       | -                                               | -                                            |
+|                   | "stat"          | "quantum statistical mechanics" QM textbooks ^ should cover this                               | -                                               | -                                            |
+| fields            | "actual"        |                                                                                                | "QFT"                                           | "QFT in curved spacetime" or "global QFT"    |
+|                   | "stat"          |                                                                                                |                                                 |                                              |
+| fluids            | quantum fluids? | ?                                                                                              | ?                                               | ?                                            |
+| atoms?            |                 |                                                                                                |                                                 |                                              |
+| condensed matter? |                 |                                                                                                |                                                 |                                              |
+|                   |                 |                                                                                                |                                                 | QG?                                          |
 
 In general, there are
 
 - Landau Lifshitz volumes 1-10
 - [David Tong's notes](http://www.damtp.cam.ac.uk/user/tong/teaching.html) for many of the elements in the table
-- look below!
+- look below for more!
 
 So, essentially we did all of physics together. But did we do it properly? Did we went onto understanding the details?
 
@@ -110,15 +122,20 @@ So, essentially we did all of physics together. But did we do it properly? Did w
 
 ## understanding the philosophy
 
-How one should do is by [[inculcation-linear-constructions|constructing everything linearly]]: 
+How one should do is by [[inculcation-linear-constructions|constructing everything linearly]].
+
+Schuller's lectures are a good place to start:
+
+![[inculcation-all-of-mechanics#^4mh1b2]]
+
+
+But for more,
 
 - first analysis in $\R^{n}$ and/or analysis on smooth manifolds, then
-	- [[inculcation-odes]] -> [[inculcation-all-of-mechanics#Mechanics of points done properly]]
-	- PDEs 
-	- PDEs -> [[inculcation-mechanics-fields]]
+	- [[inculcation-odes]] $\to$ [[inculcation-all-of-mechanics#Mechanics of points done properly]]
+	- functional analysis, PDEs $\to$  QM [[inculcation-all-of-mechanics#Mechanics of fluids|fluids]], etc
 	- ? [[inculcation-mechanics-branes]]
-	- PDEs -> [[inculcation-mechanics-fluids]]
-- What one must understand is, in the side of ODEs: Lagrangian, Hamiltonian etc really *do not care* about the spacetime, or what you are trying to describe even: give it a ray of light in Newtonian spcaetime, or a point particle moving around a black hole (Swartzchild spacetime): the description remains the same.
+- For instance, what one must understand is (among many other things), in the side of ODEs: Lagrangian, Hamiltonian etc really *do not care* about the spacetime, or what you are trying to describe even: give it a ray of light in Newtonian spcaetime, or a point particle moving around a black hole (Swartzchild spacetime): the description remains the same.
 	- Configuration space $\leftrightarrow$ Lagrangian dynamics, any other ODE
 	- Phase space $\leftrightarrow$ Hamiltonian dynamics
 - I do not mean the equations remains the same btw! I just mean use can use the general prescription (math!) like Lagrangians and Hamiltonians for any spacetime!
@@ -141,8 +158,6 @@ This doesn't need to be done first, or before [[#Mechanics of points done proper
 
 ^uii1hk
 
-Doing this lectures mean you shall be clear of all spacetimes not just GR.
-
 # Mechanics of points done properly
 
 
@@ -151,17 +166,32 @@ Doing this lectures mean you shall be clear of all spacetimes not just GR.
 
 ## writing the equations
 
-|              | Configuration space    | Lagrangian | Phase space | Hamiltonian | $V=0$ solutions                                                |
-| ------------ | ---------------------- | ---------- | ----------- | ----------- | -------------------------------------------------------------- |
-| 1 point      | $\R^3$ (space)         |            |             |             | geodesics in $\R^3$ with usual metric, that is, straight lines |
-| $n$ points   |                        |            |             |             |                                                                |
-| 1 rigid body | $SO(3) \ltimes \R^{3}$ |            |             |             |                                                                |
-|              |                        |            |             |             |                                                                |
+|              | Configuration space                   | Lagrangian | Phase space | Hamiltonian | $V=0$ solutions                                                |
+| ------------ | ------------------------------------- | ---------- | ----------- | ----------- | -------------------------------------------------------------- |
+| 1 point      | $\R^3$ (space)                        |            |             |             | geodesics in $\R^3$ with usual metric, that is, straight lines |
+| $n$ points   | $(\mathbb{R}^{3})^{n}$                |            |             |             |                                                                |
+| 1 rigid body | $SO(3) \ltimes \R^{3}$ (a Lie group!) |            |             |             |                                                                |
 
+The famous textbooks are
+
+- V. I. Arnold - Mathematical Methods of Classical Mechanics-
+- Abraham R., Marsden J.E. - Foundations of Mechanics (1987)
+- Jerrold E. Marsden, Tudor S. Ratiu - Introduction To Mechanics And Symmetry A Basic Exposition of Classical Mechanical Systems-Springer (2010)
+
+A similar table can be found in
+
+> [!hint]  [Lecture1 slides](https://www.math.utoronto.ca/khesin/teaching/henan/Lecture1slides.pdf) of [Geometric Fluid Dynamics, Fall 2021](https://www.math.utoronto.ca/khesin/teaching/henan/geometricfluids21.html)
+> 
+> ![](https://i.imgur.com/lYZ7n4v.png)
+> ^i6k60q
+
+where all but the first three entries are PDE dynamics on a infinite dynamical space thought of as "mechanics of a point"! Yes, we can think of fluid dynamics as classical dynamics on an infinite dimensional phase space!
 ## solving the equations
 
-- Physics textbooks on "classical mechanics" only worry about *local* properties of the configuration spaces, *local* solutions of the equations: so for example it cannot differentiate between a cylinder or a sphere as configuration spaces, because *locally* they are "same" given how we are describing them (smooth manifolds).
-- Both local and global properties of ODEs are studied in [[inculcation-odes]], in for example Perko's book.
+Physics textbooks on "classical mechanics" aren't rigorous, they don't worry about a lot of things. What exactly are we missing then?
+
+- only worry about *local* properties of the configuration spaces, *local* solutions of the equations: so for example it cannot differentiate between a cylinder or a sphere as configuration spaces, because *locally* they are "same" given how we are describing them (smooth manifolds).
+- both local and global properties of ODEs are studied in [[inculcation-odes]], in for example Perko's book.
 
 
 ### geometry behind the dynamics
@@ -170,47 +200,62 @@ The geometry behind dynamics of a ODE is that of a vector field on a manifold.
 
 ![[inculcation-odes#vector fields and ODE dictionary]]
 
-The geometry of a Lagrangian is behind the algebra of a chain complex it creates, it seems to me.
+- The geometry of a Lagrangian is behind the algebra of a chain complex called "variational bicomplex" that it creates, (apart from the optimization problem). I've not read much about it.
+- We can even convert some Lagrangian problems to geodesics on some spaces which becomes *Riemannian geometry*. Exploring more on this here: [[inculcation-geodesic-flows]]
+- The geometry behind Hamiltonian dynamics is studied under the name of *symplectic geometry*. A good intro reference with regards to mechanics is: https://people.math.harvard.edu/~jeffs/SymplecticNotes.pdf
 
-The geometry behind hamiltonian dynamics is symplectic geometry.
-
-
-https://people.math.harvard.edu/~jeffs/SymplecticNotes.pdf
 ## probabilistic description of points
 
 > As done in *statistical mechanics*.
 
-> [!todo] **Main goal of statistical mechanics**: derive the empirical laws of thermodynamics from the classical mechanics description.
+> [!todo] Main goal of statistical mechanics 
+> derive the *empirical* laws of thermodynamics from the classical mechanics description (so just "$F=ma$")
 > 
 
 - Boltzmann, Gibbs invented *statistical mechanics* to give more meaning to the thermodynamic quantities
-- Ergodic theory was invented to ask when does the assumptions made by Boltzmann and others hold.
-- First reference should be [[#^3431f3|Balki's lectures]], other physics references include [MIT 8.333 Statistical Mechanics I: Statistical Mechanics of Particles, Fall 2013 - YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg)
+- *Ergodic theory* was invented to ask when does the assumptions made by Boltzmann and others hold.
+- My first reference was [[#^3431f3|Balki's lectures on classical physics]], other physics references include [MIT 8.333 Statistical Mechanics I: Statistical Mechanics of Particles, Fall 2013 - YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg)
 - [Statistical Mechanics From Thermodynamics to the Renormalization Group](http://library.lol/main/A8C329B75A3CB6CEEF87790E8C8C88BA)
-- [Roderich Tumulka's notes](https://www.math.uni-tuebingen.de/de/forschung/maphy/lehre/ss-2019/statisticalphysics/dateien/lecture-notes.pdf) is best reference I've seen
-	- actually talks about the main goal
+- [Roderich Tumulka's notes](https://www.math.uni-tuebingen.de/de/forschung/maphy/lehre/ss-2019/statisticalphysics/dateien/lecture-notes.pdf) is best reference I've seen, actually talks about the main goal
 - [Information Geometry (ucr.edu)](https://math.ucr.edu/home/baez/information/)
 	- Part 17-21 is where thermodynamics is discussed
 - [Classical Mechanics versus Thermodynamics (ucr.edu)](https://math.ucr.edu/home/baez/classical_vs_thermo/)
 
-Hence what we get is 
+From John Baez's ideas we what we get is 
 $$
 \mathrm{Probabilistic}:\mathrm{CM} \ (X,\mu) \to \mathrm{StatMech} \ (Q,\pi) \to \mathrm{Thermo} \ (Q,S)
 $$
 
-As of now, I have obtained some justifications for the definitions in statistical mechanics, but it still remains a formal study (and not a replacement of the actual dynamics).
+%%As of now, I have obtained some justifications for the definitions in statistical mechanics, but it still remains a formal study (and not a replacement of the actual dynamics).%%
+
+So did we succeed? Did we (does the above references) "prove" thermodynamics from just "$F=ma$"?
+
+No. Not equilibrium statistical mechanics anyways. The following are some pitfalls:
+
+> [!bug]
+> 
+> - People claim "Luoville's theorem of Hamiltonian dynamics explains equilibrium statistical mechanics" $\leftarrow$ this makes no sense! Luoville's theorem just says the vector field corresponding to the ODE has divergence 0 which is $\iff$ its flow is volume preserving. Bazzilion many ODEs (even physical ones!) preserve volume but they don't even come close to having properties like thermalization.
+> 	- Dynamics of $n$ harmonic oscillators is such an example which is even PERIODIC in time (for specific parameters)! hah! People even compute $Z(\beta)=\int_{\R^{2n}} \exp(-\beta H)$ for this, please give me ANY physical interpretation of this computation!?!
+> - If you think "ergodicity" of the flow is enough assumption to reproduce equilibrium stat mech look at ['ergodicity, as usually stated, is neither sufficient not necessary for thermalization'](https://physics.stackexchange.com/questions/541504/how-can-ergodicity-explain-thermalization#comment1224693_541504)
+> - When [Poincaré recurrence theorem](https://en.wikipedia.org/wiki/Poincar%C3%A9_recurrence_theorem) is used to contradict existence of a thermal equilibrium, people are quick to say "the recurrence times are LARGER compared to thermalization times" $\leftarrow$ which is true until it isn't!
+> 	- Fermi and company found this out experimentally: [Fermi–Pasta–Ulam–Tsingou problem - Wikipedia](https://en.wikipedia.org/wiki/Fermi%E2%80%93Pasta%E2%80%93Ulam%E2%80%93Tsingou_problem)
+
+You can't change information of $10^{23}$ dimensions into $4$ variables, sadly, nope. How is thermodynamics true then? In what sense I mean? Well...Roderich Tumulka's notes above tries to explain a lot. I oscillate between being convinced and not.
+
+However, the following book has a "proof" of Boltzmann's (non-equilibrium stat mech) equation for dilute gases in some very precise sense.
+
+> [!important] Carlo Cercignani, Reinhard Illner, Mario Pulvirenti - The Mathematical Theory of Dilute Gases-Springer-Verlag New York (1994)
 
 ## quantization of the mechanics of points
 
 
-
 > As done in *quantum mechanics*.
-> Essentially, functional analysis on (rigged) Hilbert spaces (brings in Representation theory)
+> Essentially, functional analysis on (rigged) Hilbert spaces (brings in representation theory)
 
-> [!tldr] Balakrishnan's quantum physics
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=6JKljRVWEioPWlTx&amp;list=PL0F530F3BAF8C6FCC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-^3fyeee
 
+- [Woit's Quantum Theory, Groups and Representations](https://www.math.columbia.edu/~woit/QM/qmbook.pdf)
+- Brian C. Hall - Quantum Theory for Mathematicians-Springer-Verlag New York (2013)
+- Leon A. Takhtajan - Quantum Mechanics for Mathematicians-American Mathematical Society (2008)
 
 > [!important] Frederic Schuller's lectures on quantum mechanics with lecture notes
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=7z1WbGoFOaWrNThN&amp;list=PLPH7f_7ZlzxQVx5jRjbfRGEzWY_upS5K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -218,7 +263,7 @@ As of now, I have obtained some justifications for the definitions in statistica
 > - [Maths with Physics: Frederic Schuller's Lectures on Quantum Theory with Lecture Notes](http://mathswithphysics.blogspot.com/2016/07/frederic-schullers-lectures-on-quantum.html)
 > - [DR. FREDERIC SCHULLER'S COURSE OF QUANTUM THEORY (richie291.wixsite.com)](https://richie291.wixsite.com/theoreticalphysics/post/dr-frederic-schuller-s-course-of-quantum-theory)
 
-So 
+So let's ponder on what quantum mechanics does really. It gives us a linear dynamics from a ODE: 
 $$
 \mathrm{Quantizaton}:\mathrm{CM} \ (X,H) \to \mathrm{QM} \ (L^{2}(X), \hat{H})
 $$
@@ -234,25 +279,28 @@ but now we observe the correspondence between them, even though they are very di
 
 "Classical field theory" as a course was COOKED up to teach QFT because any quantum theory is defined by a classical theory and then we quantize it
 
- quantization: ClassicalFT → QFT
+> quantization: ClassicalFT → QFT
 
-this is VERY UNPHYSICAL in a way, proper physics says we must have a THEORY OF EVERYTHING and then we may take some limits c → ∞ , ħ, G →0, etc to get "approximate" theories, BUT WE CAN'T HAVE SUCH THINGS,  so we just just do mathematically inspired stuff
+%%this is VERY UNPHYSICAL in a way, proper physics says we must have a THEORY OF EVERYTHING and then we may take some limits c → ∞ , ħ, G →0, etc to get "approximate" theories, BUT WE CAN'T HAVE SUCH THINGS,  so we just just do mathematically inspired stuff%%
 
 ## Doing the proper theory of Lagrangian fields
 
 so the actual content must be this 
 
-- given you know vector bundles on smooth manifolds, we say field configuration bundles = some vector bundle on spacetime 
-- this is what i call spacetime fields , now write a Lagrangian and study it, the spacetime be a semiriemannian manifold (not flat), then div of stress energy tensor= 0 doesn't imply global conservation laws, we must have Killing vector fields (I'VE NOT STUDIED THIS WELL YET FORGIVE ME IF IT'S KINDA OFF)
-- you might have use the representation Spin(n) → SO(n), which allows you to define spin bundle where Spin(n) bundles
-
-spin geometry:= study of dirac operators on such bundles
+- given you know vector bundles on smooth manifolds, we say field configuration bundles $=$ some vector bundle on spacetime 
+- this is what i call spacetime fields , now write a Lagrangian and study it, the spacetime be a semi-Riemannian manifold (not flat), then div of stress energy tensor= 0 doesn't imply global conservation laws, we must have Killing vector fields %%(I'VE NOT STUDIED THIS WELL YET FORGIVE ME IF IT'S KINDA OFF)%%
+- you might have use the representation $Spin(n) → SO(n)$, which allows you to define spin bundle where $Spin(n)$ bundles
+ 
+spin geometry $:=$ study of dirac operators on such bundles
 
 ## Doing the proper theory of gauge fields
 
 > gauge fields DO NOT happen on spacetime! (that is, the field's domain isn't the spacetime manifold)
 
 - http://nicf.net/articles/classical-em/
+
+The following books are okay:
+
 - Gregory L. Naber - Topology, Geometry and Gauge fields - two volumes
 - Mikio Nakahara - Geometry, topology, and physics
 

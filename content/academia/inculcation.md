@@ -28,30 +28,48 @@ This has five major sections
 
 ## start with the little things and the big things
 
-- ### little things: groups (group theory, group actions) ^kn3dkj
-	- ==One should start their journey with groups!==
-	- [Group theory, abstraction, and the 196,883-dimensional monster - YouTube](https://www.youtube.com/watch?v=mH0oCDa74tE)
-	- [Essence of Group Theory - YouTube](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
-	- Chapter 1 and 3 from [[evan-chen-napkin]]
-	- Artin's Algebra is a good text.
-- ### big things: vector spaces (linear algebra)
-	- start here: [[inculcation-linear-algebra]]
+### little things: groups (group theory, group actions)
+- ==One should start their journey with groups!==
+- [Group theory, abstraction, and the 196,883-dimensional monster - YouTube](https://www.youtube.com/watch?v=mH0oCDa74tE)
+- [Essence of Group Theory - YouTube](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
+- Chapter 1 and 3 from [[evan-chen-napkin]]
+- Artin's Algebra is a good text.
 
-A very good place to start mathematics is this
+### big things: vector spaces (linear algebra)
+
+More here: [[inculcation-linear-algebra]]
+
+A very good place to start (basic) mathematics like linear algebra is to read chapters from Napkin:
 
 ![[evan-chen-napkin]]
 
-- ### things in the middle: Analysis
-	- definitely start with Tao's Analysis volumes 1 and 2, but for more: [[inculcation#Inside reals and metric spaces|Analysis in $\R$]]
-	- #### Anaysis and linear algebra in $\mathbb{R}^n$
-		- from [[evan-chen-napkin]]
-			- Chapters 26-30 - Calculus 101
-			- Chapters 42-45 - Total derivatives and differential forms
-			- Chapters 2, 6-8 - Topology
-		- [[shifrin-multivariable-mathematics]] - a 2 semester course/book that covers linear algebra and (proper) multivariable calc
-	- more in [[inculcation#Linear constructions|Linear constructions]]
-- ### Mechanics
-	- if you're into physics, start here: [[inculcation-all-of-mechanics]]
+
+### things in the middle: analysis
+
+
+- definitely start with Tao's Analysis volumes 1 and 2, but for more: [[inculcation#Inside reals and metric spaces|Analysis in $\R$]]
+- #### Anaysis and linear algebra in $\mathbb{R}^n$
+	- from [[evan-chen-napkin]]
+		- Chapters 26-30 - Calculus 101
+		- Chapters 42-45 - Total derivatives and differential forms
+		- Chapters 2, 6-8 - Topology
+	- [[shifrin-multivariable-mathematics]] - a 2 semester course/book that covers linear algebra and (proper) multivariable calc
+- more in [[inculcation#Linear constructions|Linear constructions]]
+
+
+### mechanics
+
+If you're into physics, start here with ![[inculcation-all-of-mechanics#^keitg9]]
+
+This is how I started! Its the "non-conventional" route, study major building blocks of physics at once because 
+
+
+
+> [!quote] 
+> "Nature doesn't work in semesters." - T Paddy
+
+
+
 
 
 ## dive into math/physics ✨
@@ -87,7 +105,7 @@ we move onto [[inculcation-analysis-finite-vector-spaces|finite-dimensional vect
 		- [How The Most Useless Branch of Math Could Save Your Life - YouTube](https://www.youtube.com/watch?v=8DBhTXM_Br4&t=246s)
 		- [Knot Theory - YouTube](https://www.youtube.com/playlist?list=PLOROtRhtegr4c1H1JaWN1f6J_q1HdWZOY)
 - how topology affects and interacts with geometry, analysis, algebra (Lie groups, say) and physics
-	- [Gauss–Bonnet theorem - Wikipedia](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem) 
+	- [Gauss–Bonnet theorem - Wikipedia](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem)
 	- [Dirac's belt trick, Topology, and Spin ½ particles - YouTube](https://www.youtube.com/watch?v=ACZC_XEyg9U)
 	- [The derivative isn't what you think it is. - YouTube](https://www.youtube.com/watch?v=2ptFnIj71SM)
 

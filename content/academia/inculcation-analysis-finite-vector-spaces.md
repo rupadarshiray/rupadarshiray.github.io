@@ -2,7 +2,7 @@
 created: 2023-03-29T16:44:22
 modified: 2023-03-29T16:44:22
 tags: [Inculcation]
-title: 'Inculcation: Analysis in finite-dimensional normed vector spaces'
+title: 'Inculcation: Analysis in finite-dimensional vector spaces'
 aliases: ''
 ---
 	
@@ -18,9 +18,7 @@ aliases: ''
 
 ## total and directional derivative of functions
 
-*Total derivative* of function $$ f:U \subseteq V\to W $$ between finite-dim real normed vector spaces at a point $p\in U$ is supposed to be a linear map $$D_{p}f:V\to W$$ that "approximates" $f$ near $p$. So if $D_{p}f$ is a rotation, that near $p$ $$ f: U \to f(U) $$ should "look" like a rotation.
-
-
+*Total derivative* of function $$ f:U \subseteq V\to W $$ between finite-dim real normed vector spaces at a point $p\in U$ is supposed to be a linear map $$D_{p}f:V\to W$$ that "approximates" $f$ near $p$. So if $D_{p}f$ is a rotation (as a linear map), then $$ f: U \to f(U) $$ should "look" like a rotation "near $p$".
 
 
 ## measurable functions and their integrals
@@ -114,10 +112,9 @@ We may mimic everything above to complex vector spaces with a norm!
 
 This for example leads to differential forms of the form $$ f(z) \mathrm{d}z $$ where $\mathrm{d}z:= \mathrm{d}x+i \mathrm{d}y$.
 
-This starts the study of *complex analysis*.
+This starts the study of *complex analysis* (well, if we consider complex analytic $f$ :).
 
-## next
+## next: generalize!
 
-- generalize to
-	- infinite dim vector spaces
-	- manifolds! [[inculcation-smooth-manifolds]]
+
+![[inculcation-linear-constructions#^bggpgh]]
