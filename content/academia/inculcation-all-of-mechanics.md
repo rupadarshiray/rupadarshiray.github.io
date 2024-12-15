@@ -11,11 +11,7 @@ main article: [[inculcation]]
 
 > I make a very specific use of the words "physics" and "mechanics", here. Of course I shall explain what I mean, but do note, it is a personal choice.  
 
-## trying to do physics but failing
-
-
-> [!question] 
-> What is spacetime? What is an inertial frame?
+## all of physics, all at once
 
 Before doing anything, just watch this:
 
@@ -26,7 +22,6 @@ Before doing anything, just watch this:
 >(ignore the Fourier expansion of electric field stuff, just the ideas behind GR, QFT matters!)
 >
 > Continue with GR and action: [General Relativity by Prof. Thanu Padmanabhan - YouTube](https://www.youtube.com/playlist?list=PLfrsXbPUIUSB6xoXyIvVEHYiG-hVmJhHf) ^keitg9
-
 
 
 > [!important] After that watch these lectures covering *Newtonian, Lagrangian, Hamiltonian, Statistical mechanics, special relativity* all at once!
@@ -80,16 +75,9 @@ Now for an example:
 
 This is an example of the table for *electromagnetic field* (for $\hbar =0$). Gauge fields will be discussed in [[#Doing the proper theory of gauge fields]].
 
-> [!important]  Lectures on Geometrical Anatomy of Theoretical Physics by Frederic Schuller
-> These lectures start from logic!
-> 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=3JE4_9J8N1KMemlr&amp;list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
-> 
-
-^4mh1b2
 
 
-Although we must do physics as well, so we make this little table for reference with common terminology:
+Although we must do physics in the more *specific* sense (in contrast to *abstract* sense) as well, so we make this little table for reference with common terminology:
 
 | contents          | description     | $c^{-1}=0$ Newtonian spacetime                                                                 | $c^{-1}=1, G=0$ Minkowski spacetime (SR)        | $c^{-1}=1, G=1$ Lorentzian manifolds (GR)    |
 | ----------------- | --------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
@@ -126,23 +114,33 @@ How one should do is by [[inculcation-linear-constructions|constructing everythi
 
 Schuller's lectures are a good place to start:
 
-![[inculcation-all-of-mechanics#^4mh1b2]]
+
+> [!important]  Lectures on Geometrical Anatomy of Theoretical Physics by Frederic Schuller
+> These lectures start from logic!
+> 
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=3JE4_9J8N1KMemlr&amp;list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+> 
+
+^4mh1b2
+
+But for more, after doing [[inculcation-analysis-finite-vector-spaces]] and [[inculcation-smooth-manifolds]] we can do: 
+
+- [[inculcation-odes]] $\to$ [[inculcation-all-of-mechanics#Mechanics of points done properly]]
+- functional analysis, PDEs $\to$  QM, [[inculcation-all-of-mechanics#Mechanics of fluids|fluids]], etc
+
+Doing ODEs with proper rigor helps eliminate errors from intuition, cyclic reasoning etc. this is the whole reason why [[inculcation-linear-constructions]] exists!
 
 
-But for more,
+But there are a whole lot of benefits of *abstract* thinking and relying on general framework as well.
 
-- first analysis in $\R^{n}$ and/or analysis on smooth manifolds, then
-	- [[inculcation-odes]] $\to$ [[inculcation-all-of-mechanics#Mechanics of points done properly]]
-	- functional analysis, PDEs $\to$  QM [[inculcation-all-of-mechanics#Mechanics of fluids|fluids]], etc
-	- ? [[inculcation-mechanics-branes]]
-- For instance, what one must understand is (among many other things), in the side of ODEs: Lagrangian, Hamiltonian etc really *do not care* about the spacetime, or what you are trying to describe even: give it a ray of light in Newtonian spcaetime, or a point particle moving around a black hole (Swartzchild spacetime): the description remains the same.
-	- Configuration space $\leftrightarrow$ Lagrangian dynamics, any other ODE
-	- Phase space $\leftrightarrow$ Hamiltonian dynamics
-- I do not mean the equations remains the same btw! I just mean use can use the general prescription (math!) like Lagrangians and Hamiltonians for any spacetime!
-- This would therefore mean, the "statistical mechanics" prescription would also be, in this way - because statistical mechanics just starts from the phase space - the methods independent of "spacetimes" per say as phase space only depend on the configuration spaces.
+> [!hint] Philosphy: ODEs do not care about spacetime or coordinates or other structures
+> 
+> - For instance, what one must understand is (among many other things), in the side of ODEs: Lagrangian, Hamiltonian etc really *do not care* about the spacetime, or what you are trying to describe even: give it a ray of light in Newtonian spcaetime, or a point particle moving around a black hole (Swartzchild spacetime): the description remains the same.
+> 	- Configuration space $\leftrightarrow$ Lagrangian dynamics, any other ODE
+> 	- Phase space $\leftrightarrow$ Hamiltonian dynamics
+> - I do not mean the equations remains the same btw! I just mean use can use the general prescription (math!) like Lagrangians and Hamiltonians for any spacetime!
+> - This would therefore mean, the "statistical mechanics" prescription would also be, in this way - because statistical mechanics just starts from the phase space - the methods independent of "spacetimes" per say as phase space only depend on the configuration spaces.
 
-> [!hint]
-> You might wonder that we do not need this much details, or need to do things "properly", whatever that means. The physics textbooks do cover most of the content, with a bit of analysis and geometry everything becomes well-understood as well as "proper". I am assuming things like linear algebra "trivial", but one has to start from that, thats why [[inculcation-linear-constructions]] exists!
 
 
 
@@ -180,7 +178,8 @@ The famous textbooks are
 
 A similar table can be found in
 
-> [!hint]  [Lecture1 slides](https://www.math.utoronto.ca/khesin/teaching/henan/Lecture1slides.pdf) of [Geometric Fluid Dynamics, Fall 2021](https://www.math.utoronto.ca/khesin/teaching/henan/geometricfluids21.html)
+> [!hint] Table of configuration spaces that are groups a metric and geodesic flows on them
+>  [Lecture1 slides](https://www.math.utoronto.ca/khesin/teaching/henan/Lecture1slides.pdf) of [Geometric Fluid Dynamics, Fall 2021](https://www.math.utoronto.ca/khesin/teaching/henan/geometricfluids21.html)
 > 
 > ![](https://i.imgur.com/lYZ7n4v.png)
 > ^i6k60q
@@ -238,7 +237,7 @@ No. Not equilibrium statistical mechanics anyways. The following are some pitfal
 > 	- Dynamics of $n$ harmonic oscillators is such an example which is even PERIODIC in time (for specific parameters)! hah! People even compute $Z(\beta)=\int_{\R^{2n}} \exp(-\beta H)$ for this, please give me ANY physical interpretation of this computation!?!
 > - If you think "ergodicity" of the flow is enough assumption to reproduce equilibrium stat mech look at ['ergodicity, as usually stated, is neither sufficient not necessary for thermalization'](https://physics.stackexchange.com/questions/541504/how-can-ergodicity-explain-thermalization#comment1224693_541504)
 > - When [Poincaré recurrence theorem](https://en.wikipedia.org/wiki/Poincar%C3%A9_recurrence_theorem) is used to contradict existence of a thermal equilibrium, people are quick to say "the recurrence times are LARGER compared to thermalization times" $\leftarrow$ which is true until it isn't!
-> 	- Fermi and company found this out experimentally: [Fermi–Pasta–Ulam–Tsingou problem - Wikipedia](https://en.wikipedia.org/wiki/Fermi%E2%80%93Pasta%E2%80%93Ulam%E2%80%93Tsingou_problem)
+> 	- Fermi and company found this curious case experimentally: [Fermi–Pasta–Ulam–Tsingou problem - Wikipedia](https://en.wikipedia.org/wiki/Fermi%E2%80%93Pasta%E2%80%93Ulam%E2%80%93Tsingou_problem)
 
 You can't change information of $10^{23}$ dimensions into $4$ variables, sadly, nope. How is thermodynamics true then? In what sense I mean? Well...Roderich Tumulka's notes above tries to explain a lot. I oscillate between being convinced and not.
 
@@ -262,7 +261,7 @@ However, the following book has a "proof" of Boltzmann's (non-equilibrium stat m
 > 
 > - [Maths with Physics: Frederic Schuller's Lectures on Quantum Theory with Lecture Notes](http://mathswithphysics.blogspot.com/2016/07/frederic-schullers-lectures-on-quantum.html)
 > - [DR. FREDERIC SCHULLER'S COURSE OF QUANTUM THEORY (richie291.wixsite.com)](https://richie291.wixsite.com/theoreticalphysics/post/dr-frederic-schuller-s-course-of-quantum-theory)
-
+e
 So let's ponder on what quantum mechanics does really. It gives us a linear dynamics from a ODE: 
 $$
 \mathrm{Quantizaton}:\mathrm{CM} \ (X,H) \to \mathrm{QM} \ (L^{2}(X), \hat{H})

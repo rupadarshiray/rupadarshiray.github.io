@@ -10,6 +10,8 @@ aliases:
 
 AKA "non-linear dynamics", "smooth dynamical systems", "systems" even (as in most of the content in "systems biology").
 
+main article: [[inculcation]]
+
 ## interpret any general ODE as a vector field and study it *visually*
 
 This is a standard *geometric* interpretation.

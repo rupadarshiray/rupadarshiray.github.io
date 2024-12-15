@@ -7,7 +7,7 @@ aliases: null
 
 ## Finite groups
 
-![[inculcation#^kn3dkj]]
+![[inculcation#little things groups (group theory, group actions)]]
 
 
 
