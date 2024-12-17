@@ -78,6 +78,9 @@ There are some absurdity in the definitions of objects which are very simple in 
 ### bundles on smooth manifolds
 
 
+### Lie groups and smooth Lie group actions
+
+
 ## beyond the first course and uses
 
 - (semi)Riemannian geometry, GR

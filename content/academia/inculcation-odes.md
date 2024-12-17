@@ -14,8 +14,6 @@ main article: [[inculcation]]
 
 ## interpret any general ODE as a vector field and study it *visually*
 
-This is a standard *geometric* interpretation.
-
 Did you ever think an ordinary differential equations book will have this picture:
 
 ![|700](https://i.imgur.com/yRrKeIe.png)
@@ -53,6 +51,8 @@ This gives us a geometric pov on ODEs in $\R^{n}$, *and* we have a
 
 ^d2a7b1
 
+This is a standard *geometric* interpretation.
+
 
 We may convert ordinary differential equation of *any* order to first order by taking enough independent variables and defining them to be higher derivatives.
 
@@ -74,7 +74,9 @@ This playlist (and the channel) consists of shorter videos:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=WhjHlL_dhxpBQ_dy&amp;list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### more formal lectures
+## formal theory of ODEs
+
+Real analysis on $\R$ and $\R^{n}$ gives a foundation to *general* theory of ODEs.
 
 > [!note] ICTP's Dynamical systems
 >  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=hlva1bjtL_s2MCYJ&amp;list=PLLq_gUfXAnkmC-VWIJ_HW8cdOZLEtHfXJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -88,30 +90,34 @@ And as I said above, this book has a pre-requisite of some analysis, but still o
 > ![|500](https://i.imgur.com/FfULVge.png)
 > ![](https://i.imgur.com/5wSZ3Dr.png)
 
-[Arnold's Ordinary Differential Equations](http://library.lol/main/9C48404C4DC01501F08C25351487916C) is also a good resource.
-
-
-## formal theory of ODEs
+- [Arnold's Ordinary Differential Equations](http://library.lol/main/9C48404C4DC01501F08C25351487916C) is also a good resource.
+- [Gerald Teschl's book on ODEs and dynamical systems](https://www.mat.univie.ac.at/~gerald/ftp/book-ode/index.html) is amazing!
 
 ### hard analysis perspective on ODEs
+
+
+
 ### generalizing ODEs to manifolds: flow of vector fields on smooth manifolds
 
-Should be motivated from Perko, classical mechanics, etc. We, very naturally, want to write ODEs on surfaces, toruses or other "surfaces" of even higher dimensions AKA manifolds.
+> For more on smooth manifolds: [[inculcation-smooth-manifolds]].
+
+Should be motivated from Perko, classical mechanics, etc. We, very naturally, want to write ODEs on surfaces, tori or other "surfaces" of even higher dimensions AKA what we call *smooth manifolds*.
 
 - Define the **Lie bracket** of vector fields, **exponential** of vector fields $$\exp: \mathrm{Vec}(M)\to \mathrm{LDiff}(M)$$ 
 	- think of  the Lie algebra of vector fields as "the Lie algebra" of the "Lie group" local diffeomorphisms on the manifold $M$
 	- show that the flows of two vector fields commute $\iff$ their Lie bracket is $0$.
-- Given a smooth $H:\R^{2}\to \R$, how can we produce a vector field that "preserves" this function? Well Hamilton's equations on $\R^{2}$ $$ \begin{bmatrix} \dot{x} \\ \dot{y} \end{bmatrix} = \begin{bmatrix} 0 & -1 \\ 1 & 0 \end{bmatrix} \begin{bmatrix} \frac{{\partial H}}{\partial x} \\ \frac{{\partial H}}{\partial y} \end{bmatrix} $$ produces a vector field perpendicular to the gradient of $H$ which does the job! But in doing so, this "Hamiltonian vector field" of $H$ produces nice geometrical properties. For example it has zero divergence, implying its flow preserves area (in $\R^2$ )! 
-	- **Symplectic geometry** helps study the geometry of Hamilton's equations in a general setting.
 
-For more on smooth manifolds: [[inculcation-smooth-manifolds]].
+Thus a *smooth dynamical system* AKA an ODE generalized to manifolds is a pair $$ (M,X) $$ where $M$ is a manifold and $X$ is a (smooth) vector field on $M$.
+
+
+![[inculcation-symplectic-geometry#motivating Hamiltonian vector fields]]
 
 Use topology in your study of ODEs:
 
 - On **compact manifolds**, every vector field is *complete*, that is, the solutions of ODEs exist *globally* in time.
-- On the **2-sphere**, any vector field is zero atleast at one point, has atleast one fixed point (Hairy ball theorem!).
+- On the **2-sphere**, any vector field is zero atleast at one point, has atleast one fixed point (Hairy ball theorem)!.
 - In general, use **index theorems** to know about vector fields on manifolds.
-- and more!
+- ... and more!
 
 In general, study **smooth Lie group action on smooth manifolds**, whose special case is an $\R$-action - that is a complete vector field.
 
@@ -134,6 +140,14 @@ This series by Arnold exists:
 >  ^jcq2iy
 
 
+## applications
+
+### method using characteristic curves for first-order PDEs
+
+### Sturm-Liouville equations
+
+## generalizations 
+
 ### go beyond finite dimension
 
 Interpret heat equation, fluid flows, Schrodinger equation as infinite dimensional ODE and watch the consequences:
@@ -152,7 +166,9 @@ Interpret heat equation, fluid flows, Schrodinger equation as infinite dimension
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gj0FnR8Fz70?si=dKk7P_4Tjt223bQO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# generalize to dynamical systems
+## to dynamical systems
 
 
-Should be motivated from ODEs, or just plain playing with functions.
+Should be motivated from ODEs, or just plain playing with functions:
+
+![[inculcation-dynamics#motivating dynamical systems]]
