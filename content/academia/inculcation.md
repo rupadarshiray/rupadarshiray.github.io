@@ -161,18 +161,23 @@ Well, I have no idea yet!
 
 With the language of manifolds/normed vector spaces we can work in geometry, topology and physics properly! (no handwaves!)
 
-- Riemannian geometry, semi-Riemannian geometry, GR
-- ODEs [[inculcation-odes|Inculcation: ODEs]], smooth dynamical systems
-- Ergodic theory, dynamical systems in measure spaces
-- Lie groups
+- geometry
+	- Riemannian geometry, semi-Riemannian geometry, GR
+- dynamics
+	- ODEs [[inculcation-odes|Inculcation: ODEs]] AKA smooth dynamical systems
+	- [[inculcation-dynamics]] 
+	- Ergodic theory, dynamical systems in measure spaces
+	- [[inculcation-geodesic-flows]]
+	- [[inculcation-all-of-mechanics#Mechanics of points done properly]]
+- [[inculcation-groups]], Lie groups
 - PDEs
 - `talk` [Mathematics of Turbulent Flows: A Million Dollar Problem! by Edriss S Titi - YouTube](https://www.youtube.com/watch?v=VH4oawCiHPU)
 - Hamiltonian systems and symplectic geometry
 - Thermodynamic systems, ODEs and contact geometry
-- QM
+- QM and quantum theories [[inculcation-all-of-mechanics#quantization of the mechanics of points]]
 - `lecturenotes` Use measure theory to do [Classical Equilibrium Statistical Mechanics](https://warwick.ac.uk/fac/sci/maths/people/staff/stefan_adams/lecturenotestvi/cdias-adams-30.pdf)
 - Differential topology, or algebriac topology with a differential viewpoint
-- Probability, information theory
+- Probability, information theory, information geometry
 
 ## starting again?
 

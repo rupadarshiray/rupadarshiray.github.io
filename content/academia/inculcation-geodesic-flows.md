@@ -29,7 +29,10 @@ Main article: [[inculcation-odes]]
 
 More examples where the configuration space is specifically a *group* can be found in
 
-![[inculcation-all-of-mechanics#^i6k60q|found here]]
+> [!hint] Table of configuration spaces that are groups a metric and geodesic flows on them
+>  [Lecture1 slides](https://www.math.utoronto.ca/khesin/teaching/henan/Lecture1slides.pdf) of [Geometric Fluid Dynamics, Fall 2021](https://www.math.utoronto.ca/khesin/teaching/henan/geometricfluids21.html)
+> 
+> ![](https://i.imgur.com/lYZ7n4v.png)
 
 ## dynamics that are isomorphic to geodesic flows
 

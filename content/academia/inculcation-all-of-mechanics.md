@@ -176,15 +176,13 @@ The famous textbooks are
 - Abraham R., Marsden J.E. - Foundations of Mechanics (1987)
 - Jerrold E. Marsden, Tudor S. Ratiu - Introduction To Mechanics And Symmetry A Basic Exposition of Classical Mechanical Systems-Springer (2010)
 
-A similar table can be found in
+Similar tables can be found here:
 
-> [!hint] Table of configuration spaces that are groups a metric and geodesic flows on them
->  [Lecture1 slides](https://www.math.utoronto.ca/khesin/teaching/henan/Lecture1slides.pdf) of [Geometric Fluid Dynamics, Fall 2021](https://www.math.utoronto.ca/khesin/teaching/henan/geometricfluids21.html)
-> 
-> ![](https://i.imgur.com/lYZ7n4v.png)
-> ^i6k60q
+![[inculcation-geodesic-flows#interpreting a lot of systems as geodesic flows and vice versa]]
 
-where all but the first three entries are PDE dynamics on a infinite dynamical space thought of as "mechanics of a point"! Yes, we can think of fluid dynamics as classical dynamics on an infinite dimensional phase space!
+
+Here there are PDE dynamics on a infinite dynamical space thought of as "mechanics of a point"! Yes, we can think of fluid dynamics as classical dynamics on an infinite dimensional phase space! This phase space is not a vector space as the equation is non-linear.
+
 ## solving the equations
 
 Physics textbooks on "classical mechanics" aren't rigorous, they don't worry about a lot of things. What exactly are we missing then?
