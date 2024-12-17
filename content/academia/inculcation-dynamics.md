@@ -10,17 +10,14 @@ aliases: null
 
 What is "dynamics"? A dynamical system, in general, is a monoid action on a set.
 
-Ignoring the generality, let's consider the definition of a discrete dynamical system
-
-> [!important] **Definition:** discrete dynamical system (where the time is $\mathbb{N}$)
-> A function $$ f:X\to X $$ on a set is considered to be a **discrete dynamical system** (autonomous) where the iterations of the map $$\mathsf{Id}, f , f^{2}, f^{3}, \dots $$ are considered the time map for $t=0,1,2,3,\dots$. Thus orbit of a point $x\in X$ is defined to be $$ x, f(x), f(f(x)), f(f(f(x))),\dots $$
+Ignoring the generality, let's consider the definition of a discrete dynamical system: a function $$ f:X\to X $$ on a set is considered to be a **discrete dynamical system** (autonomous) where the iterations of the map $$\mathsf{Id}, f , f^{2}, f^{3}, \dots $$ are considered the time map for $t=0,1,2,3,\dots$. Thus orbit of a point $x\in X$ is defined to be $$ x, f(x), f(f(x)), f(f(f(x))),\dots $$
 
 Simply put, just "iterations of a map" produces the dynamics.
 
 
-We reinterpret a lot of math in terms of dynamics:
+Using this simple, extremely general definition, we reinterpret a lot of math in terms of "dynamics":
 
-- [[inculcation-linear-algebra|Linear algebra]] is study of iterations of one linear map on a vector space.
+- [[inculcation-linear-algebra|Linear algebra]] is study of iterations of one linear map on a vector space. The canonical forms essentially decomposes the dynamics into *indecomposable* pieces.
 - **Finite group theory** studies group action on a (finte) set are by definition "dynamics"
 - A **module** of a ring is just a special group action by the additive group of the ring which also plays well with the multiplicative structure. **Representation theory** in most cases studies such modules.
 - There are various applications of theorems that are "dynamical"

@@ -103,9 +103,12 @@ And as I said above, this book has a pre-requisite of some analysis, but still o
 
 Should be motivated from Perko, classical mechanics, etc. We, very naturally, want to write ODEs on surfaces, tori or other "surfaces" of even higher dimensions AKA what we call *smooth manifolds*.
 
-- Define the **Lie bracket** of vector fields, **exponential** of vector fields $$\exp: \mathrm{Vec}(M)\to \mathrm{LDiff}(M)$$ 
-	- think of  the Lie algebra of vector fields as "the Lie algebra" of the "Lie group" local diffeomorphisms on the manifold $M$
-	- show that the flows of two vector fields commute $\iff$ their Lie bracket is $0$.
+
+- The **Lie bracket** of vector fields, **exponential** of vector fields $$\exp: \mathrm{Vec}(M)\to \mathrm{LDiff}(M)$$ is defined to be the *solution* of the ODE, the "flow" map, defined by the vector field.
+	- We may think of  the Lie algebra of vector fields as "the Lie algebra" of the "Lie group" local diffeomorphisms on the manifold $M$.
+
+>[!question] 
+>Show that the flows of two vector fields commute $\iff$ their Lie bracket is $0$.
 
 Thus a *smooth dynamical system* AKA an ODE generalized to manifolds is a pair $$ (M,X) $$ where $M$ is a manifold and $X$ is a (smooth) vector field on $M$.
 
@@ -154,19 +157,19 @@ Interpret heat equation, fluid flows, Schrodinger equation as infinite dimension
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VH4oawCiHPU?si=Wt1hxgkK4cpt_eWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## interpret a linear ODE as an operator on a function space
+### interpret a linear ODE as an operator on a function space
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=GLHHWk-09diiCYuu&amp;list=PLgAugiET8rrL7uMN9c15Br9Tmn3q6v52l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## interpret as a plane distribution using a contact structure
+### interpret as a plane distribution using a contact structure
 
 ![](https://upload.wikimedia.org/wikipedia/en/f/f5/Standard_contact_structure.svg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gj0FnR8Fz70?si=dKk7P_4Tjt223bQO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## to dynamical systems
+### to dynamical systems
 
 
 Should be motivated from ODEs, or just plain playing with functions:
