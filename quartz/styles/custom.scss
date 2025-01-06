@@ -48,3 +48,30 @@
       font-weight: normal;
       font-style: normal;
 }
+
+/*Banners*/
+img[alt*="banner"],
+.image-embed[src*="#banner"],
+span.banner img {
+      display: block;
+      object-fit: cover;
+      height: 400px;
+      width: 100%;
+      margin-bottom: -170px;
+      mix-blend-mode: multiply;
+      -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 1)), to(rgba(0, 0, 0, 0)));
+
+
+}
+
+img[alt*="banner+small"],
+.image-embed[src*="#banner+small"],
+span.banner-small img {
+      display: block;
+      object-fit: cover;
+      height: var(--tiny);
+      width: 100%;
+      margin-bottom: 0px;
+      mix-blend-mode: multiply;
+      height: 200px;
+}

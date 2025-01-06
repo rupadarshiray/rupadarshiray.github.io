@@ -7,3 +7,4 @@ aliases: ''
 ---
 
 - [MTH201](https://rupadarshiray.github.io/academicmatters/IISERM-MS21/MTH201/MTH201-lecture-notes.pdf) - Geometry of curves and surfaces
+- [[my-notes-bsms-sem-8]]
