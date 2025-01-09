@@ -12,6 +12,7 @@ I plan to write about
 
 - the core years of math at IISERM
 - the major years of math at IISERM [[math-at-iiserm-major]]
+- [[math-at-iiserm-electives|Mathematics at IISER Mohali: Electives]]
 - the faculty in IISERM math dept
 - why the IISER dream of interdisciplinary undergraduate education failed, imo
 - the lost course of MTH201 in IISER Mohali
