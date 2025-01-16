@@ -6,5 +6,16 @@ title: 'Major years of math in IISER Mohali'
 aliases: '' 
 ---
 
+## Semester 5
 
 
+## Semester 6
+
+
+## choosing electives
+
+
+## Semester 7
+
+
+## Semester 8
