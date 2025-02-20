@@ -5,21 +5,33 @@ tags: []
 title: 'My notes'
 aliases: ''
 ---
+ 
+## Summer '22
 
+Before the start of semester 2, I took notes on quantum physics and non-linear dynamics, which remain incomplete.
 
 ## Monsoon '22
+
+In semester 3, I (hand-wrote) notes for the course on differential geometry of curves and surfaces.
 
 - [MTH201](https://rupadarshiray.github.io/academicmatters/IISERM-MS21/MTH201/MTH201-lecture-notes.pdf) - Geometry of curves and surfaces
 
 ## Spring '23
 
+In semester 4, I "audited" the course on algebraic topology.
+
 - *Algebraic topology*
 
 ## Monsoon '23
 
+In semester 5, I starting [[what-is-obsidian|taking notes in Obsidian]] in class.
+
 - *Set theory and logic*
 
 ## Spring '24
+
+
+Tried taking notes on *Knots* (credited) in semester 6, but they remain incomplete.
 
 - *Knots and braids*
 
@@ -28,6 +40,8 @@ aliases: ''
 - [[impa-pdes|IMPA PDEs]]
 
 ## Monsoon '24
+
+Semester 7 was the time I fleshed out my note taking very well.
 
 - [MTH401: Ordinary differential equations](https://drive.google.com/file/u/1/d/1Xde4N-f2FxmQtzFXBPUfx-827EcK9Xf4/view)
 - *Functional analysis*

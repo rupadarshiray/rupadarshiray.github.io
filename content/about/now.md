@@ -9,7 +9,4 @@ title: "now"
 
 > This is a [/now page](https://nownownow.com/about) for me!
 
-On 6 December 12024,
-
-- Attending https://www.atmschools.org/school/2024/AIS/rtqbcssla
-- Studying papa Rudin, fourier analysis, etc. on the side
+![[my-notes-bsms-sem-8#Lecture notes]]
