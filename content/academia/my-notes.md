@@ -56,6 +56,8 @@ Semester 7 was the time I fleshed out my note taking very well.
 - [ATMS Quivers and Lie algebras](https://drive.google.com/open?id=1-4wRWyq0c_Jg_nu7T4cw16ua6fhcEGrB&usp=drive_fs)
 - [Watch party: Talk on Ancient solutions to geometric flows](https://drive.google.com/open?id=10-lsJvPEWEAxGTNtDfgUjY0fGdfW17xL&usp=drive_fs)
 
-## Spring '25
+## Spring and summer '25
 
 ![[my-notes-bsms-sem-8#Lecture notes]]
+
+Notes on *geometry and analysis of flows and on manifolds* mostly taken during spring and summer '25: https://dub.sh/spring25
