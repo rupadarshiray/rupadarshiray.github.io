@@ -6,7 +6,7 @@ title: 'Academia'
 
 > [!bug] bliss and beyond
 
-- Me learning and teaching how to build an [[workstation/academic-workstation|Academic Workstation]]
+- Me learning and teaching how to build an [[academic-workstation|Academic Workstation]]
 	- [[hierarchical-longterm-wiki]], [[constructing-hierarchical-wiki]]
 - The list of [[my-books|books that I have]].
 - Some lecture [[my-notes|notes that I have made]].
