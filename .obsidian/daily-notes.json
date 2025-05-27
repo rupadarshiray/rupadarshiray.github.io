@@ -1,0 +1,5 @@
+{
+  "format": "\\log 1YYYY-MM-DD",
+  "folder": "content/log",
+  "template": "management/% new daily log"
+}

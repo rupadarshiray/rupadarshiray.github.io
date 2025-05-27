@@ -15,10 +15,10 @@ You can learn what I am doing [[about/now|now-a-days here]].
 - [Instagram](https://www.instagram.com/rupadarshiray/)
 - [YouTube/Ray-MS21](https://www.youtube.com/c/Ray-MS21)
 - [Twitter](https://twitter.com/rupadarshiray)
-- [Twitch](https://www.twitch.tv/riddyrayes)
 - [GitHub](https://github.com/rupadarshiray)
 - [LinkedIn](https://www.linkedin.com/in/riddyrayes)
 - [Mathstodon](https://mathstodon.xyz/deck/@rupadarshiray)
+- [Bluesky](https://bsky.app/profile/rupadarshiray.bsky.social)
 
 
 <!--

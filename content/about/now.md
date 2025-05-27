@@ -9,4 +9,4 @@ title: "now"
 
 > This is a [/now page](https://nownownow.com/about) for me!
 
-![[my-notes-bsms-sem-8#Lecture notes]]
+Starting my MS thesis in August.
