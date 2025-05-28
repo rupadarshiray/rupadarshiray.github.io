@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
-                "mode": "preview",
-                "source": true,
+                "file": "content/academia/inculcation.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "inculcation"
             }
           }
         ]
@@ -163,11 +163,14 @@
   },
   "active": "78475e96f57ea5d7",
   "lastOpenFiles": [
+    "content/academia/inculcation-all-of-mechanics.md",
+    "content/academia/inculcation.md",
+    "content/academia/inculcation-geodesic-flows.md",
+    "content/index.md",
     "content/about/now.md",
     "content/about/about-me.md",
     "content/workstation/obsidian-and-latex.md",
     "content/workstation/constructing-a-mathematics-wiki.md",
-    "content/index.md",
     "management/why-write-in-obsidian.md",
     "management/what-is-obsidian.md",
     "management/obsidian-metadata-and-query.md",
@@ -190,9 +193,6 @@
     "content/log/log-12024-12-15.md",
     "content/log/log 12021-10-31.md",
     "content/log/log-12024-12-17.md",
-    "management/inculcation-linear-constructions.Drawing 231119143637.md",
-    "content/academia/my-notes.md",
-    "content/academia/my-notes-bsms-sem-8.md",
     "/content/about",
     "/quartz/styles/custom.scss",
     "management"

@@ -59,7 +59,9 @@ A very good place to start (basic) mathematics like linear algebra is to read ch
 
 ### mechanics
 
-If you're into physics, start here with ![[inculcation-all-of-mechanics#^keitg9]]
+If you're into physics, start here with 
+
+![[inculcation-all-of-mechanics#all of physics, all at once]]
 
 This is how I started! Its the "non-conventional" route, study major building blocks of physics at once because 
 
