@@ -10,9 +10,8 @@ aliases: ''
 
 # Driven by infinite enthusiasm
 
-> All opinion are strictly mine.
 
-This list was made with materials mostly found on the internet, to reduce repetition from my side.
+This list was made with materials mostly found on the internet, to reduce repetition from my side. All opinions are strictly mine. Because of that, this list lacks topics like number theory, algebraic geometry, graph theory, algorithms, combinatorics, etc.
 
 # What to study? Where to study from?
 
@@ -21,40 +20,40 @@ This list was made with materials mostly found on the internet, to reduce repeti
 This has five major sections
 
 1. journey starts: [[inculcation#start with the little things and the big things|start with the little things and the big things]]
-2. discoveries: [[inculcation#dive into mathphysics -|dive into math physics ✨]]
+2. [[inculcation#dive into new discoveries|dive into new discoveries]]
 3. a need for clarity and details: [[inculcation#Linear constructions|Linear constructions]]
-4. the old discoveries in new light: [[inculcation#apply your new-found knowledge new way of looking at things never ends-|apply your new-found knowledge new way of looking at things never ends ✨]]
+4. the old discoveries in new light: [[inculcation#new way of looking at things|new way of looking at things]]
 5. epilogue: [[inculcation#starting again?|starting again?]]
 
 ## start with the little things and the big things
 
 ### little things: groups (group theory, group actions)
-- ==One should start their journey with groups!==
-- [Group theory, abstraction, and the 196,883-dimensional monster - YouTube](https://www.youtube.com/watch?v=mH0oCDa74tE)
+
+>  ==One should start their journey with groups!==
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mH0oCDa74tE?si=Kk1xTVuDkV2Ap7Ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 - [Essence of Group Theory - YouTube](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
-- Chapter 1 and 3 from [[evan-chen-napkin]]
-- Artin's Algebra is a good text.
+- Chapter 1 and 3 from ![[inculcation-math-pedias#Napkin|Napkin]]
+- Artin's Algebra is a good text
 
 ### big things: vector spaces (linear algebra)
 
-More here: [[inculcation-linear-algebra]]
+![[inculcation-linear-algebra#starting out]]
 
-A very good place to start (basic) mathematics like linear algebra is to read chapters from Napkin:
-
-![[evan-chen-napkin]]
-
+And then for [[inculcation-linear-algebra#a first semester course|a first semester course]].
 
 ### things in the middle: analysis
 
 
-- definitely start with Tao's Analysis volumes 1 and 2, but for more: [[inculcation#Inside reals and metric spaces|Analysis in $\R$]]
-- #### Anaysis and linear algebra in $\mathbb{R}^n$
-	- from [[evan-chen-napkin]]
-		- Chapters 26-30 - Calculus 101
-		- Chapters 42-45 - Total derivatives and differential forms
-		- Chapters 2, 6-8 - Topology
-	- [[shifrin-multivariable-mathematics]] - a 2 semester course/book that covers linear algebra and (proper) multivariable calc
-- more in [[inculcation#Linear constructions|Linear constructions]]
+- Open Tao's Analysis volume 1. For more: [[inculcation-linear-constructions#Inside reals and metric spaces|Inside reals and metric spaces]]
+- from [[inculcation-math-pedias#Napkin]]
+	- Chapters 26-30 - Calculus 101
+	- Chapters 42-45 - Total derivatives and differential forms
+	- Chapters 2, 6-8 - Topology
+- [[shifrin-multivariable-mathematics]] - a 2 semester course/book that covers linear algebra and (proper) multivariable calc
+- Next, [[inculcation-analysis-finite-vector-spaces|Inculcation: Analysis in finite-dimensional vector spaces]] more in [[inculcation#Linear constructions|Linear constructions]]
 
 
 ### mechanics
@@ -74,7 +73,7 @@ This is how I started! Its the "non-conventional" route, study major building bl
 
 
 
-## dive into math/physics ✨
+## dive into new discoveries
 
 The first section had groups, vector spaces and analysis. Now we shall continue and add some geometry, dynamics and physics too!
 
@@ -94,18 +93,25 @@ After
 we move onto [[inculcation-analysis-finite-vector-spaces|finite-dimensional vector spaces]] or just $\R^{n}$.
 
 
-### cute topology and geometry
+
+### differential geometry of curves and surfaces
+
+AKA what I would call *spicy multi-variable calculus in dimension 3!*
 
 
-- #### differential geometry of curves and surfaces in $\mathbb{R}^3$ 
-	- AKA what I would call *spicy multi-variable calculus in dimension 3!*
-	- `lectures` [ICTP Diploma - Differential Geometry - Claudio Arezzo - YouTube](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz) 
-		- These lectures has pre-requisites of baisic linear algebra, analysis in $\mathbb{R}^{n}$"  knowing total derivatives and bilinear forms with introducing yourself a little *topology* (compactness, connectedness)
-- #### *cute* topology
-	- [Topology & Geometry by Dr Tadashi Tokieda - YouTube](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
-	- Knot theory
-		- [How The Most Useless Branch of Math Could Save Your Life - YouTube](https://www.youtube.com/watch?v=8DBhTXM_Br4&t=246s)
-		- [Knot Theory - YouTube](https://www.youtube.com/playlist?list=PLOROtRhtegr4c1H1JaWN1f6J_q1HdWZOY)
+- `lectures` [ICTP Diploma - Differential Geometry - Claudio Arezzo - YouTube](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz) 
+	- These lectures has pre-requisites of basic linear algebra, analysis in $\mathbb{R}^{n}$"  knowing total derivatives and bilinear forms with introducing yourself a little *topology* (compactness, connectedness)
+- `book` do Carmo - Differential geometry of curves and surfaces 
+
+### *cute* topology
+
+- [Topology & Geometry by Dr Tadashi Tokieda - YouTube](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
+- Knot theory
+	- [How The Most Useless Branch of Math Could Save Your Life - YouTube](https://www.youtube.com/watch?v=8DBhTXM_Br4&t=246s)
+	- [Knot Theory - YouTube](https://www.youtube.com/playlist?list=PLOROtRhtegr4c1H1JaWN1f6J_q1HdWZOY)
+
+![[visualizing-higher-dimensions]]
+
 - how topology affects and interacts with geometry, analysis, algebra (Lie groups, say) and physics
 	- [Gauss–Bonnet theorem - Wikipedia](https://en.wikipedia.org/wiki/Gauss%E2%80%93Bonnet_theorem)
 	- [Dirac's belt trick, Topology, and Spin ½ particles - YouTube](https://www.youtube.com/watch?v=ACZC_XEyg9U)
@@ -114,7 +120,7 @@ we move onto [[inculcation-analysis-finite-vector-spaces|finite-dimensional vect
 
 ### dynamical systems and ODEs
 
-![[inculcation-odes#vector fields and ODE dictionary]]
+![[inculcation-odes#interpret any general ODE as a vector field and study it visually]]
 
 More on this: [[inculcation-odes]]
 
@@ -127,10 +133,11 @@ Well, I have no idea yet!
 
 ### *handwavey* physics
 
-![|600](https://i.imgur.com/dkGS1Kx.png)
+Be warned:
 
-- Start with [[inculcation-all-of-mechanics]]
-- Definitely do more math: lie groups, representations, fluid dynamics, and classical mechanics etc before quantum, or atleast before doing quantum a second time.
+![|400](https://i.imgur.com/dkGS1Kx.png)
+
+but start with [[inculcation-all-of-mechanics]]
 
 
 <!---
@@ -156,54 +163,57 @@ Well, I have no idea yet!
 
 ## Linear constructions
 
-![[inculcation-linear-constructions]]
+![[inculcation-linear-constructions#starting out]]
 
+## new way of looking at things
 
-## apply your new-found knowledge: new way of looking at things never ends ✨
-
-With the language of manifolds/normed vector spaces we can work in geometry, topology and physics properly! (no handwaves!)
+With the language of manifolds/normed vector spaces we can work in geometry, topology and physics properly!
 
 - geometry
 	- Riemannian geometry, semi-Riemannian geometry, GR
+	- Hamiltonian systems and [[inculcation-symplectic-geometry|symplectic geometry]]
+- topology and algebraic topology
+- Differential topology, or algebriac topology with a differential viewpoint
 - dynamics
-	- ODEs [[inculcation-odes|Inculcation: ODEs]] AKA smooth dynamical systems
+	- [[inculcation-odes|ODEs | smooth dynamical systems]]
 	- [[inculcation-dynamics]] 
 	- Ergodic theory, dynamical systems in measure spaces
 	- [[inculcation-geodesic-flows]]
-	- [[inculcation-all-of-mechanics#Mechanics of points done properly]]
-- [[inculcation-groups]], Lie groups
+- analysis
+	- Fourier, Harmonic analysis
+	- geometric analysis, spectral analysis
+	- global analysis
+	- microlocal analysis
 - PDEs
-- `talk` [Mathematics of Turbulent Flows: A Million Dollar Problem! by Edriss S Titi - YouTube](https://www.youtube.com/watch?v=VH4oawCiHPU)
-- Hamiltonian systems and symplectic geometry
-- Thermodynamic systems, ODEs and contact geometry
-- QM and quantum theories [[inculcation-all-of-mechanics#quantization of the mechanics of points]]
-- `lecturenotes` Use measure theory to do [Classical Equilibrium Statistical Mechanics](https://warwick.ac.uk/fac/sci/maths/people/staff/stefan_adams/lecturenotestvi/cdias-adams-30.pdf)
-- Differential topology, or algebriac topology with a differential viewpoint
+	- [Partial Differential Equations - Giovanni Bellettini - Lecture 01 - YouTube](https://www.youtube.com/watch?v=Rq1iRT2LL-8)
+	- `talk` [Mathematics of Turbulent Flows: A Million Dollar Problem! by Edriss S Titi - YouTube](https://www.youtube.com/watch?v=VH4oawCiHPU)
+- algebra
+	- [[inculcation-groups]], finite groups, Lie groups, their representations
+- mechanics
+	- [[inculcation-all-of-mechanics#Mechanics of points done properly]]
+	- QM and quantum theories [[inculcation-all-of-mechanics#quantization of the mechanics of points]]
+	- Thermodynamic systems and contact geometry
+	- `lecturenotes` Use measure theory to do [Classical Equilibrium Statistical Mechanics](https://warwick.ac.uk/fac/sci/maths/people/staff/stefan_adams/lecturenotestvi/cdias-adams-30.pdf)
 - Probability, information theory, information geometry
+- number theory
+- algebraic geometry
 
 ## starting again?
 
-- `lectures` [MathHistory: A course in the History of Mathematics](https://www.youtube.com/playlist?list=PL55C7C83781CF4316)
+- `lectures` [MathHistory: A course in the History of Mathematics](https://www.youtube.com/playlist?list=PL55C7C83781CF4316) (although be aware, the instructor doesn't believe that $\R$ exists)
 
 
 # How to study?
-- ## How to do lectures?
-	- Use https://obsidian.md to organize the amount of content/
-		- Copy the lecture note
-		- Complete each lecture and tick the check box.
-	- Make lecture notes
-		- in Obsidian.
-			- you’ll need to learn LaTeX and probably will need a drawing tablet
-		- in physical notebook.
-			- Scan the lecture notes as PDF into one file and save it inside your vault.
-			- Might seem/be a waste of time, but loosing hard worked lecture notes/not organizing them is a bigger loss.
-		- Filling pages upon pages and never returning back onto them is NOT the process, it seems ro me. Return to the notes, think, and solve your own questions.
+
+- Make lecture notes.
+- Taking notes in [[obsidian-and-latex|Obsidian]]
+	- you’ll need to learn bit of LaTeX and probably will need a drawing tablet
+- Taking notes in a physical notebook
+	- Scan the lecture notes as PDF into one file and save it inside your vault. This might seem/be a waste of time, but loosing hard worked lecture notes/not organizing them is a bigger loss.
+- Filling pages upon pages and never returning back onto them is NOT the process, it seems ro me. Return to the notes, think, and solve your own questions.
 
 # more references, roadmaps
 
-> [!bug] Stuff missing from here
-> - Number theory!
-> - Graph theory, algorithms, combinatorics, etc.
 
 > [!info] Newsletter?, channel, chat?
 > 
@@ -213,8 +223,3 @@ With the language of manifolds/normed vector spaces we can work in geometry, top
 	- [The fast track – Sheafification](http://sheafification.com/the-fast-track/)
 	- [How to become a GOOD Theoretical Physicist (goodtheorist.science)](https://www.goodtheorist.science/)
 	- http://theportal.wiki/wiki/Read
-	- ~~[[20-prerequisites-for-quantum-mechanics]]~~
-	- `book` Paddy - Theoretical Astrophysics volumes I, II & III
-- Watch (any one or all even) these one lecture and tell me how can you not love this!! (don’t pay attention to the name of the video)
-	- [Partial Differential Equations - Giovanni Bellettini - Lecture 01 - YouTube](https://www.youtube.com/watch?v=Rq1iRT2LL-8)
-	- [History of Algebraic Topology - Pierre Albin - YouTube](https://www.youtube.com/watch?v=XxFGokyYo6g)

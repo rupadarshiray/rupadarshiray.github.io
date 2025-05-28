@@ -21,8 +21,8 @@ This fairly formal but very entertaining set of lectures (where the instructor u
 	- At 1.50x : 2 days, 12 hours, 58 minutes, 52 seconds
 	- At 1.75x : 2 days, 4 hours, 16 minutes, 10 seconds
 	- At 2.00x : 1 day, 21 hours, 44 minutes, 9 seconds
-- [Lecture Notes for the course - Multivariable Mathematics](http://library.lol/main/B796E88E85C9FF774C3EF1278B2C19ED)
-- The textbook [Multivariable Mathematics: Linear Algebra, Multivariable Calculus, and Manifolds](http://library.lol/main/C06BD3E524B1C615AB21927FF8CC490A)
+- [Lecture Notes for the course - Multivariable Mathematics](http://library.is/main/B796E88E85C9FF774C3EF1278B2C19ED)
+- The textbook [Multivariable Mathematics: Linear Algebra, Multivariable Calculus, and Manifolds](http://library.is/main/C06BD3E524B1C615AB21927FF8CC490A)
 
 ## Outline
 

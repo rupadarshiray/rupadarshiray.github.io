@@ -29,7 +29,7 @@ Sadly, the definition and introductory theory of manifolds is "complete garbage"
 > 
 > We obtain a set attached with coordinates.
 
-[^evan]: [[evan-chen-napkin]], chapter 45
+[^evan]: [[inculcation-math-pedias]], chapter 45
 
 ### hence manifolds generalize coordinate systems
 

@@ -1,15 +1,17 @@
 ---
 created: 2023-03-29T16:44:22
 modified: 2023-03-29T16:44:22
-tags: [Inculcation]
-title: 'Inculcation: Analysis in finite-dimensional vector spaces'
-aliases: ''
+tags:
+  - Inculcation
+title: "Inculcation: Analysis in finite-dimensional vector spaces"
+aliases:
+  - "Inculcation: Analysis in finite-dimensional vector spaces"
 ---
-	
+
 > parent:: [[inculcation]]
 
 
-- A lot of these material is present in [[evan-chen-napkin|Napkin]] but it does not give enough page-length to fully grasp the whole topic, maybe?
+- A lot of these material is present in [[inculcation-math-pedias#Napkin|Napkin]] but it does not give enough page-length to fully grasp the whole topic, maybe?
 - [[shifrin-multivariable-mathematics]] does a good job at the calculus
 - Analysis by Herbert Amann and Joachim Escher [Volume I](http://library.lol/main/D52F82501240A7F94F77CCA630B43F6E) or Rudin or Apostol contains the analysis
 
@@ -24,6 +26,9 @@ aliases: ''
 ## measurable functions and their integrals
 
 AKA "*measure theory*".
+
+- [cmat.edu.uy/~mordecki/courses/medida2013/book.pdf](https://www.cmat.edu.uy/~mordecki/courses/medida2013/book.pdf)
+
 
 ## differential forms, their integration and exterior derivative
 
@@ -84,10 +89,11 @@ But plot twist! This question is purely topological!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ptFnIj71SM?si=pX0YhRJVtog6IZNu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-
+<!--
 ### things that requires a metric
- 
- Hodge duals
+
+- Musical isomorphism: converting vector fields to 1-forms
+- Hodge duals
 
 
 ### algebraic structures that naturally came up
@@ -96,6 +102,10 @@ But plot twist! This question is purely topological!
 - Tensor product of vector spaces
 - **Algebras of a vector space**: Tensor algebra, symmetric algebra, exterior algebra
 - Exact sequences, cohomology
+- sheaves
+
+
+-->
 
 ## vector fields and their flows
 
@@ -110,7 +120,7 @@ The relevant material is in [[inculcation-odes]]
 
 We may mimic everything above to complex vector spaces with a norm!
 
-This for example leads to differential forms of the form $$ f(z) \mathrm{d}z $$ where $\mathrm{d}z:= \mathrm{d}x+i \mathrm{d}y$.
+This for example leads to **closed** differential forms of the form $$ f(z) \mathrm{d}z $$ where $\mathrm{d}z:= \mathrm{d}x+i \mathrm{d}y$. 
 
 This starts the study of *complex analysis* (well, if we consider complex analytic $f$ :).
 

@@ -23,7 +23,7 @@ There are different levels to study representation theory of finite groups:
 	-  ![[inculcation-linear-algebra#representation theory is just spicy linear algebra]]
 - **after doing finite groups and linear algebra** it is easy to study representation theory of finite groups any text like Artin or Fulton Harris or Dummit and Foote covers all the introductory theory
 - **after doing rings and modules** the same theory hits different, rephrase everything about representations of a group $G$ with its group algebra $\mathbb{C}[G]$
-- **after doing commutative algebra**, I feel it will give another vibe
+- **after doing commutative algebra**, I *feel* it will give another vibe
 
 
 ## Lie groups 
@@ -45,15 +45,17 @@ We use Lie algebras to do representation theory of Lie groups.
 ## various groups in topology, geometry and dynamics
 
 - Homotopy and homology groups
-- Riemannian isometry groups
-- Symplectic groups
+- Automorphism groups of
+	- Riemannian manifolds
+	- Symplectic manifolds
+	- Complex manifolds
 
 
-## Using algebraic topology to study groups
+## Using algebraic topology, differential or other geometries to study groups
+
+AKA "geometric group theory", "Fuchsian groups"
 
 We can use the ideas of fundamental groups and covering spaces to say somethings about some infinite groups.
 
-## Using differential or other geometries to study groups
 
-"geometric group theory", "Fuchsian groups"
 

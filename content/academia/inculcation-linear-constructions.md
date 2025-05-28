@@ -7,13 +7,13 @@ title: "Inculcation: Linear constructions"
 aliases:
 ---
 
-main article: [[inculcation]]
+> Coming from the main article: [[inculcation]], you have seen how deep things are. So now we go back and focus on the details.
 
-> Now that you see how deep things are, go back and focus on the details.
+## starting out
 
 Life is very non-linear, but arguments should not be circular.
 
-> [!tip] Philosophy: construct spaces and do algebra, analysis, geometry, and whatever we can do!
+> [!tip] Philosophy: construct spaces and do algebra, analysis, geometry, and whatever we want to do!
 > - the idea is to *create* meaning, objects out of nothing..., even in familiar spaces and then going to unfamiliar ones!
 > - reminder: nothing (even rigor) is more scary than doing wrong stuff!
 
@@ -22,71 +22,54 @@ We start with logic and set theory, do analysis, algebra, geometry and topology:
 
 ![](https://i.imgur.com/RFZF0UK.png)
 
+
+
 - build the grounds
-	- logic: propositional
-	- logic: first order
-	- first order set theory
-- build structures on sets (or beyond) and work inside 
+	- construct propositional logic
+	- construct first order based on propositional logic
+	- construct ZFC set theory based on first order logic
+- build structures on sets (or beyond) and work inside
 	- inside $\Z, \Q, \R$
-	- out on groups
+	- studying [[inculcation-groups|groups]]
 	- out on metric spaces
-	- inside $\R^{n}$
-	- out on vector spaces
+	- inside $\R^{n}$ or vector spaces
 		- out on normed $\R$-vector spaces, inner product spaces
-	- surfaces inside $\R^{3}$, in submanifolds of $\R^{n}$
 	- out on rings and fields
-	- out on modules
 	- in graphs
 	- out on categories
-	- out on topological spaces
-	- out on measure spaces
+	- [[inculcation-linear-constructions#Out on topological spaces|Out on topological spaces]]
+	- [[inculcation-linear-constructions#Out on measure spaces|Out on measure spaces]]
 	- out on smooth manifolds
 		- smooth manifolds with more structures
 	- out on infinite dim spaces
-- what do we do now? everything here have a tiny different vibes
-	- analysis
-		- ODEs
-		- PDEs
-	- geometry
-	- dynamics
-	- mechanics
-	- algebra
-		- finite groups
-		- representations
-		- Lie algebras
-	- topology and algebraic topology
-	- algebraic geometry
-	- number theory
+
+## Inside reals and metric spaces
 
 
-### Inside reals and metric spaces
-
-
-- #book Tao Analysis vol I, II - this is the best reference for any beginner!
+- #book Tao Analysis volume I, II - this is the best reference for any beginner!
 - #book Apostol - Mathematical Analysis
-- #book Rudin Analysis (Baby Rudin)
+- #book Rudin - Principles of Mathematical Analysis (Baby Rudin)
 - #### Analysis in $\R$
-	- Construct(!!) from $\mathbb{Z} \to \mathbb{Q} \to \mathbb{R}$
+	- Set theoretically construct(!!), starting from $\mathbb{Z}$, $\mathbb{Q}$ and then $\R$
 	- Sequences, limits of sequences
 - #### Metric spaces with the intuition of $\R$
 	- Sequences and series
 	- $\epsilon-\delta$ limits of functions, continuous functions
 	- *get motivated for topological spaces*: prove the theorem that a function is continuous if and only if preimage of open sets is open
 
-
----
-
-### Inside finite dim vector spaces
+## Inside finite dim vector spaces
 
 We do more inside $\mathbb{R}^{n}$ and venture slightly out to do analysis in finite-dim real normed vector spaces, which are of course linearly bijective to $\R^{n}$.
 
-- #### In normed vector spaces
-	- [[inculcation-analysis-finite-vector-spaces|Analysis in finite-dimensional normed vector spaces]]
-- #### Differential geometry of submanifolds of $\mathbb{R}^{n}$
-	- `lecturenotes` [diffgeo.pdf (ethz.ch)](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) One can distinguish extrinsic differential geometry and intrinsic differential geometry. The former restricts attention to submanifolds of Euclidean space while the latter studies manifolds equipped with a Riemannian metric. The extrinsic theory is more accessible because we can visualize curves and surfaces in $\mathbb{R}^{3}$ , but some topics can best be handled with the intrinsic theory...
-	- better thing to do is directly jump to smooth manifolds altogether.
+- [[inculcation-linear-algebra|Inculcation: Linear algebra]]
+- [[inculcation-analysis-finite-vector-spaces|Inculcation: Analysis in finite-dimensional vector spaces]]: total derivatives, measure theory, differential forms, flows, holomorphic functions
 
+> [!note] Diffferential geometry of submanifolds of $\mathbb{R}^{n}$
+> `lecturenotes` [diffgeo.pdf (ethz.ch)](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) *One can distinguish extrinsic differential geometry and intrinsic differential geometry. The former restricts attention to submanifolds of Euclidean space while the latter studies manifolds equipped with a Riemannian metric. The extrinsic theory is more accessible because we can visualize curves and surfaces in $\mathbb{R}^{3}$ , but some topics can best be handled with the intrinsic theory...*
 
+But a better thing to do is directly jump to [[inculcation-linear-constructions#Out on smooth manifolds|smooth manifolds]] altogether...
+
+<!---
 ## Living completely outside $\R^{n}$
 
 > [!danger] Going outside of $\mathbb{R}^{n}$ (or finite dim vector spaces) for *analysis*: there are two routes
@@ -95,11 +78,26 @@ We do more inside $\mathbb{R}^{n}$ and venture slightly out to do analysis in fi
 
 [[inculcation-analysis-finite-vector-spaces|Analysis in finite dimensional vector spaces]] was just the beginning 🔥🔥🔥
 
-### *Measure spaces* (measure theory)
+--->
+
+
+## Over rings
+
+AKA *rings and modules*
+
+## Over fields
+
+AKA *fields and galois theory*
 
 
 
-### *Topological spaces*
+## Out on measure spaces
+
+AKA abstract measure theory, probability theory
+
+
+
+## Out on topological spaces
 
 AKA the fields of topology, algebraic topology
 
@@ -113,13 +111,13 @@ AKA the fields of topology, algebraic topology
 > [!note] First semester course on **Algebraic topology** - *study of holes in topological spaces*
 > We learn *homotopy* groups, *homology* groups and at last *cohomology* groups!
 > 
-> - #book Hatcher
+> - #book [Hatcher's textbook](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
 > - #lectures [Algebraic Topology - Pierre Albin - YouTube](https://www.youtube.com/playlist?list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b)
 > 
 
 
 
-### Out on smooth manifolds
+## Out on smooth manifolds
 
 AKA *"intrinsic differential geometry"* or *analysis on manifolds*.
 
@@ -127,11 +125,14 @@ May try #lectures [Frederic Schuller -International Winter School on Gravity and
 
 
 
-### Inside infinite dim spaces 
+## Inside infinite dim spaces
 
 AKA *functional analysis*!
 
 
 - #lectures Frederic Schuller - Quantum Theory
-- `<some book before Papa Rudin>`
-- Papa Rudin
+- https://www.kryakin.site/am2/Stein-Shakarchi%5D-4-Functional-Analys.pdf
+- (Papa and grandpa Rudin)
+
+## Out on *algebraic varieties*
+

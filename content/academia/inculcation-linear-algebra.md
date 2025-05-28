@@ -1,33 +1,48 @@
 ---
 created: 2023-03-28T15:58:54
 modified: 2023-11-19T14:33:07
-tags: [Inculcation]
-title: 'Inculcation: Linear algebra'
-aliases: ''
+tags:
+  - Inculcation
+title: "Inculcation: Linear algebra"
+aliases:
+  - "Inculcation: Linear algebra"
 ---
 
 > parent:: [[inculcation]]
 
 
+
+
+## starting out
+
 > [!tip] Philosophy of linear algebra I - finding happiness in small things
 > - we see with just the little definition of a vector space, we can have things like  **writing any vector as a unique linear combination of a smaller set**
 > - if you want more things, we can have more things! (oriented vector space, inner product spaces, normed vector spaces, etc.)
 
-## a pre-first semester course essense
+> [!note] pre-first semester course essense
+> Start with 3b1b:
+> 
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=Cq-M0B5yEuDGeziD&amp;list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> 
+> A very good place to start (basic) mathematics like linear algebra is to read chapters from Napkin:
+> 
+> ![[inculcation-math-pedias#Napkin]]
+> 
 
-- [Essence of linear algebra by 3Blue1Brown - YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 > [!tip] Philosophy of linear algebra II - giving lore being objects
 > - origin story of matrices: they were actually "linear maps" all along!
 > - origin story of tensors: they are actually multi-linear maps!
 
-- #### a first semester course looks like these:
-	- #lectures #book Linear Algebra Done Right - Sheldon Axler
-		- [Book website](https://linear.axler.net/), [Third ed pdf](http://library.lol/main/FA472BC434699EFE0F9BD5DC4E2E595E)
-		- [YouTube lectures](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
-	- #lectures [Linear Algebra by Dr. K.C. Sivakumar](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7)
-	- Chapters 9-15 from [A Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf)
-	- majorly they cover upto canonical forms, spectral theorem
+## a first semester course
+
+> [!note] A first semester course on linear algebra
+> - #lectures #book Linear Algebra Done Right - Sheldon Axler
+> 	- [Book website](https://linear.axler.net/), [Third ed pdf](http://library.lol/main/FA472BC434699EFE0F9BD5DC4E2E595E)
+> 	- [YouTube lectures](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
+> - #lectures [Linear Algebra by Dr. K.C. Sivakumar](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7)
+> - Chapters 9-15 from [A Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf)
+> - majorly they cover upto canonical forms, spectral theorem
 
 > [!tip] Philosophy of linear algebra III - what is a vector?
 > - a vector is an element of a **vector space**. no more no less. so you can add them and scale them. but they *belong* somewhere. closure of their operations is also just as important as the operations themselves.
@@ -41,7 +56,7 @@ aliases: ''
 > 		- because if we can measure lengths of vectors, then the **lengths are sacred too**, they must not depend on the pov
 > - this philosophy is opposite to "a vector(or tensor) is a specified tuple of numbers that follows some given transformation rule" which definite works~
 
-## a first semester course
+---
 
 Need help proving stuff? Try following the arrows to prove equivalent conditions for injectivity of linear maps on finite dim spaces:
 
@@ -56,7 +71,7 @@ Need help proving stuff? Try following the arrows to prove equivalent conditions
 
 ## after a first semester course
 
-- [Nick on Twitter: "Stop confusing geometric algebra with useful mathematics" / Twitter](https://twitter.com/anisomorphism/status/1630250818388500480)
+- Don't fall into traps like "geometric algebra".
 - Tensor, symmetric and exterior algebra of a vector space
 
 
