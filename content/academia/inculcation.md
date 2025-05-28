@@ -175,8 +175,8 @@ With the language of manifolds/normed vector spaces we can work in geometry, top
 - topology and algebraic topology
 - Differential topology, or algebriac topology with a differential viewpoint
 - dynamics
-	- [[inculcation-odes|ODEs | smooth dynamical systems]]
-	- [[inculcation-dynamics]] 
+	- [[inculcation-odes|ODEs - smooth dynamical systems]]
+	- [[inculcation-dynamics]]
 	- Ergodic theory, dynamical systems in measure spaces
 	- [[inculcation-geodesic-flows]]
 - analysis
