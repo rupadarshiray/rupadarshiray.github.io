@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "content/academia/inculcation-groups.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "inculcation-groups"
+            }
+          },
+          {
+            "id": "1a2b3208518c9f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "content/academia/inculcation.md",
                 "mode": "source",
                 "source": false,
@@ -31,7 +55,8 @@
               "title": "inculcation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +203,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78475e96f57ea5d7",
+  "active": "1a2b3208518c9f5a",
   "lastOpenFiles": [
     "content/academia/inculcation-groups.md",
     "content/academia/inculcation.md",
