@@ -1,7 +1,7 @@
 {
   "cssTheme": "Primary",
   "theme": "moonstone",
-  "baseFontSize": 16,
+  "baseFontSize": 12,
   "accentColor": "",
   "baseFontSizeAction": true
 }
