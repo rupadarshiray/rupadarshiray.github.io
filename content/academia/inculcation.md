@@ -47,18 +47,28 @@ And then for [[inculcation-linear-algebra#a first semester course|a first semest
 ### things in the middle: analysis
 
 
-- Open Tao's Analysis volume 1. For more: [[inculcation-linear-constructions#Inside reals and metric spaces|Inside reals and metric spaces]]
 - from [[inculcation-math-pedias#Napkin]]
 	- Chapters 26-30 - Calculus 101
 	- Chapters 42-45 - Total derivatives and differential forms
 	- Chapters 2, 6-8 - Topology
-- [[shifrin-multivariable-mathematics]] - a 2 semester course/book that covers linear algebra and (proper) multivariable calc
-- Next, [[inculcation-analysis-finite-vector-spaces|Inculcation: Analysis in finite-dimensional vector spaces]] more in [[inculcation#Linear constructions|Linear constructions]]
+
+---
+
+
+![[inculcation-linear-constructions#Inside the reals and metric spaces|Inside reals and metric spaces]]
+
+
+---
+
+For "multi-variable calculus" AKA analysis on $\R^{n}$ you can choose to start from:
+
+- **calculus:** [[shifrin-multivariable-mathematics]] - a 2 semester course/book that covers linear algebra and (nice) multivariable calculus
+- **analysis:** [[inculcation-analysis-finite-vector-spaces|Inculcation: Analysis in finite-dimensional vector spaces]], and more in [[inculcation#Linear constructions|Linear constructions]]
 
 
 ### mechanics
 
-If you're into physics, start here with 
+If you're into physics, start here:
 
 ![[inculcation-all-of-mechanics#all of physics, all at once]]
 
@@ -84,11 +94,12 @@ The first section had groups, vector spaces and analysis. Now we shall continue 
 - `book` Artin - Algebra
 - `book` Algebra Chapter 0
 
+
 ### continue real analysis
 
 After
 
-![[inculcation-linear-constructions#Inside reals and metric spaces]]
+![[inculcation-linear-constructions#Inside the reals and metric spaces]]
 
 we move onto [[inculcation-analysis-finite-vector-spaces|finite-dimensional vector spaces]] or just $\R^{n}$.
 
@@ -122,8 +133,13 @@ AKA what I would call *spicy multi-variable calculus in dimension 3!*
 
 ![[inculcation-odes#interpret any general ODE as a vector field and study it visually]]
 
-More on this: [[inculcation-odes]]
 
+
+![[inculcation-odes#much elementary introduction]]
+
+![[inculcation-odes#formal theory of ODEs]]
+
+More on this: [[inculcation-odes]]
 ### probability and information
 
 
@@ -219,7 +235,8 @@ With the language of manifolds/normed vector spaces we can work in geometry, top
 > 
 > You may want to join academic curiosity whatsapp community [here](https://chat.whatsapp.com/CwhtnxvBD0TGBly0yxshRI) for more math content!
 
-- Look here:
+- For more roadmaps:
 	- [The fast track – Sheafification](http://sheafification.com/the-fast-track/)
+	- https://math.ucr.edu/home/baez/books.html
 	- [How to become a GOOD Theoretical Physicist (goodtheorist.science)](https://www.goodtheorist.science/)
 	- http://theportal.wiki/wiki/Read

@@ -43,15 +43,27 @@ We start with logic and set theory, do analysis, algebra, geometry and topology:
 		- smooth manifolds with more structures
 	- out on infinite dim spaces
 
-## Inside reals and metric spaces
+## Inside the reals and metric spaces
 
 
-- #book Tao Analysis volume I, II - this is the best reference for any beginner!
-- #book Apostol - Mathematical Analysis
-- #book Rudin - Principles of Mathematical Analysis (Baby Rudin)
-- #### Analysis in $\R$
-	- Set theoretically construct(!!), starting from $\mathbb{Z}$, $\mathbb{Q}$ and then $\R$
-	- Sequences, limits of sequences
+
+> [!todo] Real analysis task 1
+> We must *set theoretically* construct(!!), starting from $\mathbb{Z}$, $\mathbb{Q}$ and then $\R$.
+
+> [!todo] Real analysis task 2
+> - Define sequences, and the $\epsilon-N$ definition of limits of sequences.
+> - Try to prove that $\frac{1}{n}$ converges to $0$ as $n\to \infty$
+
+- `book` Tao Analysis volume I, II - this is the best reference for any beginner!
+- `book` Apostol - Mathematical Analysis
+- `lectures` [Real Analysis on YouTube – Francis Su](https://math.hmc.edu/su/real-analysis-youtube/)
+	- <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0E754696F72137EC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- `lectures` [Real Analysis by Prof. S.H. Kulkarni, Department of Mathematics, IIT Madras - NPTEL](https://www.youtube.com/playlist?list=PLbMVogVj5nJSxFihV-ec4A3z_FOGPRCo-)
+- `book` Rudin - Principles of Mathematical Analysis (Baby Rudin)
+- `book` [Stein, Shakarchi - Fourier analysis](https://kryakin.site/am2/Stein-Shakarchi-1-Fourier_Analysis.pdf)
+
+---
+
 - #### Metric spaces with the intuition of $\R$
 	- Sequences and series
 	- $\epsilon-\delta$ limits of functions, continuous functions

@@ -21,7 +21,7 @@ Did you ever think an ordinary differential equations book will have this pictur
 
 This is Perko's book [Differential Equations and Dynamical Systems, Third Edition (2006)](http://library.lol/main/B2FA263686F1AAB9F19B2EBA8E12DD04), a good read, if you're familiar with Analysis in $\R^{n}$. Otherwise any physics text on "non-linear dynamics" works, for example Steven Strogatz's Non-linear dynamics lecture videos and book.
 
-### vector fields and ODE dictionary
+## vector fields and ODE dictionary
 
 What we do is, write a differential equation like 
 
@@ -56,7 +56,7 @@ This is a standard *geometric* interpretation.
 
 We may convert ordinary differential equation of *any* order to first order by taking enough independent variables and defining them to be higher derivatives.
 
-### much elementary introduction
+## much elementary introduction
 
 A short introduction with examples from models in population dynamics:
 
@@ -93,9 +93,9 @@ And as I said above, this book has a pre-requisite of some analysis, but still o
 - [Arnold's Ordinary Differential Equations](http://library.lol/main/9C48404C4DC01501F08C25351487916C) is also a good resource.
 - [Gerald Teschl's book on ODEs and dynamical systems](https://www.mat.univie.ac.at/~gerald/ftp/book-ode/index.html) is amazing!
 
-### hard analysis perspective on ODEs
+## hard analysis perspective on ODEs
 
-
+- `book` Hartman - ODEs
 
 ### generalizing ODEs to manifolds: flow of vector fields on smooth manifolds
 
@@ -124,7 +124,7 @@ Use topology in your study of ODEs:
 
 In general, study **smooth Lie group action on smooth manifolds**, whose special case is an $\R$-action - that is a complete vector field.
 
-### complete resource on the study of ODEs
+### more resources on the study of ODEs
 
 This series by Arnold exists:
 
