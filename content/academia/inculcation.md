@@ -25,9 +25,8 @@ This has five major sections
 4. the old discoveries in new light: [[inculcation#new way of looking at things|new way of looking at things]]
 5. epilogue: [[inculcation#starting again?|starting again?]]
 
-## start with the little things and the big things
 
-### little things: groups (group theory, group actions)
+## little things: groups, group actions
 
 >  ==One should start their journey with groups!==
 
@@ -38,13 +37,13 @@ This has five major sections
 - Chapter 1 and 3 from ![[inculcation-math-pedias#Napkin|Napkin]]
 - Artin's Algebra is a good text
 
-### big things: vector spaces (linear algebra)
+## big things: vector spaces (linear algebra
 
 ![[inculcation-linear-algebra#starting out]]
 
 And then for [[inculcation-linear-algebra#a first semester course|a first semester course]].
 
-### things in the middle: analysis
+## things in the middle: analysis
 
 
 - from [[inculcation-math-pedias#Napkin]]
@@ -66,7 +65,7 @@ For "multi-variable calculus" AKA analysis on $\R^{n}$ you can choose to start f
 - **analysis:** [[inculcation-analysis-finite-vector-spaces|Inculcation: Analysis in finite-dimensional vector spaces]], and more in [[inculcation#Linear constructions|Linear constructions]]
 
 
-### mechanics
+## mechanics
 
 If you're into physics, start here:
 
@@ -83,11 +82,11 @@ This is how I started! Its the "non-conventional" route, study major building bl
 
 
 
-## dive into new discoveries
+# dive into new discoveries
 
 The first section had groups, vector spaces and analysis. Now we shall continue and add some geometry, dynamics and physics too!
 
-### continue with algebra
+## continue with algebra
 
 
 - `lectures` [Abstract Algebra by Benedict Gross - YouTube](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3)
@@ -95,26 +94,24 @@ The first section had groups, vector spaces and analysis. Now we shall continue 
 - `book` Algebra Chapter 0
 
 
-### continue real analysis
+## continue with analysis
 
-After
+After [[inculcation-linear-constructions#Inside the reals and metric spaces|the reals and metric spaces]] we move onto [[inculcation-analysis-finite-vector-spaces|finite-dimensional vector spaces]] or just $\R^{n}$:
 
-![[inculcation-linear-constructions#Inside the reals and metric spaces]]
+- (measure theory) [[inculcation-analysis-finite-vector-spaces#measurable functions and their integrals]]
+- (differential forms) [[inculcation-analysis-finite-vector-spaces#differential forms their integration and exterior derivative]]
+- (complex analysis) [[inculcation-analysis-finite-vector-spaces#in complex vector spaces]]
 
-we move onto [[inculcation-analysis-finite-vector-spaces|finite-dimensional vector spaces]] or just $\R^{n}$.
+## differential geometry of curves and surfaces
 
+AKA what I would call "*spicy multi-variable calculus in dimension 3"*!
 
-
-### differential geometry of curves and surfaces
-
-AKA what I would call *spicy multi-variable calculus in dimension 3!*
-
-
+- `book` do Carmo - Differential geometry of curves and surfaces
 - `lectures` [ICTP Diploma - Differential Geometry - Claudio Arezzo - YouTube](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz) 
-	- These lectures has pre-requisites of basic linear algebra, analysis in $\mathbb{R}^{n}$"  knowing total derivatives and bilinear forms with introducing yourself a little *topology* (compactness, connectedness)
-- `book` do Carmo - Differential geometry of curves and surfaces 
+	- These lectures has pre-requisites of basic linear algebra, analysis in $\mathbb{R}^{n}$"  knowing total derivatives and bilinear forms with introducing yourself a little *topology* (compactness, connectedness).
+	- Does a bit of [[inculcation-smooth-manifolds|manifolds]] at the end!
 
-### *cute* topology
+## start some *cute* topology
 
 - [Topology & Geometry by Dr Tadashi Tokieda - YouTube](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
 - Knot theory
@@ -129,7 +126,7 @@ AKA what I would call *spicy multi-variable calculus in dimension 3!*
 	- [The derivative isn't what you think it is. - YouTube](https://www.youtube.com/watch?v=2ptFnIj71SM)
 
 
-### dynamical systems and ODEs
+## dynamical systems and ODEs
 
 ![[inculcation-odes#interpret any general ODE as a vector field and study it visually]]
 
@@ -140,14 +137,14 @@ AKA what I would call *spicy multi-variable calculus in dimension 3!*
 ![[inculcation-odes#formal theory of ODEs]]
 
 More on this: [[inculcation-odes]]
-### probability and information
+## probability and information
 
 
 Well, I have no idea yet!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v68zYyaEmEA?si=jHpmEwYRdWKGO01Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### *handwavey* physics
+## continue with *handwavey* physics
 
 Be warned:
 
@@ -177,11 +174,11 @@ but start with [[inculcation-all-of-mechanics]]
 
 --->
 
-## Linear constructions
+# Linear constructions
 
 ![[inculcation-linear-constructions#starting out]]
 
-## new way of looking at things
+# new way of looking at things
 
 With the language of manifolds/normed vector spaces we can work in geometry, topology and physics properly!
 
@@ -203,18 +200,17 @@ With the language of manifolds/normed vector spaces we can work in geometry, top
 - PDEs
 	- [Partial Differential Equations - Giovanni Bellettini - Lecture 01 - YouTube](https://www.youtube.com/watch?v=Rq1iRT2LL-8)
 	- `talk` [Mathematics of Turbulent Flows: A Million Dollar Problem! by Edriss S Titi - YouTube](https://www.youtube.com/watch?v=VH4oawCiHPU)
-- algebra
+- algebra, representation theory, algebraic geometry
 	- [[inculcation-groups]], finite groups, Lie groups, their representations
 - mechanics
 	- [[inculcation-all-of-mechanics#Mechanics of points done properly]]
 	- QM and quantum theories [[inculcation-all-of-mechanics#quantization of the mechanics of points]]
 	- Thermodynamic systems and contact geometry
 	- `lecturenotes` Use measure theory to do [Classical Equilibrium Statistical Mechanics](https://warwick.ac.uk/fac/sci/maths/people/staff/stefan_adams/lecturenotestvi/cdias-adams-30.pdf)
-- Probability, information theory, information geometry
+- probability, information theory, information geometry
 - number theory
-- algebraic geometry
 
-## starting again?
+# starting again?
 
 - `lectures` [MathHistory: A course in the History of Mathematics](https://www.youtube.com/playlist?list=PL55C7C83781CF4316) (although be aware, the instructor doesn't believe that $\R$ exists)
 

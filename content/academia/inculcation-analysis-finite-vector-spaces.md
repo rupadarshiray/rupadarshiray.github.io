@@ -124,7 +124,10 @@ This for example leads to **closed** differential forms of the form $$ f(z) \mat
 
 This starts the study of *complex analysis* (well, if we consider complex analytic $f$ :).
 
+<!--
 ## next: generalize!
 
 
 ![[inculcation-linear-constructions#^bggpgh]]
+
+-->
