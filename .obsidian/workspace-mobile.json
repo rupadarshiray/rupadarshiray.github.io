@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/inculcation-linear-algebra.md",
+                "file": "content/academia/inculcation-groups.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "inculcation-linear-algebra"
+              "title": "inculcation-groups"
             }
           }
         ]
@@ -108,7 +108,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "e036814d1f00b6d6",
@@ -153,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/academia/inculcation-linear-algebra.md",
+            "file": "content/academia/inculcation-groups.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -181,9 +181,9 @@
   "active": "78475e96f57ea5d7",
   "lastOpenFiles": [
     "content/academia/inculcation.md",
+    "content/academia/inculcation-linear-algebra.md",
     "content/academia/inculcation-smooth-manifolds.md",
     "content/academia/inculcation-linear-constructions.md",
-    "content/academia/inculcation-linear-algebra.md",
     "/content/academia/inculcation.md",
     "/content/academia/inculcation-odes.md",
     "/content/academia/inculcation-linear-constructions.md",
