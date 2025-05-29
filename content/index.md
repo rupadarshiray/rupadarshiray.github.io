@@ -8,7 +8,9 @@ Hello!
 
 This is an _academic curation_ and _journaling_ by me, Rupadarshi Ray, a Mathematics major at IISER Mohali. This is where I document my experience and experiments with mathematics and theoretical sciences.
 
-![[about-me|about me here]].
+You may know more [[about-me|about me here]].
+
+
 ![[now]]
 
 
