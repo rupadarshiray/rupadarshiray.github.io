@@ -35,8 +35,8 @@ This has five major sections
 
 - [Essence of Group Theory - YouTube](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
 - Chapter 1 and 3 from ![[inculcation-math-pedias#Napkin|Napkin]]
-- Artin's Algebra is a good text
 
+More into [[inculcation#continue with algebra|doing more algebra]]
 ## big things: vector spaces (linear algebra
 
 ![[inculcation-linear-algebra#starting out]]
@@ -91,7 +91,23 @@ The first section had groups, vector spaces and analysis. Now we shall continue 
 
 - `lectures` [Abstract Algebra by Benedict Gross - YouTube](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3)
 - `book` Artin - Algebra
-- `book` Algebra Chapter 0
+
+So essentially what this should entail is more group theory, rings, and modules over them. A good way to bring all of these together is [[inculcation-groups#representation theory of finite groups]]
+
+
+- `book` Algebra Chapter 0 is a fat book that mixes in ideas of category theory while doing algebra
+
+---
+
+- Discover the field of *algebraic geometry* while doing the last few chapters of Artin. Follow the `book` [Harris - First course in Algebraic geometry ](https://books.google.co.in/books/about/Algebraic_Geometry.html?id=U-UlBQAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=0&gboemv=1&ovdme=1&redir_esc=y#v=onepage&q&f=false) for more.
+- You'll quickly realise a lot of *rings and commutative algebra* is needed for this. Take help of an algebraist / algebraic geometer near you to continue further!
+
+---
+
+Another subject is Galois theory which is broadly missing from Artin. Try this fat book:
+
+- `book` Dummit and Foote - Algebra
+
 
 
 ## continue with analysis
@@ -108,7 +124,7 @@ AKA what I would call "*spicy multi-variable calculus in dimension 3"*!
 
 - `book` do Carmo - Differential geometry of curves and surfaces
 - `lectures` [ICTP Diploma - Differential Geometry - Claudio Arezzo - YouTube](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz) 
-	- These lectures has pre-requisites of basic linear algebra, analysis in $\mathbb{R}^{n}$"  knowing total derivatives and bilinear forms with introducing yourself a little *topology* (compactness, connectedness).
+	- These lectures has pre-requisites of basic linear algebra, analysis in $\mathbb{R}^{n}$, knowing total derivatives and bilinear forms with introducing yourself a little *topology* (compactness, connectedness).
 	- Does a bit of [[inculcation-smooth-manifolds|manifolds]] at the end!
 
 ## start some *cute* topology
@@ -186,7 +202,7 @@ With the language of manifolds/normed vector spaces we can work in geometry, top
 	- Riemannian geometry, semi-Riemannian geometry, GR
 	- Hamiltonian systems and [[inculcation-symplectic-geometry|symplectic geometry]]
 - topology and algebraic topology
-- Differential topology, or algebriac topology with a differential viewpoint
+- Differential topology, or algebraic topology with a differential viewpoint
 - dynamics
 	- [[inculcation-odes|ODEs - smooth dynamical systems]]
 	- [[inculcation-dynamics]]

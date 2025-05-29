@@ -1,7 +1,8 @@
 {
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "visible",
   "readableLineLength": false,
   "promptDelete": false,
   "trashOption": "local",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest"
 }

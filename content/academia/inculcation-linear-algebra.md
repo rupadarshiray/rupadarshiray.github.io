@@ -15,9 +15,10 @@ aliases:
 
 ## starting out
 
-> [!tip] Philosophy of linear algebra I - finding happiness in small things
-> - we see with just the little definition of a vector space, we can have things like  **writing any vector as a unique linear combination of a smaller set**
-> - if you want more things, we can have more things! (oriented vector space, inner product spaces, normed vector spaces, etc.)
+> [!tip] Philosophy of linear algebra I - finding happiness in small things (mathematical minimalism)
+> - We see with just the "little" definition of a vector space, we can have things like  **writing any vector as a unique linear combination of finitely many vectors from a smaller subset of the entire space**.
+> - This much of *structure* is enough to ask a lot of questions and a solve a whole lot of problems!
+> - If you want more things, we can have more things! (oriented vector space, inner product spaces, normed vector spaces, etc.).
 
 > [!note] pre-first semester course essense
 > Start with 3b1b:
@@ -30,9 +31,14 @@ aliases:
 > 
 
 
-> [!tip] Philosophy of linear algebra II - giving lore being objects
-> - origin story of matrices: they were actually "linear maps" all along!
-> - origin story of tensors: they are actually multi-linear maps!
+> [!tip] Philosophy of linear algebra II - giving lore behind objects
+> - *origin story of matrices*: they were actually "linear maps" all along!
+> 	- As in every matrix gives a linear map between the vector spaces $k^n \to k^m$.
+> 	- Now try learning how to write a matrix for a given linear map between aribtrary vector spaces $V \to W$
+> 	- Rotations are linear maps! Trace is a linear map! Transposition of matrices is a linear map! Try writing all of them as matrices (if they are not defined as matrices anyways)
+> 	- What about derivatives tho? They are linear maps too? Can we write them as a matrix?
+> - *origin story of tensors*: they are actually multi-linear maps!
+> 	- Maybe wait a while to start with tensors, but keep this idea in the back of your mind: tensors are multi-linear maps in a proper sense.
 
 ## a first semester course
 
@@ -42,7 +48,7 @@ aliases:
 > 	- [YouTube lectures](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
 > - #lectures [Linear Algebra by Dr. K.C. Sivakumar](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7)
 > - Chapters 9-15 from [A Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf)
-> - majorly they cover upto canonical forms, spectral theorem
+> - mostly they cover upto canonical forms, spectral theorem
 
 > [!tip] Philosophy of linear algebra III - what is a vector?
 > - a vector is an element of a **vector space**. no more no less. so you can add them and scale them. but they *belong* somewhere. closure of their operations is also just as important as the operations themselves.
@@ -50,10 +56,10 @@ aliases:
 > 	- if we wanna change the basis, the pov (coordinate) changes
 > 	- but that's just how we look at things! doesn't really effect the "sacred space"
 > 	- this also implies that the transformation of the pov (coordinates) must follow certain rule (must be linear transformations) that **preserve the structure of the space**
-> 		- because if we can add vectors, then the **addition of two vector is sacred**, they must not depend on the pov
+> 	- because if we can add vectors, then the **addition of two vector is sacred**, they must not depend on the pov
 > - if you want more characteristic to a vector, like length (or angles) between vectors, then you say the vector is an element of a normed vector space (or an inner product space)
 > 	- again the change of pov must follow certain rule that **preserve the structure of the space**
-> 		- because if we can measure lengths of vectors, then the **lengths are sacred too**, they must not depend on the pov
+> 	- because if we can measure lengths of vectors, then the **lengths are sacred too**, they must not depend on the pov
 > - this philosophy is opposite to "a vector(or tensor) is a specified tuple of numbers that follows some given transformation rule" which definite works~
 
 ---
@@ -64,14 +70,14 @@ Need help proving stuff? Try following the arrows to prove equivalent conditions
 
 
 > [!tip] Philosophy of linear algebra IV - thinking objects as part of a whole/constructing the whole first
-> - the set of all linear maps from $V$ to $W$ (written as $\mathsf{Hom}(V,W$ ) *is made into a vector space* (as a subspace of the set of all functions between them, which is also a vector space)!
+> - the set of all linear maps from $V$ to $W$ (written as $\mathsf{Hom}(V,W$ ) *is made into a vector space* (as a subspace of the set of all functions $V \to W$ which is also a vector space)!
 > - **anything is possible** (if it is constructable, and most things are)
 
 
 
 ## after a first semester course
 
-- Don't fall into traps like "geometric algebra".
+- Don't fall into traps like "geometric algebra", it's crap
 - Tensor, symmetric and exterior algebra of a vector space
 
 

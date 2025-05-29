@@ -21,7 +21,10 @@ There are different levels to study representation theory of finite groups:
 		- Try to prove that if the field is $\mathbb{C}$ (or any algebraically closed field) $A$ must be diagonalizable.
 		- Find what the eigenvalues of $A$ may be if the field is $\C$.
 	-  ![[inculcation-linear-algebra#representation theory is just spicy linear algebra]]
-- **after doing finite groups and linear algebra** it is easy to study representation theory of finite groups any text like Artin or Fulton Harris or Dummit and Foote covers all the introductory theory
+- **after doing finite groups and linear algebra** it is easy to study representation theory of finite groups any text like 
+	- `book` Artin
+	- `book` Fulton Harris
+	- `book` Dummit and Foote covers all the introductory theory
 - **after doing rings and modules** the same theory hits different, rephrase everything about representations of a group $G$ with its group algebra $\mathbb{C}[G]$
 - **after doing commutative algebra**, I *feel* it will give another vibe
 
