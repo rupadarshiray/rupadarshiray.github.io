@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/inculcation-smooth-manifolds.md",
+                "file": "content/academia/inculcation-linear-algebra.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "inculcation-smooth-manifolds"
+              "title": "inculcation-linear-algebra"
             }
           }
         ]
@@ -153,7 +153,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "content/academia/academia.md"
+            "file": "content/academia/inculcation-linear-algebra.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -177,9 +180,10 @@
   },
   "active": "78475e96f57ea5d7",
   "lastOpenFiles": [
+    "content/academia/inculcation.md",
+    "content/academia/inculcation-smooth-manifolds.md",
     "content/academia/inculcation-linear-constructions.md",
     "content/academia/inculcation-linear-algebra.md",
-    "content/academia/inculcation.md",
     "/content/academia/inculcation.md",
     "/content/academia/inculcation-odes.md",
     "/content/academia/inculcation-linear-constructions.md",
@@ -204,7 +208,6 @@
     "management/what-is-obsidian.md",
     "management/obsidian-metadata-and-query.md",
     "management/folders-in-obsidian.md",
-    "management/academic-workstation.md",
     "/management",
     "/content/workstation",
     "/content/about",

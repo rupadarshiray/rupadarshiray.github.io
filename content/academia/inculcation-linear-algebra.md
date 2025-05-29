@@ -15,9 +15,10 @@ aliases:
 
 ## starting out
 
-> [!tip] Philosophy of linear algebra I - finding happiness in small things
-> - we see with just the little definition of a vector space, we can have things like  **writing any vector as a unique linear combination of a smaller set**
-> - if you want more things, we can have more things! (oriented vector space, inner product spaces, normed vector spaces, etc.)
+> [!tip] Philosophy of linear algebra I - finding happiness in small things (mathematical minimalism)
+> - We see with just the "little" definition of a vector space, we can have things like  **writing any vector as a unique linear combination of finitely many vectors from a smaller subset of the entire space**.
+> - This much of *structure* is enough to ask a lot of questions and a solve a whole lot of problems!
+> - If you want more things, we can have more things! (oriented vector space, inner product spaces, normed vector spaces, etc.).
 
 > [!note] pre-first semester course essense
 > Start with 3b1b:
@@ -30,9 +31,14 @@ aliases:
 > 
 
 
-> [!tip] Philosophy of linear algebra II - giving lore being objects
-> - origin story of matrices: they were actually "linear maps" all along!
-> - origin story of tensors: they are actually multi-linear maps!
+> [!tip] Philosophy of linear algebra II - giving lore behind objects
+> - *origin story of matrices*: they were actually "linear maps" all along!
+> 	- As in every matrix gives a linear map between the vector spaces $k^n \to k^m$.
+> 	- Now try learning how to write a matrix for a given linear map between aribtrary vector spaces $V \to W$
+> 	- Rotations are linear maps! Trace is a linear map! Transposition of matrices is a linear map! Try writing all of them as matrices (if they are not defined as matrices anyways)
+> 	- What about derivatives tho? They are linear maps too? Can we write them as a matrix?
+> - *origin story of tensors*: they are actually multi-linear maps!
+> 	- Maybe wait a while to start with tensors, but keep this idea in the back of your mind: tensors are multi-linear maps in a proper sense.
 
 ## a first semester course
 
@@ -64,14 +70,14 @@ Need help proving stuff? Try following the arrows to prove equivalent conditions
 
 
 > [!tip] Philosophy of linear algebra IV - thinking objects as part of a whole/constructing the whole first
-> - the set of all linear maps from $V$ to $W$ (written as $\mathsf{Hom}(V,W$ ) *is made into a vector space* (as a subspace of the set of all functions between them, which is also a vector space)!
+> - the set of all linear maps from $V$ to $W$ (written as $\mathsf{Hom}(V,W$ ) *is made into a vector space* (as a subspace of the set of all functions $V \to W$ which is also a vector space)!
 > - **anything is possible** (if it is constructable, and most things are)
 
 
 
 ## after a first semester course
 
-- Don't fall into traps like "geometric algebra".
+- Don't fall into traps like "geometric algebra", it's crap
 - Tensor, symmetric and exterior algebra of a vector space
 
 
