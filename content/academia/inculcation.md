@@ -30,11 +30,9 @@ This has five major sections
 
 >  ==One should start their journey with groups!==
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mH0oCDa74tE?si=Kk1xTVuDkV2Ap7Ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/mH0oCDa74tE?si=Kk1xTVuDkV2Ap7Ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 - [Essence of Group Theory - YouTube](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
-- Chapter 1 and 3 from ![[inculcation-math-pedias#Napkin|Napkin]]
+- Chapter 1 and 3 from [[inculcation-math-pedias#Napkin|Napkin]]
 
 More into [[inculcation#continue with algebra|doing more algebra]]
 ## big things: vector spaces (linear algebra
@@ -44,14 +42,6 @@ More into [[inculcation#continue with algebra|doing more algebra]]
 And then for [[inculcation-linear-algebra#a first semester course|a first semester course]].
 
 ## things in the middle: analysis
-
-
-- from [[inculcation-math-pedias#Napkin]]
-	- Chapters 26-30 - Calculus 101
-	- Chapters 42-45 - Total derivatives and differential forms
-	- Chapters 2, 6-8 - Topology
-
----
 
 
 ![[inculcation-linear-constructions#Inside the reals and metric spaces|Inside reals and metric spaces]]
@@ -64,6 +54,12 @@ For "multi-variable calculus" AKA analysis on $\R^{n}$ you can choose to start f
 - **calculus:** [[shifrin-multivariable-mathematics]] - a 2 semester course/book that covers linear algebra and (nice) multivariable calculus
 - **analysis:** [[inculcation-analysis-finite-vector-spaces|Inculcation: Analysis in finite-dimensional vector spaces]], and more in [[inculcation#Linear constructions|Linear constructions]]
 
+
+All these translates to the following from [[inculcation-math-pedias#Napkin]]
+
+- Chapters 26-30 - Calculus 101
+- Chapters 42-45 - Total derivatives and differential forms
+- Chapters 2, 6-8 - Topology
 
 ## mechanics
 
@@ -95,7 +91,7 @@ The first section had groups, vector spaces and analysis. Now we shall continue 
 So essentially what this should entail is more group theory, rings, and modules over them. A good way to bring all of these together is [[inculcation-groups#representation theory of finite groups]]
 
 
-- `book` Algebra Chapter 0 is a fat book that mixes in ideas of category theory while doing algebra
+- `book` Algebra Chapter 0 is a *fat* book that mixes in ideas of category theory while doing algebra
 
 ---
 
@@ -190,6 +186,13 @@ but start with [[inculcation-all-of-mechanics]]
 
 --->
 
+## want to discover more?
+
+Try
+
+![[inculcation-math-pedias#The Princeton Companion to Mathematics]]
+
+
 # Linear constructions
 
 ![[inculcation-linear-constructions#starting out]]
@@ -198,26 +201,31 @@ but start with [[inculcation-all-of-mechanics]]
 
 With the language of manifolds/normed vector spaces we can work in geometry, topology and physics properly!
 
-- geometry
-	- Riemannian geometry, semi-Riemannian geometry, GR
+- (real) differential geometry
+	- Riemannian geometry, semi-Riemannian geometry
 	- Hamiltonian systems and [[inculcation-symplectic-geometry|symplectic geometry]]
-- topology and algebraic topology
-- Differential topology, or algebraic topology with a differential viewpoint
-- dynamics
-	- [[inculcation-odes|ODEs - smooth dynamical systems]]
-	- [[inculcation-dynamics]]
-	- Ergodic theory, dynamical systems in measure spaces
-	- [[inculcation-geodesic-flows]]
+	- global analysis
 - analysis
 	- Fourier, Harmonic analysis
 	- geometric analysis, spectral analysis
-	- global analysis
 	- microlocal analysis
+- topology and algebraic topology
+	- knot theory
+- Differential topology, or *algebraic topology with a differential viewpoint*
+- geometric topology
+- theory of Riemann surfaces: complex analysis $\times$ topology $\times$ algebra
+- algebra, representation theory, algebraic geometry
+	- [[inculcation-groups]], finite groups, Lie groups, their representations
+- complex differential geometry, complex algebraic geometry
+- dynamics
+	- [[inculcation-odes]] - smooth dynamical systems
+	- [[inculcation-dynamics]]
+	- Ergodic theory, dynamical systems in measure spaces
+	- [[inculcation-geodesic-flows]]
+- Lie group theory, geometric group theory
 - PDEs
 	- [Partial Differential Equations - Giovanni Bellettini - Lecture 01 - YouTube](https://www.youtube.com/watch?v=Rq1iRT2LL-8)
 	- `talk` [Mathematics of Turbulent Flows: A Million Dollar Problem! by Edriss S Titi - YouTube](https://www.youtube.com/watch?v=VH4oawCiHPU)
-- algebra, representation theory, algebraic geometry
-	- [[inculcation-groups]], finite groups, Lie groups, their representations
 - mechanics
 	- [[inculcation-all-of-mechanics#Mechanics of points done properly]]
 	- QM and quantum theories [[inculcation-all-of-mechanics#quantization of the mechanics of points]]
