@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "eebd29792380ab6d",
+        "id": "d19059e6d1c6d9a0",
         "type": "tabs",
         "children": [
           {
-            "id": "335f6b59f5da56c0",
+            "id": "0a61264fdce2187c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/academia/what-is-and-is-not-topological.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "what-is-and-is-not-topological"
             }
           }
         ]
@@ -168,10 +182,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "335f6b59f5da56c0",
+  "active": "0a61264fdce2187c",
   "lastOpenFiles": [
-    "content/academia/inculcation.md",
     "content/academia/inculcation-linear-constructions.md",
+    "content/academia/inculcation.md",
     "content/academia/the-corresp-between-cm-and-qm.md",
     "content/academia/things-i-have-said-in-a-math-class.md",
     "content/academia/what-is-and-is-not-topological.md",
