@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2cdef50b87b22aad",
+        "id": "eebd29792380ab6d",
         "type": "tabs",
         "children": [
           {
-            "id": "2b99e98ebe062afe",
+            "id": "335f6b59f5da56c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/academia/inculcation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "inculcation"
+              "title": "New tab"
             }
           }
         ]
@@ -182,7 +168,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2b99e98ebe062afe",
+  "active": "335f6b59f5da56c0",
   "lastOpenFiles": [
     "content/academia/inculcation.md",
     "content/academia/inculcation-linear-constructions.md",
