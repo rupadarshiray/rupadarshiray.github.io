@@ -13,6 +13,4 @@ aliases:
 >- an introduction to a lots of fields of math! (NOT a textbook but a really nice introductory reference)
 >- starts with groups and metric spaces! 
 
-## The Princeton Companion to Mathematics
-
-https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf
+## 
