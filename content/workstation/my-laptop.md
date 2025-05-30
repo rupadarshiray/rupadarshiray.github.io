@@ -6,7 +6,7 @@ title: 'My laptop'
 aliases: '' 
 ---
 
-I have a **ASUS Zenbook 14 OLED UX3402VA-KM541WS** 
+I have an **ASUS Zenbook 14 OLED UX3402VA-KM541WS** 
 
 ![](https://dlcdnwebimgs.asus.com/gain/dffe050d-6fda-49c0-aee9-64ef5cd84668/)
 
