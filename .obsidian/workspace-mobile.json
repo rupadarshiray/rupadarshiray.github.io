@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "20f7b9b1f9fdeca9",
+    "type": "split",
+    "children": [
+      {
+        "id": "33f73beb373df064",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78475e96f57ea5d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/academia/inculcation-groups.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "inculcation-groups"
+            }
+          },
+          {
+            "id": "1a2b3208518c9f5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6f9317f3a2b0cd0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "de53ef441dc4e91e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "64357a5ae7ccc41c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:Inculcation",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "8126d706632c0b72",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "7a92982e0a832b37",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "0f265e6cebf575b0",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e036814d1f00b6d6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "65743217dbaa6140",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "content/academia/inculcation-odes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "412b498df86540b7",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "content/workstation/constructing-a-mathematics-wiki.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "ebe13f334fe5c62b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "content/academia/inculcation.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "1a2b3208518c9f5a",
+  "lastOpenFiles": [
+    "content/academia/academia.md",
+    "content/academia/inculcation.md",
+    "conflict-files-obsidian-git.md",
+    "/conflict-files-obsidian-git.md",
+    "content/academia/inculcation-groups.md",
+    "content/academia/inculcation-linear-algebra.md",
+    "content/academia/inculcation-smooth-manifolds.md",
+    "content/academia/inculcation-linear-constructions.md",
+    "/content/academia/inculcation.md",
+    "/content/academia/inculcation-odes.md",
+    "/content/academia/inculcation-linear-constructions.md",
+    "/content/academia/inculcation-groups.md",
+    "/content/academia/inculcation-analysis-finite-vector-spaces.md",
+    "/content/academia/inculcation-all-of-mechanics.md",
+    "/content/academia",
+    "/content",
+    "content/academia/inculcation-math-pedias.md",
+    "/content/academia/shifrin-multivariable-mathematics.md",
+    "/content/academia/inculcation-smooth-manifolds.md",
+    "/content/academia/inculcation-math-pedias.md",
+    "/content/academia/inculcation-linear-algebra.md",
+    "content/academia/inculcation-all-of-mechanics.md",
+    "content/academia/inculcation-geodesic-flows.md",
+    "content/index.md",
+    "content/about/now.md",
+    "content/about/about-me.md",
+    "content/workstation/obsidian-and-latex.md",
+    "content/workstation/constructing-a-mathematics-wiki.md",
+    "/management",
+    "/content/workstation",
+    "/content/about",
+    "/quartz/styles/custom.scss",
+    "management"
+  ]
+}

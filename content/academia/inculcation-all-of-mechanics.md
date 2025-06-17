@@ -26,7 +26,7 @@ Before doing anything, just watch this:
 
 > [!important] After that watch these lectures covering *Newtonian, Lagrangian, Hamiltonian, Statistical mechanics, special relativity* all at once!
 > 
-> <iframe src="https://www.youtube.com/embed/videoseries?list=PL5E4E56893588CBA8" style=" top:0; left:0; width:550px; border:none;  height:500px;" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+> <iframe src="https://www.youtube.com/embed/videoseries?list=PL5E4E56893588CBA8" style=" top:0; left:0; width:80%; border:none;  height:500px;" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 > 
 > - These are nice as an intro "proper" physics, they will look fascinating, but my recommended levels of motivation and precision is absent. These are "Feynman lectures done right". One may watch his non-linear dynamics and quantum mechanics lectures right after this.
 > - But nothing is explained rigorously, although hinted at, lots of details are skipped and Balki name drops a LOT of stuff. You may choose to ignore them initially, because each term becomes a rabbit hole for math topics.
@@ -36,6 +36,7 @@ Before doing anything, just watch this:
 
 > [!important] Balakrishnan's quantum physics
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=6JKljRVWEioPWlTx&amp;list=PL0F530F3BAF8C6FCC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
+
 ^3fyeee
 
 
