@@ -30,7 +30,7 @@ Possible references for topics in Riemann surfaces:
 - Books on Riemann surfaces by (Narasimhan may be too daunting)
 	- Forster
 	- Miranda
-	- Wilhelm Schlag
+	- [Wilhelm Schlag](https://gauss.math.yale.edu/~ws442/complex.pdf)
 	- Donaldson
 	- Renzo Cavalieri, Eric Miles (Hurwitz theory)
 	- ...a hundred more books and notes available online
