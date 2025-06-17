@@ -6,7 +6,7 @@ aliases:
 title: Summer 2025 seminar course on Riemann surfaces (and beyond)
 ---
 
-A seminar on *Riemann surfaces* by Prof Kapil Hari is organized during the summer. Details follow.
+A seminar on *Riemann surfaces* by Prof Kapil Hari is organized at IISER Mohali during the summer of 2025. Details follow.
 
 (Possible) pre-requisites:
 
