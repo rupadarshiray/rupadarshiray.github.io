@@ -11,14 +11,14 @@ A seminar on *Riemann surfaces* by Prof Kapil Hari is organized during the summe
 (Possible) pre-requisites:
 
 - Open mapping theorem in complex analysis
-- Definition of Riemann surfaces and understanding that one smooth 2-manifold may have multiple Riemann surface structures (such as $\C$ is not biholomorphic to $D$, different complex tori, etc)
-- (Etale space) definition of Riemann surface of a global holomorphic function (in _Ahlfors_)
+- Definition of Riemann surfaces and understanding that one smooth 2-manifold may have multiple Riemann surface structures (such as $\mathbb{C}$ is not biholomorphic to $D$, different complex tori, etc)
 - History of Jacobi and Abelian integrals
 
 Tentative plan: 
 
 - *June to July*: Essentially some topics from chapters 4 to 15 from _Narasimhan - Compact Riemann Surfaces_
 	- sheaves
+	- (Etale space) definition of Riemann surface of a global holomorphic function (in _Ahlfors_)
 	- Riemann surfaces of algebraic functions
 	- Riemann-Roch theorem
 	- The Jacobian of a Riemann surface and Abel's theorem
