@@ -11,7 +11,7 @@ A seminar on *Riemann surfaces* by Prof Kapil Hari is organized at IISER Mohali 
 (Possible) pre-requisites:
 
 - Open mapping theorem in complex analysis
-- Definition of Riemann surfaces and understanding that one smooth 2-manifold may have multiple Riemann surface structures (such as $\mathbb{C}$ is not biholomorphic to $D$, different complex tori, etc)
+- Definition of Riemann surfaces and understanding that one smooth 2-manifold may have multiple Riemann surface structures (such as $\mathbb{C}$ is not biholomorphic to $D$, *different* complex tori, etc)
 - History of Jacobi and Abelian integrals
 
 Tentative plan: 
