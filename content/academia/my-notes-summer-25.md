@@ -1,4 +1,4 @@
----
+****---
 created: 2025-06-19T23:09:00
 modified: 2025-06-19T23:09:00
 tags:
@@ -10,10 +10,10 @@ aliases:
 
 ## notebooks
 
-- *red* (manifolds)
-- *complex geometry I: complex 1-manifolds* and a short link https://dub.sh/riemann
-- *blue* (GGD)
-- *green* (CG/AG, integrable systems)
+- the *red* notebook (manifolds)
+- the notebook on *complex geometry I: complex 1-manifolds* in the short link https://dub.sh/riemann
+- the *blue* notebook (GGD)
+- the *green* notebook (CG/AG, integrable systems)
 
 ## topics
 

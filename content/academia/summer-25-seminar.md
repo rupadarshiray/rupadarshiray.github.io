@@ -27,7 +27,7 @@ The notes for the topics discussed will be kept here: https://dub.sh/riemann
 	- Riemann-Roch theorem
 	- The Jacobian of a Riemann surface and Abel's theorem
 	- [Torelli theorem - Wikipedia](https://en.wikipedia.org/wiki/Torelli_theorem)
-*August to November*: The previous plan was to follow *Ramanan's global analysis* but we shall consider the interests of the participants.
+- *August to November*: The previous plan was to follow *Ramanan's global analysis* but we shall consider the interests of the participants.
 
 ## references
 
