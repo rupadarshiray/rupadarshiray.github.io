@@ -32,6 +32,7 @@ AKA "*measure theory*".
 
 ## differential forms, their integration and exterior derivative
 
+#### motivation
 
 We look at the (familiar) structure of
 
@@ -65,7 +66,7 @@ in any dimension.
 But what are these $$ \mathrm{d}x_{i} $$
 mean?
 
----
+#### integration
 
 Integrating differential forms on chains (generalizing line, surface, volume integrals) is very simple $$\int \omega $$
 
@@ -74,7 +75,7 @@ Here we have the fundamental theorem of calculus but generalized:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1lGM5DEdMaw?si=NbdykTqGLyJzPNTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
----
+#### cohomology
 
 
  The de Rham complex $$ \Omega^{k} \xrightarrow{\mathrm{d}{}} \Omega^{k+1} $$
