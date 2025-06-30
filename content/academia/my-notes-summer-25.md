@@ -10,11 +10,11 @@ aliases:
 
 ## notebooks
 
-- the *red* notebook (manifolds)
+- the *blue* notebook on *geometry, groups and dynamics* is [available here](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://rupadarshiray.github.io/academicmatters/notes/2502%20geometry%20and%20analysis.GGD.pdf)
+	- a subset of the blue notebook consisting of the notes on the *Summer School on Rigidity of Discrete Groups, June 30 – July 4, 2025 at IISER Mohali* is at https://dub.sh/rigidity
 - the notebook on *complex geometry I: complex 1-manifolds* is available in the short link https://dub.sh/riemann
 - the *white* notebook (analysis)
-- the *blue* notebook (GGD) is [available here](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://rupadarshiray.github.io/academicmatters/notes/2502%20geometry%20and%20analysis.GGD.pdf)
 - the *green* notebook (CG/AG, integrable systems)
-
+- the *epilogue*
 ## topics
 
