@@ -48,11 +48,9 @@ The notes look like
 A few highlights are as follows:
 
 - Plain-text is just better. More about it here: [Why Plaintext for Notes? | Plaintext Productivity](https://plaintext-productivity.net/2-01-why-plaintext-for-notes.html)
-- LaTeX preambles, snippets, conceal, etc. are available from community plugins.
-	- ![](https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/gifs/demo.gif)
-	- Even full-on LaTeX code (like TikZ) diagrams can be rendered inside obsidian using plugins.
-- *Embedding* notes and pieces of notes is a superpower!
-	- Rather than using definition/theorem numbers, the notes look like: <br> ![|700](https://i.imgur.com/EpR95Ap.png)
+- LaTeX preambles, snippets, conceal, etc. are available from community plugins. <br> ![](https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/gifs/demo.gif)
+- Even full-on LaTeX code (like TikZ) diagrams can be rendered inside obsidian using plugins. <br> [![Screenshot-2025-07-07-004327.png](https://i.postimg.cc/XJ6DtfNw/Screenshot-2025-07-07-004327.png)](https://postimg.cc/7CXV2T26)
+- *Embedding* notes and pieces of notes is a superpower! Rather than using definition/theorem numbers, the notes look like: <br> ![|700](https://i.imgur.com/EpR95Ap.png)
 - Using a very Sympy script one can do calculations on Obsidian (completely offline): https://imgur.com/a/sympy-script-on-obsidian-B6YHR4d
 - Dataview queries can help create a dynamic table of lecture note details, anything you want to display.
 	- Here I made a list of lecture notes: <br>  ![|550](https://i.imgur.com/o4AdbO1.png)
