@@ -88,18 +88,12 @@ One should make notes and build the wiki in such a manner that choice easily bec
 [Dendron](https://dendron.so) has a hierarchy-first approach which is why it contains the best features to be implementing the wiki on. It can be implemented with a combination of Obsidian and Dendron.
 
 ## file naming convention
-I prefer the simple `parent.child.grandchild.great-gandchild` style of "."-separated namespace hierarchies.
 
+I prefer the simple `parent.child.grandchild.great-gandchild` style of "."-separated namespace hierarchies.
 
 # Further developments
 - Building the hierarchies for various disciplines and fields of study: [Hierarchical bases](academic-curation.workstation.wiki.hierarchical-bases)
 
-# Testing of power
-
-**TO BE YET TESTED BY ME ;)**
-
-- *test if this wiki can help to generate new ideas (whatever that means?!)*
-- test if the notes can surprise the author thyself
 
 # Resources
 The philosophies can be further investigated in:

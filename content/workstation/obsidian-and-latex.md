@@ -8,8 +8,8 @@ aliases: ''
 
 There are two broad use-cases:
 
-- taking notes
-- writing *formal* longform documents
+- taking notes: both short term (lecture notes, book notes) and *long-term*
+- writing *formal* documents
 
 and we have these pieces of tools/applications to choose from:
 
@@ -29,7 +29,6 @@ In summary, we choose to implement our use-cases in the following manner:
 
 ## for notetaking
 
-
 ### Why use Obsidian
 
 Rather than explaining my setup, I have mimicked it entirely here: [Bilinear-vault](https://github.com/rupadarshiray/Bilinear-vault). You just need to download it (as a zip, say, then extract the files) and open the folder through Obsidian. 
@@ -42,16 +41,17 @@ The notes look like
 
 A few highlights are as follows:
 
-- *Embedding* notes and pieces of notes is a superpower!
-	- Rather than using definition/theorem numbers, the notes look like: ![|700](https://i.imgur.com/EpR95Ap.png)
 - Plain-text is just better. More about it here: [Why Plaintext for Notes? | Plaintext Productivity](https://plaintext-productivity.net/2-01-why-plaintext-for-notes.html)
 - LaTeX preambles, snippets, conceal, etc. are available from community plugins.
 	- ![](https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/gifs/demo.gif)
 	- Even full-on LaTeX code (like TikZ) diagrams can be rendered inside obsidian using plugins.
+- *Embedding* notes and pieces of notes is a superpower!
+	- Rather than using definition/theorem numbers, the notes look like: ![|700](https://i.imgur.com/EpR95Ap.png)
 - Using a very Sympy script one can do calculations on Obsidian (completely offline): https://imgur.com/a/sympy-script-on-obsidian-B6YHR4d
 - Dataview queries can help create a dynamic table of lecture note details, anything you want to display.
 	- Here I made a list of lecture notes ![|550](https://i.imgur.com/o4AdbO1.png)
 	- I had a lot of notes on manifolds, but I wanted to make a list of all of them. I wrote a query for that! <br> ![Screenshot-2025-07-06-234318.png](https://i.postimg.cc/c1t4ZZcT/Screenshot-2025-07-06-234318.png)
+	- But I prefer a gallery view with little pics: <br> [![Screenshot-2025-07-07-000939.png](https://i.postimg.cc/JzRCvWnT/Screenshot-2025-07-07-000939.png)](https://postimg.cc/6ybP4gCR)
 - [zsviczian/obsidian-excalidraw-plugin: A plugin to edit and view Excalidraw drawings in Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin) is a *active-in-development* plugin and even without a drawing device, it can be used to draw figures, flowcharts and also can be used to hand-write notes! It can even render LaTeX using MathJax, so making math diagrams becomes very simple.
 	- This little manifold is made using Exalidraw: [![Screenshot-2025-07-06-234835.png](https://i.postimg.cc/2y1qNZSx/Screenshot-2025-07-06-234835.png)](https://postimg.cc/9wjXGzT4)
 ### Exporting notes from Obsidian
@@ -75,7 +75,14 @@ A few highlights are as follows:
 - #### fake it using CSS
 	- [NicklasVraa/Obsidian-academic-export: Turn your obsidian notes into academic papers. (github.com)](https://github.com/NicklasVraa/Obsidian-academic-export?tab=readme-ov-file)
 
-## for longform writing
+## long-term notemaking
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MYJsGksojms?si=EMXPTENV4w141XsC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## for formal documents
 
 ### the debate of LaTeX vs Typst
 
@@ -97,6 +104,8 @@ A few highlights are as follows:
 5. Evan Chen's template: https://github.com/vEnhance/dotfiles/blob/main/texmf/tex/latex/evan/evan.sty
 	1. How to use it? : https://web.evanchen.cc/faq-latex.html#L-4
 6. Diagrams? TikZ and Inkscape: https://www.math.univ-toulouse.fr/~asaintcr/blog-entry.php?id=5ink
+
+
 
 ## brief history of everyone's inspiration
 
