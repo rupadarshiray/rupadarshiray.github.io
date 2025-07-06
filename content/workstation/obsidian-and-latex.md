@@ -35,8 +35,14 @@ Rather than explaining my setup, I have mimicked it entirely here: [Bilinear-vau
 
 The notes look like 
 
+[![Screenshot-2025-07-07-002445.png](https://i.postimg.cc/8PpjdxGS/Screenshot-2025-07-07-002445.png)](https://postimg.cc/V5hfmG5G)
+
+
+
 ![center|700](https://i.imgur.com/7NQ8kKa.png)
 
+[![Screenshot-2025-03-23-022450.png](https://i.postimg.cc/C5Fkq1Jy/Screenshot-2025-03-23-022450.png)](https://postimg.cc/zbcymq9p)
+[![Screenshot-2025-07-07-003550.png](https://i.postimg.cc/rmhFfwM2/Screenshot-2025-07-07-003550.png)](https://postimg.cc/479gdZYW)
 
 
 A few highlights are as follows:
@@ -46,14 +52,14 @@ A few highlights are as follows:
 	- ![](https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/gifs/demo.gif)
 	- Even full-on LaTeX code (like TikZ) diagrams can be rendered inside obsidian using plugins.
 - *Embedding* notes and pieces of notes is a superpower!
-	- Rather than using definition/theorem numbers, the notes look like: ![|700](https://i.imgur.com/EpR95Ap.png)
+	- Rather than using definition/theorem numbers, the notes look like: <br> ![|700](https://i.imgur.com/EpR95Ap.png)
 - Using a very Sympy script one can do calculations on Obsidian (completely offline): https://imgur.com/a/sympy-script-on-obsidian-B6YHR4d
 - Dataview queries can help create a dynamic table of lecture note details, anything you want to display.
-	- Here I made a list of lecture notes ![|550](https://i.imgur.com/o4AdbO1.png)
+	- Here I made a list of lecture notes: <br>  ![|550](https://i.imgur.com/o4AdbO1.png)
 	- I had a lot of notes on manifolds, but I wanted to make a list of all of them. I wrote a query for that! <br> ![Screenshot-2025-07-06-234318.png](https://i.postimg.cc/c1t4ZZcT/Screenshot-2025-07-06-234318.png)
 	- But I prefer a gallery view with little pics: <br> [![Screenshot-2025-07-07-000939.png](https://i.postimg.cc/JzRCvWnT/Screenshot-2025-07-07-000939.png)](https://postimg.cc/6ybP4gCR)
 - [zsviczian/obsidian-excalidraw-plugin: A plugin to edit and view Excalidraw drawings in Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin) is a *active-in-development* plugin and even without a drawing device, it can be used to draw figures, flowcharts and also can be used to hand-write notes! It can even render LaTeX using MathJax, so making math diagrams becomes very simple.
-	- This little manifold is made using Exalidraw: [![Screenshot-2025-07-06-234835.png](https://i.postimg.cc/2y1qNZSx/Screenshot-2025-07-06-234835.png)](https://postimg.cc/9wjXGzT4)
+	- This little manifold is made using Exalidraw: <br> [![Screenshot-2025-07-06-234835.png](https://i.postimg.cc/2y1qNZSx/Screenshot-2025-07-06-234835.png)](https://postimg.cc/9wjXGzT4)
 ### Exporting notes from Obsidian
 
 
@@ -105,11 +111,7 @@ A few highlights are as follows:
 	1. How to use it? : https://web.evanchen.cc/faq-latex.html#L-4
 6. Diagrams? TikZ and Inkscape: https://www.math.univ-toulouse.fr/~asaintcr/blog-entry.php?id=5ink
 
-
-
 ## brief history of everyone's inspiration
-
-
 
 Many of the LaTeX setup is inspired from [Gilles Castel](https://castel.dev/)'s setup which he explained in three famous blog posts: [How I'm able to take notes in mathematics lectures using LaTeX and Vim | Gilles Castel](https://castel.dev/post/lecture-notes-1/) from 2019. It is built on Vim on a Linux system and that (along with a laptop with touch screen monitor) allowed him to take notes like ![](https://castel.dev/static/cb323a2ec665d98f93f78e13d3972e0e/73116/ca3.png) in class!
 
