@@ -51,7 +51,7 @@ A few highlights are as follows:
 - Using a very Sympy script one can do calculations on Obsidian (completely offline): https://imgur.com/a/sympy-script-on-obsidian-B6YHR4d
 - Dataview queries can help create a dynamic table of lecture note details, anything you want to display.
 	- Here I made a list of lecture notes ![|550](https://i.imgur.com/o4AdbO1.png)
-	- I had a lot of notes on manifolds, but I wanted to make a list of all of them. I wrote a query for that! ![Screenshot-2025-07-06-234318.png](https://i.postimg.cc/c1t4ZZcT/Screenshot-2025-07-06-234318.png)
+	- I had a lot of notes on manifolds, but I wanted to make a list of all of them. I wrote a query for that! <br> ![Screenshot-2025-07-06-234318.png](https://i.postimg.cc/c1t4ZZcT/Screenshot-2025-07-06-234318.png)
 - [zsviczian/obsidian-excalidraw-plugin: A plugin to edit and view Excalidraw drawings in Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin) is a *active-in-development* plugin and even without a drawing device, it can be used to draw figures, flowcharts and also can be used to hand-write notes! It can even render LaTeX using MathJax, so making math diagrams becomes very simple.
 	- This little manifold is made using Exalidraw: [![Screenshot-2025-07-06-234835.png](https://i.postimg.cc/2y1qNZSx/Screenshot-2025-07-06-234835.png)](https://postimg.cc/9wjXGzT4)
 ### Exporting notes from Obsidian
