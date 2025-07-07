@@ -6,11 +6,12 @@ title: 'Academia'
 
 > [!bug] bliss and beyond
 
-- Me learning and teaching how to build an [[academic-workstation|Academic Workstation]]
+- Me learning and teaching how to build an academic workstation:
+	- [[obsidian-and-latex]]
 	- [[hierarchical-longterm-wiki]], [[constructing-hierarchical-wiki]]
 - The list of [[my-books|books that I have]].
 - Some lecture [[my-notes|notes that I have made]].
 - [[inculcation|Inculcation]] is a roadmap for learning fancy physics and math.
 - Here is me explaining stuff in a video format
 	- [[derivatives-differential-forms-and-beyond-youtube]]
-- If you ever come to IISER Mohali to study mathematics, you might like [[math-at-iiserm|Mathematics at IISER Mohali]]
+- If you ever come to IISER Mohali to study mathematics, you might like the (planned) series of articles [[math-at-iiserm|Mathematics at IISER Mohali]]
