@@ -31,17 +31,16 @@ In semester 5, I starting [[what-is-obsidian|taking notes in Obsidian]] in class
 ## Spring '24
 
 
-Tried taking notes on *Knots* (credited) in semester 6, but they remain incomplete.
+- Tried taking notes on *Knots and Braids* (credited) in semester 6, but they remain incomplete.
 
-- *Knots and braids*
 
 ## Summer '24
 
-- [[impa-pdes|IMPA PDEs]]
+- [[impa-pdes|IMPA course on PDEs]]
 
 ## Monsoon '24
 
-Semester 7 was the time I fleshed out my note taking very well.
+Semester 7 was the time I fleshed out my note-taking very well.
 
 - [MTH401: Ordinary differential equations](https://drive.google.com/file/u/1/d/1Xde4N-f2FxmQtzFXBPUfx-827EcK9Xf4/view)
 - *Functional analysis*
@@ -53,13 +52,13 @@ Semester 7 was the time I fleshed out my note taking very well.
 ## Winter '24
 
 
-- [ATMS Quivers and Lie algebras](https://drive.google.com/open?id=1-4wRWyq0c_Jg_nu7T4cw16ua6fhcEGrB&usp=drive_fs)
+- [ATMS Quivers and Lie algebras](https://drive.google.com/open?id=1-4wRWyq0c_Jg_nu7T4cw16ua6fhcEGrB&usp=drive_fs) remains incomplete
 - [Watch party: Talk on Ancient solutions to geometric flows](https://drive.google.com/open?id=10-lsJvPEWEAxGTNtDfgUjY0fGdfW17xL&usp=drive_fs)
 
 ## Spring '25
 
-![[my-notes-bsms-sem-8#Lecture notes]]
-
+- [MTH416: Arithmetic of Elliptic](https://drive.google.com/open?id=104zalLaQSoa7IL7svSCacX2OTNX0J9tT&usp=drive_fs)
+- [MTH441: Fourier Analysis](https://drive.google.com/open?id=10951Da7aVR9eNKoP8WHBXAQdTRBgQqOr&usp=drive_fs)
 
 
 ## Summer '25

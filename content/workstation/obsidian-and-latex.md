@@ -2,8 +2,8 @@
 created: 2025-04-05T13:34:16
 modified: 2025-04-05T13:34:16
 tags: []
-title: 'A workstation with Obsidian and LaTeX'
-aliases: '' 
+title: A workstation with Obsidian and LaTeX
+aliases: []
 ---
 
 There are two broad use-cases:
@@ -32,6 +32,10 @@ In summary, we choose to implement our use-cases in the following manner:
 ### Why use Obsidian
 
 Rather than explaining my setup, I have mimicked it entirely here: [Bilinear-vault](https://github.com/rupadarshiray/Bilinear-vault). You just need to download it (as a zip, say, then extract the files) and open the folder through Obsidian. 
+
+Here is a video showcasing it:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XZDpq-3ozBI?si=YrBzdA4di3xwt8qA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The notes look like 
 
@@ -91,11 +95,11 @@ A few highlights are as follows:
 
 
 
-| size of *formal* documents $\downarrow$ <br> use-cases $\rightarrow$                          | *Overleaf* users                                                                                                                               | strictly latex code editors                    | code editors like VS code (or something better) |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ----------------------------------------------- |
-| smol stuff <10 pages<br>                                                                      | can shift to typst web, easy                                                                                                                   | Typst is prbably best for them                 |                                                 |
-| ranging from 10 page to 150/200 page articles, we may assume they don't use many diagrams etc | Typst is prbably best for them if (a) it could do the same thing (b) with less hassle (c) they can use typst to publish whereever they want to | they will have issues to shift to typst syntax |                                                 |
-| longform lecture notes/book writers, ~500 pages with diagrams, tables and all messy stuff     | ??? they ~~probably~~ definitely pay for Overleaf, so...                                                                                       | who may speak for such pro users!              | who may speak for such pro users!               |
+| size of *formal* documents $\downarrow$ <br> use-cases $\rightarrow$                          | *Overleaf* users                                                                                                                               | strictly LaTeX code editors                                                            | code editors like VS code (or something better) |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| smol stuff <10 pages<br>                                                                      | can shift to Typst web, easy                                                                                                                   | Typst is prbably *best* for them, probably should shift to an offline compiler however | **Great!**                                      |
+| ranging from 10 page to 150/200 page articles, we may assume they don't use many diagrams etc | Typst is prbably best for them if (a) it could do the same thing (b) with less hassle (c) they can use typst to publish whereever they want to | They may have issues to shift to Typst syntax                                          | **Best!** The following is for such users!      |
+| longform lecture notes/book writers, ~500 pages with diagrams, tables and all messy stuff     | ???...they ~~probably~~ definitely pay for Overleaf, so...                                                                                     | *who may speak for such pro users!*                                                    | *who may speak for such pro users!*             |
 
 ### setting up LaTeX on VScode with snippets and templates
 
