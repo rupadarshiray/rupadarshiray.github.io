@@ -1,7 +1,7 @@
 ---
 created: 2023-03-28T14:14:08
 modified: 2023-03-28T14:14:08
-tags: []
+tags: [notes]
 title: 'My notes'
 aliases: ''
 ---
@@ -59,6 +59,8 @@ Semester 7 was the time I fleshed out my note-taking very well.
 
 - [MTH416: Arithmetic of Elliptic](https://drive.google.com/open?id=104zalLaQSoa7IL7svSCacX2OTNX0J9tT&usp=drive_fs)
 - [MTH441: Fourier Analysis](https://drive.google.com/open?id=10951Da7aVR9eNKoP8WHBXAQdTRBgQqOr&usp=drive_fs)
+- Notes on Fourier analysis for kids is at https://ggl.link/fourier
+- Notes for my talk on Hamiltonian flows is at https://ggl.link/hamiltonian (updated below)
 
 
 ## Summer '25

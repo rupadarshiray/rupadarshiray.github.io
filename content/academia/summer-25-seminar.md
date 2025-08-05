@@ -34,19 +34,10 @@ The notes for the topics discussed will be kept here: https://dub.sh/riemann
 Possible references for topics in Riemann surfaces:
 
 - https://www.mat.univie.ac.at/~armin/lect/advanced_complex_analysis.pdf
-- Books on Riemann surfaces by (Narasimhan may be too daunting)
-	- Forster
-	- Miranda
-	- [Wilhelm Schlag](https://gauss.math.yale.edu/~ws442/complex.pdf)
-	- https://mathweb.tifr.res.in/~srinivas/rsfull.pdf (uses ringed spaces definition of Riemann surfaces where the rings are rings of functions on it)
-	- https://math.berkeley.edu/~teleman/math/Riemann.pdf
-	- Donaldson
-	- [Jost](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/jost.pdf)
-	- Renzo Cavalieri, Eric Miles (Hurwitz theory)
-	- ...a hundred more books and notes available online
-- These lectures assume covering space theory (algebraic topology) and uniformization theory and does (pre-moduli space) classification of Riemann surfaces: https://www.youtube.com/playlist?list=PLbMVogVj5nJSm4256vuITlsovUT1xVkUL
-- Elliptic Functions and Integrals, Uniformization Theorem etc: https://www.bilibili.com/video/BV1fW41197nr/?spm_id_from=333.337.search-card.all.click
 
+(Narasimhan may be too daunting)
+
+![[inculcation-riemann-surfaces]]
 ## more events to attend in summer
 
 - [Summer School on Rigidity of Discrete Groups, June 30 – July 4, 2025 at IISER Mohali](https://docs.google.com/document/d/18rjLGn7hJHEmRk-QYcSysw5hH7nbYy5A/edit?tab=t.0#heading=h.afyu0gteis61)

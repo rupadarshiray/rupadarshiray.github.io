@@ -1,7 +1,7 @@
 ---
 created: 2023-03-28T15:53:04
 modified: 2023-03-28T15:53:04
-tags: []
+tags: [vlog]
 title: 'Derivatives, differential forms and beyond - YouTube'
 aliases: ''
 ---

@@ -11,8 +11,6 @@ aliases:
 #notes
 
 - the *blue* notebook on *geometry, groups and dynamics* is [available here](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://rupadarshiray.github.io/academicmatters/notes/2502%20geometry%20and%20analysis.GGD.pdf)
-	- a subset consisting of notes for Fourier analysis for kids is at https://ggl.link/fourier
-	- a subset consisting of notes for my talk on Hamiltonian flows is at https://ggl.link/hamiltonian
 	- a subset consisting of the notes on the *Summer School on Rigidity of Discrete Groups, June 30 – July 4, 2025 at IISER Mohali* is at https://dub.sh/rigidity
 	- a subset consisting of notes on *coadjoint orbits and quantization of Hamiltonian actions* is at https://dub.sh/qofhamil
 	- a subset containing notes on *introductory Hamiltonian toric actions* https://dub.sh/symplectictoric

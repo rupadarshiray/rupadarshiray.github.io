@@ -34,10 +34,10 @@ There are different levels to study representation theory of finite groups:
 Lie groups are famous. There are different levels to study Lie groups:
 
 - **after doing finite groups** one may try to study matrix Lie groups, using knowledge of multivariable calculus, it must not be ideal
-	- [Lie Groups and Lie Algebras - YouTube](https://www.youtube.com/playlist?list=PLN_4R2IuNuuRgJb00X2J53Iq9qe7k1nyr)
-	- Borcherds always a good idea [Lie groups - YouTube](https://www.youtube.com/playlist?list=PL8yHsr3EFj53RWBkiHKoOsTw-dGHAoJ-h)
 - **after doing topology, smooth manifolds** you must already know definitions of topological and Lie groups along with their Lie algebras and exponential map
 - **after doing algebraic topology** you will start understanding what simply connected Lie groups allow that its quotients by discrete subgroups don't
+
+There are references here: [[inculcation-lie-groups-and-symmetric-spaces]]
 
 ## representation theory of Lie groups
 
