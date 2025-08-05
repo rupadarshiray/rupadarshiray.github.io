@@ -48,7 +48,7 @@ aliases: ''
 ## Geometric representation theory
 
 
-- BBW theorem
+- [Borel–Weil–Bott theorem - Wikipedia](https://en.wikipedia.org/wiki/Borel%E2%80%93Weil%E2%80%93Bott_theorem)
 - [Raphaël Rouquier - Geometric representation theory as representation-theoretic geometry (youtube.com)](https://www.youtube.com/watch?v=keNo5G8bU6o)
 - [Geometric Representation Theory_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1it411G747/?spm_id_from=333.337.search-card.all.click&vd_source=2b98dc4f067de1fdf0a654a390274f82)
 - [Workshop on Representation Theory and Geometry - YouTube](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ5ubJkJYPhl890ZXI-PBK9K)
@@ -61,8 +61,12 @@ aliases: ''
 
 - [Uri Bader: course in groups and ergodic theory in Wroclow - YouTube](https://www.youtube.com/playlist?list=PLO0kt6UNwKzPda_mS0YfNTqqvFEYxMcC7)
 
-## C*-algebras
+## Banach algebras, C*-algebras
 
+- [Harmonic Analysis and Banach Algebras. A. Pirkovskii. Fall 2024. - YouTube](https://www.youtube.com/playlist?list=PLq3E5oubNNoD8DNv6U3bFQ9F8FAFUgjPT)
 - [C* algebras and spectral theorem - YouTube](https://www.youtube.com/playlist?list=PLgMDNELGJ1CZdYoYvLb3VVI0Ahwy4yTIE)
 - [C* Algebra Course Lecture_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1FK421v7tQ/?spm_id_from=333.337.search-card.all.click&vd_source=2b98dc4f067de1fdf0a654a390274f82)
+- [A. Yu. Pirkovskii. C*-algebras and compact quantum groups. Spring 2021 - YouTube](https://www.youtube.com/playlist?list=PLq3E5oubNNoAZi6W7968tNkSnIGTt4hEn)
+- [C*-Algebras and Compact Quantum Groups. Pirkovskiy A. Y. Spring 2024 - YouTube](https://www.youtube.com/playlist?list=PLq3E5oubNNoC18MdY58pkh9oFVyg8YbC6)
+- [K-Theory of C*-Algebras (2025) - YouTube](https://www.youtube.com/playlist?list=PLq3E5oubNNoBv8kWv7i5S7z5rHau3U0q9)
 
