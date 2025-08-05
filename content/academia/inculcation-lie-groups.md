@@ -2,7 +2,7 @@
 created: 2025-08-05T20:43:24
 modified: 2025-08-05T20:43:39
 tags: []
-title: 'Inculcation: Lie groups, symmetric spaces, symplectic geometry'
+title: 'Inculcation: Lie groups, symmetric spaces and beyond'
 aliases: '' 
 ---
 

@@ -37,7 +37,7 @@ Lie groups are famous. There are different levels to study Lie groups:
 - **after doing topology, smooth manifolds** you must already know definitions of topological and Lie groups along with their Lie algebras and exponential map
 - **after doing algebraic topology** you will start understanding what simply connected Lie groups allow that its quotients by discrete subgroups don't
 
-There are references here: [[inculcation-lie-groups-and-symmetric-spaces]]
+There are references here: [[inculcation-lie-groups]]
 
 ## representation theory of Lie groups
 
