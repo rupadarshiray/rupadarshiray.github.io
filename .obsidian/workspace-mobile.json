@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78475e96f57ea5d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/academia/my-notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "my-notes"
-            }
-          },
-          {
             "id": "1a2b3208518c9f5a",
             "type": "leaf",
             "state": {
@@ -54,8 +30,33 @@
               "icon": "lucide-file",
               "title": "academia"
             }
+          },
+          {
+            "id": "f70b61be36528fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/philosophy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "philosophy"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,9 +186,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "50364e512a513054",
+        "type": "leaf",
+        "state": {
+          "type": "git-history-view",
+          "state": {},
+          "icon": "history",
+          "title": "History"
+        }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,16 +214,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "78475e96f57ea5d7",
+  "active": "f70b61be36528fa8",
   "lastOpenFiles": [
+    "content/about/now.md",
+    "content/academia/academia.md",
+    "content/bits/visualizing-higher-dimensions.md",
+    "content/bits/correspondences-in-physics-and-mathematics.md",
+    "content/bits/the-corresp-between-cm-and-qm.md",
+    "content/academia/electrodynamics-through-the-years.md",
+    "content/academia/derivatives-differential-forms-and-beyond-youtube.md",
+    "content/academia/inculcation-analysis-finite-vector-spaces.md",
+    "content/academia/my-notes.md",
     "content/academia/summer-25-seminar.md",
     "content/academia/impa-pdes.md",
     "content/academia/inculcation-groups.md",
     "management/my-notes-bsms-sem-8.md",
-    "content/bits/the-corresp-between-cm-and-qm.md",
-    "content/bits/visualizing-higher-dimensions.md",
     "content/bits/what-is-and-is-not-topological.md",
-    "content/bits/correspondences-in-physics-and-mathematics.md",
     "content/bits/things-i-have-said-in-a-math-class.md",
     "content/bits/sorting-out-minus-signs-in-differential-geometry.md",
     "/management/my-notes-bsms-sem-8.md",
@@ -226,13 +243,7 @@
     "/management",
     "/content/bits/what-is-and-is-not-topological.md",
     "/content/bits/correspondences-in-physics-and-mathematics.md",
-    "/content/bits/things-i-have-said-in-a-math-class.md",
-    "/content/bits/sorting-out-minus-signs-in-differential-geometry.md",
-    "/content/academia/impa-pdes.md",
-    "/content/workstation/obsidian-and-latex.md",
-    "/content/workstation/hierarchical-longterm-wiki.md",
     "/content/workstation",
-    "content/bits/it-is-not-divided-into.md",
     "content/bits",
     "/content/bits",
     "/content/notes",

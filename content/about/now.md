@@ -9,4 +9,4 @@ title: "now"
 
 > This is a [/now page](https://nownownow.com/about) for me!
 
-Starting my MS thesis in August.
+Working on my ms thesis: on symmetric spaces, their boundaries, rigidity and ergodicity!
