@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/inculcation-groups.md",
+                "file": "content/academia/my-notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "inculcation-groups"
+              "title": "my-notes"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "content/academia/academia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "academia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +70,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -192,6 +191,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
@@ -203,38 +203,41 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a2b3208518c9f5a",
+  "active": "78475e96f57ea5d7",
   "lastOpenFiles": [
-    "content/academia/academia.md",
-    "content/academia/inculcation.md",
-    "conflict-files-obsidian-git.md",
-    "/conflict-files-obsidian-git.md",
+    "content/academia/summer-25-seminar.md",
+    "content/academia/impa-pdes.md",
     "content/academia/inculcation-groups.md",
-    "content/academia/inculcation-linear-algebra.md",
-    "content/academia/inculcation-smooth-manifolds.md",
-    "content/academia/inculcation-linear-constructions.md",
-    "/content/academia/inculcation.md",
-    "/content/academia/inculcation-odes.md",
-    "/content/academia/inculcation-linear-constructions.md",
-    "/content/academia/inculcation-groups.md",
-    "/content/academia/inculcation-analysis-finite-vector-spaces.md",
-    "/content/academia/inculcation-all-of-mechanics.md",
+    "management/my-notes-bsms-sem-8.md",
+    "content/bits/the-corresp-between-cm-and-qm.md",
+    "content/bits/visualizing-higher-dimensions.md",
+    "content/bits/what-is-and-is-not-topological.md",
+    "content/bits/correspondences-in-physics-and-mathematics.md",
+    "content/bits/things-i-have-said-in-a-math-class.md",
+    "content/bits/sorting-out-minus-signs-in-differential-geometry.md",
+    "/management/my-notes-bsms-sem-8.md",
+    "/content/bits/the-corresp-between-cm-and-qm.md",
+    "/content/bits/visualizing-higher-dimensions.md",
+    "content/academia/my-notes-summer-25.md",
+    "content/academia/inculcation-riemann-surfaces.md",
+    "content/academia/inculcation-lie-groups.md",
+    "/management/mth303-monsoon-12023.md",
+    "management/mth303-monsoon-12023.md",
+    "/management",
+    "/content/bits/what-is-and-is-not-topological.md",
+    "/content/bits/correspondences-in-physics-and-mathematics.md",
+    "/content/bits/things-i-have-said-in-a-math-class.md",
+    "/content/bits/sorting-out-minus-signs-in-differential-geometry.md",
+    "/content/academia/impa-pdes.md",
+    "/content/workstation/obsidian-and-latex.md",
+    "/content/workstation/hierarchical-longterm-wiki.md",
+    "/content/workstation",
+    "content/bits/it-is-not-divided-into.md",
+    "content/bits",
+    "/content/bits",
+    "/content/notes",
     "/content/academia",
     "/content",
-    "content/academia/inculcation-math-pedias.md",
-    "/content/academia/shifrin-multivariable-mathematics.md",
-    "/content/academia/inculcation-smooth-manifolds.md",
-    "/content/academia/inculcation-math-pedias.md",
-    "/content/academia/inculcation-linear-algebra.md",
-    "content/academia/inculcation-all-of-mechanics.md",
-    "content/academia/inculcation-geodesic-flows.md",
-    "content/index.md",
-    "content/about/now.md",
-    "content/about/about-me.md",
-    "content/workstation/obsidian-and-latex.md",
-    "content/workstation/constructing-a-mathematics-wiki.md",
-    "/management",
-    "/content/workstation",
     "/content/about",
     "/quartz/styles/custom.scss",
     "management"
