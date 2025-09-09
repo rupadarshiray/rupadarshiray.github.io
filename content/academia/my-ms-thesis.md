@@ -7,4 +7,4 @@ aliases: ''
 ---
 
 
-<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://rupadarshiray.github.io/notes/2508gg.pdf" style="width:100%; border:none;height:900;"></iframe>
+<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://rupadarshiray.github.io/notes/2508gg.pdf" style="width:100%; border:none;height:800px;"></iframe>
