@@ -19,14 +19,14 @@ aliases: ''
 
 - [Introduction to Lie Groups (Fall 2020, ETHz)（部分）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1BQ4y1k73H/?spm_id_from=333.337.search-card.all.click&vd_source=2b98dc4f067de1fdf0a654a390274f82)
 	- https://metaphor.ethz.ch/x/2020/hs/401-3225-00L/
+- [AIC - Compact Lie groups and their representations (2022)- Prof. M. S. Raghunathan, Centre for Basic Sciences, Mumbai - YouTube](https://www.youtube.com/playlist?list=PLR3C3NSCyhZQJZaAns2UhKTGKzwOMdjFF)
+	- [AIC - Compact Lie groups and their representations (2022)](https://www.atmschools.org/school/2022/AIC/clgr/speakers-and-syllabus)
+	- [notes](https://www.atmschools.org/sites/default/files/ac-clrg-Lecture-1-6-Notes-MS-Raghunathan.pdf)
 - [Unitary Representations of Lie Groups | ETH Zürich Videoportal](https://video.ethz.ch/lectures/d-math/2022/spring/401-3226-01L.html)
 	- [Unitary | Books](https://tbward0.wixsite.com/books/unitary)
 - [Anupam Singh - AIS on Lie Algebras (4-23 July 2011) CMI-IMSc, Chennai (google.com)](https://sites.google.com/site/anupamk182/liealgebra)
 	- [CMI Lie algebras - YouTube](https://www.youtube.com/watch?v=GsIus3ETuLo&list=PL2C7934A433FE9E9D&index=1)
 - [Introduction to Lie Algebras Doutorado IMPA Verao 2011 Reimundo Heluani 03/01/2011 aula 01 parte1 (youtube.com)](https://www.youtube.com/watch?v=3HKNJ__VmZk&list=PLyNXqRIyhBrepe203qLZBT4KurJadLBZq&index=2)
-- [AIC - Compact Lie groups and their representations (2022)- Prof. M. S. Raghunathan, Centre for Basic Sciences, Mumbai - YouTube](https://www.youtube.com/playlist?list=PLR3C3NSCyhZQJZaAns2UhKTGKzwOMdjFF)
-	- [AIC - Compact Lie groups and their representations (2022)](https://www.atmschools.org/school/2022/AIC/clgr/speakers-and-syllabus)
-	- [notes](https://www.atmschools.org/sites/default/files/ac-clrg-Lecture-1-6-Notes-MS-Raghunathan.pdf)
 
 ## Lie groups and symmetric spaces
 
