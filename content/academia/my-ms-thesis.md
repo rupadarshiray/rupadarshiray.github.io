@@ -6,5 +6,10 @@ title: 'My MS thesis'
 aliases: '' 
 ---
 
+Made this "thesis mood sticker" in the summer:
+![](https://files.catbox.moe/oolq0a.webp)
+
+
+A thesis notebook
 
 <iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://rupadarshiray.github.io/notes/2508gg.pdf" style="width:100%; border:none;height:800px;"></iframe>
