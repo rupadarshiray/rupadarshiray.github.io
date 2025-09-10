@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/my-ms-thesis.md",
+                "file": "content/about/now.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "my-ms-thesis"
+              "title": "now"
             }
           }
         ],
@@ -216,15 +216,15 @@
   },
   "active": "f70b61be36528fa8",
   "lastOpenFiles": [
-    "docs/philosophy.md",
     "content/academia/my-ms-thesis.md",
+    "content/about/now.md",
+    "content/bits/visualizing-higher-dimensions.md",
+    "docs/philosophy.md",
     "/content/academia/my-ms-thesis.md",
     "/content/academia/inculcation-lie-groups.md",
     "/content/academia",
     "/content",
-    "content/about/now.md",
     "content/academia/academia.md",
-    "content/bits/visualizing-higher-dimensions.md",
     "content/bits/correspondences-in-physics-and-mathematics.md",
     "content/bits/the-corresp-between-cm-and-qm.md",
     "content/academia/electrodynamics-through-the-years.md",
