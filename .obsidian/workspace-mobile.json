@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/philosophy.md",
+                "file": "content/academia/my-ms-thesis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "philosophy"
+              "title": "my-ms-thesis"
             }
           }
         ],
@@ -216,6 +216,12 @@
   },
   "active": "f70b61be36528fa8",
   "lastOpenFiles": [
+    "docs/philosophy.md",
+    "content/academia/my-ms-thesis.md",
+    "/content/academia/my-ms-thesis.md",
+    "/content/academia/inculcation-lie-groups.md",
+    "/content/academia",
+    "/content",
     "content/about/now.md",
     "content/academia/academia.md",
     "content/bits/visualizing-higher-dimensions.md",
@@ -238,17 +244,11 @@
     "content/academia/my-notes-summer-25.md",
     "content/academia/inculcation-riemann-surfaces.md",
     "content/academia/inculcation-lie-groups.md",
-    "/management/mth303-monsoon-12023.md",
-    "management/mth303-monsoon-12023.md",
     "/management",
-    "/content/bits/what-is-and-is-not-topological.md",
-    "/content/bits/correspondences-in-physics-and-mathematics.md",
     "/content/workstation",
     "content/bits",
     "/content/bits",
     "/content/notes",
-    "/content/academia",
-    "/content",
     "/content/about",
     "/quartz/styles/custom.scss",
     "management"
