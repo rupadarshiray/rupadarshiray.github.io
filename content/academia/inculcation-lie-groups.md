@@ -76,3 +76,8 @@ aliases: ''
 - [C*-Algebras and Compact Quantum Groups. Pirkovskiy A. Y. Spring 2024 - YouTube](https://www.youtube.com/playlist?list=PLq3E5oubNNoC18MdY58pkh9oFVyg8YbC6)
 - [K-Theory of C*-Algebras (2025) - YouTube](https://www.youtube.com/playlist?list=PLq3E5oubNNoBv8kWv7i5S7z5rHau3U0q9)
 
+
+## transformation groups
+
+
+- [Lie Groups and Geometric Aspects of Isometric Actions - Google Books](https://www.google.co.in/books/edition/Lie_Groups_and_Geometric_Aspects_of_Isom/JG-nCQAAQBAJ?hl=en&gbpv=0)
