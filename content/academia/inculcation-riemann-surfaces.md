@@ -6,7 +6,10 @@ title: "Inculcation: Riemann surfaces, that is, complex 1-manifolds, complex alg
 aliases: ""
 ---
 
-## books
+## Riemann surfaces
+
+
+### introductory textbooks
 
 - Forster
 - Miranda
@@ -19,8 +22,9 @@ aliases: ""
 - ...a hundred more books and notes available online
 
 
-## lecture videos
+### introductory lecture videos
 
+- A full course on [Riemann Surfaces by M Khalkhali](https://www.math.uwo.ca/faculty/khalkhali/riemannsurfaces.html) with [videos on YouTube](https://www.youtube.com/playlist?list=PLFLLJhtIPhRaiJp0jJM648EC6A7swNDKL)
 - These lectures assume covering space theory (algebraic topology) and uniformization theory and does (pre-moduli space) classification of Riemann surfaces: https://www.youtube.com/playlist?list=PLbMVogVj5nJSm4256vuITlsovUT1xVkUL
 
 
@@ -48,4 +52,15 @@ aliases: ""
 > 	- The Uniformization Theorem
 > 	- Riemann Surfaces and Minimal Surfaces ^yg7hmg
 
-- A full course on [Riemann Surfaces by M Khalkhali](https://www.math.uwo.ca/faculty/khalkhali/riemannsurfaces.html) with [videos on YouTube](https://www.youtube.com/playlist?list=PLFLLJhtIPhRaiJp0jJM648EC6A7swNDKL)
+
+### moduli of Riemann surfaces
+
+
+🤔
+
+
+## Flat tori and elliptic curves
+
+## Hyperbolic surfaces and Teichmuller theory
+
+

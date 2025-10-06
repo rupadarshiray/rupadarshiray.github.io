@@ -39,14 +39,16 @@ Here is a video showcasing it:
 
 The notes look like 
 
-[![Screenshot-2025-07-07-002445.png](https://i.postimg.cc/8PpjdxGS/Screenshot-2025-07-07-002445.png)](https://postimg.cc/V5hfmG5G)
 
+
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Screenshot-2025-07-07-002445.png)
 
 
 ![center|700](https://i.imgur.com/7NQ8kKa.png)
 
-[![Screenshot-2025-03-23-022450.png](https://i.postimg.cc/C5Fkq1Jy/Screenshot-2025-03-23-022450.png)](https://postimg.cc/zbcymq9p)
-[![Screenshot-2025-07-07-003550.png](https://i.postimg.cc/rmhFfwM2/Screenshot-2025-07-07-003550.png)](https://postimg.cc/479gdZYW)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Screenshot-2025-03-23-022450.png)
+
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Screenshot-2025-07-07-003550.png)
 
 
 A few highlights are as follows:
