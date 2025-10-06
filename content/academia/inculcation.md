@@ -217,8 +217,6 @@ With the language of manifolds/normed vector spaces we can work in geometry, top
 - PDEs
 	- [Partial Differential Equations - Giovanni Bellettini - Lecture 01 - YouTube](https://www.youtube.com/watch?v=Rq1iRT2LL-8)
 	- `talk` [Mathematics of Turbulent Flows: A Million Dollar Problem! by Edriss S Titi - YouTube](https://www.youtube.com/watch?v=VH4oawCiHPU)
-- algebra, representation theory, algebraic geometry
-	- [[inculcation-groups]], finite groups, Lie groups, their representations
 - mechanics
 	- [[inculcation-all-of-mechanics#Mechanics of points done properly]]
 	- QM and quantum theories [[inculcation-all-of-mechanics#quantization of the mechanics of points]]

@@ -43,14 +43,19 @@ We start with logic and set theory, do analysis, algebra, geometry and topology:
 		- smooth manifolds with more structures
 	- out on infinite dim spaces
 
+
+## finite groups
+
+![[inculcation#little things groups, group actions]]
+
 ## Inside the reals and metric spaces
 
 
 
-> [!todo] Real analysis task 1
+> [!todo] Real analysis, task 1
 > We must *set theoretically* construct(!!), starting from $\mathbb{Z}$, $\mathbb{Q}$ and then $\R$.
 
-> [!todo] Real analysis task 2
+> [!todo] Real analysis, task 2
 > - Define sequences, and the $\epsilon-N$ definition of limits of sequences.
 > - Try to prove that $\frac{1}{n}$ converges to $0$ as $n\to \infty$
 
@@ -97,6 +102,30 @@ But a better thing to do is directly jump to [[inculcation-linear-constructions#
 
 AKA *rings and modules*
 
+There are usually three
+
+- **first course on rings and modules**
+- **commutative algebra**
+- **(non-commutative) algebraic structures**
+
+## representation theory of finite groups
+
+There are different levels to study representation theory of finite groups:
+
+- **before doing finite groups** when one has basic ideas of matrices/linear algebra one may try to ponder on
+	- consider a finite set of $n\times n$ matrices which are closed under multiplication and has inverses: 
+	- easy example is for an invertible matrix $A$ consider the set $$ \{ I,A,A^{2}, \dots \} $$ this set might be finite or infinite, if this is finite then $A^{n}=I$ for some $n$, then what can we say about the matrix $A$
+		- Try to prove that if the field is $\mathbb{C}$ (or any algebraically closed field) $A$ must be diagonalizable.
+		- Find what the eigenvalues of $A$ may be if the field is $\C$.
+	-  ![[inculcation-linear-algebra#representation theory is just spicy linear algebra]]
+- **after doing finite groups and linear algebra** it is easy to study representation theory of finite groups any text like 
+	- `book` Artin
+	- `book` Fulton Harris
+	- `book` Dummit and Foote covers all the introductory theory
+- **after doing rings and modules** the same theory hits different, rephrase everything about representations of a group $G$ with its group algebra $\mathbb{C}[G]$
+- **after doing commutative algebra**, I *feel* it will give another vibe
+
+
 ## Over fields
 
 AKA *fields and galois theory*
@@ -136,7 +165,6 @@ AKA *"intrinsic differential geometry"* or *analysis on manifolds*.
 May try `lectures` [Frederic Schuller -International Winter School on Gravity and Light 2015](https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_) without any other context or to get into it fully: [[inculcation-smooth-manifolds]].
 
 
-
 ## Inside infinite dim spaces
 
 AKA *functional analysis*!
@@ -144,7 +172,23 @@ AKA *functional analysis*!
 
 - `lectures` Frederic Schuller - Quantum Theory
 - https://www.kryakin.site/am2/Stein-Shakarchi%5D-4-Functional-Analys.pdf
-- (Papa and grandpa Rudin)
+- Papa and grandpa Rudin
+
+
+## Out on Riemannian manifolds
+
+
+
+## Working with topological groups and Lie groups
+
+Lie groups are famous. There are different levels to study Lie groups:
+
+- **after doing finite groups** one may try to study matrix Lie groups, using knowledge of multivariable calculus, it must not be ideal
+- **after doing topology, smooth manifolds** you must already know definitions of topological and Lie groups along with their Lie algebras and exponential map
+- **after doing algebraic topology** you will start understanding what simply connected Lie groups allow that its quotients by discrete subgroups don't
+
+There are references here: [[inculcation-lie-groups]]
+
 
 ## Out on *algebraic varieties*
 
