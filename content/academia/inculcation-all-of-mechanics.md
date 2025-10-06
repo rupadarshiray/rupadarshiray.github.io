@@ -167,7 +167,7 @@ This doesn't need to be done first, or before [[#Mechanics of points done proper
 
 Writing down the ODEs 
 
-|              | Configuration space                   | Lagrangian | Phase space            | Hamiltonian | $V=0$ solutions                                                |
+|              | Configuration space                   | Lagrangian | Phase space            | Hamiltonian | $V=0$ (force free) solutions                                   |
 | ------------ | ------------------------------------- | ---------- | ---------------------- | ----------- | -------------------------------------------------------------- |
 | 1 point      | $\R^3$ (space)                        |            | $\mathbb{R}^{6}$       |             | geodesics in $\R^3$ with usual metric, that is, straight lines |
 | $n$ points   | $(\mathbb{R}^{3})^{n}$                |            | $(\mathbb{R}^{6})^{n}$ |             |                                                                |
@@ -243,7 +243,7 @@ The geometry behind dynamics of a ODE is that of a vector field on a manifold.
 - *Ergodic theory* was invented to ask when does the assumptions made by Boltzmann and others hold.
 - My first reference was [[#^3431f3|Balki's lectures on classical physics]], other physics references include [MIT 8.333 Statistical Mechanics I: Statistical Mechanics of Particles, Fall 2013 - YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg)
 - [Statistical Mechanics From Thermodynamics to the Renormalization Group](http://library.lol/main/A8C329B75A3CB6CEEF87790E8C8C88BA)
-- [Roderich Tumulka's notes](https://www.math.uni-tuebingen.de/de/forschung/maphy/lehre/ss-2019/statisticalphysics/dateien/lecture-notes.pdf) is best reference I've seen, actually talks about the main goal
+- [Roderich Tumulka's notes](https://www.math.uni-tuebingen.de/de/forschung/maphy/lehre/ss-2019/statisticalphysics/dateien/lecture-notes.pdf) is a good one, talks about the main goal
 - [Information Geometry (ucr.edu)](https://math.ucr.edu/home/baez/information/)
 	- Part 17-21 is where thermodynamics is discussed
 - [Classical Mechanics versus Thermodynamics (ucr.edu)](https://math.ucr.edu/home/baez/classical_vs_thermo/)
@@ -269,9 +269,7 @@ No. Not equilibrium statistical mechanics anyways. The following are some pitfal
 
 You can't change information of $10^{23}$ dimensions into $4$ variables, sadly, nope. How is thermodynamics true then? In what sense I mean? Well...Roderich Tumulka's notes above tries to explain a lot. I oscillate between being convinced and not.
 
-However, the following book has a "proof" of Boltzmann's (non-equilibrium stat mech) equation for dilute gases in some very precise sense.
-
-> [!important] Carlo Cercignani, Reinhard Illner, Mario Pulvirenti - The Mathematical Theory of Dilute Gases-Springer-Verlag New York (1994)
+However, the following `book` has a "proof" of Boltzmann's (non-equilibrium stat mech) equation for dilute gases in some very precise sense: *Carlo Cercignani, Reinhard Illner, Mario Pulvirenti - The Mathematical Theory of Dilute Gases-Springer-Verlag New York (1994)*
 
 ## quantization of the mechanics of points
 
@@ -396,7 +394,6 @@ Turbulence is still an unsolved problem.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_UoTTq651dE?si=EOi15dGihAaJzt79" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Mechanics with a lattice somewhere
+# Mechanics on a lattice or a graphw
 
 Where does the Ising model sit in all these? Does it even need a "spacetime"?
-

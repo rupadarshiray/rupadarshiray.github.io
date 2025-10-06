@@ -4,7 +4,7 @@ modified: 2025-08-04T19:40:16
 tags:
   - Inculcation
 title: "Inculcation: Riemann surfaces, that is, complex 1-manifolds, complex algebraic curves, round/flat/hyperbolic surfaces and so on"
-aliases: ""
+aliases: "Riemann surfaces, that is, complex 1-manifolds, complex algebraic curves, round/flat/hyperbolic surfaces and so on"
 ---
 
 ## Riemann surfaces
@@ -57,6 +57,5 @@ aliases: ""
 
 ## Flat tori and elliptic curves
 
-## Hyperbolic surfaces and Teichmuller theory
-
+## Hyperbolic surfaces, Fuschian groups and Teichmuller theory
 

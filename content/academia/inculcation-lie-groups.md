@@ -4,7 +4,7 @@ modified: 2025-08-05T20:43:39
 tags:
   - Inculcation
 title: "Inculcation: Lie groups, symmetric spaces and beyond"
-aliases: ""
+aliases: "Lie groups, symmetric spaces and beyond"
 ---
 
 ## introductory
