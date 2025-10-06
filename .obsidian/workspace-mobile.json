@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/inculcation-math-pedias.md",
+                "file": "content/academia/inculcation-riemann-surfaces.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "inculcation-math-pedias"
+              "title": "inculcation-riemann-surfaces"
             }
           }
         ],
@@ -216,6 +216,7 @@
   },
   "active": "f70b61be36528fa8",
   "lastOpenFiles": [
+    "content/academia/inculcation-math-pedias.md",
     "content/academia/inculcation-geodesic-flows.md",
     "content/academia/inculcation-symplectic-geometry.md",
     "content/academia/inculcation.md",
@@ -227,7 +228,6 @@
     "content/academia/inculcation-analysis-finite-vector-spaces.md",
     "content/academia/inculcation-groups.md",
     "content/academia/inculcation-all-of-mechanics.md",
-    "content/academia/inculcation-math-pedias.md",
     "content/about/now.md",
     "/content/workstation/obsidian-and-latex.md",
     "/content/workstation",
