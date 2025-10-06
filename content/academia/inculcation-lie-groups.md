@@ -1,9 +1,10 @@
 ---
 created: 2025-08-05T20:43:24
 modified: 2025-08-05T20:43:39
-tags: []
-title: 'Inculcation: Lie groups, symmetric spaces and beyond'
-aliases: '' 
+tags:
+  - Inculcation
+title: "Inculcation: Lie groups, symmetric spaces and beyond"
+aliases: ""
 ---
 
 ## introductory
@@ -77,7 +78,10 @@ aliases: ''
 - [K-Theory of C*-Algebras (2025) - YouTube](https://www.youtube.com/playlist?list=PLq3E5oubNNoBv8kWv7i5S7z5rHau3U0q9)
 
 
-## transformation groups
+## group actions
 
 
 - [Lie Groups and Geometric Aspects of Isometric Actions - Google Books](https://www.google.co.in/books/edition/Lie_Groups_and_Geometric_Aspects_of_Isom/JG-nCQAAQBAJ?hl=en&gbpv=0)
+
+
+## transformation groups

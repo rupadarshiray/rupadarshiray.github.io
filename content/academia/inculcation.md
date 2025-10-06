@@ -202,6 +202,7 @@ With the language of manifolds/normed vector spaces we can work in geometry, top
 	- Riemannian geometry, semi-Riemannian geometry, GR
 	- Hamiltonian systems and [[inculcation-symplectic-geometry|symplectic geometry]]
 - topology and algebraic topology
+	- [Floer homology](https://math.berkeley.edu/~gbeiner/floer_homology.html)
 - Differential topology, or algebraic topology with a differential viewpoint
 - dynamics
 	- [[inculcation-odes|ODEs - smooth dynamical systems]]

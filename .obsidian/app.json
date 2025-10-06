@@ -4,5 +4,27 @@
   "promptDelete": false,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "mobileToolbarCommands": [
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-checklist-status",
+    "editor:toggle-numbered-list",
+    "editor:configure-toolbar"
+  ]
 }

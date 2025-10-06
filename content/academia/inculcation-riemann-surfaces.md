@@ -1,7 +1,8 @@
 ---
 created: 2025-08-04T19:40:08
 modified: 2025-08-04T19:40:16
-tags: []
+tags:
+  - Inculcation
 title: "Inculcation: Riemann surfaces, that is, complex 1-manifolds, complex algebraic curves, round/flat/hyperbolic surfaces and so on"
 aliases: ""
 ---

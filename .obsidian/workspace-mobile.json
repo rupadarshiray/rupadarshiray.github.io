@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/inculcation-lie-groups.md",
+                "file": "content/academia/inculcation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "inculcation-lie-groups"
+              "title": "inculcation"
             }
           }
         ],
@@ -89,7 +89,7 @@
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
-            "sortOrder": "alphabetical"
+            "sortOrder": "byCreatedTime"
           },
           "icon": "lucide-search",
           "title": "Search"
@@ -133,7 +133,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e036814d1f00b6d6",
@@ -216,8 +216,17 @@
   },
   "active": "f70b61be36528fa8",
   "lastOpenFiles": [
-    "content/academia/inculcation-analysis-finite-vector-spaces.md",
+    "content/academia/inculcation-smooth-manifolds.md",
+    "content/academia/inculcation-lie-groups.md",
+    "content/academia/inculcation-odes.md",
+    "content/academia/inculcation-symplectic-geometry.md",
     "content/academia/inculcation-riemann-surfaces.md",
+    "content/academia/inculcation-linear-constructions.md",
+    "content/academia/inculcation.md",
+    "content/academia/inculcation-analysis-finite-vector-spaces.md",
+    "content/academia/inculcation-groups.md",
+    "content/academia/inculcation-all-of-mechanics.md",
+    "content/academia/inculcation-math-pedias.md",
     "content/about/now.md",
     "/content/workstation/obsidian-and-latex.md",
     "/content/workstation",
@@ -236,15 +245,6 @@
     "content/academia/derivatives-differential-forms-and-beyond-youtube.md",
     "content/academia/my-notes.md",
     "content/academia/summer-25-seminar.md",
-    "content/academia/impa-pdes.md",
-    "content/academia/inculcation-groups.md",
-    "management/my-notes-bsms-sem-8.md",
-    "content/bits/what-is-and-is-not-topological.md",
-    "content/bits/things-i-have-said-in-a-math-class.md",
-    "content/bits/sorting-out-minus-signs-in-differential-geometry.md",
-    "/management/my-notes-bsms-sem-8.md",
-    "/content/bits/the-corresp-between-cm-and-qm.md",
-    "/content/bits/visualizing-higher-dimensions.md",
     "/management",
     "content/bits",
     "/content/bits",
