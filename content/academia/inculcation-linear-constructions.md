@@ -114,7 +114,7 @@ AKA abstract measure theory, probability theory
 AKA the fields of topology, algebraic topology
 
 > [!note] First semester course on **Topology** (AKA general topology/point set topology) - *as opposed to cute topology, we prove more content here*
-> - #book Munkres
+> - `book` Munkres
 > - http://www.math.toronto.edu/ivan/mat327/?resources
 > - http://math.iisc.ac.in/~gadgil/topology-2021/all-lectures/
 > - [Topology (MTH-TOP) - YouTube](https://www.youtube.com/playlist?list=PLp0hSY2uBeP8jgD0wTQM-RjkakSEBdHUD)
@@ -123,8 +123,8 @@ AKA the fields of topology, algebraic topology
 > [!note] First semester course on **Algebraic topology** - *study of holes in topological spaces*
 > We learn *homotopy* groups, *homology* groups and at last *cohomology* groups!
 > 
-> - #book [Hatcher's textbook](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
-> - #lectures [Algebraic Topology - Pierre Albin - YouTube](https://www.youtube.com/playlist?list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b)
+> - `book` [Hatcher's textbook](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
+> - `lectures` [Algebraic Topology - Pierre Albin - YouTube](https://www.youtube.com/playlist?list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b)
 > 
 
 
@@ -133,7 +133,7 @@ AKA the fields of topology, algebraic topology
 
 AKA *"intrinsic differential geometry"* or *analysis on manifolds*.
 
-May try #lectures [Frederic Schuller -International Winter School on Gravity and Light 2015](https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_) without any other context or to get into it fully: [[inculcation-smooth-manifolds]].
+May try `lectures` [Frederic Schuller -International Winter School on Gravity and Light 2015](https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_) without any other context or to get into it fully: [[inculcation-smooth-manifolds]].
 
 
 
@@ -142,7 +142,7 @@ May try #lectures [Frederic Schuller -International Winter School on Gravity and
 AKA *functional analysis*!
 
 
-- #lectures Frederic Schuller - Quantum Theory
+- `lectures` Frederic Schuller - Quantum Theory
 - https://www.kryakin.site/am2/Stein-Shakarchi%5D-4-Functional-Analys.pdf
 - (Papa and grandpa Rudin)
 
