@@ -6,8 +6,6 @@ title: 'Inculcation: everything in a dynamics pov'
 aliases: null
 ---
 
-## motivating dynamical systems
-
 What is "dynamics"? A dynamical system, in general, is a monoid action on a set.
 
 Ignoring the generality, let's consider the definition of a discrete dynamical system: a function $$ f:X\to X $$ on a set is considered to be a **discrete dynamical system** (autonomous) where the iterations of the map $$\mathsf{Id}, f , f^{2}, f^{3}, \dots $$ are considered the time map for $t=0,1,2,3,\dots$. Thus orbit of a point $x\in X$ is defined to be $$ x, f(x), f(f(x)), f(f(f(x))),\dots $$
@@ -27,8 +25,4 @@ Using this simple, extremely general definition, we reinterpret a lot of math in
 - Machines have a natural monoid action.
 
 
-## the fixed point theorem for contractions
-
-
-## complex dynamics
 

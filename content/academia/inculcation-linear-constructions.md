@@ -105,6 +105,7 @@ AKA *rings and modules*
 There are usually three
 
 - **first course on rings and modules**
+	- ![[inculcation-linear-algebra#linear algebra after doing rings and modules]]
 - **commutative algebra**
 - **(non-commutative) algebraic structures**
 
@@ -122,8 +123,10 @@ There are different levels to study representation theory of finite groups:
 	- `book` Artin
 	- `book` Fulton Harris
 	- `book` Dummit and Foote covers all the introductory theory
-- **after doing rings and modules** the same theory hits different, rephrase everything about representations of a group $G$ with its group algebra $\mathbb{C}[G]$
-- **after doing commutative algebra**, I *feel* it will give another vibe
+- **after doing rings and modules** the same theory *hits* different
+	- rephrase everything about representations of a group $G$ with its group algebra $\mathbb{C}[G]$
+- **after doing commutative algebra**
+	- ...
 
 
 ## Over fields
@@ -132,24 +135,28 @@ AKA *fields and galois theory*
 
 
 
-## Out on measure spaces
+## Out on measure spaces and infinite dim vector spaces
 
-AKA abstract measure theory, probability theory
+AKA *functional analysis, abstract measure theory, probability theory*
 
+
+- `lectures` Frederic Schuller - Quantum Theory
+- https://www.kryakin.site/am2/Stein-Shakarchi%5D-4-Functional-Analys.pdf
+- Papa and grandpa Rudin
 
 
 ## Out on topological spaces
 
-AKA the fields of topology, algebraic topology
+AKA the fields of *topology, algebraic topology*
 
-> [!note] First semester course on **Topology** (AKA general topology/point set topology) - *as opposed to cute topology, we prove more content here*
+> [!note] First semester course on **Topology** (AKA general topology/point set topology): *as opposed to cute topology, we prove more content here*
 > - `book` Munkres
 > - http://www.math.toronto.edu/ivan/mat327/?resources
 > - http://math.iisc.ac.in/~gadgil/topology-2021/all-lectures/
 > - [Topology (MTH-TOP) - YouTube](https://www.youtube.com/playlist?list=PLp0hSY2uBeP8jgD0wTQM-RjkakSEBdHUD)
 > - For a quick one lecture introduction with motivation: [Lecture 1: Topology (International Winter School on Gravity and Light 2015) - YouTube](https://www.youtube.com/watch?v=7G4SqIboeig)
 
-> [!note] First semester course on **Algebraic topology** - *study of holes in topological spaces*
+> [!note] First semester course on **Algebraic topology**: *study of holes in topological spaces*
 > We learn *homotopy* groups, *homology* groups and at last *cohomology* groups!
 > 
 > - `book` [Hatcher's textbook](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
@@ -165,14 +172,6 @@ AKA *"intrinsic differential geometry"* or *analysis on manifolds*.
 May try `lectures` [Frederic Schuller -International Winter School on Gravity and Light 2015](https://www.youtube.com/playlist?list=PLFeEvEPtX_0S6vxxiiNPrJbLu9aK1UVC_) without any other context or to get into it fully: [[inculcation-smooth-manifolds]].
 
 
-## Inside infinite dim spaces
-
-AKA *functional analysis*!
-
-
-- `lectures` Frederic Schuller - Quantum Theory
-- https://www.kryakin.site/am2/Stein-Shakarchi%5D-4-Functional-Analys.pdf
-- Papa and grandpa Rudin
 
 
 ## Out on Riemannian manifolds
@@ -183,7 +182,7 @@ AKA *functional analysis*!
 
 Lie groups are famous. There are different levels to study Lie groups:
 
-- **after doing finite groups** one may try to study matrix Lie groups, using knowledge of multivariable calculus, it must not be ideal
+- **after doing finite groups** one may try to study matrix Lie groups, using knowledge of multivariable calculus, it is not ideal
 - **after doing topology, smooth manifolds** you must already know definitions of topological and Lie groups along with their Lie algebras and exponential map
 - **after doing algebraic topology** you will start understanding what simply connected Lie groups allow that its quotients by discrete subgroups don't
 
