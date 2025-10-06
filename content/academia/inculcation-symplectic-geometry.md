@@ -1,9 +1,10 @@
 ---
 created: 2024-12-17T21:26:18
 modified: 2024-12-17T21:26:25
-tags: [Inculcation]
-title: 'Inculcation Symplectic geometry'
-aliases: '' 
+tags:
+  - Inculcation
+title: "Inculcation: Symplectic geometry"
+aliases: ""
 ---
 
 parent: [[inculcation]]

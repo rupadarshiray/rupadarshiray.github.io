@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/inculcation.md",
+                "file": "content/academia/inculcation-math-pedias.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "inculcation"
+              "title": "inculcation-math-pedias"
             }
           }
         ],
@@ -216,13 +216,14 @@
   },
   "active": "f70b61be36528fa8",
   "lastOpenFiles": [
+    "content/academia/inculcation-geodesic-flows.md",
+    "content/academia/inculcation-symplectic-geometry.md",
+    "content/academia/inculcation.md",
     "content/academia/inculcation-smooth-manifolds.md",
     "content/academia/inculcation-lie-groups.md",
     "content/academia/inculcation-odes.md",
-    "content/academia/inculcation-symplectic-geometry.md",
     "content/academia/inculcation-riemann-surfaces.md",
     "content/academia/inculcation-linear-constructions.md",
-    "content/academia/inculcation.md",
     "content/academia/inculcation-analysis-finite-vector-spaces.md",
     "content/academia/inculcation-groups.md",
     "content/academia/inculcation-all-of-mechanics.md",
@@ -244,7 +245,6 @@
     "content/academia/electrodynamics-through-the-years.md",
     "content/academia/derivatives-differential-forms-and-beyond-youtube.md",
     "content/academia/my-notes.md",
-    "content/academia/summer-25-seminar.md",
     "/management",
     "content/bits",
     "/content/bits",
