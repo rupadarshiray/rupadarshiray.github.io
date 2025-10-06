@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/now.md",
+                "file": "content/academia/inculcation-lie-groups.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "now"
+              "title": "inculcation-lie-groups"
             }
           }
         ],
@@ -216,20 +216,24 @@
   },
   "active": "f70b61be36528fa8",
   "lastOpenFiles": [
-    "/content/academia/my-ms-thesis.md",
+    "content/academia/inculcation-analysis-finite-vector-spaces.md",
+    "content/academia/inculcation-riemann-surfaces.md",
+    "content/about/now.md",
+    "/content/workstation/obsidian-and-latex.md",
+    "/content/workstation",
+    "/content/academia/inculcation-riemann-surfaces.md",
+    "/content/academia/inculcation-lie-groups.md",
     "/content/academia",
     "/content",
+    "/content/academia/my-ms-thesis.md",
     "content/academia/my-ms-thesis.md",
-    "content/about/now.md",
     "content/bits/visualizing-higher-dimensions.md",
     "docs/philosophy.md",
-    "/content/academia/inculcation-lie-groups.md",
     "content/academia/academia.md",
     "content/bits/correspondences-in-physics-and-mathematics.md",
     "content/bits/the-corresp-between-cm-and-qm.md",
     "content/academia/electrodynamics-through-the-years.md",
     "content/academia/derivatives-differential-forms-and-beyond-youtube.md",
-    "content/academia/inculcation-analysis-finite-vector-spaces.md",
     "content/academia/my-notes.md",
     "content/academia/summer-25-seminar.md",
     "content/academia/impa-pdes.md",
@@ -241,10 +245,7 @@
     "/management/my-notes-bsms-sem-8.md",
     "/content/bits/the-corresp-between-cm-and-qm.md",
     "/content/bits/visualizing-higher-dimensions.md",
-    "content/academia/my-notes-summer-25.md",
-    "content/academia/inculcation-riemann-surfaces.md",
     "/management",
-    "/content/workstation",
     "content/bits",
     "/content/bits",
     "/content/notes",
