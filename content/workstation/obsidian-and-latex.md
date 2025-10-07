@@ -41,14 +41,14 @@ The notes look like
 
 
 
-![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Screenshot-2025-07-07-002445.png)
+![center|700](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Screenshot-2025-07-07-002445.png)
 
 
 ![center|700](https://i.imgur.com/7NQ8kKa.png)
 
-![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Screenshot-2025-03-23-022450.png)
+![center|700](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Screenshot-2025-03-23-022450.png)
 
-![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Screenshot-2025-07-07-003550.png)
+![center|700](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Screenshot-2025-07-07-003550.png)
 
 
 A few highlights are as follows:
@@ -56,6 +56,7 @@ A few highlights are as follows:
 - Plain-text is just better. More about it here: [Why Plaintext for Notes? | Plaintext Productivity](https://plaintext-productivity.net/2-01-why-plaintext-for-notes.html)
 - LaTeX preambles, snippets, conceal, etc. are available from community plugins. <br> ![](https://raw.githubusercontent.com/artisticat1/obsidian-latex-suite/main/gifs/demo.gif)
 - Even full-on LaTeX code (like TikZ) diagrams can be rendered inside obsidian using plugins. <br> [![Screenshot-2025-07-07-004327.png](https://i.postimg.cc/XJ6DtfNw/Screenshot-2025-07-07-004327.png)](https://postimg.cc/7CXV2T26)
+	- Open https://q.uiver.app/ on the side and copy paste code for your commutative diagram.
 - *Embedding* notes and pieces of notes is a superpower! Rather than using definition/theorem numbers, the notes look like: <br> ![|700](https://i.imgur.com/EpR95Ap.png)
 - Using a very Sympy script one can do calculations on Obsidian (completely offline): https://imgur.com/a/sympy-script-on-obsidian-B6YHR4d
 - Dataview queries can help create a dynamic table of lecture note details, anything you want to display.
@@ -63,7 +64,11 @@ A few highlights are as follows:
 	- I had a lot of notes on manifolds, but I wanted to make a list of all of them. I wrote a query for that! <br> ![Screenshot-2025-07-06-234318.png](https://i.postimg.cc/c1t4ZZcT/Screenshot-2025-07-06-234318.png)
 	- But I prefer a gallery view with little pics: <br> [![Screenshot-2025-07-07-000939.png](https://i.postimg.cc/JzRCvWnT/Screenshot-2025-07-07-000939.png)](https://postimg.cc/6ybP4gCR)
 - [zsviczian/obsidian-excalidraw-plugin: A plugin to edit and view Excalidraw drawings in Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin) is a *active-in-development* plugin and even without a drawing device, it can be used to draw figures, flowcharts and also can be used to hand-write notes! It can even render LaTeX using MathJax, so making math diagrams becomes very simple. This little manifold is made using Exalidraw: <br> [![Screenshot-2025-07-06-234835.png](https://i.postimg.cc/2y1qNZSx/Screenshot-2025-07-06-234835.png)](https://postimg.cc/9wjXGzT4)
+
 ### Exporting notes from Obsidian
+
+
+I don't export notes from Obsidian into LaTeX-like PDFs. The philosophy of a PDF document is incompatible with the philosophy of notemaking in Obsidian. However, I do *"print" Obsidian notes to PDF* and some of them are showcased at [[my-notes]]. People however have invented ways to convert *Obsidian markdown to LaTeX or PDF*. These methods are listed here.
 
 
 - ### "printing" Obsidian notes to PDF
@@ -90,12 +95,14 @@ A few highlights are as follows:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MYJsGksojms?si=EMXPTENV4w141XsC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+I had discussed some philosophy behind long term notetaking in [[hierarchical-longterm-wiki]].
 
 ## for formal documents
 
 ### the debate of LaTeX vs Typst
 
 
+Should you use LaTeX or Typst for making your document? I think the following table is a good check:
 
 | size of *formal* documents $\downarrow$ <br> use-cases $\rightarrow$                          | *Overleaf* users                                                                                                                               | strictly LaTeX code editors                                                            | code editors like VS code (or something better) |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------- |
