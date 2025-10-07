@@ -22,7 +22,7 @@ aliases: ""
 
 
 > [!success] `wiki` https://en.wikipedia.org/wiki/Template:Integrable_systems
-> <iframe src="https://en.wikipedia.org/wiki/Template:Integrable_systems" style="width:100%; border:none;height:900;"></iframe>
+> <iframe src="https://en.wikipedia.org/wiki/Template:Integrable_systems" style="width:100%; border:none;height:900px;"></iframe>
 
 
 - `wikipedia` [Gauge theory (mathematics) - Wikipedia](https://en.wikipedia.org/wiki/Gauge_theory_\(mathematics\))
