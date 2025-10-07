@@ -172,6 +172,7 @@ Interpret heat equation, fluid flows, Schrodinger equation as infinite dimension
 ### to dynamical systems
 
 
-Should be motivated from ODEs, or just plain playing with functions:
+Should be motivated from ODEs, or just plain playing with functions
 
-![[inculcation-dynamics#motivating dynamical systems]]
+![[everything-in-a-dynamics-pov]].
+

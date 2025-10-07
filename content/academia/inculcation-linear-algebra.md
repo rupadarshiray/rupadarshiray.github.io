@@ -27,7 +27,7 @@ aliases:
 > 
 > A very good place to start (basic) mathematics like linear algebra is to read chapters from Napkin:
 > 
-> ![[inculcation-math-pedias#Napkin]]
+> ![[inculcation#Napkin]]
 > 
 
 

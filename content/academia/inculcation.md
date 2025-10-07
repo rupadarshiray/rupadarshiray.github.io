@@ -34,7 +34,7 @@ This has five major sections
 
 
 - [Essence of Group Theory - YouTube](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
-- Chapter 1 and 3 from ![[inculcation-math-pedias#Napkin|Napkin]]
+- Chapter 1 and 3 from ![[inculcation#Napkin|Napkin]]
 
 More into [[inculcation#continue with algebra|doing more algebra]]
 ## big things: vector spaces (linear algebra
@@ -46,7 +46,7 @@ And then for [[inculcation-linear-algebra#a first semester course|a first semest
 ## things in the middle: analysis
 
 
-- from [[inculcation-math-pedias#Napkin]]
+- from [[inculcation#Napkin]]
 	- Chapters 26-30 - Calculus 101
 	- Chapters 42-45 - Total derivatives and differential forms
 	- Chapters 2, 6-8 - Topology
@@ -199,16 +199,15 @@ but start with [[inculcation-all-of-mechanics]]
 With the language of manifolds/normed vector spaces we can work in geometry, topology and physics properly!
 
 - geometry
-	- Riemannian geometry, semi-Riemannian geometry, GR
-	- Hamiltonian systems and [[inculcation-symplectic-geometry|symplectic geometry]]
-- topology and algebraic topology
+	- Riemannian geometry, semi-Riemannian geometry, geodesic flows, GR
+	- Hamiltonian flows and [[inculcation-symplectic-geometry|symplectic geometry]]
+	- [[inculcation-lie-groups|Lie groups, symmetric spaces and beyond]]
+	- [[inculcation-riemann-surfaces|Riemann surfaces, that is, complex 1-manifolds, complex algebraic curves, round/flat/hyperbolic surfaces and so on]]
+- algebraic topology, Differential topology, or algebraic topology with a differential viewpoint
 	- [Floer homology](https://math.berkeley.edu/~gbeiner/floer_homology.html)
-- Differential topology, or algebraic topology with a differential viewpoint
 - dynamics
 	- [[inculcation-odes|ODEs - smooth dynamical systems]]
-	- [[inculcation-dynamics]]
 	- Ergodic theory, dynamical systems in measure spaces
-	- [[inculcation-geodesic-flows]]
 - analysis
 	- Fourier, Harmonic analysis
 	- geometric analysis, spectral analysis
@@ -217,8 +216,6 @@ With the language of manifolds/normed vector spaces we can work in geometry, top
 - PDEs
 	- [Partial Differential Equations - Giovanni Bellettini - Lecture 01 - YouTube](https://www.youtube.com/watch?v=Rq1iRT2LL-8)
 	- `talk` [Mathematics of Turbulent Flows: A Million Dollar Problem! by Edriss S Titi - YouTube](https://www.youtube.com/watch?v=VH4oawCiHPU)
-- algebra, representation theory, algebraic geometry
-	- [[inculcation-groups]], finite groups, Lie groups, their representations
 - mechanics
 	- [[inculcation-all-of-mechanics#Mechanics of points done properly]]
 	- QM and quantum theories [[inculcation-all-of-mechanics#quantization of the mechanics of points]]
@@ -241,15 +238,26 @@ With the language of manifolds/normed vector spaces we can work in geometry, top
 	- Scan the lecture notes as PDF into one file and save it inside your vault. This might seem/be a waste of time, but loosing hard worked lecture notes/not organizing them is a bigger loss.
 - Filling pages upon pages and never returning back onto them is NOT the process, it seems ro me. Return to the notes, think, and solve your own questions.
 
-# more references, roadmaps
+# more references, roadmaps, encyclopedias
 
 
 > [!info] Newsletter?, channel, chat?
 > 
 > You may want to join academic curiosity whatsapp community [here](https://chat.whatsapp.com/CwhtnxvBD0TGBly0yxshRI) for more math content!
 
-- For more roadmaps:
+- Roadmaps:
 	- [The fast track – Sheafification](http://sheafification.com/the-fast-track/)
 	- https://math.ucr.edu/home/baez/books.html
 	- [How to become a GOOD Theoretical Physicist (goodtheorist.science)](https://www.goodtheorist.science/)
 	- http://theportal.wiki/wiki/Read
+- encyclopedias
+	- [The Princeton Companion to Mathematics](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
+	- [Encyclopedia of Mathematics](https://encyclopediaofmath.org/wiki/Main_Page)
+	- [π-Base](https://topology.pi-base.org/)
+
+## Napkin
+
+> [!tip] Evan Chen's [A Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf)
+>- an introduction to a lots of fields of math! (NOT a textbook but a really nice introductory reference)
+>- starts with groups and metric spaces! 
+

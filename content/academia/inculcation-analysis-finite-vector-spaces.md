@@ -11,7 +11,7 @@ aliases:
 > parent:: [[inculcation]]
 
 
-- A lot of these material is present in [[inculcation-math-pedias#Napkin|Napkin]] but it does not give enough page-length to fully grasp the whole topic, maybe?
+- A lot of these material is present in [[inculcation#Napkin|Napkin]] but it does not give enough page-length to fully grasp the whole topic, maybe?
 - [[shifrin-multivariable-mathematics]] does a good job at the calculus
 - Analysis by Herbert Amann and Joachim Escher [Volume I](http://library.lol/main/D52F82501240A7F94F77CCA630B43F6E) or Rudin or Apostol contains the analysis
 

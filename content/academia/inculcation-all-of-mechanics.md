@@ -165,11 +165,13 @@ This doesn't need to be done first, or before [[#Mechanics of points done proper
 
 ## writing the equations
 
-|              | Configuration space                   | Lagrangian | Phase space | Hamiltonian | $V=0$ solutions                                                |
-| ------------ | ------------------------------------- | ---------- | ----------- | ----------- | -------------------------------------------------------------- |
-| 1 point      | $\R^3$ (space)                        |            |             |             | geodesics in $\R^3$ with usual metric, that is, straight lines |
-| $n$ points   | $(\mathbb{R}^{3})^{n}$                |            |             |             |                                                                |
-| 1 rigid body | $SO(3) \ltimes \R^{3}$ (a Lie group!) |            |             |             |                                                                |
+Writing down the ODEs 
+
+|              | Configuration space                   | Lagrangian | Phase space            | Hamiltonian | $V=0$ (force free) solutions                                   |
+| ------------ | ------------------------------------- | ---------- | ---------------------- | ----------- | -------------------------------------------------------------- |
+| 1 point      | $\R^3$ (space)                        |            | $\mathbb{R}^{6}$       |             | geodesics in $\R^3$ with usual metric, that is, straight lines |
+| $n$ points   | $(\mathbb{R}^{3})^{n}$                |            | $(\mathbb{R}^{6})^{n}$ |             |                                                                |
+| 1 rigid body | $SO(3) \ltimes \R^{3}$ (a Lie group!) |            |                        |             |                                                                |
 
 The famous textbooks are
 
@@ -177,12 +179,39 @@ The famous textbooks are
 - Abraham R., Marsden J.E. - Foundations of Mechanics (1987)
 - Jerrold E. Marsden, Tudor S. Ratiu - Introduction To Mechanics And Symmetry A Basic Exposition of Classical Mechanical Systems-Springer (2010)
 
-Similar tables can be found here:
 
-![[inculcation-geodesic-flows#interpreting a lot of systems as geodesic flows and vice versa]]
+
+
+## interpreting a lot of systems as geodesic flows and vice versa
+
+
+| manifold                                                                               | metric                                                                                                                                                         | system corresponding to geodesics                                                                                                                    |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| configuration space $Q$ be any manifold                                                | $g_{ij}$ coming from a (non deg) quadratic Lagrangian $g_{ij}\dot{q}^{i}\dot{q}^{j}$ (with no potential term)                                                  | Lagrangian dynamics for $L=g_{ij}\dot{q}^{i}\dot{q}^{j}$                                                                                             |
+| a surface in $\mathbb{R}^{3}$                                                          | induced by the metric in $\mathbb{\R}^{3}$                                                                                                                     | force free (Newtonian) motion of the particle constrained on the surface, geodesic equation is literally "$\underbrace{ \frac{F}{m} }_{ 0 }=a$" here |
+| ${SO}(3)$ (configuration space of rigid body with one fixed point, say center of mass) | given by the torque-free Lagrangian of a rigid body                                                                                                            | torque-free motion of the rigid body AKA Euler top                                                                                                   |
+| space $Q$ which can be $\R^{n}$ or any manifold                                        | $n(q)^{2}\delta_{ij}$ where $n:Q\to (0, \infty)$ is refractive index                                                                                           | light rays in optics                                                                                                                                 |
+| configuration space $Q$ with metric $g$                                                | $h_{ij}=\frac{2}{m} (E-V(q))g_{ij}$                                                                                                                            | particle in potential $V$ in space $(Q,g)$ with energy $E$                                                                                           |
+| GR spacetime $M$ which can be any manifold                                             | a metric $g$ with Lorenzian signature                                                                                                                          | (relativistic) free particle in the spacetime or light trajectories if it's a null geodesic                                                          |
+| spacetime $(M,g)$ cross $U(1)$ that is $M\times U(1)$                                  | $h= \begin{bmatrix} h_{ij} & h_{\theta i} \\ h_{i\theta} & h_{\theta\theta}   \end{bmatrix}=\begin{bmatrix} g_{ij}+A_{i}A_{j} &-A_{i}\\-A_{i}&1 \end{bmatrix}$ | **Kaluz-Klein theory** of particle of charge $q$ on a GR spacetime with electromagnetic field                                                        |
+
+^[[Classical Mechanics](https://math.ucr.edu/home/baez/classical/texfiles/2005/book/classical_20180116.pdf#page=57.36&gsr=0)]
+
+More examples where the configuration space is specifically a *group* can be found in
+
+> [!hint] Table of configuration spaces that are groups a metric and geodesic flows on them
+>  [Lecture1 slides](https://www.math.utoronto.ca/khesin/teaching/henan/Lecture1slides.pdf) of [Geometric Fluid Dynamics, Fall 2021](https://www.math.utoronto.ca/khesin/teaching/henan/geometricfluids21.html)
+> 
+> ![](https://i.imgur.com/lYZ7n4v.png)
+
 
 
 Here there are PDE dynamics on a infinite dynamical space thought of as "mechanics of a point"! Yes, we can think of fluid dynamics as classical dynamics on an infinite dimensional phase space! This phase space is not a vector space as the equation is non-linear.
+
+
+There are systems that are isomorphic to geodesic flows:
+
+- Kepler two body problem
 
 ## solving the equations
 
@@ -214,7 +243,7 @@ The geometry behind dynamics of a ODE is that of a vector field on a manifold.
 - *Ergodic theory* was invented to ask when does the assumptions made by Boltzmann and others hold.
 - My first reference was [[#^3431f3|Balki's lectures on classical physics]], other physics references include [MIT 8.333 Statistical Mechanics I: Statistical Mechanics of Particles, Fall 2013 - YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg)
 - [Statistical Mechanics From Thermodynamics to the Renormalization Group](http://library.lol/main/A8C329B75A3CB6CEEF87790E8C8C88BA)
-- [Roderich Tumulka's notes](https://www.math.uni-tuebingen.de/de/forschung/maphy/lehre/ss-2019/statisticalphysics/dateien/lecture-notes.pdf) is best reference I've seen, actually talks about the main goal
+- [Roderich Tumulka's notes](https://www.math.uni-tuebingen.de/de/forschung/maphy/lehre/ss-2019/statisticalphysics/dateien/lecture-notes.pdf) is a good one, talks about the main goal
 - [Information Geometry (ucr.edu)](https://math.ucr.edu/home/baez/information/)
 	- Part 17-21 is where thermodynamics is discussed
 - [Classical Mechanics versus Thermodynamics (ucr.edu)](https://math.ucr.edu/home/baez/classical_vs_thermo/)
@@ -240,9 +269,7 @@ No. Not equilibrium statistical mechanics anyways. The following are some pitfal
 
 You can't change information of $10^{23}$ dimensions into $4$ variables, sadly, nope. How is thermodynamics true then? In what sense I mean? Well...Roderich Tumulka's notes above tries to explain a lot. I oscillate between being convinced and not.
 
-However, the following book has a "proof" of Boltzmann's (non-equilibrium stat mech) equation for dilute gases in some very precise sense.
-
-> [!important] Carlo Cercignani, Reinhard Illner, Mario Pulvirenti - The Mathematical Theory of Dilute Gases-Springer-Verlag New York (1994)
+However, the following `book` has a "proof" of Boltzmann's (non-equilibrium stat mech) equation for dilute gases in some very precise sense: *Carlo Cercignani, Reinhard Illner, Mario Pulvirenti - The Mathematical Theory of Dilute Gases-Springer-Verlag New York (1994)*
 
 ## quantization of the mechanics of points
 
@@ -260,10 +287,11 @@ However, the following book has a "proof" of Boltzmann's (non-equilibrium stat m
 > 
 > - [Maths with Physics: Frederic Schuller's Lectures on Quantum Theory with Lecture Notes](http://mathswithphysics.blogspot.com/2016/07/frederic-schullers-lectures-on-quantum.html)
 > - [DR. FREDERIC SCHULLER'S COURSE OF QUANTUM THEORY (richie291.wixsite.com)](https://richie291.wixsite.com/theoreticalphysics/post/dr-frederic-schuller-s-course-of-quantum-theory)
-e
+
+
 So let's ponder on what quantum mechanics does really. It gives us a linear dynamics from a ODE: 
 $$
-\mathrm{Quantizaton}:\mathrm{CM} \ (X,H) \to \mathrm{QM} \ (L^{2}(X), \hat{H})
+\mathrm{Quantization}:\mathrm{CM} \ (X,H) \to \mathrm{QM} \ (L^{2}(X), \hat{H})
 $$
 
 but now we observe the correspondence between them, even though they are very different structure wise:
@@ -366,7 +394,6 @@ Turbulence is still an unsolved problem.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_UoTTq651dE?si=EOi15dGihAaJzt79" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Mechanics with a lattice somewhere
+# Mechanics on a lattice or a graphw
 
 Where does the Ising model sit in all these? Does it even need a "spacetime"?
-
