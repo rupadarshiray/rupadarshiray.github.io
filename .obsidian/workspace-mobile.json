@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/inculcation-symplectic-geometry.md",
+                "file": "content/workstation/obsidian-and-latex.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "inculcation-symplectic-geometry"
+              "title": "obsidian-and-latex"
             }
           }
         ],
@@ -216,6 +216,7 @@
   },
   "active": "f70b61be36528fa8",
   "lastOpenFiles": [
+    "content/academia/inculcation-symplectic-geometry.md",
     "content/academia/inculcation-riemann-surfaces.md",
     "content/academia/inculcation-integrable-systems.md",
     "management/inculcation-math-pedias.md",
@@ -242,7 +243,6 @@
     "/content",
     "content/academia/inculcation-math-pedias.md",
     "content/academia/inculcation-geodesic-flows.md",
-    "content/academia/inculcation-symplectic-geometry.md",
     "content/academia/inculcation.md",
     "content/academia/inculcation-smooth-manifolds.md",
     "content/academia/inculcation-lie-groups.md",

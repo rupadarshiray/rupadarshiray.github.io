@@ -29,13 +29,15 @@ In summary, we choose to implement our use-cases in the following manner:
 
 ## for notetaking
 
-### Why use Obsidian
+
 
 Rather than explaining my setup, I have mimicked it entirely here: [Bilinear-vault](https://github.com/rupadarshiray/Bilinear-vault). You just need to download it (as a zip, say, then extract the files) and open the folder through Obsidian. 
 
 Here is a video showcasing it:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XZDpq-3ozBI?si=YrBzdA4di3xwt8qA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Why use Obsidian
+
 
 The notes look like 
 
