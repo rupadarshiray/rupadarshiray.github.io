@@ -49,7 +49,7 @@ aliases: "Riemann surfaces, that is, complex 1-manifolds, complex algebraic curv
 		- The Uniformization Theorem
 		- Riemann Surfaces and Minimal Surfaces 
 
-### moduli of Riemann surfaces
+## moduli of Riemann surfaces
 
 
 🤔
@@ -57,5 +57,8 @@ aliases: "Riemann surfaces, that is, complex 1-manifolds, complex algebraic curv
 
 ## Flat tori and elliptic curves
 
-## Hyperbolic surfaces, Fuschian groups and Teichmuller theory
+## Higher genus Riemann surfaces, hyperbolic surfaces, Fuschian groups and Teichmuller theory
 
+
+- Automorphism groups
+	- [Isometry groups of hyperbolic surfaces – SPP 2026](https://blog.spp2026.de/isometry-groups-of-hyperbolic-surfaces/)

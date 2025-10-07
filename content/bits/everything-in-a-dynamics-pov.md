@@ -1,9 +1,9 @@
 ---
 created: 2024-10-21T15:20:34+05:30
 modified: 2024-12-07T00:51:21+05:30
-tags: [Inculcation]
-title: 'Inculcation: everything in a dynamics pov'
-aliases: null
+tags: []
+title: 'everything in a dynamics pov'
+aliases: 
 ---
 
 What is "dynamics"? A dynamical system, in general, is a monoid action on a set.
