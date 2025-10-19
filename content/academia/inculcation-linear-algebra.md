@@ -43,24 +43,13 @@ aliases:
 ## a first semester course
 
 > [!note] A first semester course on linear algebra
-> - #lectures #book Linear Algebra Done Right - Sheldon Axler
+> - `lectures` `book` Linear Algebra Done Right - Sheldon Axler
 > 	- [Book website](https://linear.axler.net/), [Third ed pdf](http://library.lol/main/FA472BC434699EFE0F9BD5DC4E2E595E)
 > 	- [YouTube lectures](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
-> - #lectures [Linear Algebra by Dr. K.C. Sivakumar](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7)
+> - `lectures` [Linear Algebra by Dr. K.C. Sivakumar](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7)
 > - Chapters 9-15 from [A Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf)
 > - mostly they cover upto canonical forms, spectral theorem
 
-> [!tip] Philosophy of linear algebra III - what is a vector?
-> - a vector is an element of a **vector space**. no more no less. so you can add them and scale them. but they *belong* somewhere. closure of their operations is also just as important as the operations themselves.
-> 	- now given a basis, lets say, we have a specific pov (coordinates) on the space
-> 	- if we wanna change the basis, the pov (coordinate) changes
-> 	- but that's just how we look at things! doesn't really effect the "sacred space"
-> 	- this also implies that the transformation of the pov (coordinates) must follow certain rule (must be linear transformations) that **preserve the structure of the space**
-> 	- because if we can add vectors, then the **addition of two vector is sacred**, they must not depend on the pov
-> - if you want more characteristic to a vector, like length (or angles) between vectors, then you say the vector is an element of a normed vector space (or an inner product space)
-> 	- again the change of pov must follow certain rule that **preserve the structure of the space**
-> 	- because if we can measure lengths of vectors, then the **lengths are sacred too**, they must not depend on the pov
-> - this philosophy is opposite to "a vector(or tensor) is a specified tuple of numbers that follows some given transformation rule" which definite works~
 
 ---
 
