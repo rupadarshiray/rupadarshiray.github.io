@@ -33,6 +33,7 @@ An alphabetically sorted notes on topics would be hardly desireable. Unrelated t
 Thus, they must be kept in some sort of a hierarchy.
 
 ### highly categorical, rigid (eg: folder-based) structure of notes is undesirable
+
 Structures must be let changed over time. This is simpler to do when just files under a single folder is concerned.
 The dilemma of placing notes on topics with mixed-concepts, which is practically all of the Sciences and especially Mathematics, will be a waste of time. The hierarchy must be kept simple and easy. A unending series of sub-folders would not be such an example.
 
@@ -96,7 +97,9 @@ I prefer the simple `parent.child.grandchild.great-gandchild` style of "."-separ
 
 
 # Resources
+
 The philosophies can be further investigated in:
+
 - "Evergreen Notes": https://notes.andymatuschak.org/
 - "Zettelkasten": https://zettelkasten.de/posts/
 - [Obsidian for Students - A Two-Phase Workflow - 🌳 Walk in the Forest](https://walkintheforest.com/Content/Posts/Obsidian+for+Students+-+A+Two-Phase+Workflow)
