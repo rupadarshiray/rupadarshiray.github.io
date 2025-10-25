@@ -35,24 +35,15 @@
             "id": "f70b61be36528fa8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "content/workstation/obsidian-and-latex.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "content/workstation/obsidian-and-latex.md",
+                "bFile": "content/workstation/obsidian-and-latex.md",
+                "aRef": "4c8646d422e922e2a37d476b7d21613c023810cf^",
+                "bRef": "4c8646d422e922e2a37d476b7d21613c023810cf"
               },
-              "icon": "lucide-file",
-              "title": "obsidian-and-latex"
+              "icon": "git-pull-request",
+              "title": "Diff: obsidian-and-latex"
             }
           }
         ],
@@ -216,6 +207,7 @@
   },
   "active": "f70b61be36528fa8",
   "lastOpenFiles": [
+    "content/workstation/obsidian-and-latex.md",
     "/content/workstation/hierarchical-longterm-wiki.md",
     "/content/workstation",
     "/content/academia/inculcation-linear-algebra.md",
@@ -246,7 +238,6 @@
     "content/academia/inculcation-math-pedias.md",
     "content/academia/inculcation-geodesic-flows.md",
     "content/academia/inculcation.md",
-    "content/academia/inculcation-smooth-manifolds.md",
     "content/bits",
     "/content/notes",
     "/content/about",
