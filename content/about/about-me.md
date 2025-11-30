@@ -8,7 +8,7 @@ title: 'About Me'
 
 My name is Rupadarshi Ray. I am from Balurghat, a town in the northern part of Bengal, India 🇮🇳. I am currently studying in IISER Mohali as a MS21 student of the BSMS programme.
 
-You can learn what I am doing [[about/now|now-a-days here]].
+You can learn what I am doing [[now|now-a-days here]].
 
 ## Socials
 
