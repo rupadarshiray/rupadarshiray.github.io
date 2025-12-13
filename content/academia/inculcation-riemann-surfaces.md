@@ -60,10 +60,10 @@ aliases: "Riemann surfaces, that is, complex 1-manifolds, complex algebraic curv
 
 
 
-## Higher genus Riemann surfaces, hyperbolic surfaces, Fuschian groups and Teichmuller theory
+## Higher genus Riemann surfaces, hyperbolic surfaces, Fuchsian group and Teichmuller theory
 
 
-- Fuschian groups, Teichmuller theory and MCGs
+- Fuchsian group, Teichmuller theory and MCGs
 	- Farb Margalit - Mapping class groups
 	- [GTM091.The.Geometry.of.Discrete.Groups Beardon.A.F..(Springer.1995)](https://cjhb.site/Files.php/Books/Discrete%20Mathematics/GTM091.The.Geometry.of.Discrete.Groups%2C.Beardon.A.F..\(Springer.1995\)\(ISBN.3540907882\)\(T\)\(347s\).pdf)
 - geodesic flow
