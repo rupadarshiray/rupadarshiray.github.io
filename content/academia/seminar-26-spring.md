@@ -9,7 +9,7 @@ aliases: ""
 
 A series of talks is (ongoing and) planned for the spring semester of '26, organized at IISER Mohali.
 
-- *path to LoHS*
+- *path to LoHS and beyond*
 	- Lebesgue integral (Ch 1, Papa Rudin)
 	- (Ch 2, Papa Rudin)
 	- Complex measures (Ch 6, Papa Rudin)
@@ -21,7 +21,7 @@ A series of talks is (ongoing and) planned for the spring semester of '26, organ
 - Following [[2402.15867] An Invitation to Analytic Group Theory](https://arxiv.org/abs/2402.15867)
 	- [x] Sections 1.2 and 1.3: $F_2$ is paradoxical
 	- Section 1.4
-- *Fuchsian group and hyperbolic/Riemann surfaces*
+- *Fuchsian groups $\leftrightarrow$ hyperbolic/Riemann surfaces*
 	- Riemann surfaces and their uniformization, hyperbolic surfaces and their uniformization
 	- ...
 	- (main result 1) Geodesic flow on finite volume(?) hyperbolic surfaces is ergodic
@@ -39,4 +39,4 @@ A series of talks is (ongoing and) planned for the spring semester of '26, organ
 | topological dynamics: Consider $G \to \mathsf{Top}_{*} \xrightarrow{\pi_{1}} \mathsf{Grp}$ and the action ${GL}(2,\Z) \curvearrowright T^{2}$ | Basic algebraic topology like $\pi_{1}$ |                                                                               |
 | measure preserving dynamics and  operators on $L^{2}$ spaces                                                                                  | Basic measure theory                    | LoHS?                                                                         |
 | Riemann surfaces                                                                                                                              | Basic complex analysis                  | more complex analysis! (Riemann surfaces)                                     |
-| Field extensions of $\C(t)$                                                                                                                   |                                         |                                                                               |
+| Field extensions of $\C (t)$                                                                                                                  |                                         |                                                                               |
