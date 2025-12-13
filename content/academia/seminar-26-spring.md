@@ -10,8 +10,7 @@ aliases: ""
 A series of talks is (ongoing and) planned for the spring semester of '26, organized at IISER Mohali.
 
 - *path to LoHS and beyond*
-	- Lebesgue integral (Ch 1, Papa Rudin)
-	- (Ch 2, Papa Rudin)
+	- Lebesgue integral (Ch 1, Papa Rudin), (Ch 2, Papa Rudin)
 	- Complex measures (Ch 6, Papa Rudin)
 	- Following [Functional Analysis, Spectral Theory, and Applications by Manfred Einsiedler, Thomas Ward](https://cjhb.site/Files.php/Books/Book%20Series/GTM/276%20Functional%20Analysis%2C%20Spectral%20Theory%2C%20and%20Applications%20by%20Manfred%20Einsiedler%2C%20Thomas%20Ward.pdf) sections 2.3-4, 3.5
 	- parts of Ch 4
@@ -30,13 +29,13 @@ A series of talks is (ongoing and) planned for the spring semester of '26, organ
 
 ### special talks related to *geometry of spaces and algebra of functions on it*
 
-|           | topics                                                                                                                                        | assuming                                | advert for                                                                    |
-| --------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------------------------------------------------------------- |
-| space     | Metric spaces $X$ $\leftrightarrow$ rings of continuous functions $\mathcal{C}(X)$                                                            | only Sem 5 courses                      | the whole philosophy, the course on Rings and modules, the course on topology |
-| functions | Banach algebras and $\mathsf{c*}$-algebras, and how they correspond to locally compact Hausdorff  (from above)                                | courses upto Sem 7                      | LoHS                                                                          |
-| space     | smooth manifolds $X$ and $\mathcal{C}^{\infty}(X)$                                                                                            | smooth manifolds from Sem 7             |                                                                               |
-| functions | "smooth $\R$-algebras"                                                                                                                        |                                         |                                                                               |
-| space     | topological dynamics: Consider $G \to \mathsf{Top}_{*} \xrightarrow{\pi_{1}} \mathsf{Grp}$ and the action ${GL}(2,\Z) \curvearrowright T^{2}$ | Basic algebraic topology like $\pi_{1}$ |                                                                               |
-| functions | measure preserving dynamics and  operators on $L^{2}$ spaces                                                                                  | Basic measure theory                    | LoHS?                                                                         |
-| space     | Riemann surfaces                                                                                                                              | Basic complex analysis                  | more complex analysis! (Riemann surfaces)                                     |
-| functions | Field extensions of $\C (t)$                                                                                                                  |                                         |                                                                               |
+|  topics                                                                                                                                        | assuming                                | advert for                                                                    |
+|  --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | ----------------------------------------------------------------------------- |
+| **(space)**      Metric spaces $X$ $\leftrightarrow$ rings of continuous functions $\mathcal{C}(X)$                                                            | only Sem 5 courses                      | the whole philosophy, the course on Rings and modules, the course on topology |
+| **(functions)**  Banach algebras and $\mathsf{c*}$-algebras, and how they correspond to locally compact Hausdorff topological spaces (from above)              | courses upto Sem 7                      | LoHS                                                                          |
+| **(space)**      smooth manifolds $X$ and $\mathcal{C}^{\infty}(X)$                                                                                            | smooth manifolds from Sem 7             |                                                                               |
+| **(functions)**  "smooth $\R$-algebras"                                                                                                                        |                                         |                                                                               |
+| **(space)**      topological dynamics: Consider $G \to \mathsf{Top}_{*} \xrightarrow{\pi_{1}} \mathsf{Grp}$ and the action ${GL}(2,\Z) \curvearrowright T^{2}$ | Basic algebraic topology like $\pi_{1}$ |                                                                               |
+| **(functions)**  measure preserving dynamics and  operators on $L^{2}$ spaces                                                                                  | Basic measure theory                    | LoHS?                                                                         |
+| **(space)**      Riemann surfaces                                                                                                                              | Basic complex analysis                  | more complex analysis! (Riemann surfaces)                                     |
+| **(functions)**  Field extensions of $\mathbb{C} (t)$                                                                                                                  |                                         |                                                                               |
