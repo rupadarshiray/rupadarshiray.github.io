@@ -2,6 +2,7 @@
 created: 2025-06-17T18:24:19
 modified: 2025-06-17T18:27:07
 tags:
+  - seminar
 aliases:
 title: Summer 2025 seminar course on Riemann surfaces (and beyond)
 ---
@@ -37,7 +38,7 @@ Possible references for topics in Riemann surfaces:
 
 (Narasimhan may be too daunting)
 
-![[inculcation-riemann-surfaces]]
+More at: [[inculcation-riemann-surfaces]]
 ## more events to attend in summer
 
 - [Summer School on Rigidity of Discrete Groups, June 30 – July 4, 2025 at IISER Mohali](https://docs.google.com/document/d/18rjLGn7hJHEmRk-QYcSysw5hH7nbYy5A/edit?tab=t.0#heading=h.afyu0gteis61)
@@ -45,7 +46,3 @@ Possible references for topics in Riemann surfaces:
 ## epilogue
 
 - A message from Kapil Hari, the Dean academics: https://iisermmag.wordpress.com/2012/08/23/message-from-the-dean-academics/
-
-
----
-
