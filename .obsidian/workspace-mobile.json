@@ -30,24 +30,8 @@
               "icon": "lucide-file",
               "title": "academia"
             }
-          },
-          {
-            "id": "f70b61be36528fa8",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "aFile": "content/workstation/obsidian-and-latex.md",
-                "bFile": "content/workstation/obsidian-and-latex.md",
-                "aRef": "4c8646d422e922e2a37d476b7d21613c023810cf^",
-                "bRef": "4c8646d422e922e2a37d476b7d21613c023810cf"
-              },
-              "icon": "git-pull-request",
-              "title": "Diff: obsidian-and-latex"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,15 +189,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f70b61be36528fa8",
+  "active": "1a2b3208518c9f5a",
   "lastOpenFiles": [
+    "content/academia/seminar-26-spring.md",
+    "content/academia/seminar-25-summer.md",
+    "/content/academia/seminar-26-spring.md",
+    "/quartz.config.ts",
+    "/docs/index.md",
+    "/docs",
+    "/content/log/log 12021-12.md",
+    "/content/log/log 12021-12-29.md",
+    "/content/log/log 12021-11-02.md",
+    "/content/log/log 12021-10-31.md",
+    "/content/log",
+    "/content/academia/seminar-25-summer.md",
+    "/content/academia/my-ms-thesis.md",
+    "/content/academia/inculcation-riemann-surfaces.md",
+    "/content/about/about-me.md",
+    "/content/about",
+    "/content/academia",
+    "/content",
     "content/workstation/obsidian-and-latex.md",
     "/content/workstation/hierarchical-longterm-wiki.md",
     "/content/workstation",
     "/content/academia/inculcation-linear-algebra.md",
     "/content/academia/inculcation-integrable-systems.md",
-    "/content/academia",
-    "/content",
     "content/academia/inculcation-symplectic-geometry.md",
     "content/academia/inculcation-riemann-surfaces.md",
     "content/academia/inculcation-integrable-systems.md",
@@ -225,23 +225,7 @@
     "content/bits/everything-in-a-dynamics-pov.md",
     "/content/bits",
     "/content/academia/inculcation-all-of-mechanics.md",
-    "/management/inculcation-math-pedias.md",
-    "/management/inculcation-groups.md",
-    "/management/inculcation-geodesic-flows.md",
-    "management/inculcation-geodesic-flows.md",
     "/management",
-    "/content/academia/inculcation-smooth-manifolds.md",
-    "/content/academia/inculcation-riemann-surfaces.md",
-    "/content/academia/inculcation-odes.md",
-    "/content/academia/inculcation-lie-groups.md",
-    "/content/academia/inculcation-analysis-finite-vector-spaces.md",
-    "content/academia/inculcation-math-pedias.md",
-    "content/academia/inculcation-geodesic-flows.md",
-    "content/academia/inculcation.md",
-    "content/bits",
-    "/content/notes",
-    "/content/about",
-    "/quartz/styles/custom.scss",
-    "management"
+    "content/bits"
   ]
 }
