@@ -1,7 +1,8 @@
 {
-  "cssTheme": "Primary",
+  "cssTheme": "Serenity",
   "theme": "moonstone",
   "baseFontSize": 12,
   "accentColor": "",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "textFontFamily": "Latin Modern Sans 10"
 }
