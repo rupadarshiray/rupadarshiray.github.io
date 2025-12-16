@@ -1,19 +1,6 @@
 {
-  "serenity-theme@@contrast-dark": "true-black-dark",
+  "serenity-theme@@contrast-dark": "medium-contrast-dark",
   "serenity-theme@@color-scheme-select": "theme-nord-s",
-  "serenity-theme@@font-bundle-select": "robust-font",
-  "serenity-theme@@color-accent-class-select": "auto-accent",
-  "serenity-theme@@contrast-light": "low-contrast-light",
-  "serenity-theme@@flat-mode": true,
-  "serenity-theme@@fonts-source": "custom-font",
-  "serenity-theme@@font-secondary-custom": "Latin Modern Sans 10",
-  "serenity-theme@@bold-color": "var(--color-red)",
-  "serenity-theme@@italic-color": "var(--color-cyan)",
-  "serenity-theme@@h1-align": "center",
-  "serenity-theme@@h1-bottom-border": true,
-  "serenity-theme@@embeds-style": "embed-normal",
-  "serenity-theme@@hide-embed-title": true,
-  "serenity-theme@@embed-max-height": "4000px",
-  "serenity-theme@@hide-close-tab": true,
+  "serenity-theme@@font-bundle-select": "obsidian-font",
   "serenity-theme@@active-line-highlight": false
 }
