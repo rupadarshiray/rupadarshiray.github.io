@@ -1,9 +1,11 @@
 ---
 created: 2025-09-09T18:11:55
 modified: 2025-09-09T18:12:12
-tags: []
-title: 'My MS thesis'
-aliases: '' 
+tags:
+  - thesis
+  - notes
+title: My MS thesis
+aliases: ""
 ---
 
 
