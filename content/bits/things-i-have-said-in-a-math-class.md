@@ -7,5 +7,6 @@ aliases: null
 
 - In _Knot theory_ class, when we were supposed to  "attach a cylinder to a surface", I blurted out we need to *attach a wormhole*.
 - In ODEs class, I once said "you can extend every continuous function on the closure of its domain". This is obviously false as the necessary condition on metric spaces is that the function be uniformly continuous.
-- In topology class, I once started describing construction of $\RP^2$ while we actually needed the construction of $\RP^1$
-- In a class on classifying meromorphic functions on a complex tori, I pondered if we can order two pole/zero data by dictionary o
+- In topology class, I once started describing construction of $\R P^2$ while we actually needed the construction of $\R P^1$
+- In a class on classifying meromorphic functions on a complex tori, I pondered if we can order two pole/zero data by dictionary ordering on the pair (number of poles, number of zeros). This was not received well.
+- 
