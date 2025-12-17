@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "management/mth303-monsoon-12023.md",
+                "file": "content/workstation/constructing-hierarchical-wiki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mth303-monsoon-12023"
+              "title": "constructing-hierarchical-wiki"
             }
           }
         ]
@@ -191,6 +191,8 @@
   },
   "active": "1a2b3208518c9f5a",
   "lastOpenFiles": [
+    "docs/migrating from Quartz 3.md",
+    "management/mth303-monsoon-12023.md",
     "content/about/now.md",
     "content/index.md",
     "content/bits/visualizing-higher-dimensions.md",
@@ -221,8 +223,6 @@
     "/content/about",
     "/content/academia",
     "/content",
-    "content/workstation/obsidian-and-latex.md",
-    "/content/workstation/hierarchical-longterm-wiki.md",
     "/content/workstation",
     "/content/bits",
     "/management",
