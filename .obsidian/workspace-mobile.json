@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/my-ms-thesis.md",
+                "file": "content/travel/himachal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "my-ms-thesis"
+              "title": "himachal"
             }
           }
         ],
@@ -240,6 +240,7 @@
   },
   "active": "67e124011fc435a9",
   "lastOpenFiles": [
+    "content/academia/my-ms-thesis.md",
     "content/academia/my-books.md",
     "content/academia/my-notes.md",
     "content/travel/himachal.md",
@@ -260,7 +261,6 @@
     "content/bits/everything-in-a-dynamics-pov.md",
     "content/art/dark-academia-music.md",
     "content/bits/the-corresp-between-cm-and-qm.md",
-    "content/academia/my-ms-thesis.md",
     "content/academia/my-notes-summer-25.md",
     "content/academia/derivatives-differential-forms-and-beyond-youtube.md",
     "content/academia/academia.md",
