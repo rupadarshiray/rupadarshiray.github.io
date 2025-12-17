@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Primary",
   "theme": "moonstone",
-  "baseFontSize": 12,
+  "baseFontSize": 16,
   "accentColor": "",
   "baseFontSizeAction": true,
   "textFontFamily": "Latin Modern Sans 10"

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/workstation/constructing-hierarchical-wiki.md",
+                "file": "content/academia/seminar-26-spring.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "constructing-hierarchical-wiki"
+              "title": "seminar-26-spring"
+            }
+          },
+          {
+            "id": "7f5bbc9672210f63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/bits/things-i-have-said-in-a-math-class.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "things-i-have-said-in-a-math-class"
+            }
+          },
+          {
+            "id": "67e124011fc435a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/academia/my-ms-thesis.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "my-ms-thesis"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -59,7 +108,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "aliases",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -189,43 +238,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1a2b3208518c9f5a",
+  "active": "67e124011fc435a9",
   "lastOpenFiles": [
+    "content/academia/my-books.md",
+    "content/academia/my-notes.md",
+    "content/travel/himachal.md",
+    "content/bits/things-i-have-said-in-a-math-class.md",
+    "content/workstation/hierarchical-longterm-wiki.md",
+    "content/travel",
+    "content/index.md",
+    "content/academia/seminar-26-spring.md",
+    "content/academia/inculcation-odes.md",
+    "content/academia/inculcation-analysis-finite-vector-spaces.md",
+    "content/academia/inculcation-riemann-surfaces.md",
+    "content/academia/inculcation-symplectic-geometry.md",
+    "content/workstation/constructing-hierarchical-wiki.md",
     "docs/migrating from Quartz 3.md",
     "management/mth303-monsoon-12023.md",
     "content/about/now.md",
-    "content/index.md",
     "content/bits/visualizing-higher-dimensions.md",
     "content/bits/everything-in-a-dynamics-pov.md",
     "content/art/dark-academia-music.md",
     "content/bits/the-corresp-between-cm-and-qm.md",
-    "content/workstation/hierarchical-longterm-wiki.md",
     "content/academia/my-ms-thesis.md",
     "content/academia/my-notes-summer-25.md",
-    "content/academia/my-books.md",
     "content/academia/derivatives-differential-forms-and-beyond-youtube.md",
     "content/academia/academia.md",
-    "content/academia/seminar-26-spring.md",
     "content/academia/seminar-25-summer.md",
     "/content/academia/seminar-26-spring.md",
     "/quartz.config.ts",
     "/docs/index.md",
     "/docs",
-    "/content/log/log 12021-12.md",
-    "/content/log/log 12021-12-29.md",
-    "/content/log/log 12021-11-02.md",
-    "/content/log/log 12021-10-31.md",
     "/content/log",
-    "/content/academia/seminar-25-summer.md",
-    "/content/academia/my-ms-thesis.md",
-    "/content/academia/inculcation-riemann-surfaces.md",
-    "/content/about/about-me.md",
     "/content/about",
     "/content/academia",
     "/content",
     "/content/workstation",
     "/content/bits",
-    "/management",
-    "content/bits"
+    "/management"
   ]
 }
