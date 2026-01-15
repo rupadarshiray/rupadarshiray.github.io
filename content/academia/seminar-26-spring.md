@@ -10,7 +10,7 @@ aliases: ""
 A series of talks is (ongoing and) planned for the spring semester of '26, organized at IISER Mohali.
 
 - *path to LoHS and beyond*
-	- Lebesgue integral (Ch 1, Papa Rudin), (Ch 2, Papa Rudin)
+	- [x] Lebesgue integral (Ch 1, Papa Rudin), (Ch 2, Papa Rudin)
 	- Complex measures (Ch 6, Papa Rudin)
 	- Following [Functional Analysis, Spectral Theory, and Applications by Manfred Einsiedler, Thomas Ward](https://cjhb.site/Files.php/Books/Book%20Series/GTM/276%20Functional%20Analysis%2C%20Spectral%20Theory%2C%20and%20Applications%20by%20Manfred%20Einsiedler%2C%20Thomas%20Ward.pdf) sections 2.3-4, 3.5
 	- parts of Ch 4
@@ -21,7 +21,8 @@ A series of talks is (ongoing and) planned for the spring semester of '26, organ
 	- [x] Sections 1.2 and 1.3: $F_2$ is paradoxical
 	- Section 1.4
 - *Fuchsian groups $\leftrightarrow$ hyperbolic/Riemann surfaces*
-	- Riemann surfaces and their uniformization, hyperbolic surfaces and their uniformization
+	- [x] To hell with properly discontinuous actions
+	- 
 	- ...
 	- (main result 1) Geodesic flow on finite volume(?) hyperbolic surfaces is ergodic
 - Following [Hall's Quantum Theory for Mathematicians.pdf](http://staff.ustc.edu.cn/~shmj/Reference/GTM267%20Quantum%20Theory%20for%20Mathematicians.pdf)
