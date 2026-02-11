@@ -1,8 +1,8 @@
 {
   "cssTheme": "Serenity",
   "theme": "moonstone",
-  "baseFontSize": 12,
+  "baseFontSize": 16,
   "accentColor": "",
-  "baseFontSizeAction": true,
+  "baseFontSizeAction": false,
   "textFontFamily": "Latin Modern Sans 10"
 }
