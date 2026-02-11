@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/academia.md",
+                "file": "content/academia/seminar-26-spring.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "academia"
+              "title": "seminar-26-spring"
             }
           },
           {
-            "id": "f70b61be36528fa8",
+            "id": "7f5bbc9672210f63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/inculcation-symplectic-geometry.md",
+                "file": "content/bits/things-i-have-said-in-a-math-class.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "inculcation-symplectic-geometry"
+              "title": "things-i-have-said-in-a-math-class"
+            }
+          },
+          {
+            "id": "67e124011fc435a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/bits/ordering-math-by-realism.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ordering-math-by-realism"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +108,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "aliases",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -214,43 +238,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f70b61be36528fa8",
+  "active": "67e124011fc435a9",
   "lastOpenFiles": [
-    "content/academia/inculcation-riemann-surfaces.md",
-    "content/academia/inculcation-integrable-systems.md",
-    "management/inculcation-math-pedias.md",
-    "management/inculcation-groups.md",
-    "/content/academia/inculcation.md",
-    "/content/academia/inculcation-linear-constructions.md",
-    "/content/bits/everything-in-a-dynamics-pov.md",
+    "content/travel/himachal.md",
+    "content/workstation/constructing-a-mathematics-wiki.md",
+    "content/bits/things-i-have-said-in-a-math-class.md",
+    "content/bits/it-is-not-divided-into.md",
+    "content/bits/ordering-math-by-realism.md",
+    "content/bits/visualizing-higher-dimensions.md",
     "content/bits/everything-in-a-dynamics-pov.md",
-    "/content/bits",
-    "/content/academia/inculcation-integrable-systems.md",
-    "/content/academia/inculcation-all-of-mechanics.md",
-    "/management/inculcation-math-pedias.md",
-    "/management/inculcation-groups.md",
-    "/management/inculcation-geodesic-flows.md",
-    "management/inculcation-geodesic-flows.md",
-    "/management",
-    "/content/academia/inculcation-smooth-manifolds.md",
-    "/content/academia/inculcation-riemann-surfaces.md",
-    "/content/academia/inculcation-odes.md",
-    "/content/academia/inculcation-linear-algebra.md",
-    "/content/academia/inculcation-lie-groups.md",
-    "/content/academia/inculcation-analysis-finite-vector-spaces.md",
+    "content/academia/seminar-26-spring.md",
+    "content/academia/seminar-25-summer.md",
+    "content/academia/inculcation-integrable-systems.md",
+    "content/academia/best-works-in-some1.md",
+    "content/academia/math-at-iiserm-electives.md",
+    "content/academia/shifrin-multivariable-mathematics.md",
+    "content/academia/inculcation-analysis-finite-vector-spaces.md",
+    "content/academia/my-notes.md",
+    "content/academia/my-notes-summer-25.md",
+    "content/academia/my-ms-thesis.md",
+    "content/academia/impa-pdes.md",
+    "content/academia/my-books.md",
+    "content/academia/derivatives-differential-forms-and-beyond-youtube.md",
+    "management/math-at-iiserm.md",
+    "management/math-at-iiserm-major.md",
+    "management/electrodynamics-through-the-years.md",
+    "content/workstation/hierarchical-longterm-wiki.md",
+    "content/travel",
+    "content/index.md",
+    "content/academia/inculcation-odes.md",
+    "/quartz.config.ts",
+    "/docs",
+    "/content/log",
+    "/content/about",
     "/content/academia",
     "/content",
-    "content/academia/inculcation-math-pedias.md",
-    "content/academia/inculcation-geodesic-flows.md",
-    "content/academia/inculcation-symplectic-geometry.md",
-    "content/academia/inculcation.md",
-    "content/academia/inculcation-smooth-manifolds.md",
-    "content/academia/inculcation-lie-groups.md",
     "/content/workstation",
-    "content/bits",
-    "/content/notes",
-    "/content/about",
-    "/quartz/styles/custom.scss",
-    "management"
+    "/content/bits",
+    "/management"
   ]
 }

@@ -2,6 +2,7 @@
 created: 2025-06-19T23:09:00
 modified: 2025-06-19T23:09:00
 tags:
+  - notes
 title: My notes during summer '25
 aliases:
 ---

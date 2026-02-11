@@ -8,7 +8,6 @@ aliases: ''
 
 ## it is not divided into mathematics and physics
 
-The concern is mainly for people confused between a mathematics and a physics major.
 
 The actual division is into
 
@@ -23,6 +22,6 @@ The actual division is into
 
 
 
-## it is not divided into analysis, algebra, topology and geometry
+## it is not divided into analysis, algebra, topology and geometry, or is it?
 
 
