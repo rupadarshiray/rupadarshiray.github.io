@@ -21,6 +21,7 @@ aliases: ""
 
 --->
 
+
 ## notes
 
 
@@ -29,7 +30,7 @@ aliases: ""
 	- [Boundary of simply connected Hadamard manifolds](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.curvature%20non-positive.boundary.pdf)
 	- Visual metric on the boundary of CAT(-1) spaces
 - Symmetric spaces of Euclidean/non-compact type
-	- n (coming soon!)
+	- $\mathsf{Pd}(n,\R)$ (coming soon!)
 		- $\mathit{GL}(n,\R) \curvearrowright \mathsf{Pd}(n,\R)$ (coming soon!)
 		- $\mathsf{Pd}(2,\R)$ (coming soon!)
 		- $\mathsf{SPd}(2,\R)$ (coming soon!)
@@ -43,6 +44,9 @@ aliases: ""
 	- undefined (coming soon!)
 	- Counting orbits of discrete subgroups of $\mathit{O}^{+}(1,n)(\R)$ in $\R \pmb{H}^n$ (coming soon!)
 	- Exponential sum of a discrete subgroup of $\mathrm{Isom}(\R \pmb{H}^n)$ (coming soon!)
+- [Riemannian manifolds with negative curvature](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.curvature%20negative.pdf)
+	- [Geodesic flow on Riemannian manifolds of negative curvature](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.curvature%20negative.geodesic%20flow.pdf)
+	- [Discrete subgroup of isometry group of a simply connected Riemannian manifold of negative curvature](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.curvature%20negative.Isom%20discrete%20subg.pdf)
 
 ## background
 
@@ -97,22 +101,24 @@ aliases: ""
 		- Compact subgroups of $\mathit{GL}(n)(\R)$ (coming soon!)
 	- group FinVec-representations
 		- $\mathsf{sl}(2, \mathbb{C})$ (coming soon!)
-			- $\cat{FinVec}_{\mathbb{C}}$ irreducible representations of $\mathfrak{sl}{(2,\mathbb{C})}$ (coming soon!)
-			- $2 \otimes 3 = 5\oplus  3\oplus  1$ for $\cat{FinVec}_{\mathbb{C}}$ irreps of $\mathsf{sl}({2,\mathbb{C}})$ (coming soon!)
-			- $\mathbfit{Sym}^{2}\mathbfit{Sym}^{2}(\mathbb{C}^{2}) \isom_{\mathit{SL}_{\mathbb{C}}(2)} \mathbfit{Sym}^{0}(\mathbb{C}^{2})\oplus  \mathbfit{Sym}^{4}(\mathbb{C}^{2})$ (coming soon!)
-	- $\R$-manifold semi-Riemannian (coming soon!)
-		- Riemannian connection (coming soon!)
-		- Curvature of a Riemannian manifold (coming soon!)
-		- Exponential map from tangent bundle (coming soon!)
-		- Quotients of Riemannian manifolds (coming soon!)
+			- $\mathsf{FinVec}_{\mathbb{C}}$ irreducible representations of $\mathfrak{sl}{(2,\mathbb{C})}$ (coming soon!)
+			- $2 \otimes 3 = 5\oplus  3\oplus  1$ for $\mathsf{FinVec}_{\mathbb{C}}$ irreps of $\mathsf{sl}({2,\mathbb{C}})$ (coming soon!)
+			- $\mathit{Sym}^{2}\mathit{Sym}^{2}(\mathbb{C}^{2}) \isom_{\mathit{SL}_{\mathbb{C}}(2)} \mathit{Sym}^{0}(\mathbb{C}^{2})\oplus  \mathit{Sym}^{4}(\mathbb{C}^{2})$ (coming soon!)
+	- [$\R$-manifold semi-Riemannian](https://rupadarshiray.github.io/notes/sett.Man.R%20O.pdf)
+		- [Riemannian connection](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riemannian%20connection.pdf)
+		- [Curvature of a Riemannian manifold](https://rupadarshiray.github.io/notes/sett.Man.R%20O.curvature.pdf)
+		- [Exponential map from tangent bundle](https://rupadarshiray.github.io/notes/sett.Man.R%20O.exp.pdf)
+		- [Quotients of Riemannian manifolds](https://rupadarshiray.github.io/notes/sett.Man.R%20O.quotient.pdf)
 		- Moduli space of quotients (coming soon!)
-		- Totally geodesic submanifolds of semi-Riemannian manifolds (coming soon!)
-		- Isometries of a semi-Riemannian manifold (coming soon!)
-		- Complete Riemannian manifolds (coming soon!)
+		- [Totally geodesic submanifolds of semi-Riemannian manifolds](https://rupadarshiray.github.io/notes/sett.Man.R%20O.sub%20geod.pdf)
+		- [Isometries of a semi-Riemannian manifold](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Isom.pdf)
+		- [Complete Riemannian manifolds](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.pdf)
 		- Invariant Riemannian metrics on homogeneous manifolds (coming soon!)
 		- Homogeneous manifold with compact stabilizer (coming soon!)
-		- Riemannian homogeneous manifolds where $\exp_{p}$ is a diffeomorphism (coming soon!)
-		- Laplacian on a Riemannian manifold (coming soon!)
+		- [Riemannian homogeneous manifolds where $\exp_{p}$ is a diffeomorphism](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.uniquely%20homog.pdf)
+		- [Laplacian on a Riemannian manifold](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Lapl.pdf)
+		- [Uniquely geodesic complete Riemannian manifolds](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.uniquely.pdf)
+		- [Riemannian manifolds with non-positive sectional curvature](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.curvature%20non-positive.pdf)
 	- low dimensions and geometrization
 		- smooth $\R$-manifolds of dimension 2 (coming soon!)
 		- smooth $\R$-manifolds of dimension 3 (coming soon!)
@@ -128,8 +134,8 @@ aliases: ""
 	- Interpretation of measure preserving endomorphisms (coming soon!)
 - Metric spaces (coming soon!)
 	- continuous maps
-		- $\mathrm{End}\cat{Top}(X,Y)$ (coming soon!)
-		- Pre-compact subsets of $(\mathrm{End}\cat{Top}(X,Y), \mathsf{T}_{\text{cpt}})$ (coming soon!)
+		- $\mathrm{End}\mathsf{Top}(X,Y)$ (coming soon!)
+		- Pre-compact subsets of $(\mathrm{End}\mathsf{Top}(X,Y), \mathsf{T}_{\text{cpt}})$ (coming soon!)
 	- metric geometry
 		- Geodesics in a metric space (coming soon!)
 		- Metric space isometries (coming soon!)
@@ -156,7 +162,6 @@ aliases: ""
 
 - [References for GGD GTG GGT AGT](https://rupadarshiray.github.io/notes/REF%20GGD%20GTG%20GGT%20AGT.pdf)
 - [Rigidity theorems by Mostow, Sullivan, Tukia, Yue, Ivanov](https://rupadarshiray.github.io/notes/REF%20GGD%20GTG%20GGT%20AGT.rigidity.pdf)
-
 
 ## presentations
 
