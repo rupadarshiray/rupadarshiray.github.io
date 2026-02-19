@@ -21,7 +21,6 @@ aliases: ""
 
 --->
 
-
 ## notes
 
 
@@ -30,8 +29,8 @@ aliases: ""
 	- [Boundary of simply connected Hadamard manifolds](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.curvature%20non-positive.boundary.pdf)
 	- Visual metric on the boundary of CAT(-1) spaces
 - Symmetric spaces of Euclidean/non-compact type
-	- $\mathsf{Pd}(n,\R)$ (coming soon!)
-		- $\mathit{GL}(n,\R) \curvearrowright \mathsf{Pd}(n,\R)$ (coming soon!)
+	- [$\mathsf{Pd}(n,\R)$](https://rupadarshiray.github.io/notes/space.Mat.Pd.n.pdf)
+		- [$\mathit{GL}(n,\R) \curvearrowright \mathsf{Pd}(n,\R)$](https://rupadarshiray.github.io/notes/space.Mat.Pd.n.action%20GL%20n%20R.pdf)
 		- $\mathsf{Pd}(2,\R)$ (coming soon!)
 		- $\mathsf{SPd}(2,\R)$ (coming soon!)
 	- $\mathsf{T}$-closed, closed subgroups of $GL(n,\R)$ (coming soon!)
@@ -39,11 +38,12 @@ aliases: ""
 	- $\mathsf{T}$-closed Lie subalgebras are reductive (coming soon!)
 - Quasi-conformal maps on $S^{n}$
 - $\R H^{n}$ (coming soon!) and hyperbolic manifolds
-	- $\mathit{SL}(2,\R) \curvearrowright H^{2}_{\mathrm{U}}$ (coming soon!)
-	- Hyperbolic surfaces
-	- [Geodesic flow of Fuchsian groups and hyperbolic surfaces](https://rupadarshiray.github.io/notes/subst.R%20SL%202%20discrete%20subg.geodesic%20flow.pdf)
-	- Counting orbits of discrete subgroups of $\mathit{O}^{+}(1,n)(\R)$ in $\R \pmb{H}^n$ (coming soon!)
-	- Exponential sum of a discrete subgroup of $\mathrm{Isom}(\R \pmb{H}^n)$ (coming soon!)
+	- [$\mathit{SL}(2,\R) \curvearrowright H^{2}_{\mathrm{U}}$](https://rupadarshiray.github.io/notes/space.R.2.C%20upper.SL%20R%202%20action.pdf)
+	- [Fuchsian groups and hyperbolic surfaces](https://rupadarshiray.github.io/notes/subst.R%20SL%202%20discrete%20subg.pdf)
+		- [Geodesic flow of Fuchsian groups and hyperbolic surfaces](https://rupadarshiray.github.io/notes/subst.R%20SL%202%20discrete%20subg.geodesic%20flow.pdf)
+	- [Discrete subgroups of $O^{+}(1,n)$ and hyperbolic manifolds/orbifolds](https://rupadarshiray.github.io/notes/subst.R%20O+%201%20n%20subg%20discr.pdf)
+		- [Counting orbits of discrete subgroups of $\mathit{O}^{+}(1,n)(\R)$ in $\R \pmb{H}^n$](https://rupadarshiray.github.io/notes/subst.R%20O+%201%20n%20subg%20discr.orbit%20count.pdf)
+		- [Exponential sum of a discrete subgroup of $\mathrm{Isom}(\R \pmb{H}^n)$](https://rupadarshiray.github.io/notes/subst.R%20O+%201%20n%20subg%20discr.exp%20sum.pdf)
 - [Riemannian manifolds with negative curvature](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.curvature%20negative.pdf)
 	- [Geodesic flow on Riemannian manifolds of negative curvature](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.curvature%20negative.geodesic%20flow.pdf)
 	- [Discrete subgroup of isometry group of a simply connected Riemannian manifold of negative curvature](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.curvature%20negative.Isom%20discrete%20subg.pdf)
@@ -73,7 +73,7 @@ aliases: ""
 		- [Locally compact Hausdorff topological group](https://rupadarshiray.github.io/notes/sett.Top.group.T2LC.pdf)
 	- group actions
 		- [Discontinuous group actions on topological spaces](https://rupadarshiray.github.io/notes/sett.Top.action.discont.pdf)
-		- Covering space action (coming soon!)
+		- [Covering space action](https://rupadarshiray.github.io/notes/sett.Top.action.covering.pdf)
 - smooth
 	- Counting compact topological manifolds upto homeomorphism (coming soon!)
 	- group actions
@@ -95,7 +95,7 @@ aliases: ""
 			- Almost simple groups (coming soon!)
 			- Semi-simple $\R$-Lie groups of dimension 6 (coming soon!)
 		- [$\mathit{SL}(2,\R)$](https://rupadarshiray.github.io/notes/space.Mat.SL.R%202.pdf)
-			- Fuchsian groups (coming soon!)
+			- [Fuchsian groups and hyperbolic surfaces](https://rupadarshiray.github.io/notes/subst.R%20SL%202%20discrete%20subg.pdf)
 		- Subgroups of $\mathit{SL}(n,\mathbb{C})$ that are semi-simple (coming soon!)
 		- Zariski closure of subgroups of $\mathit{GL}(n,\mathbb{C})$ (coming soon!)
 		- Subgroups of $\mathit{GL}(n,\R)$ (coming soon!)
@@ -121,8 +121,8 @@ aliases: ""
 		- [Uniquely geodesic complete Riemannian manifolds](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.uniquely.pdf)
 		- [Riemannian manifolds with non-positive sectional curvature](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.curvature%20non-positive.pdf)
 	- low dimensions and geometrization
-		- smooth $\R$-manifolds of dimension 2 (coming soon!)
-		- smooth $\R$-manifolds of dimension 3 (coming soon!)
+		- [smooth $\R$-manifolds of dimension 2](https://rupadarshiray.github.io/notes/subst.R%202.pdf)
+		- [smooth $\R$-manifolds of dimension 3](https://rupadarshiray.github.io/notes/subst.R%203.pdf)
 	- transformation groups
 		- invariant Riemannian metric in a proper Lie group action (coming soon!)
 		- Smooth action by a compact Lie group (coming soon!)
