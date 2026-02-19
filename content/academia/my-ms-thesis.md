@@ -41,16 +41,17 @@ aliases: ""
 - $\R H^{n}$ (coming soon!) and hyperbolic manifolds
 	- $\mathit{SL}(2,\R) \curvearrowright H^{2}_{\mathrm{U}}$ (coming soon!)
 	- Hyperbolic surfaces
-	- undefined (coming soon!)
+	- [Geodesic flow of Fuchsian groups and hyperbolic surfaces](https://rupadarshiray.github.io/notes/subst.R%20SL%202%20discrete%20subg.geodesic%20flow.pdf)
 	- Counting orbits of discrete subgroups of $\mathit{O}^{+}(1,n)(\R)$ in $\R \pmb{H}^n$ (coming soon!)
 	- Exponential sum of a discrete subgroup of $\mathrm{Isom}(\R \pmb{H}^n)$ (coming soon!)
 - [Riemannian manifolds with negative curvature](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.curvature%20negative.pdf)
 	- [Geodesic flow on Riemannian manifolds of negative curvature](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.curvature%20negative.geodesic%20flow.pdf)
 	- [Discrete subgroup of isometry group of a simply connected Riemannian manifold of negative curvature](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.curvature%20negative.Isom%20discrete%20subg.pdf)
+- [Harmonic functions composed with conformal maps](https://rupadarshiray.github.io/notes/subst.R%20harmonic%20composed%20conformal.pdf)
 
 ## background
 
-- Summer School on Rigidity of Discrete Groups, June 30 – July 4, 2025 at IISER Mohali (coming soon!)
+- [2506 Summer School on Rigidity of Discrete Groups, June 30 – July 4, 2025 at IISER Mohali](https://rupadarshiray.github.io/notes/2506%20IISERM%20Summer%20School%20on%20Rigidity%20of%20Discrete%20Groups.pdf)
 - topological
 	- [Types of topological spaces](https://rupadarshiray.github.io/notes/sett.Top.t.pdf)
 	- vector spaces
@@ -162,7 +163,6 @@ aliases: ""
 
 - [References for GGD GTG GGT AGT](https://rupadarshiray.github.io/notes/REF%20GGD%20GTG%20GGT%20AGT.pdf)
 - [Rigidity theorems by Mostow, Sullivan, Tukia, Yue, Ivanov](https://rupadarshiray.github.io/notes/REF%20GGD%20GTG%20GGT%20AGT.rigidity.pdf)
-
 
 ## presentations
 
