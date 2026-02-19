@@ -100,10 +100,10 @@ aliases: ""
 		- Subgroups of $\mathit{GL}(n,\R)$ (coming soon!)
 		- Compact subgroups of $\mathit{GL}(n)(\R)$ (coming soon!)
 	- group FinVec-representations
-		- $\mathsf{sl}(2, \mathbb{C})$ (coming soon!)
+		- $\mathfrak{sl}(2, \mathbb{C})$ (coming soon!)
 			- $\mathsf{FinVec}_{\mathbb{C}}$ irreducible representations of $\mathfrak{sl}{(2,\mathbb{C})}$ (coming soon!)
-			- $2 \otimes 3 = 5\oplus  3\oplus  1$ for $\mathsf{FinVec}_{\mathbb{C}}$ irreps of $\mathsf{sl}({2,\mathbb{C}})$ (coming soon!)
-			- $\mathit{Sym}^{2}\mathit{Sym}^{2}(\mathbb{C}^{2}) \isom_{\mathit{SL}_{\mathbb{C}}(2)} \mathit{Sym}^{0}(\mathbb{C}^{2})\oplus  \mathit{Sym}^{4}(\mathbb{C}^{2})$ (coming soon!)
+			- $2 \otimes 3 = 5\oplus  3\oplus  1$ for $\mathsf{FinVec}_{\mathbb{C}}$ irreps of $\mathfrak{sl}({2,\mathbb{C}})$ (coming soon!)
+			- $\mathit{Sym}^{2}\mathit{Sym}^{2}(\mathbb{C}^{2}) \cong_{\mathit{SL}_{\mathbb{C}}(2)} \mathit{Sym}^{0}(\mathbb{C}^{2})\oplus  \mathit{Sym}^{4}(\mathbb{C}^{2})$ (coming soon!)
 	- [$\R$-manifold semi-Riemannian](https://rupadarshiray.github.io/notes/sett.Man.R%20O.pdf)
 		- [Riemannian connection](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riemannian%20connection.pdf)
 		- [Curvature of a Riemannian manifold](https://rupadarshiray.github.io/notes/sett.Man.R%20O.curvature.pdf)
@@ -135,7 +135,7 @@ aliases: ""
 - Metric spaces (coming soon!)
 	- continuous maps
 		- $\mathrm{End}\mathsf{Top}(X,Y)$ (coming soon!)
-		- Pre-compact subsets of $(\mathrm{End}\mathsf{Top}(X,Y), \mathsf{T}_{\text{cpt}})$ (coming soon!)
+		- Pre-compact subsets of $(\mathrm{End}\mathsf{Top}(X,Y), \mathfrak{T}_{\text{cpt}})$ (coming soon!)
 	- metric geometry
 		- Geodesics in a metric space (coming soon!)
 		- Metric space isometries (coming soon!)
@@ -162,6 +162,7 @@ aliases: ""
 
 - [References for GGD GTG GGT AGT](https://rupadarshiray.github.io/notes/REF%20GGD%20GTG%20GGT%20AGT.pdf)
 - [Rigidity theorems by Mostow, Sullivan, Tukia, Yue, Ivanov](https://rupadarshiray.github.io/notes/REF%20GGD%20GTG%20GGT%20AGT.rigidity.pdf)
+
 
 ## presentations
 
