@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/travel/himachal.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "himachal"
+              "title": "index"
             }
           }
         ]
@@ -191,6 +191,8 @@
   },
   "active": "fec06874c363f33b",
   "lastOpenFiles": [
+    "content/academia/shifrin-multivariable-mathematics.md",
+    "content/travel/himachal.md",
     "content/academia/math-at-iiserm-electives.md",
     "content/academia/academia.md",
     "content/academia/impa-pdes.md",
@@ -202,7 +204,6 @@
     "content/academia/my-notes.md",
     "content/art/dark-academia-music.md",
     "content/bits/wrong-things-i-have-believed-for-a-long-time.md",
-    "content/academia/shifrin-multivariable-mathematics.md",
     "docs/README (2).md",
     "management/inculcation-geodesic-flows.md",
     "management/inculcation-groups.md",
@@ -217,7 +218,6 @@
     "/content/bits/things-i-have-said-in-a-math-class.md",
     "/content/bits",
     "/content",
-    "content/travel/himachal.md",
     "content/bits/ordering-math-by-realism.md",
     "content/workstation/constructing-a-mathematics-wiki.md",
     "content/travel",

@@ -6,6 +6,7 @@ tags:
 title: Bus, culture and Himachal
 aliases:
   - academia/himachal
+  - himachal
 ---
 
 Over the few times that I've visited Himachal's 
