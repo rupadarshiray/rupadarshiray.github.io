@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33f73beb373df064",
+        "id": "864b671c1542fb0d",
         "type": "tabs",
         "children": [
           {
-            "id": "1a2b3208518c9f5a",
+            "id": "fec06874c363f33b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/seminar-26-spring.md",
+                "file": "content/academia/math-at-iiserm-electives.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "seminar-26-spring"
+              "title": "math-at-iiserm-electives"
             }
           },
           {
-            "id": "7f5bbc9672210f63",
+            "id": "0add2cb73cda62f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/bits/things-i-have-said-in-a-math-class.md",
+                "file": "content/academia/academia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "things-i-have-said-in-a-math-class"
-            }
-          },
-          {
-            "id": "67e124011fc435a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "academia"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +72,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "byModifiedTime",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -238,13 +214,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "67e124011fc435a9",
+  "active": "0add2cb73cda62f6",
   "lastOpenFiles": [
-    "content/academia/my-ms-thesis.md",
+    "content/academia/impa-pdes.md",
+    "content/academia/academia.md",
+    "content/workstation/obsidian-and-latex.md",
+    "content/academia/inculcation-integrable-systems.md",
+    "content/academia/inculcation-riemann-surfaces.md",
     "content/academia/my-notes-summer-25.md",
-    "content/index.md",
-    "content/academia/seminar-26-spring.md",
+    "content/academia/my-ms-thesis.md",
+    "content/academia/my-notes.md",
+    "content/art/dark-academia-music.md",
+    "content/academia/math-at-iiserm-electives.md",
     "content/bits/wrong-things-i-have-believed-for-a-long-time.md",
+    "content/academia/shifrin-multivariable-mathematics.md",
+    "docs/README (2).md",
+    "management/inculcation-geodesic-flows.md",
+    "management/inculcation-groups.md",
+    "management/inculcation-math-pedias.md",
+    "README.md",
+    "content/academia/seminar-26-spring.md",
+    "content/bits/things-i-have-said-in-a-math-class.md",
+    "content/index.md",
     "/content/academia/my-ms-thesis.md",
     "/content/academia",
     "/content/bits/wrong-things-i-have-believed-for-a-long-time.md",
@@ -254,21 +245,6 @@
     "content/travel/himachal.md",
     "content/bits/ordering-math-by-realism.md",
     "content/workstation/constructing-a-mathematics-wiki.md",
-    "content/bits/things-i-have-said-in-a-math-class.md",
-    "content/bits/it-is-not-divided-into.md",
-    "content/bits/visualizing-higher-dimensions.md",
-    "content/bits/everything-in-a-dynamics-pov.md",
-    "content/academia/seminar-25-summer.md",
-    "content/academia/inculcation-integrable-systems.md",
-    "content/academia/best-works-in-some1.md",
-    "content/academia/math-at-iiserm-electives.md",
-    "content/academia/shifrin-multivariable-mathematics.md",
-    "content/academia/inculcation-analysis-finite-vector-spaces.md",
-    "content/academia/my-notes.md",
-    "content/academia/impa-pdes.md",
-    "content/academia/my-books.md",
-    "content/academia/derivatives-differential-forms-and-beyond-youtube.md",
-    "management/math-at-iiserm.md",
     "content/travel",
     "/quartz.config.ts",
     "/docs",

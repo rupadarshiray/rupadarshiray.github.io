@@ -14,4 +14,3 @@ title: '(My) academia'
 - [[inculcation|Inculcation]] is a roadmap for learning fancy math and physics.
 - Here is me explaining stuff in a video format
 	- [[derivatives-differential-forms-and-beyond-youtube]]
-- If you ever come to IISER Mohali to study mathematics, you might like the (planned) series of articles [[math-at-iiserm|Mathematics at IISER Mohali]]

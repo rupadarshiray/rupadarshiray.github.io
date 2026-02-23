@@ -67,6 +67,6 @@ Semester 7 was the time I fleshed out my note-taking very well.
 
 ![[my-notes-summer-25]]
 
-## Monsoon '25 - Spring '25: MS thesis
+## Monsoon '25 - Spring '26: MS thesis
 
-![[my-ms-thesis#A thesis notebook]]
+[[my-ms-thesis#notes|Notes from my MS thesis]]
