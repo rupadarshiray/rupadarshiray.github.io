@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/seminar-26-spring.md",
-                "mode": "preview",
+                "file": "content/academia/my-notes-summer-25.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "seminar-26-spring"
+              "title": "my-notes-summer-25"
             }
           }
         ],
@@ -108,7 +108,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "aliases",
+            "query": "tag:notes",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -157,7 +157,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e036814d1f00b6d6",
@@ -240,6 +240,9 @@
   },
   "active": "67e124011fc435a9",
   "lastOpenFiles": [
+    "content/academia/my-ms-thesis.md",
+    "content/index.md",
+    "content/academia/seminar-26-spring.md",
     "content/bits/wrong-things-i-have-believed-for-a-long-time.md",
     "/content/academia/my-ms-thesis.md",
     "/content/academia",
@@ -247,7 +250,6 @@
     "/content/bits/things-i-have-said-in-a-math-class.md",
     "/content/bits",
     "/content",
-    "content/index.md",
     "content/travel/himachal.md",
     "content/bits/ordering-math-by-realism.md",
     "content/workstation/constructing-a-mathematics-wiki.md",
@@ -255,7 +257,6 @@
     "content/bits/it-is-not-divided-into.md",
     "content/bits/visualizing-higher-dimensions.md",
     "content/bits/everything-in-a-dynamics-pov.md",
-    "content/academia/seminar-26-spring.md",
     "content/academia/seminar-25-summer.md",
     "content/academia/inculcation-integrable-systems.md",
     "content/academia/best-works-in-some1.md",
@@ -264,7 +265,6 @@
     "content/academia/inculcation-analysis-finite-vector-spaces.md",
     "content/academia/my-notes.md",
     "content/academia/my-notes-summer-25.md",
-    "content/academia/my-ms-thesis.md",
     "content/academia/impa-pdes.md",
     "content/academia/my-books.md",
     "content/academia/derivatives-differential-forms-and-beyond-youtube.md",
