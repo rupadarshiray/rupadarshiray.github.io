@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/my-notes-summer-25.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "my-notes-summer-25"
+              "title": "index"
             }
           }
         ],
@@ -108,7 +108,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:notes",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -157,7 +157,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "e036814d1f00b6d6",
@@ -241,6 +241,7 @@
   "active": "67e124011fc435a9",
   "lastOpenFiles": [
     "content/academia/my-ms-thesis.md",
+    "content/academia/my-notes-summer-25.md",
     "content/index.md",
     "content/academia/seminar-26-spring.md",
     "content/bits/wrong-things-i-have-believed-for-a-long-time.md",
@@ -264,7 +265,6 @@
     "content/academia/shifrin-multivariable-mathematics.md",
     "content/academia/inculcation-analysis-finite-vector-spaces.md",
     "content/academia/my-notes.md",
-    "content/academia/my-notes-summer-25.md",
     "content/academia/impa-pdes.md",
     "content/academia/my-books.md",
     "content/academia/derivatives-differential-forms-and-beyond-youtube.md",

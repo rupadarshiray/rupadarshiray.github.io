@@ -23,6 +23,7 @@ aliases: ""
 
 ## notes
 
+#notes
 
 - [Homogeneous and isotropic Riemannian manifolds](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.homog%20isotr.pdf)
 - [Boundary of CAT(0) metric spaces](https://rupadarshiray.github.io/notes/sett.spaces%20metric.CAT.0.boundary.pdf)
