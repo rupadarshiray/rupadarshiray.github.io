@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/math-at-iiserm-electives.md",
+                "file": "content/travel/himachal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "math-at-iiserm-electives"
-            }
-          },
-          {
-            "id": "0add2cb73cda62f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/academia/academia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "academia"
+              "title": "himachal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,10 +189,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0add2cb73cda62f6",
+  "active": "fec06874c363f33b",
   "lastOpenFiles": [
-    "content/academia/impa-pdes.md",
+    "content/academia/math-at-iiserm-electives.md",
     "content/academia/academia.md",
+    "content/academia/impa-pdes.md",
     "content/workstation/obsidian-and-latex.md",
     "content/academia/inculcation-integrable-systems.md",
     "content/academia/inculcation-riemann-surfaces.md",
@@ -225,7 +201,6 @@
     "content/academia/my-ms-thesis.md",
     "content/academia/my-notes.md",
     "content/art/dark-academia-music.md",
-    "content/academia/math-at-iiserm-electives.md",
     "content/bits/wrong-things-i-have-believed-for-a-long-time.md",
     "content/academia/shifrin-multivariable-mathematics.md",
     "docs/README (2).md",
