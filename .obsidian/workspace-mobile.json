@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "docs/README (2).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README (2)"
             }
           }
         ]
@@ -191,6 +191,11 @@
   },
   "active": "fec06874c363f33b",
   "lastOpenFiles": [
+    "content/about/about-me.md",
+    "content/about/now.md",
+    "content/index.md",
+    "management/it-is-not-divided-into.md",
+    "content/bits/wrong-things-i-have-believed-for-a-long-time.md",
     "content/academia/shifrin-multivariable-mathematics.md",
     "content/travel/himachal.md",
     "content/academia/math-at-iiserm-electives.md",
@@ -203,7 +208,6 @@
     "content/academia/my-ms-thesis.md",
     "content/academia/my-notes.md",
     "content/art/dark-academia-music.md",
-    "content/bits/wrong-things-i-have-believed-for-a-long-time.md",
     "docs/README (2).md",
     "management/inculcation-geodesic-flows.md",
     "management/inculcation-groups.md",
@@ -211,15 +215,11 @@
     "README.md",
     "content/academia/seminar-26-spring.md",
     "content/bits/things-i-have-said-in-a-math-class.md",
-    "content/index.md",
     "/content/academia/my-ms-thesis.md",
     "/content/academia",
     "/content/bits/wrong-things-i-have-believed-for-a-long-time.md",
-    "/content/bits/things-i-have-said-in-a-math-class.md",
     "/content/bits",
     "/content",
-    "content/bits/ordering-math-by-realism.md",
-    "content/workstation/constructing-a-mathematics-wiki.md",
     "content/travel",
     "/quartz.config.ts",
     "/docs",

@@ -1,5 +1,5 @@
 ---
-title: 'Welcome to the home of R²'
+title: Welcome to R²
 modified: 2021-11-24T14:54:31
 ---
 
