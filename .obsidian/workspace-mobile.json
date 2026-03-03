@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "864b671c1542fb0d",
+        "id": "36918972e1408457",
         "type": "tabs",
         "children": [
           {
-            "id": "fec06874c363f33b",
+            "id": "23c86f283dc02169",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/my-notes-summer-25.md",
+                "file": "content/academia/archive-of-pretty-math-notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "my-notes-summer-25"
+              "title": "archive-of-pretty-math-notes"
             }
           }
         ]
@@ -189,10 +189,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fec06874c363f33b",
+  "active": "23c86f283dc02169",
   "lastOpenFiles": [
-    "content/index.md",
+    "management/% new note.md",
+    "content/academia/archive-of-pretty-math-notes.md",
+    "content/academia/inculcation-math-notes.md",
     "content/academia/my-notes-summer-25.md",
+    "content/index.md",
     "content/academia/my-notes.md",
     "content/academia/derivatives-differential-forms-and-beyond-youtube.md",
     "content/academia/seminar-25-summer.md",
@@ -214,9 +217,6 @@
     "management/inculcation-geodesic-flows.md",
     "management/inculcation-groups.md",
     "management/inculcation-math-pedias.md",
-    "README.md",
-    "content/academia/seminar-26-spring.md",
-    "content/bits/things-i-have-said-in-a-math-class.md",
     "/content/academia",
     "/content/bits",
     "/content",
