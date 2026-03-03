@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/README (2).md",
+                "file": "content/academia/my-notes-summer-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README (2)"
+              "title": "my-notes-summer-25"
             }
           }
         ]
@@ -191,9 +191,14 @@
   },
   "active": "fec06874c363f33b",
   "lastOpenFiles": [
+    "content/index.md",
+    "content/academia/my-notes-summer-25.md",
+    "content/academia/my-notes.md",
+    "content/academia/derivatives-differential-forms-and-beyond-youtube.md",
+    "content/academia/seminar-25-summer.md",
+    "docs/README (2).md",
     "content/about/about-me.md",
     "content/about/now.md",
-    "content/index.md",
     "management/it-is-not-divided-into.md",
     "content/bits/wrong-things-i-have-believed-for-a-long-time.md",
     "content/academia/shifrin-multivariable-mathematics.md",
@@ -204,20 +209,15 @@
     "content/workstation/obsidian-and-latex.md",
     "content/academia/inculcation-integrable-systems.md",
     "content/academia/inculcation-riemann-surfaces.md",
-    "content/academia/my-notes-summer-25.md",
     "content/academia/my-ms-thesis.md",
-    "content/academia/my-notes.md",
     "content/art/dark-academia-music.md",
-    "docs/README (2).md",
     "management/inculcation-geodesic-flows.md",
     "management/inculcation-groups.md",
     "management/inculcation-math-pedias.md",
     "README.md",
     "content/academia/seminar-26-spring.md",
     "content/bits/things-i-have-said-in-a-math-class.md",
-    "/content/academia/my-ms-thesis.md",
     "/content/academia",
-    "/content/bits/wrong-things-i-have-believed-for-a-long-time.md",
     "/content/bits",
     "/content",
     "content/travel",

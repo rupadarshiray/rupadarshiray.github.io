@@ -11,7 +11,7 @@ aliases:
 
 #notes
 
-- the is [notebook available here](https://dub.sh/spring25)
+- the [notebook is available here](https://dub.sh/spring25)
 - a subset consisting of the notes on the *Summer School on Rigidity of Discrete Groups, June 30 – July 4, 2025 at IISER Mohali* is at https://dub.sh/rigidity
 - a subset consisting of notes on *coadjoint orbits and quantization of Hamiltonian actions* is at https://dub.sh/qofhamil
 - a subset containing notes on *introductory Hamiltonian toric actions* https://dub.sh/symplectictoric
