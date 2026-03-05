@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.inFolder("rupadarshiray.github.io")
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - title
+    sort:
+      - property: file.name
+        direction: ASC
