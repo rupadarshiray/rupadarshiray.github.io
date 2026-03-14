@@ -21,9 +21,9 @@ aliases: ""
 
 --->
 
+
 ## notes
 
-#notes
 
 - [Homogeneous and isotropic Riemannian manifolds](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.homog%20isotr.pdf)
 - [Boundary of CAT(0) metric spaces](https://rupadarshiray.github.io/notes/sett.spaces%20metric.CAT.0.boundary.pdf)
@@ -38,10 +38,10 @@ aliases: ""
 	- $\mathsf{T}$-closed, $\exp$-closed closed subgroups of $\mathit{GL}(n,\R)$ $\leftrightarrow$ completely geodesic submanifolds of $\mathsf{Pd}(n,\R)$ (coming soon!)
 	- $\mathsf{T}$-closed Lie subalgebras are reductive (coming soon!)
 - Quasi-conformal maps on $S^{n}$
-- $\R H^{n}$ (coming soon!) and hyperbolic manifolds
+- [$\R H^{n}$](https://rupadarshiray.github.io/notes/space.hyperbolic.R%20n.pdf) and hyperbolic manifolds
 	- [$\mathit{SL}(2,\R) \curvearrowright H^{2}_{\mathrm{U}}$](https://rupadarshiray.github.io/notes/space.R.2.C%20upper.SL%20R%202%20action.pdf)
-	- [Fuchsian groups and hyperbolic surfaces](https://rupadarshiray.github.io/notes/subst.R%20SL%202%20discrete%20subg.pdf)
-		- [Geodesic flow of Fuchsian groups and hyperbolic surfaces](https://rupadarshiray.github.io/notes/subst.R%20SL%202%20discrete%20subg.geodesic%20flow.pdf)
+	- [Fuchsian groups and hyperbolic surfaces](https://rupadarshiray.github.io/notes/subst.R%20PSL%202%20discrete%20subg.pdf)
+		- Geodesic flow of Fuchsian groups and hyperbolic surfaces (coming soon!)
 	- [Discrete subgroups of $O^{+}(1,n)$ and hyperbolic manifolds/orbifolds](https://rupadarshiray.github.io/notes/subst.R%20O+%201%20n%20subg%20discr.pdf)
 		- [Counting orbits of discrete subgroups of $\mathit{O}^{+}(1,n)(\R)$ in $\R \pmb{H}^n$](https://rupadarshiray.github.io/notes/subst.R%20O+%201%20n%20subg%20discr.orbit%20count.pdf)
 		- [Exponential sum of a discrete subgroup of $\mathrm{Isom}(\R \pmb{H}^n)$](https://rupadarshiray.github.io/notes/subst.R%20O+%201%20n%20subg%20discr.exp%20sum.pdf)
@@ -57,11 +57,11 @@ aliases: ""
 	- [Types of topological spaces](https://rupadarshiray.github.io/notes/sett.Top.t.pdf)
 	- vector spaces
 		- [Topological vector space over $\R$ or $\mathbb{C}$](https://rupadarshiray.github.io/notes/sett.Vec%20Top%20RC.pdf)
-		- Dual space of a topological vector space (coming soon!)
-		- Weak topology on a topological vector space (coming soon!)
-		- Weak$^{\bigstar}$ topology on dual of a topological vector space (coming soon!)
-	- Locally compact Hausdorff spaces (coming soon!)
-	- Discrete subsets of topological spaces (coming soon!)
+		- [Dual space of a topological vector space](https://rupadarshiray.github.io/notes/sett.Vec%20Top%20RC.dual.pdf)
+		- [Weak topology on a topological vector space](https://rupadarshiray.github.io/notes/sett.Vec%20Top%20RC.weak.pdf)
+		- [Weak$^{\bigstar}$ topology on dual of a topological vector space](https://rupadarshiray.github.io/notes/sett.Vec%20Top%20RC.dual%20weak.pdf)
+	- [Locally compact Hausdorff spaces](https://rupadarshiray.github.io/notes/sett.Top.T2LC.pdf)
+	- [Discrete subsets of topological spaces](https://rupadarshiray.github.io/notes/sett.Top.sub%20discrete.pdf)
 	- [Closed map between topological spaces](https://rupadarshiray.github.io/notes/sett.Top.map%20closed.pdf)
 	- [Covering space of a topological space](https://rupadarshiray.github.io/notes/sett.Top.map%20covering.pdf)
 	- [Local homeomorphisms between topological spaces](https://rupadarshiray.github.io/notes/sett.Top.map%20local%20homeo.pdf)
@@ -81,22 +81,22 @@ aliases: ""
 		- Submersions, immersions and embeddings of smooth manifolds (coming soon!)
 		- Submanifolds of smooth manifolds (coming soon!)
 		- Proper Lie group actions (coming soon!)
-		- Orbits of smooth Lie group actions (coming soon!)
+		- [Orbits of smooth Lie group actions](https://rupadarshiray.github.io/notes/sett.Man.R.action%20Lie%20group.orbit.pdf)
 		- Quotient manifolds (coming soon!)
 		- Homogeneous manifold (coming soon!)
 	- groups
 		- Lie algebras (coming soon!)
 		- Virtual subgroups of Lie groups (coming soon!)
-		- Connected Lie groups with non-surjective exponential map (coming soon!)
+		- [Connected Lie groups with non-surjective exponential map](https://rupadarshiray.github.io/notes/sett.Man.R%20group.conn%20exp%20surj%20non.pdf)
 		- Discrete normal subgroups of Lie groups (coming soon!)
 		- Connected Lie groups with discrete center (coming soon!)
-		- Classification of Lie groups (coming soon!)
+		- [Classification of Lie groups](https://rupadarshiray.github.io/notes/sett.Man.R%20group.classif.pdf)
 		- Semi-simple $\R$-Lie groups (coming soon!)
-			- Compact Lie groups (coming soon!)
-			- Almost simple groups (coming soon!)
+			- [Compact Lie groups](https://rupadarshiray.github.io/notes/sett.Man.R%20group.compact.pdf)
+			- [Almost simple groups](https://rupadarshiray.github.io/notes/sett.Man.R%20group.simple.pdf)
 			- Semi-simple $\R$-Lie groups of dimension 6 (coming soon!)
 		- [$\mathit{SL}(2,\R)$](https://rupadarshiray.github.io/notes/space.Mat.SL.R%202.pdf)
-			- [Fuchsian groups and hyperbolic surfaces](https://rupadarshiray.github.io/notes/subst.R%20SL%202%20discrete%20subg.pdf)
+			- [Fuchsian groups and hyperbolic surfaces](https://rupadarshiray.github.io/notes/subst.R%20PSL%202%20discrete%20subg.pdf)
 		- Subgroups of $\mathit{SL}(n,\mathbb{C})$ that are semi-simple (coming soon!)
 		- Zariski closure of subgroups of $\mathit{GL}(n,\mathbb{C})$ (coming soon!)
 		- Subgroups of $\mathit{GL}(n,\R)$ (coming soon!)
@@ -111,11 +111,11 @@ aliases: ""
 		- [Curvature of a Riemannian manifold](https://rupadarshiray.github.io/notes/sett.Man.R%20O.curvature.pdf)
 		- [Exponential map from tangent bundle](https://rupadarshiray.github.io/notes/sett.Man.R%20O.exp.pdf)
 		- [Quotients of Riemannian manifolds](https://rupadarshiray.github.io/notes/sett.Man.R%20O.quotient.pdf)
-		- Moduli space of quotients (coming soon!)
+		- [Moduli space of quotients](https://rupadarshiray.github.io/notes/sett.Man.R.moduli%20quotients.pdf)
 		- [Totally geodesic submanifolds of semi-Riemannian manifolds](https://rupadarshiray.github.io/notes/sett.Man.R%20O.sub%20geod.pdf)
 		- [Isometries of a semi-Riemannian manifold](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Isom.pdf)
 		- [Complete Riemannian manifolds](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.pdf)
-		- Invariant Riemannian metrics on homogeneous manifolds (coming soon!)
+		- [Invariant Riemannian metrics on homogeneous manifolds](https://rupadarshiray.github.io/notes/sett.Man.R%20Homog.invariant%20Riemannian%20metric.pdf)
 		- Homogeneous manifold with compact stabilizer (coming soon!)
 		- [Riemannian homogeneous manifolds where $\exp_{p}$ is a diffeomorphism](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Riem%20cmpl.uniquely%20homog.pdf)
 		- [Laplacian on a Riemannian manifold](https://rupadarshiray.github.io/notes/sett.Man.R%20O.Lapl.pdf)
@@ -130,33 +130,33 @@ aliases: ""
 		- The only compact connected Lie group that can act faithfully on a torus is itself (coming soon!)
 		- Transformation Groups in Differential Geometry (coming soon!)
 - dynamical
-	- Iterative dynamics of endomorphism of a set (coming soon!)
-	- Measure preserving endomorphisms (coming soon!)
-	- Recurrence in iterations of a measure preserving endomorphism (coming soon!)
-	- Interpretation of measure preserving endomorphisms (coming soon!)
+	- [Iterative dynamics of endomorphism of a set](https://rupadarshiray.github.io/notes/sett.set%20End.iterative.pdf)
+	- [Measure preserving endomorphisms](https://rupadarshiray.github.io/notes/sett.measure.meas%20positive%20End.pdf)
+	- [Recurrence in iterations of a measure preserving endomorphism](https://rupadarshiray.github.io/notes/sett.measure.meas%20positive%20End.recurr.pdf)
+	- [Interpretation of measure preserving endomorphisms](https://rupadarshiray.github.io/notes/sett.measure.meas%20positive%20End.inp.pdf)
 - Metric spaces (coming soon!)
 	- continuous maps
 		- $\mathrm{End}\mathsf{Top}(X,Y)$ (coming soon!)
-		- Pre-compact subsets of $(\mathrm{End}\mathsf{Top}(X,Y), \mathfrak{T}_{\text{cpt}})$ (coming soon!)
+		- [Pre-compact subsets of $(\mathrm{End}\mathsf{Top}(X,Y), \mathfrak{T}_{\text{cpt}})$](https://rupadarshiray.github.io/notes/sett.spaces%20metric.EndTop.space.pre-cpt.pdf)
 	- metric geometry
 		- Geodesics in a metric space (coming soon!)
 		- Metric space isometries (coming soon!)
 		- undefined (coming soon!)
 		- CAT($\kappa$) spaces
 			- Isometries of CAT(0) spaces (coming soon!)
-	- Isometric action on a metric space (coming soon!)
+	- [Isometric action on a metric space](https://rupadarshiray.github.io/notes/sett.spaces%20metric.action%20isometric.pdf)
 	- quasi-metric geometry
-		- Quasi-isometries between metric spaces (coming soon!)
+		- [Quasi-isometries between metric spaces](https://rupadarshiray.github.io/notes/sett.spaces%20metric.isometry%20quasi.pdf)
 	- Mobius geometry
-		- Cross ratios and Mobius maps between metric spaces (coming soon!)
+		- [Cross ratios and Mobius maps between metric spaces](https://rupadarshiray.github.io/notes/sett.spaces%20metric.Hom%20Moeb.pdf)
 	- conformal geometry
 	- quasi-conformal geometry
 	- Metric simplicial complexes (coming soon!)
 	- *Buildings*
-- Finitely generated groups (coming soon!)
-	- When a group plays ping pong (coming soon!)
+- [Finitely generated groups](https://rupadarshiray.github.io/notes/sett.groups.FinGen.pdf)
+	- [When a group plays ping pong](https://rupadarshiray.github.io/notes/sett.groups.FinGen.ping%20pong.pdf)
 	- Lamplighter group on $\Z_{2}$ (coming soon!)
-	- Subgroups of finite index of a finitely generated group (coming soon!)
+	- [Subgroups of finite index of a finitely generated group](https://rupadarshiray.github.io/notes/sett.groups.FinGen.subg%20fin%20index.pdf)
 - discrete subgroups of semi-simple/reductive Lie groups
 
 

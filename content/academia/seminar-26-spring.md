@@ -28,6 +28,8 @@ A series of talks is (ongoing and) planned for the spring semester of '26, organ
 - Following [Hall's Quantum Theory for Mathematicians.pdf](http://staff.ustc.edu.cn/~shmj/Reference/GTM267%20Quantum%20Theory%20for%20Mathematicians.pdf)
 - *watch party on PDEs:* [MIT Differential analysis I](https://www.bilibili.com/video/BV12K4y1L7Z4?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2206146-btjvp.1765551927971.613&vd_source=2b98dc4f067de1fdf0a654a390274f82)
 
+<!---
+
 ### special talks related to *geometry of spaces and algebra of functions on it*
 
 |  topics                                                                                                                                        | assuming                                | advert for                                                                    |
