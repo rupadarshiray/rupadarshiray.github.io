@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "management/it-is-not-divided-into.md",
+                "file": "content/academia/inculcation-lie-groups.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "it-is-not-divided-into"
+              "title": "inculcation-lie-groups"
             }
           }
         ]
@@ -189,8 +189,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de53ef441dc4e91e",
+  "active": "23c86f283dc02169",
   "lastOpenFiles": [
+    "management/it-is-not-divided-into.md",
     "rupadarshiray.github.io.base",
     "content/academia/my-blackboards.md",
     "/rupadarshiray.github.io.base",
@@ -213,7 +214,6 @@
     "docs/README (2).md",
     "content/about/about-me.md",
     "content/about/now.md",
-    "management/it-is-not-divided-into.md",
     "content/bits/wrong-things-i-have-believed-for-a-long-time.md",
     "content/academia/shifrin-multivariable-mathematics.md",
     "content/travel/himachal.md",
@@ -225,7 +225,6 @@
     "/quartz.config.ts",
     "/docs",
     "/content/log",
-    "/content/about",
-    "/content/workstation"
+    "/content/about"
   ]
 }
