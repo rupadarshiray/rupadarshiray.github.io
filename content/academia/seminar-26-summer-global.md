@@ -1,10 +1,11 @@
 ---
 created: 2026-03-23T16:08:45
 modified: 2026-03-23T16:08:45
-tags: []
-title: "*Summer '26 reading seminar:* On global analysis"
+tags: [seminar]
+title: "Summer '26 reading seminar: On global analysis"
 aliases: ""
 ---
+
 
 | Date         | Speaker        | Title                                                         |
 | ------------ | -------------- | ------------------------------------------------------------- |
@@ -22,3 +23,6 @@ aliases: ""
 - [GlobAnalysis.pdf](https://haydys.net/misc/GlobAnalysis.pdf)
 - [elliptic operators.pdf](https://www.ma.imperial.ac.uk/~skdona/elliptic%20operators.pdf)
 
+## notes
+
+- [Sobolev space $H^{1}(U)$](https://rupadarshiray.github.io/notes/subst.Rf.H1.pdf)
