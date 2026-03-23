@@ -5,6 +5,9 @@ tags: []
 title: 'it is not divided into A and B'
 aliases: ''
 ---
+## it *is* divided into natural and mathematical sciences
+
+There's a big debate on "the "
 
 ## it is not divided into mathematics and physics
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/academia/archive-of-pretty-math-notes.md",
+                "file": "content/academia/inculcation-lie-groups.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "archive-of-pretty-math-notes"
+              "title": "inculcation-lie-groups"
             }
           }
         ]
@@ -191,41 +191,40 @@
   },
   "active": "23c86f283dc02169",
   "lastOpenFiles": [
-    "management/% new note.md",
+    "management/it-is-not-divided-into.md",
+    "rupadarshiray.github.io.base",
+    "content/academia/my-blackboards.md",
+    "/rupadarshiray.github.io.base",
+    "/content/academia/my-blackboards.md",
+    "/content/academia/archive-of-pretty-math-notes.md",
+    "/content/academia",
+    "/content",
+    "content/index.md",
+    "content/bits/what-is-and-is-not-topological.md",
+    "content/bits/ordering-math-by-realism.md",
+    "content/bits/things-i-have-said-in-a-math-class.md",
+    "content/bits/correspondences-in-physics-and-mathematics.md",
     "content/academia/archive-of-pretty-math-notes.md",
+    "management/% new note.md",
     "content/academia/inculcation-math-notes.md",
     "content/academia/my-notes-summer-25.md",
-    "content/index.md",
     "content/academia/my-notes.md",
     "content/academia/derivatives-differential-forms-and-beyond-youtube.md",
     "content/academia/seminar-25-summer.md",
     "docs/README (2).md",
     "content/about/about-me.md",
     "content/about/now.md",
-    "management/it-is-not-divided-into.md",
     "content/bits/wrong-things-i-have-believed-for-a-long-time.md",
     "content/academia/shifrin-multivariable-mathematics.md",
     "content/travel/himachal.md",
     "content/academia/math-at-iiserm-electives.md",
     "content/academia/academia.md",
     "content/academia/impa-pdes.md",
-    "content/workstation/obsidian-and-latex.md",
-    "content/academia/inculcation-integrable-systems.md",
-    "content/academia/inculcation-riemann-surfaces.md",
-    "content/academia/my-ms-thesis.md",
-    "content/art/dark-academia-music.md",
-    "management/inculcation-geodesic-flows.md",
-    "management/inculcation-groups.md",
-    "management/inculcation-math-pedias.md",
-    "/content/academia",
     "/content/bits",
-    "/content",
     "content/travel",
     "/quartz.config.ts",
     "/docs",
     "/content/log",
-    "/content/about",
-    "/content/workstation",
-    "/management"
+    "/content/about"
   ]
 }
