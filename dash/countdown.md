@@ -6,3 +6,5 @@ title: 'Countdown'
 aliases: '' 
 ---
 
+> [!success] You have exactly *`= date(2026-04-18) - date(today) `* to go for MS thesis poster presentation.
+

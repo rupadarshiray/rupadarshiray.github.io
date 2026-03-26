@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder.startsWith("rupadarshiray.github.io/content/")
+    - file.folder.contains("content")
 views:
   - type: table
     name: Table
