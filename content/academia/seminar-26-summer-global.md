@@ -26,6 +26,7 @@ Do let me know if you are interested in presenting something!
 
 - [GlobAnalysis.pdf](https://haydys.net/misc/GlobAnalysis.pdf)
 - [elliptic operators.pdf](https://www.ma.imperial.ac.uk/~skdona/elliptic%20operators.pdf)
+- [Elliptic-Operators-Part-1---FULL-NOTES.pdf](https://www.ltcc.ac.uk/media/london-taught-course-centre/documents/Elliptic-Operators-Part-1---FULL-NOTES.pdf)
 - [IntroGaugeTheory_LectNotes.pdf](https://haydys.net/misc/IntroGaugeTheory_LectNotes.pdf)
 - [lsgntgaugetheory.pdf](https://www.ma.imperial.ac.uk/~skdona/lsgntgaugetheory.pdf)
 - [Index Theory Lecture 1: Algebraic theory of index - YouTube](https://www.youtube.com/watch?v=cKviyBQ0e_4&list=PLFLLJhtIPhRY11aAbO4N8KYAwGrOQMg9Q&index=34)
