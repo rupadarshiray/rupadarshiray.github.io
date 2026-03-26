@@ -11,13 +11,24 @@
             "id": "23c86f283dc02169",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "rupadarshiray.github.io.base",
-                "viewName": "Table"
+                "file": "dash/countdown.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "rupadarshiray.github.io"
+              "icon": "lucide-file",
+              "title": "countdown"
             }
           }
         ]
@@ -180,6 +191,9 @@
   },
   "active": "23c86f283dc02169",
   "lastOpenFiles": [
+    "rupadarshiray.github.io.base",
+    "dash/countdown.md",
+    "dash",
     "content/academia/inculcation-lie-groups.md",
     "management/site base.base",
     "content/academia/seminar-26-summer-global.md",
@@ -195,7 +209,6 @@
     "/content/academia",
     "/content",
     "management/it-is-not-divided-into.md",
-    "rupadarshiray.github.io.base",
     "content/academia/my-blackboards.md",
     "/rupadarshiray.github.io.base",
     "/content/academia/my-blackboards.md",
@@ -211,10 +224,7 @@
     "content/academia/my-notes-summer-25.md",
     "content/academia/my-notes.md",
     "content/academia/derivatives-differential-forms-and-beyond-youtube.md",
-    "content/academia/seminar-25-summer.md",
-    "docs/README (2).md",
     "/content/bits",
-    "content/travel",
-    "/quartz.config.ts"
+    "content/travel"
   ]
 }
