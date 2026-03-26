@@ -11,24 +11,13 @@
             "id": "23c86f283dc02169",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "content/academia/inculcation-lie-groups.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "rupadarshiray.github.io.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "inculcation-lie-groups"
+              "icon": "lucide-table",
+              "title": "rupadarshiray.github.io"
             }
           }
         ]
@@ -189,8 +178,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de53ef441dc4e91e",
+  "active": "23c86f283dc02169",
   "lastOpenFiles": [
+    "content/academia/inculcation-lie-groups.md",
     "management/site base.base",
     "content/academia/seminar-26-summer-global.md",
     "content/academia/my-talks.md",
@@ -225,7 +215,6 @@
     "docs/README (2).md",
     "/content/bits",
     "content/travel",
-    "/quartz.config.ts",
-    "/docs"
+    "/quartz.config.ts"
   ]
 }
