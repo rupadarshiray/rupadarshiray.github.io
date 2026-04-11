@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dash/countdown.md",
+                "file": "content/travel/himachal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "countdown"
+              "title": "himachal"
             }
           }
         ]
@@ -191,23 +191,26 @@
   },
   "active": "23c86f283dc02169",
   "lastOpenFiles": [
-    "rupadarshiray.github.io.base",
+    "management/inculcation-groups.md",
+    "management/site base.base",
     "dash/countdown.md",
+    "/management/site base.base",
+    "/management",
+    "/dash/countdown.md",
+    "/dash",
+    "rupadarshiray.github.io.base",
+    "/content/academia/seminar-26-summer-global.md",
+    "/content/academia",
+    "/content",
     "dash",
     "content/academia/inculcation-lie-groups.md",
-    "management/site base.base",
     "content/academia/seminar-26-summer-global.md",
     "content/academia/my-talks.md",
-    "/management/site base.base",
     "/management/digital gardening management.md",
     "management/digital gardening management.md",
-    "/management",
-    "/content/academia/seminar-26-summer-global.md",
     "/content/academia/seminar-26-spring.md",
     "/content/academia/my-talks.md",
     "/content/academia/my-ms-thesis.md",
-    "/content/academia",
-    "/content",
     "management/it-is-not-divided-into.md",
     "content/academia/my-blackboards.md",
     "/rupadarshiray.github.io.base",
@@ -223,8 +226,6 @@
     "content/academia/inculcation-math-notes.md",
     "content/academia/my-notes-summer-25.md",
     "content/academia/my-notes.md",
-    "content/academia/derivatives-differential-forms-and-beyond-youtube.md",
-    "/content/bits",
-    "content/travel"
+    "/content/bits"
   ]
 }
