@@ -12,7 +12,6 @@ You can learn what I am doing [[now|now-a-days here]].
 
 ## Socials
 
-- [Instagram](https://www.instagram.com/rupadarshiray/)
 - [YouTube/Ray-MS21](https://www.youtube.com/c/Ray-MS21)
 - [Twitter](https://twitter.com/rupadarshiray)
 - [GitHub](https://github.com/rupadarshiray)
