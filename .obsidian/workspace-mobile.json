@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dash/countdown.md",
+                "file": "content/log/log-12025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "countdown"
+              "title": "log-12025"
             }
           }
         ]
@@ -46,7 +46,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime",
+            "sortOrder": "alphabetical",
             "autoReveal": true
           },
           "icon": "lucide-folder-closed",
@@ -189,42 +189,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "de53ef441dc4e91e",
+  "active": "23c86f283dc02169",
   "lastOpenFiles": [
-    "content/log/Untitled.md",
+    "content/log/log-12026-04-19.md",
+    "content/log/log-12024-12-17.md",
+    "content/log/log-12025.md",
+    "content/log/log 12023-05.md",
+    "content/log/log 12021-10-31.md",
+    "content/log/log-12024-12-15.md",
+    "content/log/logs.md",
+    "content/index.md",
+    "dash/countdown.md",
+    "management/digital gardening management.md",
+    "management/% new daily log.md",
+    "management/% new note.md",
+    "management/log 12021-12.md",
+    "content/log/log 12021-11-02.md",
+    "content/log/log 12021-12-29.md",
     "content/travel/himachal.md",
     "content/art/dark-academia-music.md",
     "content/academia/archive-of-pretty-math-notes.md",
     "content/about/now.md",
     "content/about/now-archive.md",
-    "dash/countdown.md",
     "content/workstation/obsidian-and-latex.md",
     "content/workstation/constructing-a-mathematics-wiki.md",
     "content/workstation/constructing-hierarchical-wiki.md",
     "content/workstation/hierarchical-longterm-wiki.md",
     "content/about/about-me.md",
     "content/academia/seminar-26-summer-global.md",
-    "content/bits/correspondences-in-physics-and-mathematics.md",
-    "content/bits/sorting-out-minus-signs-in-differential-geometry.md",
-    "content/bits/the-corresp-between-cm-and-qm.md",
-    "content/bits/everything-in-a-dynamics-pov.md",
-    "content/bits/things-i-have-said-in-a-math-class.md",
-    "content/bits/wrong-things-i-had-believed-for-a-long-time.md",
-    "management/inculcation-groups.md",
     "management/site base.base",
     "/management/site base.base",
     "/management",
-    "/dash/countdown.md",
     "/dash",
     "rupadarshiray.github.io.base",
-    "/content/academia/seminar-26-summer-global.md",
     "/content/academia",
     "/content",
     "dash",
-    "content/academia/inculcation-lie-groups.md",
-    "content/academia/my-talks.md",
-    "/management/digital gardening management.md",
-    "management/digital gardening management.md",
     "/rupadarshiray.github.io.base",
     "/content/bits"
   ]
