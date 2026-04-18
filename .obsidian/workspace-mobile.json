@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/log/log-12025.md",
-                "mode": "source",
+                "file": "content/about/now-archive.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "log-12025"
+              "title": "now-archive"
             }
           }
         ]
@@ -191,13 +191,20 @@
   },
   "active": "23c86f283dc02169",
   "lastOpenFiles": [
-    "content/log/log-12026-04-19.md",
-    "content/log/log-12024-12-17.md",
-    "content/log/log-12025.md",
+    "content/about/about-me.md",
+    "content/about/now.md",
+    "content/workstation/obsidian-and-latex.md",
+    "content/workstation/hierarchical-longterm-wiki.md",
+    "content/workstation/constructing-hierarchical-wiki.md",
+    "content/workstation/constructing-a-mathematics-wiki.md",
     "content/log/log 12023-05.md",
+    "content/log/logs.md",
+    "content/log/log-12026-04-19.md",
+    "content/log/log-12026-04.md",
+    "content/log/log-12025.md",
+    "content/log/log-12024-12-17.md",
     "content/log/log 12021-10-31.md",
     "content/log/log-12024-12-15.md",
-    "content/log/logs.md",
     "content/index.md",
     "dash/countdown.md",
     "management/digital gardening management.md",
@@ -209,14 +216,7 @@
     "content/travel/himachal.md",
     "content/art/dark-academia-music.md",
     "content/academia/archive-of-pretty-math-notes.md",
-    "content/about/now.md",
     "content/about/now-archive.md",
-    "content/workstation/obsidian-and-latex.md",
-    "content/workstation/constructing-a-mathematics-wiki.md",
-    "content/workstation/constructing-hierarchical-wiki.md",
-    "content/workstation/hierarchical-longterm-wiki.md",
-    "content/about/about-me.md",
-    "content/academia/seminar-26-summer-global.md",
     "management/site base.base",
     "/management/site base.base",
     "/management",
