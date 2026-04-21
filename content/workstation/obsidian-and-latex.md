@@ -64,13 +64,16 @@ A few highlights are as follows:
 	- Here I made a list of lecture notes: <br>  ![|550](https://i.imgur.com/o4AdbO1.png)
 	- I had a lot of notes on manifolds, but I wanted to make a list of all of them. I wrote a query for that! <br> ![Screenshot-2025-07-06-234318.png](https://i.postimg.cc/c1t4ZZcT/Screenshot-2025-07-06-234318.png)
 	- But I prefer a gallery view with little pics: <br> [![Screenshot-2025-07-07-000939.png](https://i.postimg.cc/JzRCvWnT/Screenshot-2025-07-07-000939.png)](https://postimg.cc/6ybP4gCR)
-- [zsviczian/obsidian-excalidraw-plugin: A plugin to edit and view Excalidraw drawings in Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin) is a *active-in-development* plugin and even without a drawing device, it can be used to draw figures, flowcharts and also can be used to hand-write notes! It can even render LaTeX using MathJax, so making math diagrams becomes very simple. This little manifold is made using Exalidraw: <br> [![Screenshot-2025-07-06-234835.png](https://i.postimg.cc/2y1qNZSx/Screenshot-2025-07-06-234835.png)](https://postimg.cc/9wjXGzT4)
-### Exporting notes from Obsidian
+- [zsviczian/obsidian-excalidraw-plugin: A plugin to edit and view Excalidraw drawings in Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin) is a *active-in-development* plugin and even without a drawing device, it can be used to draw figures, flowcharts and also can be used to hand-write notes!
+	- It can even render LaTeX using MathJax, so making math diagrams becomes very simple.
+	- This little manifold is made using Exalidraw: <br> [![Screenshot-2025-07-06-234835.png](https://i.postimg.cc/2y1qNZSx/Screenshot-2025-07-06-234835.png)](https://postimg.cc/9wjXGzT4)
+
+## Exporting notes from Obsidian
 
 
 - ### "printing" Obsidian notes to PDF
 	- "Export to PDF" is a built-in feature but the plugin [l1xnan/obsidian-better-export-pdf: Obsidian PDF export enhancement plugin](https://github.com/l1xnan/obsidian-better-export-pdf) lives up to its name and provides some enhancements.
-		- [[my-notes|My notes]] especially for example https://dub.sh/spring25 is made using this plugin.
+		- [[my-notes|My notes]] are exported using this blugin
 - #### Obsidian markdown to LaTeX or PDF
 	- [alfredholmes/TeXNotes: Zettelkasten or Slip box with notes written in LaTeX (github.com)](https://github.com/alfredholmes/TeXNotes)
 	- ![](https://raw.githubusercontent.com/zcysxy/figurebed/master/img/obsidian-pandoc.png) [zcysxy/obsidian-pandoc-filters: Pandoc filters and an academic workflow for obsidian (github.com)](https://github.com/zcysxy/obsidian-pandoc-filters)
@@ -93,9 +96,7 @@ A few highlights are as follows:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MYJsGksojms?si=EMXPTENV4w141XsC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-## for formal documents
-
-### the debate of LaTeX vs Typst
+## the debate of LaTeX vs Typst
 
 
 
@@ -105,7 +106,10 @@ A few highlights are as follows:
 | ranging from 10 page to 150/200 page articles, we may assume they don't use many diagrams etc | Typst is prbably best for them if (a) it could do the same thing (b) with less hassle (c) they can use typst to publish whereever they want to | They may have issues to shift to Typst syntax                                          | **Best!** The following is for such users!      |
 | longform lecture notes/book writers, ~500 pages with diagrams, tables and all messy stuff     | ???...they ~~probably~~ definitely pay for Overleaf, so...                                                                                     | *who may speak for such pro users!*                                                    | *who may speak for such pro users!*             |
 
-### setting up LaTeX on VScode with snippets and templates
+## LaTeX for formal documents
+
+
+Here are the step to set up LaTeX on VScode with snippets and some templates:
 
 1. Install https://code.visualstudio.com/
 2. Install [LaTeX Workshop - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) inside Vscode
@@ -114,7 +118,104 @@ A few highlights are as follows:
 4. Install snippets [sleepymalc/VSCode-LaTeX-Inkscape: ✍ A way to integrate LaTeX, VS Code, and Inkscape in macOS](https://github.com/sleepymalc/VSCode-LaTeX-Inkscape)
 5. Evan Chen's template: https://github.com/vEnhance/dotfiles/blob/main/texmf/tex/latex/evan/evan.sty
 	1. How to use it? : https://web.evanchen.cc/faq-latex.html#L-4
-6. Diagrams? TikZ and Inkscape: https://www.math.univ-toulouse.fr/~asaintcr/blog-entry.php?id=5ink
+
+## Using Obsidian to write LaTeX documents
+
+- use aDHL for writing documents
+
+
+## Making figures
+
+Diagrams? TikZ and Inkscape: https://www.math.univ-toulouse.fr/~asaintcr/blog-entry.php?id=5ink
+
+
+### copy SVG from LaTeX inside Obsidian
+
+
+```js
+<%*
+// ─── config ───────────────────────────────────────────────────────────────────
+const SCALE = 4;
+const PREAMBLE_PATH = "preamble.sty"; // set to null to disable
+// ──────────────────────────────────────────────────────────────────────────────
+
+const tex = tp.file.selection();
+if (!tex) { new Notice("No text selected!"); return; }
+
+// load preamble if configured
+let preamble = "";
+if (PREAMBLE_PATH) {
+  const f = app.vault.getAbstractFileByPath(PREAMBLE_PATH);
+  if (f instanceof tp.obsidian.TFile) preamble = await app.vault.read(f);
+}
+
+const input = preamble ? `${preamble}\n${tex}` : tex;
+
+const svgString = await new Promise((resolve, reject) => {
+  const iframe = document.createElement("iframe");
+  iframe.style.display = "none";
+  document.body.appendChild(iframe);
+
+  const iwin = iframe.contentWindow;
+  const idoc = iframe.contentDocument;
+
+  iwin.onMathJaxReady = async () => {
+    try {
+      const mj = iwin.MathJax;
+      await mj.startup.promise;
+      const result = mj.tex2svg(input, { display: true, scale: SCALE });
+      const svgEl = result.querySelector("svg");
+
+      if (!svgEl) { reject(new Error("No SVG produced")); return; }
+
+      // fix tiny widths
+      const w = svgEl.width.baseVal;
+      if (w.valueInSpecifiedUnits < 2)
+        svgEl.width.baseVal.valueAsString = `${(w.valueInSpecifiedUnits + 1).toFixed(3)}ex`;
+
+      resolve(svgEl.outerHTML);
+    } catch(e) {
+      reject(e);
+    } finally {
+      document.body.removeChild(iframe);
+    }
+  };
+
+  idoc.open();
+  idoc.write(`
+    <!DOCTYPE html>
+    <html>
+    <head>
+      <script>
+        window.MathJax = {
+          tex: {
+            packages: {'[+]': ['ams', 'boldsymbol', 'mathtools']}
+          },
+          svg: { fontCache: 'local' },
+          startup: {
+            ready() {
+              MathJax.startup.defaultReady();
+              MathJax.startup.promise.then(() => window.parent.frames[0].onMathJaxReady());
+            }
+          }
+        };
+      <\/script>
+      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg-full.js"><\/script>
+    </head>
+    <body></body>
+    </html>
+  `);
+  idoc.close();
+});
+
+await navigator.clipboard.writeText(svgString);
+new Notice("SVG copied to clipboard ✓");
+%>
+```
+
+
+## Making presentations
+
 
 ## brief history of everyone's inspiration
 
