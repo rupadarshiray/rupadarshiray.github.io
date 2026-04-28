@@ -9,4 +9,4 @@ aliases:
   - himachal
 ---
 
-Over the few times that I've visited Himachal's 
+Over the few times that I've visited Himachal's villages in the hills...

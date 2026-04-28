@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/now-archive.md",
-                "mode": "preview",
+                "file": "content/workstation/constructing-hierarchical-wiki.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "now-archive"
+              "title": "constructing-hierarchical-wiki"
             }
           }
         ]
@@ -191,12 +191,14 @@
   },
   "active": "23c86f283dc02169",
   "lastOpenFiles": [
+    "content/workstation/citation-graph-plotter.md",
+    "content/about/now-archive.md",
+    "content/travel/himachal.md",
     "content/workstation/visual-templates.md",
     "/management/digital gardening management.md",
     "/content/workstation/visual-templates.md",
     "/content/workstation/obsidian-and-latex.md",
     "/content/workstation/citation-graph-plotter.md",
-    "content/workstation/citation-graph-plotter.md",
     "/content/workstation",
     "/content/art/meme-end-of-notes.md",
     "content/art/meme-end-of-notes.md",
@@ -222,8 +224,6 @@
     "content/log/log 12021-10-31.md",
     "content/log/log-12024-12-15.md",
     "content/index.md",
-    "dash/countdown.md",
-    "management/digital gardening management.md",
     "management/site base.base",
     "/management/site base.base",
     "/dash"
