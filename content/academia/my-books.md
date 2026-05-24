@@ -2,8 +2,8 @@
 created: 2021-11-02T16:34:01
 modified: 2021-12-18T01:50:22
 tags: []
-alias: []
-title: "My books"
+aliases: []
+title: My books
 ---
 
 > parent:: [[academia]]

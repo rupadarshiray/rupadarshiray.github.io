@@ -2,8 +2,8 @@
 created: 2021-11-24T14:56:40
 modified: 2021-11-24T14:56:40
 tags: []
-alias: []
-title: 'About Me'
+aliases: []
+title: About Me
 ---
 
 My name is Rupadarshi Ray. I am from Balurghat, a town in the northern part of Bengal, India 🇮🇳. I am currently studying in IISER Mohali as a MS21 student of the BSMS programme.

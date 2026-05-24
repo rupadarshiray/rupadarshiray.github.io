@@ -2,11 +2,10 @@
 created: 2024-03-19T23:12:57
 modified: 2026-04-02T21:27:06
 tags: []
-alias:
+title: Visualization tools
+aliases:
   - Desmos template
   - vector field flow visual
-title: Visualization tools
-aliases: ""
 ---
 
 - Vector fields

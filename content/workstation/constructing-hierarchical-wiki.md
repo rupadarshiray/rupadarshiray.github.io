@@ -1,11 +1,13 @@
 ---
 id: 1pMVxQT9bCpITrQhazStP
-title: 'Constructing a hierarchical wiki'
-desc: 'Building an ecosystem of knowledge with the philosophy, on top of Dendron'
+title: Constructing a hierarchical wiki
+desc: Building an ecosystem of knowledge with the philosophy, on top of Dendron
 created: 2021-11-06T01:44:39
 modified: 2021-12-18T01:50:22
-tags: [Workstation, Wiki]
-alias: []
+tags:
+  - Workstation
+  - Wiki
+aliases: []
 enableToc: true
 ---
 

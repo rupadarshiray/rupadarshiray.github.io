@@ -17,7 +17,7 @@ aliases: ""
 - [![](https://i.redd.it/m14vcb1gjjmg1.jpeg)](https://www.reddit.com/r/mathematics/comments/1rigdbx/made_a_yoneda_lemma_poster_for_my_living_room_3/)
 - [![](https://preview.redd.it/made-another-one-to-complete-the-set-of-flags-3c-sorry-for-v0-yi02od107kmg1.png?width=1080&crop=smart&auto=webp&s=4d274a76177802c308042b697eb72578b27f2e61)](https://www.reddit.com/r/mathematics/comments/1rij4kf/made_another_one_to_complete_the_set_of_flags_3c/)
 - `poster` [Alexander Elzenaar -Limit sets of cone manifolds](https://aelzenaar.github.io/cones/conference_poster_6.pdf)
-## lecture notes
+## Texed lecture notes
 
 - [Sinho Chewi's Website](https://chewisinho.github.io/class-notes)
 - [David Bai](https://zb260.user.srcf.net/notes/)
@@ -25,6 +25,9 @@ aliases: ""
 - [$ ls ./Notes | Pingbang Hu](https://pbb.wtf/posts/Notes/)
 - [Lecture Notes | Gilles Castel](https://castel.dev/notes/)
 
+## handwritten lecture notes
+
+- [School '99 - G Tian - Symplectic geometry and Gromov-Witten invariants](https://indico.ictp.it/event/a02071/contribution/3/material/0/0.pdf)
 ## computational libraries, packages and visualizers
 
 - https://www.josleys.com/galleries.php <br> ![](https://www.josleys.com/htmlgalleries/kleinanims/Klein_097S.gif)

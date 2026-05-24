@@ -3,8 +3,9 @@ id: rO3GCRovvG0U8djXbV3pl
 title: Best Works in SoME1
 created: 2021-10-19T18:41:27
 modified: 2021-12-18T01:50:22
-tags: [math]
-alias: []
+tags:
+  - math
+aliases: []
 ---
 
 - parent:: [[academia]]

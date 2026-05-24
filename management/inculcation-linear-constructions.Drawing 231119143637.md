@@ -1,8 +1,9 @@
 ---
 created: 2023-11-19T14:36:37
 modified: 2023-11-19T14:36:37
-tags: [excalidraw]
-alias: []
+tags:
+  - excalidraw
+aliases: []
 excalidraw-plugin: parsed
 ---
 
