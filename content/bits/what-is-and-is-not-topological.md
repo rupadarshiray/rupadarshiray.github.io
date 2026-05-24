@@ -12,6 +12,6 @@ aliases: ''
 
 ## what is topological
 
-- when you choose a open set in $\R^{n}$ as the (following $\downarrow$) you have chosen a topology, you cannot excape it!
+- when you choose a open set in $\R^{n}$ as the (following $\downarrow$) you have chosen a topology, you cannot escape it!
 	- in classical mechanics to define configuration space, phase space
 	-  in doing NLD/biology or any other ODE modelling, to write a first order ODE

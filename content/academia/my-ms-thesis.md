@@ -168,7 +168,7 @@ aliases: ""
 ## presentations
 
 - [The slides for my PRJ501 presentation (after *half* of my MS thesis) is here](https://rupadarshiray.github.io/slides/PRJ501.pdf)
-- The slides for my PRJ502 presentation will be here in a few months
+- [The slides for my PRJ502 presentation is here](https://dub.sh/thesismsPRJ)
 - The poster on the MS thesis will be here too
 ## memes
 

@@ -12,7 +12,7 @@ views:
       - file.tags
       - title
     sort:
+      - property: file.tags
+        direction: DESC
       - property: file.name
         direction: DESC
-      - property: file.tags
-        direction: ASC

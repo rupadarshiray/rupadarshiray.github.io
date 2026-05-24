@@ -4,7 +4,6 @@ modified: 2021-11-24T14:29:53
 title: '(My) academia'
 ---
 
-> [!bug] bliss and beyond
 
 - Me learning and teaching how to build an academic workstation:
 	- [[obsidian-and-latex]]

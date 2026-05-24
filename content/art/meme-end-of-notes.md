@@ -6,7 +6,7 @@ title: Memes for end of long notes
 aliases: ""
 ---
 
-
+These memes are the ones I add at the end of my (long) lecture notes.
 
 
 ![|center](https://i.imgur.com/LFHH491.png)

@@ -394,6 +394,6 @@ Turbulence is still an unsolved problem.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_UoTTq651dE?si=EOi15dGihAaJzt79" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Mechanics on a lattice or a graphw
+# Mechanics on a graph
 
 Where does the Ising model sit in all these? Does it even need a "spacetime"?
