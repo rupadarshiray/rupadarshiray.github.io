@@ -222,7 +222,12 @@ plugins:
     enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: rupadarshiray/rupadarshiray.github.io
+        repoId: R_kgDOTAl_1A
+        category: Announcements
+        categoryId: DIC_kwDOTAl_1M4C_lh6
+        lang: en
     layout:
       position: afterBody
       priority: 10
