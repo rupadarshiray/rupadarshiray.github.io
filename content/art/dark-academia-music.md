@@ -1,0 +1,51 @@
+---
+created: 2023-11-23T02:36:36
+modified: 2023-11-23T02:36:36
+tags:
+  - music
+title: Dark academia music
+aliases: ""
+---
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M3MgC_zVLYo?si=tcoUZre8SDQfHQ88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+This was a good one.
+
+I'm giving stuff which are not just a remix of the piece *Experience*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nwyz1w1Jp7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+these are actual people live studying, no music, just rain sounds in general
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4GsttHaZq38" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+i used to follow one of them but
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qkdUGC-izus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+this guy streamed 12 hours EVERYDAY, not doesn't do it anymore
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AFHUv2PZcWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+good f
+channels
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YJzFDzAqdNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+dark academia asthenics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/goKm4DhvJto" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+remixes of known music in arabic
+- post rock
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3rQS167TiQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+play distracting music in the next room
+
+(for more, search for "bathroom mix")

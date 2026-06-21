@@ -1,0 +1,196 @@
+---
+created: 2026-06-18T23:56:05
+modified: 2026-06-18T23:56:05
+tags:
+  - todo
+title: (My) hierarchical wiki of notes on mathematics
+aliases: ""
+---
+
+
+I am trying to publish my set of ~1200 notes as PDFs which are interlinked by their *URLs*. The following *subset* is currently online.
+
+  - [stamp](https://rupadarshiray.github.io/notes/wiki.stamp.pdf) stamp
+    - [Rf](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.pdf) subobjects of and functions on $\R^{n},T^{n}, S^{n},\C^{n}$
+      - [1Hol](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.pdf) Holomorphic functions on spaces over $\C$ of dimension 1
+        - [approx rat](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.approx_rat.pdf) Approximation of holomorphic functions on $\C$ by rational functions
+        - [embedding into C3](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.embedding_into_C3.pdf) Embedding unit disk $D$ into $\C^{3}$
+        - [factorization](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.factorization.pdf) Factorization of holomorphic functions on $\C$
+        - [global](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.global.pdf) Global holomorphic functions
+        - [Hol](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.Hol.pdf) Equivalent descriptions of holomorphic functions
+          - [Cauchy](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.Hol.Cauchy.pdf) Cauchy integral formula for holomorphic functions
+          - [d](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.Hol.d.pdf) Derivative of holomorphic functions
+          - [integral](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.Hol.integral.pdf) Integral of holomorphic differential forms
+          - [power series](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.Hol.power_series.pdf) Convergent power series
+        - [mapping](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.mapping.pdf) 
+          - [bd derivative](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.mapping.bd_derivative.pdf) Bounding derivative of holomorphic mappings
+          - [bd linear](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.mapping.bd_linear.pdf) Bounding holomorphic functions linearly
+          - [branch points](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.mapping.branch_points.pdf) Branch points and ramification index of holomorphic functions
+          - [disk image contains disks](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.mapping.disk_image_contains_disks.pdf) Disk in holomorphic image of disk
+          - [disk image size](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.mapping.disk_image_size.pdf) Size of holomorphic image of disks
+          - [extremums](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.mapping.extremums.pdf) Maximum and minimum of holomorphic functions
+          - [fibers](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.mapping.fibers.pdf) Fibers of holomorphic mappings
+          - [locally poly](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.mapping.locally_poly.pdf) Non-constant holomorphic functions locally look like $w^{k}$ and are open mappings
+          - [onto disk](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.mapping.onto_disk.pdf) Biholomorphic mapping onto disk
+          - [onto disk radius](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.mapping.onto_disk_radius.pdf) Conformal radius of pointed simply connected open subsets of $\C$
+          - [pole](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.mapping.pole.pdf) Holomorphic functions on punchered disk
+          - [singularities are not isolated](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.mapping.singularities_are_not_isolated.pdf) Holomorphic function whose singularities are not isolated
+          - [z2 at all rationals](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.mapping.z2_at_all_rationals.pdf) A holomorphic map branched over $\Q$
+        - [Mer](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.Mer.pdf) Meromorphic functions on the complex plane
+        - [Mer at infinity](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.Mer_at_infinity.pdf) Holomorphic functions meromorphic at infinity
+        - [modular](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.modular.pdf) Modular forms
+        - [recons mer from stalk](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.recons_mer_from_stalk.pdf) Reconstructing meromorphic functions from stalks
+        - [reflection](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.reflection.pdf) Extending holomorphic functions by reflections
+        - [rotation symmetrizer](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.rotation_symmetrizer.pdf) Rotational symmetrization of holomorphic functions
+        - [sheaf](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.sheaf.pdf) Sheaf of holomorphic functions on $\C$
+        - [space](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.space.pdf) $\mathscr{O}(U)$
+          - [pre-cpt](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.space.pre-cpt.pdf) Pre-compact subsets of $\mathscr{O}(U)$
+          - [seq](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.space.seq.pdf) Sequences of holomorphic functions
+        - [space C](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.space_C.pdf) $\mathscr{O}(\C)$
+        - [space D](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.space_D.pdf) $\mathscr{O}(D)$
+        - [space D closed](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.space_D_closed.pdf) $\mathscr{O}(\overline{D})$
+        - [space D cnt bd](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.space_D_cnt_bd.pdf) $\mathscr{O}(D)\cap\mathcal{C}(\overline{D})$
+        - [space D L2](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.space_D_L2.pdf) $\mathscr{O}\cap L^{2}(D)$
+        - [space H](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.space_H.pdf) $\mathscr{O}^{p}(H^{2}_{\mathrm{U}})$
+        - [space Lp](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.space_Lp.pdf) $\mathscr{O}\cap L^{p}$
+        - [space S1](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.space_S1.pdf) $\mathscr{O}(S^{1})$
+        - [zeros and singularities](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.1Hol.zeros_and_singularities.pdf) Zeros and singularities of holomorphic functions
+      - [An](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.An.pdf) 
+        - [S1](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.An.S1.pdf) Analytic functions on the circle
+      - [circle packing](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.circle_packing.pdf) Circle packing on $\R^{2}$
+      - [circle packing to Riemann map](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.circle_packing_to_Riemann_map.pdf) Circle packing converges to the Riemann biholomorphism
+      - [Cn conn open bounded](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Cn_conn_open_bounded.pdf) Bounded connected open subsets of $\C^{n}$
+      - [Cn conn open circular](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Cn_conn_open_circular.pdf) Connected circular open subsets of $\C^{n}$
+      - [cont](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.cont.pdf) Continuous functions on $\R^{d}$
+        - [0to1 w bd](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.cont.0to1_w_bd.pdf) $\mathcal{C}_{0}[0,1]$
+        - [1with inf limit is unf](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.cont.1with_inf_limit_is_unf.pdf) Continuous functions on $\R$ with infinite limit are uniformly continuous
+        - [interm](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.cont.interm.pdf) Intermedia value property of continuous functions on intervals
+        - [space](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.cont.space.pdf) $\mathcal{C}(U, X)$
+        - [space cpt](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.cont.space_cpt.pdf) $\mathcal{C}[0,1]$
+          - [dual](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.cont.space_cpt.dual.pdf) Dual space of $\mathcal{C}[0,1]$
+          - [int to R](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.cont.space_cpt.int_to_R.pdf) Riemann integral functional $\int_{[a,b]} : \mathcal{C}[a,b]\to \R$
+      - [cube dyadic](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.cube_dyadic.pdf) Dyadic cubes
+      - [curves](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.curves.pdf) Curves
+        - [arc](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.curves.arc.pdf) Arc length
+        - [congruence](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.curves.congruence.pdf) Congruent curves
+        - [curvature](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.curves.curvature.pdf) Curvature of a curve
+        - [reparameterization](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.curves.reparameterization.pdf) Reparameterization of a parameterized curve
+        - [tangent](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.curves.tangent.pdf) Tangent of a curve
+        - [unit speed](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.curves.unit_speed.pdf) Unit speed parameterization of a curve
+      - [dense](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.dense.pdf) 
+        - [nowhere diffable in C](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.dense.nowhere_diffable_in_C.pdf) Nowhere differentiable functions are dense in $\mathcal{C}[0,1]$
+        - [on 0to1](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.dense.on_0to1.pdf) Basis of functions on $[0,1], S^{1}$
+      - [derivative](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.pdf) Differentiable functions
+        - [1 at a point](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.1_at_a_point.pdf) Functions $(a,b)\to \R$ differentiable at a point
+        - [bd](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.bd.pdf) Comparing a function and it derivative
+        - [cont abs](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.cont_abs.pdf) Absolutely continuous functions on $[a,b]$ $\leftrightarrow$ $\int_{[a,-]}(L^{1}[a,b])$
+        - [dist](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.dist.pdf) Distributional derivatives
+          - [H-frac](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.dist.H-frac.pdf) Fractional Sobolev spaces
+          - [H1](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.dist.H1.pdf) $H^{1}(U)$
+          - [H1 loc](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.dist.H1_loc.pdf) $H^{1}_{\mathrm{loc}}$
+          - [H1 loc R2](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.dist.H1_loc_R2.pdf) $H^{1}_{\mathrm{loc}}(U)$ for $U \subseteq \R^{2}$
+        - [double circle](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.double_circle.pdf) Double derivative/Laplace operator on the circle
+        - [frac](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.frac.pdf) Fractional derivative
+        - [limit infinite](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.limit_infinite.pdf) Infinite limit of derivatives
+        - [space](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.space.pdf) Space of continuous and continuously differentiable functions on $\R$
+          - [cpt 1](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.space.cpt_1.pdf) $\mathcal{C}^{1}([a,b],\R)$
+            - [End d](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.space.cpt_1.End_d.pdf) Derivative operator on $\mathcal{C}^1[a,b]$
+            - [sup norm](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.space.cpt_1.sup_norm.pdf) $(\mathcal{C}^{1}([a,b],\R), \norm{}_{\infty})$
+          - [open with cpt supp k](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.space.open_with_cpt_supp_k.pdf) $\mathcal{C}^{k}_{\mathsf{c}}((a,b),\R)$
+        - [total](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.total.pdf) Derivative of maps $\R^{n} \to \R^{m}$
+        - [zoom](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.derivative.zoom.pdf) Zooming of a map $\R^{n}\to \R^{m}$
+      - [equations](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.equations.pdf) 
+        - [2](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.equations.2.pdf) Equations for functions on $\R^{2}$
+        - [2 1 ql](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.equations.2_1_ql.pdf) Quasi-linear PDEs on $\R^{2}$
+        - [n 1](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.equations.n_1.pdf) First order PDEs in $\R^{n}$
+      - [forms](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.forms.pdf) Differential forms on $\R^n$
+        - [cohomology](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.forms.cohomology.pdf) de Rham cohomology in $\R^n$
+      - [Fourier-Wigner](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Fourier-Wigner.pdf) Fourier-Wigner transform
+      - [Fourier](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Fourier.pdf) 
+        - [L2 bdint](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Fourier.L2_bdint.pdf) Fourier transform on $L^{2} (-A,A)\leq L^{2}(\R)$
+        - [L2 Rpos to Hardy2 upper 1](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Fourier.L2_Rpos_to_Hardy2_upper_1.pdf) $\widehat{\quad}:L^{2}(0, \infty) \isom_{\cat{Hilb}} \mathscr{O}^{2}(H^{2}_{\mathrm{U}})$
+        - [Rn](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Fourier.Rn.pdf) Fourier transform on $\R^{n}$
+        - [S1](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Fourier.S1.pdf) Fourier transform on $S^{1}$, Fourier series on $[0,1]$
+        - [S1 abs](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Fourier.S1_abs.pdf) Functions on $S^{1}$ with absolutely converging Fourier series, $\check{l}^{1} (S^{1})$
+        - [S1 dist](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Fourier.S1_dist.pdf) Fourier transform of distributions on $S^{1}$
+        - [S1 L1toC0](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Fourier.S1_L1toC0.pdf) $\widehat{\quad }: L^{1}[0,1] \to \mathcal{C}_{0}(\Z,\C)$
+        - [S1 L2tol2](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Fourier.S1_L2tol2.pdf) $\widehat{\quad} : L^{2}[0,1] \isom_{\cat{Hilb}} l^{2}(\Z,\C)$
+        - [subsets](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Fourier.subsets.pdf) Fourier transform of measurable subsets
+        - [unsharp](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Fourier.unsharp.pdf) Unsharpness principles
+      - [harmonic composed conformal](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.harmonic_composed_conformal.pdf) Harmonic functions composed with conformal maps
+      - [Hilbert](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Hilbert.pdf) Hilbert transform
+      - [hol harmonic disk-circle](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.hol_harmonic_disk-circle.pdf) Fourier-Cauchy-Poisson correspondence of holomorphic and harmonic functions on the unit disk and their boundary values
+      - [Hol sets](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Hol_sets.pdf) Holomorphic subsets of $\C^{n}$
+      - [hypersurf 2n reg](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.hypersurf_2n_reg.pdf) Regular hypersurfaces in $\R^{2n}$
+      - [hypersurf or](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.hypersurf_or.pdf) Orientable hypersurfaces in $\R^{n}$
+      - [int](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.int.pdf) 
+        - [by parts](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.int.by_parts.pdf) Integration by parts
+        - [Laplace method](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.int.Laplace_method.pdf) Laplace's method for approximating integral of $e^{Mf}$ for large $M$
+        - [open C1bd](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.int.open_C1bd.pdf) Integral on bounded open subsets of $\R^{n}$ with $\mathcal{C}^{1}$ boundary
+        - [R](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.int.R.pdf) Riemann-Darboux and Riemann-Stieltjes integrals
+      - [KG](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.KG.pdf) $$\partial_{t}^{2} +\sum_{i=1}^{n} v^{2}_{i} \partial^{2}_{x_{i}} + m^{2}$$
+      - [Laplace](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Laplace.pdf) Laplace operator on $\R^{n}$
+        - [upper half](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Laplace.upper_half.pdf) Laplace operator on (flat) upper half space
+      - [linear](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.linear.pdf) 
+        - [operator norm](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.linear.operator_norm.pdf) Operator norm of linear maps between $\R^n$
+      - [Lmeas](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.pdf) Lebesgue measurable subsets of and functions on $\R^{n}, T^{n}, S^{n}$
+        - [BMO](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.BMO.pdf) Functions with uniformly bounded mean oscillations on cubes
+        - [decom bd](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.decom_bd.pdf) Decomposition of $f\in L^{p}$ into bounded and unbounded parts
+        - [decom CZ](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.decom_CZ.pdf) Calderon-Zygmund decomposition
+        - [density](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.density.pdf) Lebesgue density of measurable sets
+        - [DMO](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.DMO.pdf) Functions with uniformly bounded mean oscillations on dyadic cubes
+        - [End int](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.End_int.pdf) Volterra operator $\int_{[0,-]}:L^{1}_{\mathrm{loc}}[0,1)\to \mathcal{C}[0,1)$
+          - [p to p](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.End_int.p_to_p.pdf) Volterra operator $\int_{[0,-]}: L^{p} [a,b]\to L^{p} [a,b]$
+        - [f](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.f.pdf) Measurable functions on $\R^{n}$
+        - [f quant](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.f_quant.pdf) $(\epsilon,n)$-measurable function
+        - [int](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.int.pdf) Integrability and integral of measurable functions on $\R^{n}$
+        - [int HL](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.int_HL.pdf) Hardy-Littlewood maximal functions of $L^{1}_{\mathsf{loc}}(\R^{n})$
+        - [int mean](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.int_mean.pdf) Lebesgue averaging and differentiation
+        - [int monotone](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.int_monotone.pdf) Integrals of a monotonically converging sequence of functions
+        - [int undergraph](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.int_undergraph.pdf) Lebesgue integral from measure of undergraph
+        - [Lorentz](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.Lorentz.pdf) $L^{p,q}$
+        - [unit mass](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas.unit_mass.pdf) $\mor{E}([0,1])=\mor{E}(0,1), \mor{E}([-\pi,\pi])=\mor{E}(S^{1})$
+      - [Lmeas bd of open](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Lmeas_bd_of_open.pdf) Lebesgue measure of boundary of open sets in $\R^{n}$
+      - [mapping](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.mapping.pdf) 
+        - [balls](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.mapping.balls.pdf) Mapping balls
+        - [inverse](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.mapping.inverse.pdf) Inverse of differentiable maps
+        - [mean value](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.mapping.mean_value.pdf) Mean value property of functions
+          - [iterative](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.mapping.mean_value.iterative.pdf) Taylor's theorem
+        - [seqf](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.mapping.seqf.pdf) Sequence of functions on $\R^{d}$
+      - [met density](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.met_density.pdf) Metric density of subsets of $\R^{n}$
+      - [Mobius n-sphere](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Mobius_n-sphere.pdf) Mobius endomorphisms
+      - [monotone](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.monotone.pdf) Monotone functions on $\R$
+        - [asymp](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.monotone.asymp.pdf) Asymptotics of monotonically increasing functions $[0,\infty]\to [0,\infty]$
+      - [periodic int Cauchy](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.periodic_int_Cauchy.pdf) Cauchy integral of periodic functions
+      - [poly int](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.poly_int.pdf) Polygons with integer vertices
+      - [quasiconformal](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.quasiconformal.pdf) 
+        - [2](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.quasiconformal.2.pdf) Quasiconformal maps on $\C$
+        - [n](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.quasiconformal.n.pdf) Quasiconformal maps on $S^{n}$
+      - [R 2 open smooth End](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.R_2_open_smooth_End.pdf) Open smooth maps $U \subseteq \R^{2}\to\C$
+      - [R n discrete subg](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.R_n_discrete_subg.pdf) Discrete subgroups of $\R^{n}$
+        - [power sum](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.R_n_discrete_subg.power_sum.pdf) Power series sum of a discrete subgroup of $\R^{2}$
+      - [R n discrete subg cocpt](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.R_n_discrete_subg_cocpt.pdf) Discrete cocompact subgroups of $\R^{n}$, flat tori
+      - [R1](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.R1.pdf) 
+        - [discont types](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.R1.discont_types.pdf) Types of discontinuities of functions on $\R$
+        - [extremum](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.R1.extremum.pdf) Extremum of functions $\R \to \R$
+        - [fixed pts](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.R1.fixed_pts.pdf) Fixed points of functions $U \subseteq \R \to U$
+        - [limit of fractions](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.R1.limit_of_fractions.pdf) $\lim_{ x \to a } \frac{f(x)}{g(x)}$ of functions $f,g:U\subseteq \R \to \R$
+        - [Var and sequence of functions](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.R1.Var_and_sequence_of_functions.pdf) Total variation and sequence of continuous functions
+      - [RC ramified germs](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.RC_ramified_germs.pdf) Ramified germs of smooth and holomorphic functions
+        - [Hol modality 1](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.RC_ramified_germs.Hol_modality_1.pdf) Simple singularities of holomorphic functions
+      - [Rn open](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Rn_open.pdf) Open subsets of $\R^{n}$
+      - [Rn open Riem](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Rn_open_Riem.pdf) Open subsets of $\R^{n}$ equipped with the flat metric
+      - [smooth quasi-analytic](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.smooth_quasi-analytic.pdf) Quasi-analytic smooth functions on $\R$
+      - [star shaped](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.star_shaped.pdf) Star-shaped subsets of $\R^n$
+      - [Vec](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Vec.pdf) ODEs in $\R^{n}$ $\leftrightarrow$ Vector fields in $\R^{n}$
+        - [cons](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Vec.cons.pdf) Constant of a flow in $\R^n$
+        - [Euler method](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Vec.Euler_method.pdf) Euler's iterative solution method for first order ODEs
+        - [existence](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Vec.existence.pdf) Existence of integral curves of vector fields in $\R^{n}$
+        - [fixed](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Vec.fixed.pdf) Fixed points
+        - [flows](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Vec.flows.pdf) Flow of a vector field in $\R^{n}$
+        - [from graphs](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Vec.from_graphs.pdf) Graph $\to$ polynomial ODE
+        - [grad](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Vec.grad.pdf) Gradient flows on $\R^{n}$
+        - [Hamiltonian](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Vec.Hamiltonian.pdf) Hamiltonian vector fields in $\R^{2n}$ with standard symplectic form
+        - [probability distribution](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Vec.probability_distribution.pdf) Probability distribution of flow
+        - [volume](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.Vec.volume.pdf) Volume change by flows on $\R^{n}$
+      - [wave](https://rupadarshiray.github.io/notes/wiki.stamp.Rf.wave.pdf) $$\partial_{t}^{2} +\sum_{i=1}^{n} v_{i}^{2} \partial^{2}_{x_{i}}$$
