@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("event")
+    order: []
+    sort:
+      - property: created
+        direction: DESC
+    image: note.thumbnail
+    imageFit: contain
+    imageAspectRatio: 0.75
+    cardSize: 200
