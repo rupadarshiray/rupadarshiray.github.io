@@ -3,7 +3,6 @@ created: 2026-06-15T01:40:35
 modified: 2026-06-15T01:40:44
 tags: []
 title: omarchy
-aliases: ""
 ---
 
 Watching [The Linux Experience - Omarchy - YouTube](https://www.youtube.com/watch?v=Urq__zOwQqg) (June, '26) inspired me to install *Omarchy* (pre-configured *ArchLinux* with *hyperland*). This would be my first time installing *linux*, probably in my bloodline.
