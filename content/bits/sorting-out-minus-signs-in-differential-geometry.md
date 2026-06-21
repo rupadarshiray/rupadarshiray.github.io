@@ -3,7 +3,6 @@ created: 2024-09-16T15:47:44
 modified: 2024-09-16T15:47:44
 tags: []
 title: 'Sorting out minus signs in differential geometry'
-aliases: '' 
 ---
 
 ## in the Lie algebra of vector fields on a smooth manifold

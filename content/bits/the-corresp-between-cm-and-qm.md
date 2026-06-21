@@ -3,7 +3,6 @@ created: 2023-11-26T00:03:20
 modified: 2023-11-26T00:03:51
 tags: []
 title: 'The correspondence between CM and QM'
-aliases: '' 
 ---
 
 ## though the one point problem
@@ -53,5 +52,3 @@ As a consequence of this chain of thought, I give the example of how two harmoni
 This can be generalized to infinite dimensions: [Geometric formulation of quantum mechanics - arxiv.org/pdf/1503.00238.pdf](https://arxiv.org/pdf/1503.00238.pdf).
 
 What does this mean physically, or even (physics) philosophically?
-
-

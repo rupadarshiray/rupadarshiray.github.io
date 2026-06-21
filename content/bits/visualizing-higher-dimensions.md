@@ -3,7 +3,6 @@ created: 2024-12-13T13:26:12
 modified: 2024-12-13T13:30:05
 tags: []
 title: 'Visualizing higher dimensions'
-aliases: '' 
 ---
 
 The meme is

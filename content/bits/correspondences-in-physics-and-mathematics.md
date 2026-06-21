@@ -3,7 +3,6 @@ created: 2023-11-26T15:24:48
 modified: 2023-11-26T15:24:48
 tags: []
 title: 'Correspondences in physics and mathematics'
-aliases: '' 
 ---
 
 We are concerned with finding patterns
