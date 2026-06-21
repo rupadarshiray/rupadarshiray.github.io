@@ -3,7 +3,6 @@ created: 2025-10-06T14:20:41
 modified: 2025-10-06T14:20:45
 tags: [Inculcation]
 title: "Inculcation: integrable systems, vector bundles, gauge theory, topology of manifolds, geometric representation theory, enumerative geometry, quantum cohomology, TQFTs, Frobenius manifolds, singulatity theory, mirror symmetry"
-aliases: ""
 ---
 
 - `wikipedia` [Integrable system - Wikipedia](https://en.wikipedia.org/wiki/Integrable_system)
@@ -32,4 +31,3 @@ aliases: ""
 - `lecture videos` [BIMSA - Integrable Systems and Algebraic Geometry - Beijing Summer Workshop in Mathematics and Mathematical Physics (June 24 – July 5, 2024)](https://www.youtube.com/playlist?list=PLLGkFbxve670NmoPM-8D-0dvz8bKlP_lA)
 - `notes` [Enumerative geometry and geometric representation theory - Okounkov-AG2015.pdf](https://www.claymath.org/wp-content/uploads/2022/03/Okounkov-AG2015.pdf)
 - `notes` [33 lectures on quasimaps and elliptic stable envelopes - Andrei Okounkov](https://www.math.columbia.edu/~okounkov/33lectures.pdf)
-

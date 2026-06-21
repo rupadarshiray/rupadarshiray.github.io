@@ -4,7 +4,6 @@ modified: 2026-04-02T21:32:30
 tags:
   - meme
 title: Memes for end of long notes
-aliases: ""
 ---
 
 These memes are the ones I add at the end of my (long) lecture notes.

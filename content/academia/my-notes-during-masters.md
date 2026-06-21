@@ -3,7 +3,6 @@ created: 2023-03-28T14:14:08
 modified: 2023-03-28T14:14:08
 tags: [notes]
 title: 'My notes'
-aliases: ''
 ---
  
 ## Summer '22

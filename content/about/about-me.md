@@ -2,7 +2,6 @@
 created: 2021-11-24T14:56:40
 modified: 2021-11-24T14:56:40
 tags: []
-aliases: []
 title: About me
 ---
 

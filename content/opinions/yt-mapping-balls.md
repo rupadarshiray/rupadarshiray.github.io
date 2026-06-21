@@ -4,7 +4,6 @@ modified: 2026-06-19T19:50:49
 tags:
   - holomorpher
 title: "Mapping balls"
-aliases: ""
 ---
 
 - [[stamp.Rf.mapping.balls under diffable|Image of balls under differentiable maps]]

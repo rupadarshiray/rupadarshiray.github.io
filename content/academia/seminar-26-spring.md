@@ -4,7 +4,6 @@ modified: 2025-12-13T14:51:33
 tags:
   - seminar
 title: Mathematics seminars at IISER Mohali during the spring of 2026
-aliases: ""
 ---
 
 A series of talks is (ongoing and) planned for the spring semester of '26, organized at IISER Mohali.

@@ -5,7 +5,6 @@ tags: [Inculcation]
 enableToc: true
 openToc: true
 title: 'Inculcation'
-aliases: ''
 ---
 
 # Driven by infinite enthusiasm
@@ -259,5 +258,4 @@ With the language of manifolds/normed vector spaces we can work in geometry, top
 
 > [!tip] Evan Chen's [A Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf)
 >- an introduction to a lots of fields of math! (NOT a textbook but a really nice introductory reference)
->- starts with groups and metric spaces! 
-
+>- starts with groups and metric spaces!

@@ -4,7 +4,6 @@ modified: 2024-12-17T21:26:25
 tags:
   - Inculcation
 title: "Inculcation: Symplectic geometry"
-aliases: ""
 ---
 
 parent: [[inculcation]]

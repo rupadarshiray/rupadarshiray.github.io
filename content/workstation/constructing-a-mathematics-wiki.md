@@ -3,7 +3,6 @@ created: 2022-08-16T01:34:29
 modified: 2022-08-16T01:34:29
 tags: [Workstation, Wiki]
 title: 'Constructing a Mathematics Wiki'
-aliases: ''
 ---
 
 # Iteration I

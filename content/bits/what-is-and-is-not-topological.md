@@ -3,7 +3,6 @@ created: 2023-11-23T01:06:01
 modified: 2023-11-23T01:06:01
 tags: []
 title: 'what is and is not topological'
-aliases: ''
 ---
 
 ## what is *not* topological

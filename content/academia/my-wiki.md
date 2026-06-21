@@ -4,7 +4,6 @@ modified: 2026-06-18T23:56:05
 tags:
   - todo
 title: (My) hierarchical wiki of notes on mathematics
-aliases: ""
 ---
 
 

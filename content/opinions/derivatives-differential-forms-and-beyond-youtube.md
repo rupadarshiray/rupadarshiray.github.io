@@ -3,7 +3,6 @@ created: 2023-03-28T15:53:04
 modified: 2023-03-28T15:53:04
 tags:
 title: Derivatives, differential forms and beyond - YouTube
-aliases: ""
 ---
 
 This is me explaining tensors, derivatives and differential forms, focusing mostly on motivation of the philosophy and also looking for no-brain symbolic calculation as a summary.

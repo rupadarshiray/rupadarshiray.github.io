@@ -2,7 +2,6 @@
 created: 2026-06-19T21:06:43
 modified: 2026-06-19T21:06:52
 tags: []
-aliases: ""
 title: My socials
 ---
 

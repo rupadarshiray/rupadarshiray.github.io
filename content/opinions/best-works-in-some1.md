@@ -5,7 +5,6 @@ created: 2021-10-19T18:41:27
 modified: 2021-12-18T01:50:22
 tags:
   - math
-aliases: []
 ---
 
 Here are the videos that I watched and liked made for the Summer of Math Exposition - 1:

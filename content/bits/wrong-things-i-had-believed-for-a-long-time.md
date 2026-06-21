@@ -3,7 +3,6 @@ created: 2026-02-11T02:03:10
 modified: 2026-02-11T02:03:10
 tags: []
 title: Wrong things I had believed for a long time
-aliases: ""
 ---
 
 - I made it up in my head that the composition $M_{4}(R) \cong M_{2}(M_{2}(R)) \xrightarrow{\det} M_{2}(R) \xrightarrow{\det} R$ is the determinant map of $M_{4}$! This is not true!

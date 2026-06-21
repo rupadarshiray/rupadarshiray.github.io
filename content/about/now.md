@@ -2,7 +2,6 @@
 created: 2021-12-18T02:22:36
 modified: 2021-12-18T02:22:36
 tags: []
-aliases: []
 permalink: /now
 title: now
 description: This is a [/now page](https://nownownow.com/about) for me!

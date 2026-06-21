@@ -3,7 +3,6 @@ created: 2025-04-05T13:34:16
 modified: 2025-04-05T13:34:16
 tags: []
 title: A workstation with Obsidian and LaTeX
-aliases: []
 ---
 
 There are two broad use-cases:

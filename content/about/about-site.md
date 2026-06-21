@@ -2,7 +2,6 @@
 created: 2026-06-19T21:08:03
 modified: 2026-06-19T21:08:10
 tags: []
-aliases: ""
 title: About this site
 ---
 

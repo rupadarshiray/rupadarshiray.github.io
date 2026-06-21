@@ -3,7 +3,6 @@ created: 2023-03-28T15:45:28
 modified: 2023-03-28T15:45:28
 tags: []
 title: 'now archive'
-aliases: ''
 ---
 
 ## August 12022

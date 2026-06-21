@@ -5,7 +5,6 @@ tags:
   - thesis
   - notes
 title: My MS thesis
-aliases: ""
 ---
 
 <!---

@@ -3,7 +3,6 @@ created: 2026-06-18T23:59:14
 modified: 2026-06-18T23:59:14
 tags: []
 title: "me learning and explaining things"
-aliases: ""
 ---
 
 I have my [[notes]] and [[academia#my talks|my talks]]. However, I also like *learning in public*: making youtube videos *explaining* stuff while I am learning them. I hope to do that here:

@@ -4,7 +4,6 @@ modified: 2026-03-03T20:57:19
 tags:
   - Inculcation
 title: Archive of pretty math notes, books, slides
-aliases: ""
 ---
 
 

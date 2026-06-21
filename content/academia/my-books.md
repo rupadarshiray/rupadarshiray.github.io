@@ -2,7 +2,6 @@
 created: 2021-11-02T16:34:01
 modified: 2021-12-18T01:50:22
 tags: []
-aliases: []
 title: My books
 ---
 
