@@ -5,8 +5,6 @@ tags: [Inculcation]
 title: 'Inculcation: smooth manifolds'
 ---
 
-> parent:: [[inculcation]]
-
 
 ## initial philosophy of manifolds
 

@@ -4,22 +4,15 @@ modified: 2021-11-24T14:29:53
 title: '(My) academia'
 ---
 
+![[academia/my-math-interests]]
+
 - [[my-blackboards]]
 - [[my-masters-at-iiserm]]
 	- [[my-ms-thesis]]
-- my [[notes]]
+- [[my-wiki]]
+- [[events.base|seminars, workshops I attended]]
+- talks that I have given
 
-## my talks
-
-```base
-views:
-  - type: cards
-    name: Table
-    filters:
-      and:
-        - file.tags.contains("my-talks")
-
-```
 
 <!---
 
@@ -27,9 +20,9 @@ views:
 - Symplectic manifolds and Hamiltonian flows
 - [[2512 Talk - Rigidity and deformations]]
 
---->
 
-## seminars, workshops I attended
+
+## 
 
 ```base
 views:
@@ -51,7 +44,7 @@ views:
     cardSize: 200
 
 ```
-
+--->
 
 <!-- 
 - Me learning and teaching how to build an academic workstation:

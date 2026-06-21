@@ -8,12 +8,18 @@ Hello! I hope this website finds you well!
 
 ![[about-me|about me here]]
 
-![[now]]
+![[about/now]]
 
 ![[about-site]]
 
+![[academia/academia]]
+
+The highlight of my past year has been my MS thesis.
+
 ![[my-ms-thesis]]
 
-![[academia]]
+More stuff on this site includes the following.
 
-![[yt]]
+- [[yt|me learning and explaining things]]
+- [[inculcation]]
+- [[things-i-have-said-in-a-math-class]]

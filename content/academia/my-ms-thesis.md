@@ -168,7 +168,7 @@ I started my path towards the rigidity of discrete groups after I attended [[250
 
 I started by looking at globally symmetric spaces and the necessary properties of CAT(0) spaces, specially *smooth* ones which are simply connected Riemannian manifolds of non-positive sectional curvature. These spaces have a well-defined *boundary*.
 
-> [The slides for my PRJ501 presentation (after *half* of my MS thesis) is here](https://rupadarshiray.github.io/slides/PRJ501.pdf)
+> [The slides for my PRJ501 presentation (after *half* of my MS thesis) is here.](https://rupadarshiray.github.io/slides/PRJ501.pdf)
 
 Afterwards, I started specializing towards topics related to Patterson-Sullivan measures.
 
@@ -179,11 +179,14 @@ We look at two proofs of Mostow's rigidity theorem. First one uses the theory of
 Second one considers conformal density on the boundary of hyperbolic, constructed by Patterson and Sullivan, and follows Sullivan's proof of preservation of cross-ratios almost everywhere with respect to the Patterson-Sullivan measures supported on the limit sets. This result gives us a measurable rigidity of these limit sets: it says that if we have a measurable map between the limit sets of two hyperbolic manifolds, which takes measure zero sets of the Patterson-Sullivan measure to measure zero sets in both directions, then the map preserves the cross-ratios almost everywhere. This quickly produces a conformal between these limit sets. Thus, in short if these limit sets are measurably conjugate then they has be to be conformally conjugate. Again, because in the case of closed or finite volume hyperbolic manifolds, the limit sets are the whole sphere, and this implies that the map is a conformal map of the sphere, which extends to an isometry of the hyperbolic space. This gives us Mostow and Prasad's rigidity theorem.
 
 
-> [The slides for my PRJ502 presentation is here](https://dub.sh/thesismsPRJ)
+> [The slides for my PRJ502 presentation is here.](https://dub.sh/thesismsPRJ)
+
+I also presented a poster on Mostow rigidity.
+
+> [The thesis related poster is here.](https://drive.google.com/file/d/1doddG6TawmzFXSW8okNeC4BSJixTExHi/view?usp=sharing)
 
 
-
-
+<!--
 
 ## memes
 
@@ -192,3 +195,4 @@ Made this "thesis mood sticker" in the summer:
 ![](https://files.catbox.moe/oolq0a.webp)
 
 which loosely says (in Hindi) "What do I know? I am just doing my thesis..."
+-->

@@ -8,7 +8,6 @@ aliases:
   - "Inculcation: Analysis in finite-dimensional vector spaces"
 ---
 
-> parent:: [[inculcation]]
 
 
 - A lot of these material is present in [[inculcation#Napkin|Napkin]] but it does not give enough page-length to fully grasp the whole topic, maybe?

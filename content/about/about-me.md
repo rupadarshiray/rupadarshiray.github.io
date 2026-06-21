@@ -2,12 +2,12 @@
 created: 2021-11-24T14:56:40
 modified: 2021-11-24T14:56:40
 tags: []
-title: About me
+title: about me
 ---
 
 My name is Rupadarshi Ray. I am from [[balurghat|Balurghat]], a town in the northern part of Bengal, India 🇮🇳. I speak Bengali, English and Hindi.
 
-I am a masters in mathematics and am interested in mathematics research. My CV is https://rupadarshiray.github.io/CV/RayCV.pdf.
+I am a [[my-masters-at-iiserm|masters in mathematics]] and am [[my-math-interests|interested in mathematics research]]. My CV is at https://rupadarshiray.github.io/CV/RayCV.pdf.
 
 <!---
 - [[About Ray.CV]]

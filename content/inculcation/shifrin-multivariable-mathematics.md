@@ -6,7 +6,6 @@ title: 'Ted Shifrin’s Linear algebra and Multivariable calculus'
 aliases: '/Shifrin-Multivariable-Mathematics/'
 ---
 
-> parent:: [[inculcation]]
 
 <iframe width="650" height="415" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL5I-Eyk8l9FHdJUd9UujGcvumjCFPHbrd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -88,4 +87,4 @@ Students who would like some guidance in reading and writing proofs might want t
 - [Extra Problems for Physics Students](http://alpha.math.uga.edu/~shifrin/MATH3510/3510Homework_Vector_Calc.pdf)  
 - [Homework Assignment #11](http://alpha.math.uga.edu/~shifrin/MATH3510/3510Homework11.pdf)
 - [Homework Assignment #12](http://alpha.math.uga.edu/~shifrin/MATH3510/3510Homework12.pdf)  
-- [Homework Assignment #13](http://alpha.math.uga.edu/~shifrin/MATH3510/3510Homework13.pdf) 
+- [Homework Assignment #13](http://alpha.math.uga.edu/~shifrin/MATH3510/3510Homework13.pdf)

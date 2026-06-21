@@ -5,7 +5,6 @@ tags: []
 title: My books
 ---
 
-> parent:: [[academia]]
 
 Books I own:
 
