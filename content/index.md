@@ -1,10 +1,10 @@
 ---
-title: Welcome to ℝ²
+title: Hello!
 modified: 2021-11-24T14:54:31
 ---
 
 
-Hello! I hope this website finds you well!
+I hope this website finds you well!
 
 <!--
 
