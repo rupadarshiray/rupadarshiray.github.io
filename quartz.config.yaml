@@ -231,7 +231,7 @@ plugins:
         # Other options...
         themeUrl: "https://rupadarshiray.github.io/static/giscus" # corresponds to quartz/static/giscus/
         lightTheme: light # corresponds to light-theme.css in quartz/static/giscus/
-        darkTheme: light # corresponds to dark-theme.css in quartz/static/giscus/
+        darkTheme: dark # corresponds to dark-theme.css in quartz/static/giscus/
     layout:
       position: afterBody
       priority: 10
