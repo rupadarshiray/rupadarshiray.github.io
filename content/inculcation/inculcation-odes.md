@@ -58,9 +58,12 @@ We may convert ordinary differential equation of *any* order to first order by t
 
 ## much elementary introduction
 
+<!---
 A short introduction with examples from models in population dynamics:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=RWkkdMxW5eoywhc6&amp;list=PLhkiT_RYTEU1ibOVwE5Af5GE_WybGa9J_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+--->
 
 A full semester course:
 

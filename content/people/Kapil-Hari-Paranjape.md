@@ -8,20 +8,20 @@ wikipedia: https://en.wikipedia.org/wiki/Kapil_Hari_Paranjape
 ---
 My first interaction with [Prof. Kapil Hari](https://en.wikipedia.org/wiki/Kapil_Hari_Paranjape) was during the course on *complex analysis* in [[my-masters-at-iiserm|IISER Mohali]] which he instructed.
 
-## two essays
+I attended [[2503GAAV|March 17-19, '25 - Geometric Aspects of Algebraic Varieties, IISER Mohali]] which was a conference celebrating the 65th birthday of Prof Kapil.
 
-I found the following  article long back but I did not realise whose website I was looking at. Later on I found it again. It's so funny!
+I found the following  article long back but I did not realise whose website I was looking at. Later on I found it again.
 
 > [Explanation of Course Structure at IISERM (2012) - Mast Kalandar (imsc.res.in)](https://www.imsc.res.in/~kapil/blog/iiserm/iiserm_course_structure-2012-12-13-08-16)
 > ([education](https://www.imsc.res.in/~kapil/blog/tags/education), [philosophy](https://www.imsc.res.in/~kapil/blog/tags/philosophy))
 
-This article is also important to look at!
+It's so funny! The following article is also important to look at!
 
 > [Points don't matter - Mast Kalandar (imsc.res.in)](https://www.imsc.res.in/~kapil/blog/education/points-dont-matter-2017-05-16-22-23)
 > ([grading](https://www.imsc.res.in/~kapil/blog/tags/grading), [philosophy](https://www.imsc.res.in/~kapil/blog/tags/philosophy))
 
+The following email was very inspiring!
 
-## two emails
 > [!quote] email titled "Skills vs Certificates" sent on August 1, '25
 > Dear Students,
 > 

@@ -7,4 +7,6 @@ title: Summer School on Rigidity of Discrete Groups, June 30 – July 4, 2025 at
 aliases: "Summer School on Rigidity of Discrete Groups, June 30 – July 4, 2025 at IISER Mohali"
 year: "12025"
 ---
+![](https://i.imgur.com/8PchWI6.jpeg)
 
+And I am in this photo!

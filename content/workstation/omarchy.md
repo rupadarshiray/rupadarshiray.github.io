@@ -45,7 +45,7 @@ I wanted to use `python` from inside Obsidian. To do this, I needed to create a 
 
 ## configuration: transparent background
 
-I removed background color from Obsidian and Firefox using CSS and it produced a transparent *glassy* background effect:
+I simply made the background color "`transparent !important`" on Obsidian and Firefox using CSS and it produced a transparent *glassy* background effect.
 
 ![img](https://i.imgur.com/T4AvJZI.png)
 
@@ -61,8 +61,12 @@ sudo pacman -U https://archive.archlinux.org/packages/e/electron39/electron39-39
 
 ## bug: stylus using `electron` on `wayland`
 
-Because of the bug https://forum.obsidian.md/t/using-a-stylus-pen-with-wayland-means-mouse-events-get-ignored/110296, I have to run Obsidian on X11 by
+Because of the upstream bug https://forum.obsidian.md/t/using-a-stylus-pen-with-wayland-means-mouse-events-get-ignored/110296, I have to run Obsidian on X11 `obsidian --ozone-platform=x11 -force-device-scale-factor=1` which does not allow transparent background (from the get go).
+
+So, I decided to create two instances of Obsidian. One I run as usual which opens from the `vault/.obsidian` config folder. And I created and open another instance by
 
 ```
-obsidian --ozone-platform=x11
+obsidian --ozone-platform=x11 -force-device-scale-factor=1 --user-data-dir="$HOME/.config/obsidian-x11"
 ```
+
+and set it to open from `vault/.obsidian-x11` config folder where I have removed the CSS snippet making the window transparent.
