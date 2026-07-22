@@ -6,6 +6,38 @@ tags:
 title: "Inculcation: complex analysis and Riemann surfaces, that is, complex 1-manifolds, complex algebraic curves, round/flat/hyperbolic surfaces and so on"
 aliases: Riemann surfaces, that is, complex 1-manifolds, complex algebraic curves, round/flat/hyperbolic surfaces and so on
 ---
+Complex analysis is the study of holomorphic functions on open subsets of $\mathbb{C}$.
+
+- `book` Ahlfors - Complex analysis
+- `book` [Stein and Sakarchi - Complex analysis](https://www.fing.edu.uy/~cerminar/Complex_Analysis.pdf)
+
+After a first course on complex analysis, we can move onto functional analytic techniques. Using such tools we can prove the *Riemann mapping theorem*.
+
+- `book` [Conway - Complex analysis I](https://psm73.wordpress.com/wp-content/uploads/2009/03/conway.pdf), Chapter 6, 11, 12
+- `lecture notes` [Tao - 246A, Notes 5: conformal mapping](https://terrytao.wordpress.com/2016/10/18/246a-notes-5-conformal-mapping/)
+
+There some some number theoretic results that we can prove using the theory of holomorphic functions.
+
+- `book` [Tao - 246B – complex analysis](https://terrytao.wordpress.com/category/teaching/246b-complex-analysis/)
+
+We can do even more functional analysis with holomorphic functions. We can ask: what does holomorphic images of disks look like? How large or small can they be? Do they contain a disk of some fixed radius?
+
+- `book` [Conway - Complex analysis II](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/conwaycx2.pdf)
+- `lecture notes` [Tao - Holomorphic images of disks](https://terrytao.wordpress.com/2020/11/28/holomorphic-images-of-disks/)
+- `wikipedia` [Conformal radius - Wikipedia](https://en.wikipedia.org/wiki/Conformal_radius)
+- `lecture notes` [Tao - 246C notes 3: Univalent functions, the Loewner equation, and the Bieberbach conjecture | What's new](https://terrytao.wordpress.com/2018/05/02/246c-notes-3-univalent-functions-the-loewner-equation-and-the-bieberbach-conjecture/)
+
+One may study a generalization of conformal maps, called *quasiconformal homeomorphisms*. We can prove results about them similar to holomorphic maps. Using this theory, we can produce an explicit sequence of maps that converge to the Riemann mapping as in the *Riemann mapping theorem*.
+
+- `lecture notes` [Tao - 246C notes 2: Circle packings, conformal maps, and quasiconformal maps | What's new](https://terrytao.wordpress.com/2018/04/12/246c-notes-2-circle-packings-conformal-maps-and-quasiconformal-maps/)
+- `lecture notes, videos` [Christopher Bishop  - MAT 627, Topics in Complex Analysis, Spring 2025](https://www.math.stonybrook.edu/~bishop/classes/math627.S25/)
+
+We can even look at some random processes.
+
+- `lecture notes, videos` [McMullen - From Conformal Invariants to Percolation](https://people.math.harvard.edu/~ctm/home/text/class/harvard/219/21/html/syl.html)
+- `lecture notes` [246C notes 4: Brownian motion, conformal invariance, and SLE | What's new](https://terrytao.wordpress.com/2018/05/29/246c-notes-4-brownian-motion-conformal-invariance-and-sle/)
+
+---
 
 Riemann surfaces are connected complex 1-manifolds. Compact Riemann surfaces are same as $\mathbb {C}$-algebraic curves. We can study meromorphic functions and meromorphic forms on these spaces.
 
@@ -16,7 +48,6 @@ Riemann surfaces are connected complex 1-manifolds. Compact Riemann surfaces are
 - `book` Donaldson
 - `book` [Jost](https://webhomes.maths.ed.ac.uk/~v1ranick/papers/jost.pdf)
 
-
 There are alternative ways to define Riemann surfaces: the nicest of which is as the *ringed space of functions* locally isomorphic to open subsets of $\mathbb{C}$.
 
 - `lecture notes` https://mathweb.tifr.res.in/~srinivas/rsfull.pdf (uses ringed spaces definition of Riemann surfaces where the rings are rings of functions on it)
@@ -24,9 +55,35 @@ There are alternative ways to define Riemann surfaces: the nicest of which is as
 
 And there are many more references... a hundred more books and notes available online https://mathoverflow.net/questions/313254/references-for-riemann-surfaces.
 
-Ahlfors has the *Etale space* definition of domain of *global holomorphic functions*. Those class of spaces actually exhaust the entire class of Riemann surfaces.
+---
+
+Standard texts prove the monodromy theorem for analytic continuations. However that just says when two such continuations are bound to be the same. We don't have any result about *existence* of analytic continuations. Why?
+
+It is because they *may* behave very *weirdly*.
+
+We however know what is the maximal extent of analytic continuations. Riemann asked this question originally. Ahlfors has the *Etale space* definition of domain of *global holomorphic functions*. Forster denotes this as $\left\vert \mathscr{O} \right\vert$. Its connected components actually exhaust the entire class of open Riemann surfaces (I think?).
 
 - ??
+
+We can look at examples of such global domains of functions/gems of functions such as $z^{1/n}$, or such fractional power of polynomials $p(z)$, and so on. These functions are roots of polynomials $\mathbb{C}(z)[T]$ for example $z^{1/n}$ satisfies $T^{n}-z=0$. Some people call such functions *algebraic*. Standard texts such as Forster talks about *Riemann surfaces of algebraic functions*, which are more generally roots of polynomials over meromorphic functions $\mathscr{M}(X)[T]$ over a compact Riemann surface $X$. Such functions have global domain a finite branched cover over $X$.
+
+Alright, we dealt with *algebraic functions* that satisfy a polynomial with coefficients in the field of meromorphic functions. What other holomorphic germs can we deal with? How about the *elliptic integral* $$ \int \frac{1}{\sqrt{z(z-1)(z-\lambda)}}\mathrm{d}z $$ where $\lambda\in \mathbb{C}\setminus\{ 0,1 \}$. How may we describe these functions? Well there are two ways to talk about them.
+
+First, we can construct their *Riemann surface*. Forster does this, even for higher degree polynomials *hyperelliptic integrals*.
+
+Second, we can try to ask what's the "inverse" of the function defined above. There is a nice answer to this! Its the Weirstrass elliptic function $\wp_{\lambda}$. Such elliptic functions are meromorphic on complex tori $\mathbb{C} / \mathbb{Z}\{ \omega_1, \omega_2 \}$ isomorphic to the elliptic curve defined by the polynomial $y^{2}= x(x-1)(x-\lambda)$. These $\omega_1, \omega_2$ are the periods of this elliptic curve.
+
+Period of an elliptic curve uniquely reconstructs it as a Riemann surface. However, doing this with compact Riemann surfaces of genus higher than one is a bit tricky. Equivalent question is how may we "invert" integrals of the form $$ \int \frac{1}{\sqrt{p(z)}}\mathrm{d}z $$ where $p$ is a polynomial of degree 5 or higher. The degree 3,4 case corresponds to the case of elliptic curves.
+
+- `book` [Complex Analysis 2: Riemann Surfaces, Several Complex Variables, Abelian Functions, Higher Modular Functions | Springer Nature Link](https://link.springer.com/book/10.1007/978-3-642-20554-5) Chapters 4 to 7
+
+The works of Abel and Jacobi shows that we can think of these integrals as holomorphic 1-forms on compact Riemann surfaces $X$ and their inverses are functions on their Jacobian, a complex tori of dimension = genus of $X$.
+
+The theorem of Torelli shows that the period of a higher genus compact Riemann surface also reconstructs it uniquely.
+
+This chain of thought somehow leads us to *Hodge theory*.
+
+---
 
 The uniformization theorem for Riemann surfaces state that any simply connected Riemann surface is biholomorphic to either $\mathbb{C}$, the unit disk or $\mathbb{C} \pmb{P}^{1}$.
 
@@ -67,7 +124,7 @@ The space of all *marked* Riemann surfaces of genus $g$ is called Teichmuller sp
 
 We may define a weaker notion of isomorphism of Riemann surfaces: quasiconformal homeomorphism. The class of marked Riemann surfaces quasiconformal to a fixed Riemann surface generalise the Teichmuller space of compact Riemann surfaces. 
 
-- `book` Hubbard
+- `book` Hubbard - Techmuller theory volume 1
 
 A hyperbolic surface comes with its Laplacian. We may study its spectrum and eigenfunctions and ask interesting questions!
 

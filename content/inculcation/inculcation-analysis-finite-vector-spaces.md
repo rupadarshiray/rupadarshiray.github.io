@@ -14,9 +14,6 @@ aliases:
 - [[shifrin-multivariable-mathematics]] does a good job at the calculus
 - Analysis by Herbert Amann and Joachim Escher [Volume I](http://library.lol/main/D52F82501240A7F94F77CCA630B43F6E) or Rudin or Apostol contains the analysis
 
-![[derivatives-differential-forms-and-beyond-youtube]]
-
-
 ## total and directional derivative of functions
 
 *Total derivative* of function $$ f:U \subseteq V\to W $$ between finite-dim real normed vector spaces at a point $p\in U$ is supposed to be a linear map $$D_{p}f:V\to W$$ that "approximates" $f$ near $p$. So if $D_{p}f$ is a rotation (as a linear map), then $$ f: U \to f(U) $$ should "look" like a rotation "near $p$".
