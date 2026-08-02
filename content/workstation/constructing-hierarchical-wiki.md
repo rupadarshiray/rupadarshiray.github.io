@@ -10,7 +10,6 @@ tags:
 enableToc: true
 ---
 
-- previous:: [[hierarchical-longterm-wiki]]
 
 > Building an ecosystem of knowledge with the philosophy from [[hierarchical-longterm-wiki|Wiki]]
 

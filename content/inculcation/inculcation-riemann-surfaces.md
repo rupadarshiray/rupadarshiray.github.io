@@ -124,7 +124,7 @@ The space of all *marked* Riemann surfaces of genus $g$ is called Teichmuller sp
 
 We may define a weaker notion of isomorphism of Riemann surfaces: quasiconformal homeomorphism. The class of marked Riemann surfaces quasiconformal to a fixed Riemann surface generalise the Teichmuller space of compact Riemann surfaces. 
 
-- `book` Hubbard - Techmuller theory volume 1
+- `book` Hubbard - Teichmuller theory volume 1
 
 A hyperbolic surface comes with its Laplacian. We may study its spectrum and eigenfunctions and ask interesting questions!
 
