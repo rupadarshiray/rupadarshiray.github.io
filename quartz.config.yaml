@@ -264,6 +264,7 @@ plugins:
         - tags
         # - aliases
         - wikipedia
+        - site
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
