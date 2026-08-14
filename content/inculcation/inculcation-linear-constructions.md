@@ -4,7 +4,6 @@ modified: 2023-11-19T14:39:56
 tags:
   - Inculcation
 title: "Inculcation: Linear constructions"
-aliases:
 ---
 
 > Coming from the main article: [[inculcation]], you have seen how deep things are. So now we go back and focus on the details.
@@ -190,4 +189,3 @@ There are references here: [[inculcation-lie-groups]]
 
 
 ## Out on *algebraic varieties*
-

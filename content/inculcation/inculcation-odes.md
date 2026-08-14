@@ -4,7 +4,6 @@ modified: 2023-09-30T09:58:28
 tags:
   - Inculcation
 title: "Inculcation: ODEs"
-aliases:
 ---
 
 
@@ -178,4 +177,3 @@ Interpret heat equation, fluid flows, Schrodinger equation as infinite dimension
 Should be motivated from ODEs, or just plain playing with functions
 
 ![[everything-in-a-dynamics-pov]].
-

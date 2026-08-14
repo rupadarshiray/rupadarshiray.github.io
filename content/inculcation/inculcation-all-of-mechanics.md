@@ -4,7 +4,6 @@ modified: 2023-12-12T12:14:21
 tags:
   - Inculcation
 title: "Inculcation: all of mechanics"
-aliases:
 ---
 
 main article: [[inculcation]]
