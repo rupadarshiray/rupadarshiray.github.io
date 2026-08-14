@@ -190,7 +190,7 @@ A first skech of the poster on [[my-blackboards|my blackboard]] was as follows.
 
 Drawing this on Adobe Illustrator finally gave me the following.
 
-[![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/thesisms-poster.png)](https://drive.google.com/file/d/1doddG6TawmzFXSW8okNeC4BSJixTExHi/view?usp=sharing)
+[![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/thesisms-poster.jpg)](https://drive.google.com/file/d/1doddG6TawmzFXSW8okNeC4BSJixTExHi/view?usp=sharing)
 
 
 <!--
