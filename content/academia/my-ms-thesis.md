@@ -162,8 +162,6 @@ title: My MS thesis
 
 --->
 
-## path towards rigidity of discrete groups
-
 I started my path towards the rigidity of discrete groups after I attended [[2506rigidity|Summer School on Rigidity of Discrete Groups, June 30 – July 4, 2025 at IISER Mohali]].
 
 I started by looking at globally symmetric spaces and the necessary properties of CAT(0) spaces, specially *smooth* ones which are simply connected Riemannian manifolds of non-positive sectional curvature. These spaces have a well-defined *boundary*.
@@ -178,12 +176,21 @@ We look at two proofs of Mostow's rigidity theorem. First one uses the theory of
 
 Second one considers conformal density on the boundary of hyperbolic, constructed by Patterson and Sullivan, and follows Sullivan's proof of preservation of cross-ratios almost everywhere with respect to the Patterson-Sullivan measures supported on the limit sets. This result gives us a measurable rigidity of these limit sets: it says that if we have a measurable map between the limit sets of two hyperbolic manifolds, which takes measure zero sets of the Patterson-Sullivan measure to measure zero sets in both directions, then the map preserves the cross-ratios almost everywhere. This quickly produces a conformal between these limit sets. Thus, in short if these limit sets are measurably conjugate then they has be to be conformally conjugate. Again, because in the case of closed or finite volume hyperbolic manifolds, the limit sets are the whole sphere, and this implies that the map is a conformal map of the sphere, which extends to an isometry of the hyperbolic space. This gives us Mostow and Prasad's rigidity theorem.
 
-
 > [The slides for my PRJ502 presentation is here.](https://dub.sh/thesismsPRJ)
 
-I also presented a poster on Mostow rigidity.
+I also had to presented a poster my thesis. I decided to make a poster on Teichmuller theory and Mostow rigidity, targetting third and fourth year students.
 
-> [The thesis related poster is here.](https://drive.google.com/file/d/1doddG6TawmzFXSW8okNeC4BSJixTExHi/view?usp=sharing)
+The picture of classification of orientable surfaces as covering quotients of 2-sphere, flat plane and hyperbolic space appeared to me throught the time I was reading about Fuchsian groups and hyperbolic surfaces.
+
+I thought of putting that picture on the upper half of the poster and the same for the Thurston geometries of 3-manifolds in the lower half.
+
+A first skech of the poster on [[my-blackboards|my blackboard]] was as follows.
+
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/PXL_20260328_132658671.NIGHT.jpg) ^72vo22
+
+Drawing this on Adobe Illustrator finally gave me the following.
+
+[![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/thesisms-poster.png)](https://drive.google.com/file/d/1doddG6TawmzFXSW8okNeC4BSJixTExHi/view?usp=sharing)
 
 
 <!--

@@ -5,6 +5,6 @@ tags: []
 title: 'My Masters at IISER Mohali'
 ---
 
-I joined IISER Mohali's BSMS programme in the sciences in December '21 hoping to learn physics and math. I graduated with a Masters in Mathematics in June '26.
+I joined IISER Mohali's BSMS programme in the sciences in December '21 hoping to learn physics and math. I graduated with a Batchelors and Masters in Mathematics in June '26.
 
 The notes I took for various math courses are at [[my-notes-during-masters]].

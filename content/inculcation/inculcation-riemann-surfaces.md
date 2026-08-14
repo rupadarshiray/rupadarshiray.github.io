@@ -111,6 +111,9 @@ The uniformization theorem for Riemann surfaces state that any simply connected 
 
 By the uniformization theorem, every Riemann surface is a quotient of $\mathbb{C}$, the unit disk or $\mathbb{C} \pmb{P}^{1}$ by a discrete subgroup of their automorphism group acting freely. No such quotient exists for $\mathbb{C} \pmb{P}^{1}$. We can easily classify the quotients of $\mathbb{C}$. The quotients of the unit disk by torsion free Fuchsian groups are a intersecting class of objects of study.
 
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Drawing%20RFH-surfaces.png)
+
+
 - `lecture videos` These lectures assume covering space theory (algebraic topology) and uniformization theory and does (pre-moduli space) classification of Riemann surfaces: https://www.youtube.com/playlist?list=PLbMVogVj5nJSm4256vuITlsovUT1xVkUL
 
 Riemann surfaces which are quotients of the unit disk by torsion free Fuchsian groups are biholomorphic if and only if the Fuchsian groups are conjugate inside the automorphism group of the unit disk. Oriented hyperbolic surfaces (connected, complete Riemannian 2-manifolds of constant sectional curvature -1) are also quotients of the unit disk by torsion free Fuchsian groups, with oriented isometries related to conjugacies. Therefore we may study, even classify Riemann surfaces through the theory of oriented hyperbolic surfaces.

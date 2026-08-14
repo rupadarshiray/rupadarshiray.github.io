@@ -1,12 +1,8 @@
 ---
-created: 2025-12-17T12:09:11
-modified: 2025-12-17T12:09:11
-tags:
-  - todo
-title: Bus, maggi and Himachal
-aliases:
-  - academia/himachal
-  - himachal
+created: 2026-08-02T22:17:17
+modified: 2026-08-02T22:18:30
+tags: []
+title: Hills of Himachal
+aliases: ""
 ---
 
-Over the few times that I've visited Himachal's villages in the hills...
