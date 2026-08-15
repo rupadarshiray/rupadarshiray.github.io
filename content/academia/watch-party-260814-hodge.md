@@ -1,7 +1,7 @@
 ---
 created: 2026-08-14T19:03:38
 modified: 2026-08-14T19:03:38
-tags: [watchparty, talk]
+tags: [watchparty, talk, current]
 title: "Watch party: Proving the Hodge Conjecture using group theory"
 ---
 

@@ -8,9 +8,30 @@ Hello! I hope this website finds you well!
 
 ![[about-me|about me here]]
 
+![[about-site]]
+
 ![[about/now]]
 
-![[about-site]]
+
+```base
+views:
+  - type: list
+    name: Last created
+    filters:
+      and:
+        - file.tags.contains("current")
+    order:
+      - file.name
+    sort:
+      - property: created
+        direction: DESC
+    columnSize:
+      file.name: 278
+      file.folder: 371
+      file.path: 468
+
+```
+
 
 ![[academia/my-math-interests]]
 

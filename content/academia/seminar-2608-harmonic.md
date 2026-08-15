@@ -4,6 +4,7 @@ modified: 2026-08-14T15:17:54
 tags:
   - seminar
   - coorganized
+  - current
 title: Fall '26 seminar on abstract harmonic analysis
 ---
 
