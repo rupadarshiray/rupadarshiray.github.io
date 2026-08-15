@@ -49,19 +49,17 @@ Semester 7 was the time I fleshed out my note-taking very well.
 - *Commutative algebra*
 - [Quartic potential boundary-value problem](https://drive.google.com/open?id=1--r7EvyN_3hsNwYXqH67NIzyneIuZAHs&usp=drive_fs)
 
+<!---
 ## Winter '24
+[ATMS Quivers and Lie algebras](https://drive.google.com/open?id=1-4wRWyq0c_Jg_nu7T4cw16ua6fhcEGrB&usp=drive_fs) remains incomplete -->
 
-
-<!--- [ATMS Quivers and Lie algebras](https://drive.google.com/open?id=1-4wRWyq0c_Jg_nu7T4cw16ua6fhcEGrB&usp=drive_fs) remains incomplete -->
-
-- [Watch party: Talk on Ancient solutions to geometric flows](https://drive.google.com/open?id=10-lsJvPEWEAxGTNtDfgUjY0fGdfW17xL&usp=drive_fs)
 
 ## Spring '25
 
 - [MTH416: Arithmetic of Elliptic](https://drive.google.com/open?id=104zalLaQSoa7IL7svSCacX2OTNX0J9tT&usp=drive_fs)
 - [MTH441: Fourier Analysis](https://drive.google.com/open?id=10951Da7aVR9eNKoP8WHBXAQdTRBgQqOr&usp=drive_fs)
 - Notes on Fourier analysis for kids is at https://ggl.link/fourier
-- Notes for my talk on Hamiltonian flows is at https://ggl.link/hamiltonian (updated below)
+- Notes for my talk on Hamiltonian flows is at https://ggl.link/hamiltonian (updated later)
 
 <!--
 

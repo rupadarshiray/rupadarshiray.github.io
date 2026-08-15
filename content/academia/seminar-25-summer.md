@@ -3,6 +3,7 @@ created: 2025-06-17T18:24:19
 modified: 2025-06-17T18:27:07
 tags:
   - seminar
+  - coorganized
 aliases:
 title: Summer 2025 seminar course on Riemann surfaces (and beyond)
 ---

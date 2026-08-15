@@ -5,6 +5,8 @@ tags:
   - thesis
   - notes
 title: My MS thesis
+aliases:
+  - My MS thesis
 ---
 
 <!---
@@ -162,7 +164,7 @@ title: My MS thesis
 
 --->
 
-I started my path towards the rigidity of discrete groups after I attended [[2506rigidity|Summer School on Rigidity of Discrete Groups, June 30 – July 4, 2025 at IISER Mohali]].
+I started my path towards the rigidity of discrete groups after I attended [[seminar-2506-rigidity|Summer School on Rigidity of Discrete Groups, June 30 – July 4, 2025 at IISER Mohali]].
 
 I started by looking at globally symmetric spaces and the necessary properties of CAT(0) spaces, specially *smooth* ones which are simply connected Riemannian manifolds of non-positive sectional curvature. These spaces have a well-defined *boundary*.
 
@@ -186,7 +188,9 @@ I thought of putting that picture on the upper half of the poster and the same f
 
 A first skech of the poster on [[my-blackboards|my blackboard]] was as follows.
 
-![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/PXL_20260328_132658671.NIGHT.jpg) ^72vo22
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/PXL_20260328_132658671.NIGHT.jpg) 
+
+^72vo22
 
 Drawing this on Adobe Illustrator finally gave me the following.
 

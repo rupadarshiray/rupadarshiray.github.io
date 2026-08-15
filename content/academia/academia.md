@@ -6,13 +6,31 @@ title: '(My) academia'
 
 ![[academia/my-math-interests]]
 
-- [[my-blackboards]]
-- [[my-masters-at-iiserm]]
-	- [[my-ms-thesis]]
+- [[my-blackboards|My blackboards]]
+- [[my-masters-at-iiserm|My Masters at IISER Mohali]]
+	- [[my-ms-thesis|My MS thesis]]
 - [[my-wiki]]
-- [[events.base|seminars, workshops I attended]]
-- talks that I have given
 
+```base
+filters:
+  and:
+    - file.tags.contains("event")
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("event")
+    order: []
+    sort:
+      - property: created
+        direction: DESC
+    image: note.thumbnail
+    imageFit: contain
+    imageAspectRatio: 0.75
+    cardSize: 200
+
+```
 
 <!---
 

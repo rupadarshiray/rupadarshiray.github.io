@@ -8,7 +8,7 @@ wikipedia: https://en.wikipedia.org/wiki/Kapil_Hari_Paranjape
 ---
 My first interaction with [Prof. Kapil Hari](https://en.wikipedia.org/wiki/Kapil_Hari_Paranjape) was during the course on *complex analysis* in [[my-masters-at-iiserm|IISER Mohali]] which he instructed.
 
-I attended [[2503GAAV|March 17-19, '25 - Geometric Aspects of Algebraic Varieties, IISER Mohali]] which was a conference celebrating the 65th birthday of Prof Kapil.
+I attended [[seminar-2503-GAAV|March 17-19, '25 - Geometric Aspects of Algebraic Varieties, IISER Mohali]] which was a conference celebrating the 65th birthday of Prof Kapil.
 
 I found the following  article long back but I did not realise whose website I was looking at. Later on I found it again.
 
