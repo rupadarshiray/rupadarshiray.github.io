@@ -14,14 +14,13 @@ The recent or current events are as follows.
 
 ```base
 views:
-  - type: table
+  - type: list
     name: Last created
     filters:
       and:
         - file.tags.contains("current")
     order:
       - file.name
-      - file.tags
     sort:
       - property: created
         direction: DESC
@@ -32,12 +31,11 @@ views:
 
 ```
 
-
 ![[academia/my-math-interests]]
 
-The highlight of my past year has been [[my-ms-thesis|my MS thesis]]. The following is the poster on its background.
 
-[![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/thesisms-poster.jpg)](https://drive.google.com/file/d/1doddG6TawmzFXSW8okNeC4BSJixTExHi/view?usp=sharing)
+> The highlight of my past year has been [[my-ms-thesis|my MS thesis]]. The following is the poster on its background.
+> [![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/thesisms-poster.jpg)](https://drive.google.com/file/d/1doddG6TawmzFXSW8okNeC4BSJixTExHi/view?usp=sharing)
 
 More stuff on this site includes the following.
 
