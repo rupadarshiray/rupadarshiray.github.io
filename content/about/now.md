@@ -13,9 +13,6 @@ description: This is a [/now page](https://nownownow.com/about) for me!
 
 
 ```base
-filters:
-  and:
-    - file.folder.contains("content")
 views:
   - type: list
     name: Last created
