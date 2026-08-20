@@ -5,17 +5,14 @@ tags: []
 title: people
 ---
 
-I mean to write about people (professors, mentors, friends and beyond) whom I have interacted with (academically and beyond). Should I ask for permission first? I won't be providing private information about them anyways... Just some anecdotes and links to their websites at the most?
-
+I mean to write about people (professors, mentors, friends and beyond) whom I have interacted with (academically and beyond). 
 
 <!---
-
-- [[Arghya Mondal]]
+Should I ask for permission first? I won't be providing private information about them anyways... Just some anecdotes and links to their websites at the most?
 - Vaibhav Vaish
 - Shane D Mello
 - Soma Maity
 - Pahul Arora
-- Manan Jain
 - Naman Narang
 - Atul
 - [[Aswin-Pradeep]]
