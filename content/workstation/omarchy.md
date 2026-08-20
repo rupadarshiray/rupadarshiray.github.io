@@ -63,6 +63,7 @@ sudo pacman -U https://archive.archlinux.org/packages/e/electron39/electron39-39
 
 Because of the upstream bug https://forum.obsidian.md/t/using-a-stylus-pen-with-wayland-means-mouse-events-get-ignored/110296, I have to run Obsidian on X11 `obsidian --ozone-platform=x11 -force-device-scale-factor=1` which does not allow transparent background (from the get go).
 
+<!--
 So, I decided to create two instances of Obsidian. One I run as usual which opens from the `vault/.obsidian` config folder. And I created and open another instance by
 
 ```
@@ -70,3 +71,8 @@ obsidian --ozone-platform=x11 -force-device-scale-factor=1 --user-data-dir="$HOM
 ```
 
 and set it to open from `vault/.obsidian-x11` config folder where I have removed the CSS snippet making the window transparent.
+
+-->
+
+## omarchy 4
+

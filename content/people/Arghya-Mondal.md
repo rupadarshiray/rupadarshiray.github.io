@@ -6,5 +6,4 @@ title: Arghya Mondal
 aliases: [Arghya Mondal]
 site: https://sites.google.com/view/arghyamondal/home
 ---
-
-Prof. Arghya was [[my-ms-thesis|my MS thesis]] guide. He works in 
+Prof. Arghya was [[my-ms-thesis|my MS thesis]] guide. He works in representation theory of groups, property T, and so on.
