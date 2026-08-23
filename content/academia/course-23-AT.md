@@ -1,14 +1,14 @@
 ---
-created: 2026-08-23T19:19:19
+created: 2023-01-09
 modified: 2026-08-23T19:19:20
 tags: [course, audited]
 aliases: []
-title: Course on Algebraic topology
+title: Spring '23 course on Algebraic topology
 ---
 
-In January and February of 2023, me and [[Pahul-Arora|Pahul]], in our second year of BSMS at the time, audited (half of) a fourth year mathematics elective course on Algebraic topology.
+In January and February of 2023, me and [[Pahul-Arora|Pahul]], in our second year of BSMS at the time, audited (half of) a fourth year mathematics elective course on Algebraic topology instructed by Chetan Balwe.
 
-We knew the definition of topological spaces and continuous maps between them. And a few more preliminary ideas.
+We knew the definition of topological spaces and continuous maps between them. And a few more preliminary ideas. We did not know, for example, what free products of groups were, which is usual for people crediting this course anyways?
 
 I present below the notes we took by hand, as is.
 
@@ -125,7 +125,7 @@ Hence in particular, **deformation retract** preserves first fundamental group.
 
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_33.jpg)
 
-### Applications of Van-Kampen theorem
+## Applications of Van-Kampen theorem
 
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_34.jpg)
 
@@ -136,7 +136,7 @@ Hence in particular, **deformation retract** preserves first fundamental group.
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_36.jpg)
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_37.jpg)
 
-### Gluing disks to spaces
+## Gluing disks to spaces
 
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_38.jpg)
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_39.jpg)

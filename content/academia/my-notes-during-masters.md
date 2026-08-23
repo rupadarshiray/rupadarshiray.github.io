@@ -7,19 +7,17 @@ title: 'My notes'
  
 ## Summer '22
 
-Before the start of semester 2, I took notes on quantum physics and non-linear dynamics, which remain incomplete.
+Before the start of semester 2, I took notes on quantum physics and non-linear dynamics.
 
 ## Monsoon '22
 
 In semester 3, I (hand-wrote) notes for the course on differential geometry of curves and surfaces.
 
-- [MTH201](https://rupadarshiray.github.io/academicmatters/IISERM-MS21/MTH201/MTH201-lecture-notes.pdf) - Geometry of curves and surfaces
+- [MTH201: Geometry of curves and surfaces](https://rupadarshiray.github.io/academicmatters/IISERM-MS21/MTH201/MTH201-lecture-notes.pdf)
 
 ## Spring '23
 
-In semester 4, I "audited" the course on algebraic topology.
-
-- *Algebraic topology*
+In semester 4, I "audited" the course on [[course-23-AT|Algebraic topology]].
 
 ## Monsoon '23
 

@@ -1,5 +1,5 @@
 ---
-created: 2026-08-23T19:03:20
+created: 2022-09-10
 modified: 2026-08-23T19:03:37
 tags: [course, credited]
 aliases: []

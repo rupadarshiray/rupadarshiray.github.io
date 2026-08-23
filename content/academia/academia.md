@@ -9,18 +9,38 @@ title: '(My) academia'
 - [[my-blackboards|My blackboards]]
 - [[my-masters-at-iiserm|My Masters at IISER Mohali]]
 	- [[my-ms-thesis|My MS thesis]]
-- [[my-wiki]]
+- [[my-wiki|My Wiki of notes on mathematics]]
+
+The events that I have coorganized are the following.
 
 ```base
 filters:
   and:
-    - file.tags.contains("event")
+    - file.tags.contains("coorganized")
+views:
+  - type: list
+    name: Table
+    order:
+      - title
+    sort:
+      - property: created
+        direction: DESC
+    image: note.thumbnail
+    imageFit: contain
+    imageAspectRatio: 0.75
+    cardSize: 200
+
+```
+
+The events I attended include the following.
+
+```base
+filters:
+  and:
+    - file.tags.contains("attended")
 views:
   - type: cards
     name: Table
-    filters:
-      and:
-        - file.tags.contains("event")
     order: []
     sort:
       - property: created
