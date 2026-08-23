@@ -4,7 +4,7 @@ modified: 2021-11-24T14:29:53
 title: '(My) academia'
 ---
 
-![[academia/my-math-interests]]
+![[my-math-interests]]
 
 - [[my-blackboards|My blackboards]]
 - [[my-masters-at-iiserm|My Masters at IISER Mohali]]

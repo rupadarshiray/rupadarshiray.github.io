@@ -4,6 +4,7 @@ modified: 2026-06-19T18:02:59
 tags:
   - people
 title: Kapil Hari Paranjape
+aliases: Kapil Hari Paranjape
 wikipedia: https://en.wikipedia.org/wiki/Kapil_Hari_Paranjape
 ---
 My first interaction with [Prof. Kapil Hari](https://en.wikipedia.org/wiki/Kapil_Hari_Paranjape) was during the course on *complex analysis* in [[my-masters-at-iiserm|IISER Mohali]] which he instructed.

@@ -8,7 +8,7 @@ Hello! I hope this website finds you well!
 
 ![[about-site]]
 
-![[about/now]]
+![[now]]
 
 The recent or current events are as follows.
 
@@ -31,7 +31,7 @@ views:
 
 ```
 
-![[academia/my-math-interests]]
+![[my-math-interests]]
 
 
 > The highlight of my past year has been [[my-ms-thesis|my MS thesis]]. The following is the poster on its background.

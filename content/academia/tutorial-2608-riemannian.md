@@ -11,4 +11,4 @@ title: On the ways of Riemannian manifolds
 
 | Date   | Topics                                                    |
 | ------ | --------------------------------------------------------- |
-| 24 Aug | Definition of Riemannian manifolds, geodesics, isometries |
+| 30 Aug | Definition of Riemannian manifolds, geodesics, isometries |
