@@ -38,7 +38,7 @@ I looked at Folland's text for the construction of Borel functional calculus, wh
 
 And then gave a talk on it. The following are the notes from the talk.
 
-![[Talknotes-2608-23_23-36-46.png]]![[Talknotes-2608-23_23-36-57.png]]![[Talknotes-2608-23_23-37-05.png]]![[Talknotes-2608-23_23-37-11.png]]![[Talknotes-2608-23_23-37-23.png]]![[Talknotes-2608-23_23-37-29.png]]![[Talknotes-2608-23_23-37-34.png]]![[Talknotes-2608-23_23-37-39.png]]![[Talknotes-2608-23_23-37-51.png]]
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-36-46.png) ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-36-57.png) ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-37-05.png) ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-37-11.png) ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-37-23.png) ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-37-29.png) ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-37-34.png) ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-37-39.png) ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-37-51.png) 
 
 ## Asymptotic Schur orthogonality
 
