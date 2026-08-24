@@ -1,7 +1,9 @@
 ---
 created: 2024-05-31T17:38:10
 modified: 2024-05-31T17:39:02
-tags: course, watched
+tags:
+  - course
+  - watched
 title: IMPA's course on PDEs (2022)
 aliases:
 ---

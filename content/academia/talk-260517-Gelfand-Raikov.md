@@ -1,5 +1,5 @@
 ---
-created: 2026-08-17
+created: 2026-05-17
 modified: 2026-05-23T18:33:49
 tags: [talk, attended]
 aliases: []

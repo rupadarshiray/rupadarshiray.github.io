@@ -21,7 +21,7 @@ views:
   - type: list
     name: Table
     order:
-      - title
+      - file.name
     sort:
       - property: created
         direction: DESC

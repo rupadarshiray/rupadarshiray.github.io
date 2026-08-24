@@ -14,4 +14,4 @@ In the third semester of [[my-masters-at-iiserm|my BSMS at IISER Mohali]] I cred
 
 IISER Mohali did not have infrastructure to facilitate this course, so we went to [Punjab Engineering College](https://en.wikipedia.org/wiki/Punjab_Engineering_College) (PEC) every saturday for the whole day for the classes.
 
-<iframe src="https://photos.app.goo.gl/RJe7EYWapAaNjTs99" style="width:100%; border:none;height:700;"></iframe>
+<iframe src="https://photos.app.goo.gl/RJe7EYWapAaNjTs99" style="width:100%; border:none;height:1700;"></iframe>
