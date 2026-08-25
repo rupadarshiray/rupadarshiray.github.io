@@ -9,6 +9,8 @@ title: "Watch party: Proving the Hodge Conjecture using group theory"
 
 I took the following notes.
 
+#notebook
+
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Notebook-2608-Hodge_1.jpg)
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Notebook-2608-Hodge_2.jpg)
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Notebook-2608-Hodge_3.jpg)

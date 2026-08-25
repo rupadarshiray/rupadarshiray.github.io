@@ -25,6 +25,8 @@ I had already read Gelfand-Naimer theorem from Dietmar for [[seminar-2508-harmon
 
 I looked at Folland's text for the construction of Borel functional calculus, which was needed in the proof of Schur's lemma.
 
+#handnotebook
+
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Notebook-2608-Schur_1.jpg)
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Notebook-2608-Schur_2.jpg)
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Notebook-2608-Schur_3.jpg)
@@ -38,6 +40,8 @@ I looked at Folland's text for the construction of Borel functional calculus, wh
 
 And then gave a talk on it. The following are the notes from the talk.
 
+#slides
+
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-36-46.png) ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-36-57.png) ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-37-05.png) ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-37-11.png) ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-37-23.png) ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-37-29.png) ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-37-34.png) ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-37-39.png) ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Talknotes-2608-23_23-37-51.png) 
 
 ## Asymptotic Schur orthogonality
@@ -45,6 +49,8 @@ And then gave a talk on it. The following are the notes from the talk.
 Manan talked about the topics he had read in the past few months. This became a (shorta) sequel to his previous talk [[talk-260517-Gelfand-Raikov|on the Gelfand-Raikov theorem]].
 
 I took the following notes.
+
+#handnotebook
 
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Notebook-2608-tempered-01.jpg)
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Notebook-2608-tempered-02.jpg)

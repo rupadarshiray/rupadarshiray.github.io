@@ -186,13 +186,13 @@ The picture of classification of orientable surfaces as covering quotients of 2-
 
 I thought of putting that picture on the upper half of the poster and the same for the Thurston geometries of 3-manifolds in the lower half.
 
-A first skech of the poster on [[my-blackboards|my blackboard]] was as follows.
+A first sketch of the poster on my #blackboard was as follows.
 
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/PXL_20260328_132658671.NIGHT.jpg) 
 
 ^72vo22
 
-Drawing this on Adobe Illustrator finally gave me the following.
+Drawing this on Adobe Illustrator finally gave me the following #poster.
 
 [![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/thesisms-poster.jpg)](https://drive.google.com/file/d/1doddG6TawmzFXSW8okNeC4BSJixTExHi/view?usp=sharing)
 

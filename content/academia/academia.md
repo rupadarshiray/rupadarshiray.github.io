@@ -6,7 +6,7 @@ title: '(My) academia'
 
 ![[my-math-interests]]
 
-- [[my-blackboards|My blackboards]]
+- [[tags/blackboard|My blackboards]]
 - [[my-masters-at-iiserm|My Masters at IISER Mohali]]
 	- [[my-ms-thesis|My MS thesis]]
 - [[my-wiki|My Wiki of notes on mathematics]]
