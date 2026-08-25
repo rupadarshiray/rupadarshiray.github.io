@@ -5,7 +5,7 @@ tags: [seminar, attended, presented]
 title: Fall '25 seminar on abstract harmonic analysis
 ---
 
-In Fall '25, [[Pahu-Arora|Pahul]], [[Manan-Jain|Manan]] and Rohit (PhD student at IISER Mohali) organized a seminar on abstract harmonic analysis.
+In Fall '25, [[Pahul-Arora|Pahul]], [[Manan-Jain|Manan]] and Rohit (PhD student at IISER Mohali) organized a seminar on abstract harmonic analysis.
 
 Following Deitmar and Echterhoff's textbook "Principles of Harmonic Analysis", we looked at the standard theory of Banach and $C^{*}$-algebras concluding in the proof of Gelfand-Naimer theorem which I presented.
 
@@ -15,4 +15,4 @@ In preparation, I recorded the following video ( #yt #blackboard ). Please be aw
 
 The following compiles the #slides from the whole seminar.
 
-<iframe src="https://drive.google.com/file/d/1l_quLEI3u8KP5tK04NJTFpOkgjEGzDe4/view?usp=sharing" style="width:100%; border:none;height:900;"></iframe>
+<iframe src="https://drive.google.com/file/d/1l_quLEI3u8KP5tK04NJTFpOkgjEGzDe4/preview" width="100%" height="900"></iframe>

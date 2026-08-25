@@ -1,7 +1,7 @@
 ---
 created: 2026-08-20T20:03:56
 modified: 2026-08-20T20:03:56
-tags: [people]
+tags: []
 title: Naman Narang
 ---
 Naman was my neigbour when he first came to [[my-masters-at-iiserm|IISER Mohali]] campus.

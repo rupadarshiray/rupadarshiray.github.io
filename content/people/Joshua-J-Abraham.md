@@ -1,7 +1,7 @@
 ---
 created: 2026-08-14T15:31:56
 modified: 2026-08-14T15:31:56
-tags: [people]
+tags: []
 title: Joshua J Abraham
 aliases: [Joshua J Abraham]
 ---

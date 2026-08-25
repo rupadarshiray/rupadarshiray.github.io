@@ -1,13 +1,12 @@
 ---
 created: 2026-06-19T18:02:59
 modified: 2026-06-19T18:02:59
-tags:
-  - people
+tags: []
 title: Kapil Hari Paranjape
 aliases: Kapil Hari Paranjape
 wikipedia: https://en.wikipedia.org/wiki/Kapil_Hari_Paranjape
 ---
-My first interaction with [Prof. Kapil Hari](https://en.wikipedia.org/wiki/Kapil_Hari_Paranjape) was during the course on *complex analysis* in [[my-masters-at-iiserm|IISER Mohali]] which he instructed.
+My first interaction with Prof. Kapil Hari was during the course on *complex analysis* in [[my-masters-at-iiserm|IISER Mohali]] which he instructed.
 
 I attended [[seminar-2503-GAAV|March 17-19, '25 - Geometric Aspects of Algebraic Varieties, IISER Mohali]] which was a conference celebrating the 65th birthday of Prof Kapil.
 
@@ -23,7 +22,7 @@ It's so funny! The following article is also important to look at!
 
 The following email was very inspiring!
 
-> [!quote] email titled "Skills vs Certificates" sent on August 1, '25
+> [!quote] email titled "Skills vs Certificates" sent on 1 August '25
 > Dear Students,
 > 
 > Since it will soon be the beginning of a new academic year, this seems like a good time to suggest that you take a fresh look at your approach to your education at IISER Mohali.
