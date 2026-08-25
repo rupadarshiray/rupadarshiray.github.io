@@ -168,19 +168,21 @@ I started my path towards the rigidity of discrete groups after I attended [[sem
 
 I started by looking at globally symmetric spaces and the necessary properties of CAT(0) spaces, specially *smooth* ones which are simply connected Riemannian manifolds of non-positive sectional curvature. These spaces have a well-defined *boundary*.
 
-> [The slides for my PRJ501 presentation (after *half* of my MS thesis) is here.](https://rupadarshiray.github.io/slides/PRJ501.pdf)
+[The slides for my PRJ501 presentation (after *half* of my MS thesis) is here.](https://rupadarshiray.github.io/slides/PRJ501.pdf) I recorded the following trial run ( #yt ).
 
-Afterwards, I started specializing towards topics related to Patterson-Sullivan measures.
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/aU4_JNv8p04?si=jRSo3dwc9qRNk_3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Finally I narrowed down my thesis to a narrative that is as follows.
+Afterwards, I started specializing towards topics related to Patterson-Sullivan conformal densities on the limit sets of discrete groups.
+
+Eventually, I narrowed down my thesis to a narrative that is as follows.
 
 We look at two proofs of Mostow's rigidity theorem. First one uses the theory of quasiconformal mappings on the sphere following Tukia's proof of Sullivan's quasiconformal rigidity theorem. This general result is about quasiconformal rigidity of certain hyperbolic manifolds. If applied to the case of closed or finite volume hyperbolic manifolds, it implies Mostow and Prasad's rigidity theorem.
 
-Second one considers conformal density on the boundary of hyperbolic, constructed by Patterson and Sullivan, and follows Sullivan's proof of preservation of cross-ratios almost everywhere with respect to the Patterson-Sullivan measures supported on the limit sets. This result gives us a measurable rigidity of these limit sets: it says that if we have a measurable map between the limit sets of two hyperbolic manifolds, which takes measure zero sets of the Patterson-Sullivan measure to measure zero sets in both directions, then the map preserves the cross-ratios almost everywhere. This quickly produces a conformal between these limit sets. Thus, in short if these limit sets are measurably conjugate then they has be to be conformally conjugate. Again, because in the case of closed or finite volume hyperbolic manifolds, the limit sets are the whole sphere, and this implies that the map is a conformal map of the sphere, which extends to an isometry of the hyperbolic space. This gives us Mostow and Prasad's rigidity theorem.
+Second one considers conformal density on the boundary of hyperbolic, constructed by Patterson and Sullivan, and follows Sullivan's proof of preservation of cross-ratios almost everywhere with respect to the Patterson-Sullivan density supported on the limit sets. This result gives us a measurable rigidity of these limit sets: it says that if we have a measurable map between the limit sets of two hyperbolic manifolds, which takes measure zero sets of the Patterson-Sullivan desnity to measure zero sets in both directions, then the map preserves the cross-ratios almost everywhere. This quickly produces a conformal between these limit sets. Thus, in short if these limit sets are measurably conjugate then they has be to be conformally conjugate. Again, because in the case of closed or finite volume hyperbolic manifolds, the limit sets are the whole sphere, and this implies that the map is a conformal map of the sphere, which extends to an isometry of the hyperbolic space. This gives us Mostow and Prasad's rigidity theorem.
 
-> [The slides for my PRJ502 presentation is here.](https://dub.sh/thesismsPRJ)
+[The slides for my PRJ502 presentation is here.](https://dub.sh/thesismsPRJ) I styled it as a literature survey, motivating the use of Patterson-Sulivan densities in the proof of Mostow rigidity as generalization of similar result with respect to Lebesgue measure for cocompact discrete subgroups.
 
-I also had to presented a poster my thesis. I decided to make a poster on Teichmuller theory and Mostow rigidity, targetting third and fourth year students.
+I also had to presented a poster my thesis. I decided to make a poster on Teichmuller theory and Mostow rigidity, targetting third and fourth year math major, while making it virually appealing for non-math students.
 
 The picture of classification of orientable surfaces as covering quotients of 2-sphere, flat plane and hyperbolic space appeared to me throught the time I was reading about Fuchsian groups and hyperbolic surfaces.
 
