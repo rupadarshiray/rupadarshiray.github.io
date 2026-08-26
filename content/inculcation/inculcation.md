@@ -185,40 +185,6 @@ A group homomorphism from a (say, finite for now) group $G$ to the general linea
 
 ---
 
-
-
-We look at the (familiar) structure of
-
-$$\begin{array}{} \mathcal{C}^{\infty}(U) &\xrightarrow{\mathrm{grad} } &\mathrm{Vec}^{\infty}(U)&\xrightarrow{\mathrm{curl}} &\mathrm{Vec}^{\infty}(U)&\xrightarrow{\mathrm{div}} &\mathcal{C}^{\infty}(U)  \\
-&&\mathrm{curl}\circ \mathrm{grad}=0  \\
-&&&& \mathrm{div}\circ \mathrm{curl}=0  \\
-\end{array}$$
-
-where $U \subseteq \mathbb{R}^{3}$.
-
-Writing this in a different notation: for $\mathcal{C}^{\infty}(U) \xrightarrow{\mathrm{grad} } \mathrm{Vec}^{\infty}(U)\xrightarrow{\mathrm{curl}} \mathrm{Vec}^{\infty}(U)$ 
-
-$$ \begin{array}{c} f & \xmapsto{\mathrm{d}} &\mathrm{d}f= \underbrace{ \sum_{i} \frac{\partial f}{\partial x_{i}} \mathrm{d}{x_{i}} }_{ \text{this looks like grad} } \\
-& & \omega= \sum_{i} \omega_{i} \mathrm{d}{x_{i}} & \xmapsto{\mathrm{d}} & \mathrm{d}\omega = \underbrace{ \sum_{i} \mathrm{d}\omega_{i} \wedge \mathrm{d}{x_{i}} }_{ \text{this looks like curl} }  \end{array}
-$$
-
-and then continuing for $\mathrm{Vec}^{\infty}(U)\xrightarrow{\mathrm{div}} \mathcal{C}^{\infty}(U)$
-
-$$\begin{array}{c} 
-&&&&\mathrm{d}\omega = \underbrace{ \sum_{i} \mathrm{d}\omega_{i} \wedge \mathrm{d}{x_{i}} }_{ \text{this looks like curl} } \\
-
-&&& & \alpha = \sum_{i>j} \alpha_{ij} \mathrm{d}x_{i} \wedge \mathrm{d}x_{j} & \xmapsto{\mathrm{d}} & \mathrm{d}\alpha = \underbrace{ \sum_{i>j} \mathrm{d}\alpha_{ij} \wedge \mathrm{d}x_{i} \wedge \mathrm{d}x_{j}  }_{ \text{this looks like div (check!)} }\\
-&&&&&&\beta= \beta_{123}  \ \mathrm{d}{x_{1}}  \wedge \mathrm{d}{x_{2}}  \wedge\mathrm{d}{x_{3}} &\xmapsto{\mathrm{d}} 0 \end{array} $$
-where we understand that the "wedge" $\wedge$ works like the cross product $$ \mathrm{d}{x_{i}} \wedge \mathrm{d}x_{j} = - \mathrm{d}x_{j} \wedge \mathrm{d}x_{i} $$
-It is easily seen $$ \mathrm{d}(\mathrm{d} (-) )=0 $$
-doesn't matter what's inside the $(-)$, a real function $f$ or the objects $\omega$, $\alpha$ or $\beta$ (called 0,1,2,3-forms respectively) when their components are differentiable functions.
-
-We see this "exterior derivative" $$\mathrm{d}$$ thus "unifies" grad, curl and div and generalizes because it may be defined as $$\text{d}\omega=\mathrm{d}{\left( \sum\omega_{I} \mathrm{d}{x_{I}} \right)}:= \mathrm{d}{\omega_{I}}\wedge \mathrm{d}{x_{I}}$$
-in any dimension.
-
-But what are these $$ \mathrm{d}x_{i} $$
-mean?
-
 - Analysis by Herbert Amann and Joachim Escher [Volume I](http://library.lol/main/D52F82501240A7F94F77CCA630B43F6E)
 
 #### complex analysis
