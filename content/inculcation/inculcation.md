@@ -170,7 +170,7 @@ A group homomorphism from a (say, finite for now) group $G$ to the general linea
 
 #### elementary algebraic geometry and number theory
 
-[![281](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61A4APM3UNL._SL1257_.jpg&sp=1787725184T49e9c5c4d425f90e22dd0d71bbc77f7859e707b3771efb55730337ab30185000)](https://link.springer.com/book/10.1007/978-3-319-18588-0)
+[![281](https://m.media-amazon.com/images/I/61A4APM3UNL._SL1257_.jpg)](https://link.springer.com/book/10.1007/978-3-319-18588-0)
 
 ## III linearly construct from the ground up
 
