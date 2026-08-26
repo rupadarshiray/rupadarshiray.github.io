@@ -15,6 +15,7 @@ title: MIT 18.966 Geometry of Manifolds II
 > Differential forms, introduction to Lie groups, the DeRham theorem, Riemannian manifolds, curvature, the Hodge theory. [18.966](https://catalog.mit.edu/search/?P=18.966 "18.966") is a continuation of [18.965](https://catalog.mit.edu/search/?P=18.965 "18.965") and focuses more deeply on various aspects of the geometry of manifolds. Contents vary from year to year, and can range from Riemannian geometry (curvature, holonomy) to symplectic geometry, complex geometry and Hodge-Kahler theory, or smooth manifold topology. Prior exposure to calculus on manifolds, as in [18.952](https://catalog.mit.edu/search/?P=18.952 "18.952"), recommended.
 
 - 1992
+	- `Guillemin, V., Course 18.966 – Geometry of Manifolds, M.I.T., Spring of 1992` from [Lectures on Symplectic Geometry](https://people.math.ethz.ch/~acannas/Papers/lsg.pdf)
 - 1998
 	- `T. Mrowka, 18.966 Lecture Notes, Spring 1998` from [Notes on J-Holomorphic Maps](https://www.math.stonybrook.edu/~azinger/mat645-spr22/GrConv.pdf)
 - 2004 (Alan Edelman)
