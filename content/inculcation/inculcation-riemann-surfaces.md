@@ -6,6 +6,8 @@ tags:
 title: "Inculcation: complex analysis and Riemann surfaces, that is, complex 1-manifolds, complex algebraic curves, round/flat/hyperbolic surfaces and so on"
 aliases: Riemann surfaces, that is, complex 1-manifolds, complex algebraic curves, round/flat/hyperbolic surfaces and so on
 ---
+###### III
+
 Complex analysis is the study of holomorphic functions on open subsets of $\mathbb{C}$.
 
 - `book` Ahlfors - Complex analysis
@@ -38,6 +40,8 @@ We can even look at some random processes.
 - `lecture notes` [246C notes 4: Brownian motion, conformal invariance, and SLE | What's new](https://terrytao.wordpress.com/2018/05/29/246c-notes-4-brownian-motion-conformal-invariance-and-sle/)
 
 ---
+
+###### IV
 
 Riemann surfaces are connected complex 1-manifolds. Compact Riemann surfaces are same as $\mathbb {C}$-algebraic curves. We can study meromorphic functions and meromorphic forms on these spaces.
 
@@ -124,6 +128,8 @@ Riemann surfaces which are quotients of the unit disk by torsion free Fuchsian g
 The space of all *marked* Riemann surfaces of genus $g$ is called Teichmuller space of genus $g$ Riemann surfaces. These spaces are complex manifolds of dimension depending on the genus $g$.
 
 - `book` Farb Margalit - Mapping class groups
+
+###### V
 
 We may define a weaker notion of isomorphism of Riemann surfaces: quasiconformal homeomorphism. The class of marked Riemann surfaces quasiconformal to a fixed Riemann surface generalise the Teichmuller space of compact Riemann surfaces. 
 

@@ -1,132 +1,146 @@
 ---
-created: 2023-03-27T22:44:08
-modified: 2023-03-27T22:44:08
-tags: [Inculcation]
-enableToc: true
-openToc: true
-title: 'Inculcation'
----
-
-# Driven by infinite enthusiasm
-
-
-This list was made with materials mostly found on the internet, to reduce repetition from my side. All opinions are strictly mine. Because of that, this list lacks topics like number theory, algebraic geometry, graph theory, algorithms, combinatorics, etc.
-
-# What to study? Where to study from?
-
-  > (order is not strict, life is very *non-linear*)
-
-This has five major sections
-
-1. journey starts: [[inculcation#start with the little things and the big things|start with the little things and the big things]]
-2. [[inculcation#dive into new discoveries|dive into new discoveries]]
-3. a need for clarity and details: [[inculcation#Linear constructions|Linear constructions]]
-4. the old discoveries in new light: [[inculcation#new way of looking at things|new way of looking at things]]
-5. epilogue: [[inculcation#starting again?|starting again?]]
-
-
-## little things: groups, group actions
-
->  ==One should start their journey with groups!==
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mH0oCDa74tE?si=Kk1xTVuDkV2Ap7Ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-- [Essence of Group Theory - YouTube](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
-- Chapter 1 and 3 from ![[inculcation#Napkin|Napkin]]
-
-More into [[inculcation#continue with algebra|doing more algebra]]
-## big things: vector spaces (linear algebra
-
-![[inculcation-linear-algebra#starting out]]
-
-And then for [[inculcation-linear-algebra#a first semester course|a first semester course]].
-
-## things in the middle: analysis
-
-
-- from [[inculcation#Napkin]]
-	- Chapters 26-30 - Calculus 101
-	- Chapters 42-45 - Total derivatives and differential forms
-	- Chapters 2, 6-8 - Topology
-
+created: 2026-08-26T11:29:59
+modified: 2026-08-26T11:29:59
+tags: []
+aliases: []
 ---
 
 
-![[inculcation-linear-constructions#Inside the reals and metric spaces|Inside reals and metric spaces]]
+## I start with groups, vector spaces and metric spaces
+
+#### finite groups
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mH0oCDa74tE?si=Kk1xTVuDkV2Ap7Ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The miniseries [Essence of Group Theory - YouTube](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO) carries it forward.
 
 
----
+#### vector spaces
 
-For "multi-variable calculus" AKA analysis on $\R^{n}$ you can choose to start from:
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?si=Cq-M0B5yEuDGeziD&amp;list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- **calculus:** [[shifrin-multivariable-mathematics]] - a 2 semester course/book that covers linear algebra and (nice) multivariable calculus
-- **analysis:** [[inculcation-analysis-finite-vector-spaces|Inculcation: Analysis in finite-dimensional vector spaces]], and more in [[inculcation#Linear constructions|Linear constructions]]
+We see with just the "little" definition of a vector space, we can have things like  **writing any vector as a unique linear combination of finitely many vectors from a smaller subset of the entire space**. This much of *structure* is enough to ask a lot of questions and a solve a whole lot of problems! If you want more things, we can have more things! (oriented vector space, inner product spaces, normed vector spaces, etc.). 
 
+- `lectures, book` Linear Algebra Done Right - Sheldon Axler
+- `lecture videos` [Linear Algebra by Dr. K.C. Sivakumar](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7)
 
-## mechanics
+Need help proving stuff? Try following the arrows to prove equivalent conditions for injectivity of linear maps on finite dim spaces:
 
-If you're into physics, start here:
-
-![[inculcation-all-of-mechanics#all of physics, all at once]]
-
-This is how I started! Its the "non-conventional" route, study major building blocks of physics at once because 
+![](https://i.imgur.com/Jf457uG.png)
 
 
+#### metric spaces
 
-> [!quote] 
-> "Nature doesn't work in semesters." - T Paddy
+#### real numbers
 
+#### Napkin
 
+Evan Chen's [A Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf) is an introduction to a lots of fields of math! However, it is NOT a textbook but a really nice introductory reference. It starts with groups and metric spaces!
 
+#### Prinston companion to mathematics
 
+[The Princeton Companion to Mathematics](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
 
-# dive into new discoveries
+#### history of mathematics
 
-The first section had groups, vector spaces and analysis. Now we shall continue and add some geometry, dynamics and physics too!
+`lecture videos` [MathHistory: A course in the History of Mathematics](https://www.youtube.com/playlist?list=PL55C7C83781CF4316) (although be aware, the instructor doesn't believe that $\R$ exists)
 
-## continue with algebra
+#### handwavy physics
 
+We learn physics though the Action principle.
 
-- `lectures` [Abstract Algebra by Benedict Gross - YouTube](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3)
-- `book` Artin - Algebra
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?si=_JXvZTvRZWIzq9M0&amp;list=PLlFCvH2vR5kRzC1LQtHy_MUAquC-tQiiW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-So essentially what this should entail is more group theory, rings, and modules over them. A good way to bring all of these together is [[inculcation-groups#representation theory of finite groups]]
+Ignore the Fourier expansion of electric field stuff, just the ideas behind GR, QFT matters! Continue with GR and action: [General Relativity by Prof. Thanu Padmanabhan - YouTube](https://www.youtube.com/playlist?list=PLfrsXbPUIUSB6xoXyIvVEHYiG-hVmJhHf).
 
+After that watch these lectures covering *Newtonian, Lagrangian, Hamiltonian mechanics, statistical mechanics, special relativity* all at once!
 
-- `book` Algebra Chapter 0 is a fat book that mixes in ideas of category theory while doing algebra
+<iframe src="https://www.youtube.com/embed/videoseries?list=PL5E4E56893588CBA8" style=" top:0; left:0; width:100%; border:none;  height:500px;" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
----
-
-- Discover the field of *algebraic geometry* while doing the last few chapters of Artin. Follow the `book` [Harris - First course in Algebraic geometry ](https://books.google.co.in/books/about/Algebraic_Geometry.html?id=U-UlBQAAQBAJ&printsec=frontcover&source=kp_read_button&hl=en&newbks=1&newbks_redir=0&gboemv=1&ovdme=1&redir_esc=y#v=onepage&q&f=false) for more.
-- You'll quickly realise a lot of *rings and commutative algebra* is needed for this. Take help of an algebraist / algebraic geometer near you to continue further!
-
----
-
-Another subject is Galois theory which is broadly missing from Artin. Try this fat book:
-
-- `book` Dummit and Foote - Algebra
+These are nice as an intro "proper" physics, they will look fascinating, but my recommended levels of motivation and precision is absent. These are "Feynman lectures done right". One may watch his non-linear dynamics and quantum mechanics lectures right after this. But nothing is explained "rigorously", although hinted at, lots of details are skipped and Balki name drops a LOT of stuff. You may choose to ignore them initially, because each term becomes a rabbit hole for math topics.
 
 
+Going ahead, we can look at quantum physics.
 
-## continue with analysis
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?si=6JKljRVWEioPWlTx&amp;list=PL0F530F3BAF8C6FCC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
-After [[inculcation-linear-constructions#Inside the reals and metric spaces|the reals and metric spaces]] we move onto [[inculcation-analysis-finite-vector-spaces|finite-dimensional vector spaces]] or just $\R^{n}$:
+From these previous lectures, one must agree that doing **physics** is a three step process:
 
-- (measure theory) [[inculcation-analysis-finite-vector-spaces#measurable functions and their integrals]]
-- (differential forms) [[inculcation-analysis-finite-vector-spaces#differential forms their integration and exterior derivative]]
-- (complex analysis) [[inculcation-analysis-finite-vector-spaces#in complex vector spaces]]
+- **Step 1**: Choose your ***spacetime***, you have 3 major types of options:
+	- $c^{-1}=0$ Newtonian: the good ol' "non-relativistic" spacetime
+	- $c^{-1}=1, G=0$ Minkowski: the SR spacetime
+	- $c^{-1}=1, G=1$ Lorentzian: a whole range of GR spacetimes
+- **Step 2**: Choose what the ***contents*** of your spacetime must be:
+	- points: point particles, bodies with finite number of degrees of freedom, rays
+	- fields: infinite degrees of freedom
+	- fluids: "spacetime itself flowing" (they are different from fields, yes)
+	- condensed matter
+- **Step 3**: Choose a ***description*** for the contents (although not all of the following is possible for all the *contents* in step 2)
+	- $\hbar = 0$ "classical mechanics/classical field theory" description - that is, writing equations of motion, $ma=F$ for particles in $c\to \infty$ or Maxwell's equations for EM fields
+	- $\hbar =0$ "classical statistics" description
+	- $\hbar =1$ "quantum mechanics/QFT" description
+	- $\hbar=1$ "quantum statistical" description
 
-## differential geometry of curves and surfaces
+BUT! Does the description of matter really depend very much on the spacetime? Yes sure, the equation of motion will change drastically, but the methods in ODEs do not change at all! We can study about spherical harmonics in waves, electrodynamics and in QM class - their physical interpretation is different but their *math* interpretation remains the same!
 
-AKA what I would call "*spicy multi-variable calculus in dimension 3"*!
+Hence, there is a component to this in the second step of the 3 step process: which is *"abstract"*. How much of the things we study can we abstract out? Can it be really useful in doing physics?
 
-- `book` do Carmo - Differential geometry of curves and surfaces
-- `lectures` [ICTP Diploma - Differential Geometry - Claudio Arezzo - YouTube](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz) 
-	- These lectures has pre-requisites of basic linear algebra, analysis in $\mathbb{R}^{n}$, knowing total derivatives and bilinear forms with introducing yourself a little *topology* (compactness, connectedness).
-	- Does a bit of [[inculcation-smooth-manifolds|manifolds]] at the end!
+![](https://i.imgur.com/BIqIRsH.png)
 
-## start some *cute* topology
+
+This makes sense to me because generally quantum mechanics is taught before fluid mechanics, which is true because the former is a linear PDE - which makes it much easier - just introduce eigenvectors and eigenvalues and the method can be explained!
+
+Now for an example:
+
+> [!quote] Around 1850 Maxwell realized that the [field strength](https://ncatlab.org/nlab/show/field+strength) of the [electromagnetic field](https://ncatlab.org/nlab/show/electromagnetic+field) is modeled by what today we call a closed [differential 2-form](https://ncatlab.org/nlab/show/differential+form) on [spacetime](https://ncatlab.org/nlab/show/spacetime). In the 1930s Dirac observed that more precisely this 2-form is the [curvature](https://ncatlab.org/nlab/show/curvature) 2-form of a [U(1)](https://ncatlab.org/nlab/show/circle+group)-[principal bundle](https://ncatlab.org/nlab/show/principal+bundle) with [connection](https://ncatlab.org/nlab/show/connection+on+a+bundle), hence that the electromagnetic field is modeled by what today is called a degree 2-cocycle in _[ordinary differential cohomology](https://ncatlab.org/nlab/show/ordinary+differential+cohomology)_ . ^[https://ncatlab.org/nlab/show/higher+category+theory+and+physics#GaugeTheory]
+
+![](https://i.imgur.com/XYgxUjp.png)
+
+Although we must do physics in the more *specific* sense (in contrast to *abstract* sense) as well, so we make this little table for reference with common terminology.
+
+| contents          | description     | $c^{-1}=0$ Newtonian spacetime                                                                 | $c^{-1}=1, G=0$ Minkowski spacetime (SR)        | $c^{-1}=1, G=1$ Lorentzian manifolds (GR)    |
+| ----------------- | --------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
+|                   | $\hbar =0$      |                                                                                                |                                                 |                                              |
+| points            | "actual"        | "classical mechanics" Kleppner, Goldstein, David Morin, LandauLifshitz vol 1, Balki's lectures | "relativistic mechanics" LandauLifshitz vol 2   | "general relativity" LandauLifshitz vol 2    |
+|                   | "stat"          | "statistical mechanics"  Kardar                                                                | "relativistic statistical mechanics" Palash Pal |                                              |
+| fields            | "actual"        | "non-relativistic classical field theory"                                                      | "classical field theory"                        | "classical field theory in curved spacetime" |
+|                   | "stat"          |                                                                                                | "statistical field theory"                      |                                              |
+| fluids            |                 | "fluid mechanics"                                                                              | "relativistic fluid mechanics"                  | "fluid mechanics in curved spacetime"        |
+|                   |                 |                                                                                                |                                                 |                                              |
+|                   | $\hbar =1$      |                                                                                                |                                                 |                                              |
+| points            | "actual"        | "quantum mechanics" Griffiths, Balki's lectures, Shankar                                       | -                                               | -                                            |
+|                   | "stat"          | "quantum statistical mechanics" QM textbooks ^ should cover this                               | -                                               | -                                            |
+| fields            | "actual"        |                                                                                                | "QFT"                                           | "QFT in curved spacetime" or "global QFT"    |
+|                   | "stat"          |                                                                                                |                                                 |                                              |
+| fluids            | quantum fluids? | ?                                                                                              | ?                                               | ?                                            |
+| atoms?            |                 |                                                                                                |                                                 |                                              |
+| condensed matter? |                 |                                                                                                |                                                 |                                              |
+|                   |                 |                                                                                                |                                                 | QG?                                          |
+
+In general, there are
+
+- Landau Lifshitz volumes 1-10
+- [David Tong's notes](http://www.damtp.cam.ac.uk/user/tong/teaching.html) for many of the elements in the table
+- look below for more!
+
+So, essentially we did all of physics together. But did we do it properly? Did we went onto understanding the details?
+
+## II continue with algebra, analysis, topology and geometry
+
+#### rings and modules
+
+
+Looking back on linear algebra, we can reiterate the following.
+
+A $k$-vector space $V$ with a endomorphism $T$ (fancy name for linear map $V\to V$) gives a $k[X]$-module structure on $V$, so we can directly use $k[X]$-modules classification theorems to construct the theorems on canonical forms.
+
+I am still looking on how to understand *two* linear endomorphisms giving a $k[X,Y]$ structure on $V$. At the least, I can re-interpret the theorem that says "we always have a common eigenvector of two commuting linear maps" as the following.
+
+Let's say we have a $k[X,Y]$-module $V$ defined by two linear endomorphisms $V\to V$. Then we always have at least one *simple* non-trivial $k[X,Y]$-submodule of $V$. 
+#### representation theory of finite groups
+
+A group homomorphism from a (say, finite for now) group $G$ to the general linear group on a vector space $V$  $$ G \to {GL}(V) $$ is called a *representation of the group $G$*. One can classify and study such homomorphisms (upto an equivalence ofcourse) and it's called representation theory (of finite groups). This "helps" in doing linear algebra when we have a invertible linear map $V\to V$, in my opinion.
+#### cute topology
 
 - [Topology & Geometry by Dr Tadashi Tokieda - YouTube](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
 - Knot theory
@@ -140,122 +154,175 @@ AKA what I would call "*spicy multi-variable calculus in dimension 3"*!
 	- [Dirac's belt trick, Topology, and Spin ½ particles - YouTube](https://www.youtube.com/watch?v=ACZC_XEyg9U)
 	- [The derivative isn't what you think it is. - YouTube](https://www.youtube.com/watch?v=2ptFnIj71SM)
 
+#### curves and surfaces
 
-## dynamical systems and ODEs
+- `book` do Carmo - Differential geometry of curves and surfaces
+- `lecture videos` [ICTP Diploma - Differential Geometry - Claudio Arezzo - YouTube](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz) These lectures has pre-requisites of basic linear algebra, analysis in $\mathbb{R}^{n}$, knowing total derivatives and bilinear forms with introducing yourself a little *topology* (compactness, connectedness).
 
-![[inculcation-odes#interpret any general ODE as a vector field and study it visually]]
+#### GGT
 
+#### probability and information theory
 
-
-![[inculcation-odes#much elementary introduction]]
-
-![[inculcation-odes#formal theory of ODEs]]
-
-More on this: [[inculcation-odes]]
-## probability and information
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/v68zYyaEmEA?si=jHpmEwYRdWKGO01Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-Well, I have no idea yet!
+#### illustrations in mathematics
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v68zYyaEmEA?si=jHpmEwYRdWKGO01Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+#### elementary algebraic geometry and number theory
 
-## continue with *handwavey* physics
+[![281](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61A4APM3UNL._SL1257_.jpg&sp=1787725184T49e9c5c4d425f90e22dd0d71bbc77f7859e707b3771efb55730337ab30185000)](https://link.springer.com/book/10.1007/978-3-319-18588-0)
 
-Be warned:
+## III linearly construct from the ground up
 
-![|400](https://i.imgur.com/dkGS1Kx.png)
+#### logic
 
-but start with [[inculcation-all-of-mechanics]]
+#### set theory
+
+#### real analysis
 
 
-<!---
+*Total derivative* of function $$ f:U \subseteq V\to W $$ between finite-dim real normed vector spaces at a point $p\in U$ is supposed to be a linear map $$D_{p}f:V\to W$$ that "approximates" $f$ near $p$. So if $D_{p}f$ is a rotation (as a linear map), then $$ f: U \to f(U) $$ should "look" like a rotation "near $p$".
 
-- You can definitely continue with rigorous analysis at this point here (instead of doing *handwavey* physics), it's always an inculcating and ever-increasing skill and knowledge-base: [[inculcation#Linear constructions|Rigorous constructions]]
-- To to anything *properly* in classical mechanics/quantum mechanics, the theory of analysis in normed vector spaces and  manifolds, measure, ODEs, dyanmical systems becomes important. They are constructed in [[inculcation#Linear constructions|Rigorous constructions]], but doing vague stuff first does not hurt - anything for **motivations**!
-- One would think while reading these basic books that there are these "untouchable books" which are very far off - while they are actually easy to grasp if basic ideas of manifolds/normed vector spaces are known - things like coordinate transformation, "objects that transform like objects" becomes trivial.
+---
 
 
 
-- #### DO MORE CLASSICAL (before quantum)!
-	- [[inculcation-classical-physics|Classical physics]]
-	- ⭐ [[inculcation-fluid-mechanics|Fluid mechanics]]
-	- [Non-linear dynamics by Balki](https://www.youtube.com/watch?v=nh4TFzg30eQ&list=PLbMVogVj5nJQKk1E7OUQs_TcW_zQoaO4t) - also substitute this with any ODE+Dynamical system course
-	- ##### statistical mechanics
-		- definitely do this before quantum
-- #### (only if you wanna do quantum)
-	- Griffiths Quantum Mechanics if you are an absolute beginner
-	- Quantum Physics by Balki
-	- Quantum computation - chapters 23-25 from [[evan-chen-napkin]]
+We look at the (familiar) structure of
 
---->
+$$\begin{array}{} \mathcal{C}^{\infty}(U) &\xrightarrow{\mathrm{grad} } &\mathrm{Vec}^{\infty}(U)&\xrightarrow{\mathrm{curl}} &\mathrm{Vec}^{\infty}(U)&\xrightarrow{\mathrm{div}} &\mathcal{C}^{\infty}(U)  \\
+&&\mathrm{curl}\circ \mathrm{grad}=0  \\
+&&&& \mathrm{div}\circ \mathrm{curl}=0  \\
+\end{array}$$
 
-# Linear constructions
+where $U \subseteq \mathbb{R}^{3}$.
 
-![[inculcation-linear-constructions#starting out]]
+Writing this in a different notation: for $\mathcal{C}^{\infty}(U) \xrightarrow{\mathrm{grad} } \mathrm{Vec}^{\infty}(U)\xrightarrow{\mathrm{curl}} \mathrm{Vec}^{\infty}(U)$ 
 
-# new way of looking at things
+$$ \begin{array}{c} f & \xmapsto{\mathrm{d}} &\mathrm{d}f= \underbrace{ \sum_{i} \frac{\partial f}{\partial x_{i}} \mathrm{d}{x_{i}} }_{ \text{this looks like grad} } \\
+& & \omega= \sum_{i} \omega_{i} \mathrm{d}{x_{i}} & \xmapsto{\mathrm{d}} & \mathrm{d}\omega = \underbrace{ \sum_{i} \mathrm{d}\omega_{i} \wedge \mathrm{d}{x_{i}} }_{ \text{this looks like curl} }  \end{array}
+$$
 
-With the language of manifolds/normed vector spaces we can work in geometry, topology and physics properly!
+and then continuing for $\mathrm{Vec}^{\infty}(U)\xrightarrow{\mathrm{div}} \mathcal{C}^{\infty}(U)$
 
-- geometry
-	- Riemannian geometry, semi-Riemannian geometry, geodesic flows, GR
-	- Hamiltonian flows and [[inculcation-symplectic-geometry|symplectic geometry]]
-	- [[inculcation-lie-groups|Lie groups, symmetric spaces and beyond]]
-	- [[inculcation-riemann-surfaces|Riemann surfaces, that is, complex 1-manifolds, complex algebraic curves, round/flat/hyperbolic surfaces and so on]]
-- algebraic topology, Differential topology, or algebraic topology with a differential viewpoint
-	- [Floer homology](https://math.berkeley.edu/~gbeiner/floer_homology.html)
-- dynamics
-	- [[inculcation-odes|ODEs - smooth dynamical systems]]
-	- Ergodic theory, dynamical systems in measure spaces
-- analysis
-	- Fourier, Harmonic analysis
-	- geometric analysis, spectral analysis
-	- global analysis
-	- microlocal analysis
-- PDEs
-	- [Partial Differential Equations - Giovanni Bellettini - Lecture 01 - YouTube](https://www.youtube.com/watch?v=Rq1iRT2LL-8)
-	- `talk` [Mathematics of Turbulent Flows: A Million Dollar Problem! by Edriss S Titi - YouTube](https://www.youtube.com/watch?v=VH4oawCiHPU)
-- mechanics
-	- [[inculcation-all-of-mechanics#Mechanics of points done properly]]
-	- QM and quantum theories [[inculcation-all-of-mechanics#quantization of the mechanics of points]]
-	- Thermodynamic systems and contact geometry
-	- `lecturenotes` Use measure theory to do [Classical Equilibrium Statistical Mechanics](https://warwick.ac.uk/fac/sci/maths/people/staff/stefan_adams/lecturenotestvi/cdias-adams-30.pdf)
-- probability, information theory, information geometry
-- number theory
+$$\begin{array}{c} 
+&&&&\mathrm{d}\omega = \underbrace{ \sum_{i} \mathrm{d}\omega_{i} \wedge \mathrm{d}{x_{i}} }_{ \text{this looks like curl} } \\
 
-# starting again?
+&&& & \alpha = \sum_{i>j} \alpha_{ij} \mathrm{d}x_{i} \wedge \mathrm{d}x_{j} & \xmapsto{\mathrm{d}} & \mathrm{d}\alpha = \underbrace{ \sum_{i>j} \mathrm{d}\alpha_{ij} \wedge \mathrm{d}x_{i} \wedge \mathrm{d}x_{j}  }_{ \text{this looks like div (check!)} }\\
+&&&&&&\beta= \beta_{123}  \ \mathrm{d}{x_{1}}  \wedge \mathrm{d}{x_{2}}  \wedge\mathrm{d}{x_{3}} &\xmapsto{\mathrm{d}} 0 \end{array} $$
+where we understand that the "wedge" $\wedge$ works like the cross product $$ \mathrm{d}{x_{i}} \wedge \mathrm{d}x_{j} = - \mathrm{d}x_{j} \wedge \mathrm{d}x_{i} $$
+It is easily seen $$ \mathrm{d}(\mathrm{d} (-) )=0 $$
+doesn't matter what's inside the $(-)$, a real function $f$ or the objects $\omega$, $\alpha$ or $\beta$ (called 0,1,2,3-forms respectively) when their components are differentiable functions.
 
-- `lectures` [MathHistory: A course in the History of Mathematics](https://www.youtube.com/playlist?list=PL55C7C83781CF4316) (although be aware, the instructor doesn't believe that $\R$ exists)
+We see this "exterior derivative" $$\mathrm{d}$$ thus "unifies" grad, curl and div and generalizes because it may be defined as $$\text{d}\omega=\mathrm{d}{\left( \sum\omega_{I} \mathrm{d}{x_{I}} \right)}:= \mathrm{d}{\omega_{I}}\wedge \mathrm{d}{x_{I}}$$
+in any dimension.
+
+But what are these $$ \mathrm{d}x_{i} $$
+mean?
+
+- Analysis by Herbert Amann and Joachim Escher [Volume I](http://library.lol/main/D52F82501240A7F94F77CCA630B43F6E)
+
+#### complex analysis
+
+![[inculcation-riemann-surfaces#III]]
+
+#### measure theory
+
+- [cmat.edu.uy/~mordecki/courses/medida2013/book.pdf](https://www.cmat.edu.uy/~mordecki/courses/medida2013/book.pdf)
+
+#### topology
+
+- `book` Munkres
+- http://www.math.toronto.edu/ivan/mat327/?resources
+- http://math.iisc.ac.in/~gadgil/topology-2021/all-lectures/
+- [Topology (MTH-TOP) - YouTube](https://www.youtube.com/playlist?list=PLp0hSY2uBeP8jgD0wTQM-RjkakSEBdHUD)
+- For a quick one lecture introduction with motivation: [Lecture 1: Topology (International Winter School on Gravity and Light 2015) - YouTube](https://www.youtube.com/watch?v=7G4SqIboeig)
+- [π-Base](https://topology.pi-base.org/)
+
+#### dynamics
+
+#### Galois theory
+
+#### algebraic topology
+
+- `book` [Hatcher's textbook](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
+- `lecture videos` [Algebraic Topology - Pierre Albin - YouTube](https://www.youtube.com/playlist?list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b)
+
+#### smooth manifolds
+#### semiRiemannian manifolds
+
+#### geometric mechanics
+
+Schuller's lectures are a good place to start.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?si=w6II_RQnncxuwK0v&amp;list=PL6YPgEhGKjOGKriFcF0LCJ4J8LDY3-nyR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+People have written up notes from these lectures: [THE WE-HERAEUS INTERNATIONAL WINTER SCHOOL ON GRAVITY AND LIGHT (Spanish Translation Available!) (richie291.wixsite.com)](https://richie291.wixsite.com/theoreticalphysics/post/the-we-heraeus-international-winter-school-on-gravity-and-light) and [Maths with Physics: The WE-Heraeus International Winter School on Gravity and Light, Lectures, Tutorials and Solutions](http://mathswithphysics.blogspot.com/2016/07/the-we-heraeus-international-winter.html) .
 
 
-# How to study?
+---
 
-- Make lecture notes.
-- Taking notes in [[obsidian-and-latex|Obsidian]]
-	- you’ll need to learn bit of LaTeX and probably will need a drawing tablet
-- Taking notes in a physical notebook
-	- Scan the lecture notes as PDF into one file and save it inside your vault. This might seem/be a waste of time, but loosing hard worked lecture notes/not organizing them is a bigger loss.
-- Filling pages upon pages and never returning back onto them is NOT the process, it seems ro me. Return to the notes, think, and solve your own questions.
+- `lecturenotes` Use measure theory to do [Classical Equilibrium Statistical Mechanics](https://warwick.ac.uk/fac/sci/maths/people/staff/stefan_adams/lecturenotestvi/cdias-adams-30.pdf)
+#### symplectic manifolds
 
-# more references, roadmaps, encyclopedias
+#### computation in mathematics
+
+## IV
+
+#### functional analysis
+
+- https://www.kryakin.site/am2/Stein-Shakarchi%5D-4-Functional-Analys.pdf
+- Papa and grandpa Rudin
+- [MIT 18.102 Introduction to Functional Analysis, Spring 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP63micsJp_--fRAjZXPrQzW_)
+- [IMPA Doctorate program: Functional Analysis (2019)](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTIIIRwqK35CbFJieSJEcVR)
+
+#### Fourier analysis
+
+#### ergodic theory
+
+#### PDEs
+
+- [Partial Differential Equations - Giovanni Bellettini - Lecture 01 - YouTube](https://www.youtube.com/watch?v=Rq1iRT2LL-8)
+- `talk` [Mathematics of Turbulent Flows: A Million Dollar Problem! by Edriss S Titi - YouTube](https://www.youtube.com/watch?v=VH4oawCiHPU)
+
+#### Lie groups, Lie algebras and their finite dimensioal representation theory
+
+#### more mechanics
+
+- Gregory L. Naber - Topology, Geometry and Gauge fields - two volumes
+- Mikio Nakahara - Geometry, topology, and physics
+
+#### Cartan's geometry
+#### more complex analysis, Riemann surfaces, algebraic curves, hyperbolic surfaces
+
+![[inculcation-riemann-surfaces#IV]]
+
+#### several complex variables
+
+#### Algebraic varieties
+
+#### commutative, homological and categorical algebra
+#### complex manifolds
 
 
-> [!info] Newsletter?, channel, chat?
-> 
-> You may want to join academic curiosity whatsapp community [here](https://chat.whatsapp.com/CwhtnxvBD0TGBly0yxshRI) for more math content!
+## V
 
-- Roadmaps:
-	- [The fast track – Sheafification](http://sheafification.com/the-fast-track/)
-	- https://math.ucr.edu/home/baez/books.html
-	- [How to become a GOOD Theoretical Physicist (goodtheorist.science)](https://www.goodtheorist.science/)
-	- http://theportal.wiki/wiki/Read
-- encyclopedias
-	- [The Princeton Companion to Mathematics](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
-	- [Encyclopedia of Mathematics](https://encyclopediaofmath.org/wiki/Main_Page)
-	- [π-Base](https://topology.pi-base.org/)
 
-## Napkin
+### Riemannian geometry
 
-> [!tip] Evan Chen's [A Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf)
->- an introduction to a lots of fields of math! (NOT a textbook but a really nice introductory reference)
->- starts with groups and metric spaces!
+### symplectic geometry
+
+- [Floer homology](https://math.berkeley.edu/~gbeiner/floer_homology.html)
+
+### Algebraic geometry
+
+### abstract harmonic analysis
+
+### number theory
+
+### global, microlocal, infinite dimensional analysis
+
+### symmetric spaces, semisimple Lie groups, their unitary representations
+
+### Gromov hyperbolic groups
+
+### locally symmetric spaces/discrete subgroups: deformations and rigidity
