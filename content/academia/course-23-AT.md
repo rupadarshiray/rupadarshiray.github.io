@@ -206,9 +206,34 @@ Hence in particular, **deformation retract** preserves first fundamental group.
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_75.jpg)
 
 
-## simplex and complex
+## simplex, complex, homology
 
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_76.jpg)
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_77.jpg)
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_78.jpg)
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_79.jpg)
+
+
+---
+
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_79-2.jpg)
+
+
+
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_80.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_81.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_82.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_83.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_84.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_85.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_86.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_87.jpg)
+
+## Reduced homology, relative homology
+
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_88.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_89.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_90.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_91.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_92.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_93.jpg)
