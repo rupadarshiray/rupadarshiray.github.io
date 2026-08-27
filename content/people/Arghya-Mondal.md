@@ -8,4 +8,4 @@ site: https://sites.google.com/view/arghyamondal/home
 ---
 Prof. Arghya was [[my-ms-thesis|my MS thesis]] guide. He works in representation theory of groups, property T.
 
-We first spoke in the summer of 2025, months after he joined IISER Mohali.
+We first spoke in the summer of 2025, months after he joined IISER Mohali. Later on he started the [[seminar-2508-boundary|seminar on Boundary of symmetric spaces]] I joined it.

@@ -31,13 +31,13 @@ Need help proving stuff? Try following the arrows to prove equivalent conditions
 
 #### metric spaces
 
-#### real numbers
+#### real analysis I
 
 #### Napkin
 
 Evan Chen's [A Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf) is an introduction to a lots of fields of math! However, it is NOT a textbook but a really nice introductory reference. It starts with groups and metric spaces!
 
-#### Prinston companion to mathematics
+#### The Prinston Companion to Mathematics
 
 [The Princeton Companion to Mathematics](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
 
@@ -64,66 +64,12 @@ Going ahead, we can look at quantum physics.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?si=6JKljRVWEioPWlTx&amp;list=PL0F530F3BAF8C6FCC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
-From these previous lectures, one must agree that doing **physics** is a three step process:
+For more mechanics one may look at
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=_X3mgtZ6do3oX5aj&amp;list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- **Step 1**: Choose your ***spacetime***, you have 3 major types of options:
-	- $c^{-1}=0$ Newtonian: the good ol' "non-relativistic" spacetime
-	- $c^{-1}=1, G=0$ Minkowski: the SR spacetime
-	- $c^{-1}=1, G=1$ Lorentzian: a whole range of GR spacetimes
-- **Step 2**: Choose what the ***contents*** of your spacetime must be:
-	- points: point particles, bodies with finite number of degrees of freedom, rays
-	- fields: infinite degrees of freedom
-	- fluids: "spacetime itself flowing" (they are different from fields, yes)
-	- condensed matter
-- **Step 3**: Choose a ***description*** for the contents (although not all of the following is possible for all the *contents* in step 2)
-	- $\hbar = 0$ "classical mechanics/classical field theory" description - that is, writing equations of motion, $ma=F$ for particles in $c\to \infty$ or Maxwell's equations for EM fields
-	- $\hbar =0$ "classical statistics" description
-	- $\hbar =1$ "quantum mechanics/QFT" description
-	- $\hbar=1$ "quantum statistical" description
+and
 
-BUT! Does the description of matter really depend very much on the spacetime? Yes sure, the equation of motion will change drastically, but the methods in ODEs do not change at all! We can study about spherical harmonics in waves, electrodynamics and in QM class - their physical interpretation is different but their *math* interpretation remains the same!
-
-Hence, there is a component to this in the second step of the 3 step process: which is *"abstract"*. How much of the things we study can we abstract out? Can it be really useful in doing physics?
-
-![](https://i.imgur.com/BIqIRsH.png)
-
-
-This makes sense to me because generally quantum mechanics is taught before fluid mechanics, which is true because the former is a linear PDE - which makes it much easier - just introduce eigenvectors and eigenvalues and the method can be explained!
-
-Now for an example:
-
-> [!quote] Around 1850 Maxwell realized that the [field strength](https://ncatlab.org/nlab/show/field+strength) of the [electromagnetic field](https://ncatlab.org/nlab/show/electromagnetic+field) is modeled by what today we call a closed [differential 2-form](https://ncatlab.org/nlab/show/differential+form) on [spacetime](https://ncatlab.org/nlab/show/spacetime). In the 1930s Dirac observed that more precisely this 2-form is the [curvature](https://ncatlab.org/nlab/show/curvature) 2-form of a [U(1)](https://ncatlab.org/nlab/show/circle+group)-[principal bundle](https://ncatlab.org/nlab/show/principal+bundle) with [connection](https://ncatlab.org/nlab/show/connection+on+a+bundle), hence that the electromagnetic field is modeled by what today is called a degree 2-cocycle in _[ordinary differential cohomology](https://ncatlab.org/nlab/show/ordinary+differential+cohomology)_ . ^[https://ncatlab.org/nlab/show/higher+category+theory+and+physics#GaugeTheory]
-
-![](https://i.imgur.com/XYgxUjp.png)
-
-Although we must do physics in the more *specific* sense (in contrast to *abstract* sense) as well, so we make this little table for reference with common terminology.
-
-| contents          | description     | $c^{-1}=0$ Newtonian spacetime                                                                 | $c^{-1}=1, G=0$ Minkowski spacetime (SR)        | $c^{-1}=1, G=1$ Lorentzian manifolds (GR)    |
-| ----------------- | --------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------- |
-|                   | $\hbar =0$      |                                                                                                |                                                 |                                              |
-| points            | "actual"        | "classical mechanics" Kleppner, Goldstein, David Morin, LandauLifshitz vol 1, Balki's lectures | "relativistic mechanics" LandauLifshitz vol 2   | "general relativity" LandauLifshitz vol 2    |
-|                   | "stat"          | "statistical mechanics"  Kardar                                                                | "relativistic statistical mechanics" Palash Pal |                                              |
-| fields            | "actual"        | "non-relativistic classical field theory"                                                      | "classical field theory"                        | "classical field theory in curved spacetime" |
-|                   | "stat"          |                                                                                                | "statistical field theory"                      |                                              |
-| fluids            |                 | "fluid mechanics"                                                                              | "relativistic fluid mechanics"                  | "fluid mechanics in curved spacetime"        |
-|                   |                 |                                                                                                |                                                 |                                              |
-|                   | $\hbar =1$      |                                                                                                |                                                 |                                              |
-| points            | "actual"        | "quantum mechanics" Griffiths, Balki's lectures, Shankar                                       | -                                               | -                                            |
-|                   | "stat"          | "quantum statistical mechanics" QM textbooks ^ should cover this                               | -                                               | -                                            |
-| fields            | "actual"        |                                                                                                | "QFT"                                           | "QFT in curved spacetime" or "global QFT"    |
-|                   | "stat"          |                                                                                                |                                                 |                                              |
-| fluids            | quantum fluids? | ?                                                                                              | ?                                               | ?                                            |
-| atoms?            |                 |                                                                                                |                                                 |                                              |
-| condensed matter? |                 |                                                                                                |                                                 |                                              |
-|                   |                 |                                                                                                |                                                 | QG?                                          |
-
-In general, there are
-
-- Landau Lifshitz volumes 1-10
-- [David Tong's notes](http://www.damtp.cam.ac.uk/user/tong/teaching.html) for many of the elements in the table
-- look below for more!
-
-So, essentially we did all of physics together. But did we do it properly? Did we went onto understanding the details?
+- `book`  Steven Strogatz - Nonlinear dynamics and chaos : with applications to physics, biology, chemistry, and engineering
 
 ## II continue with algebra, analysis, topology and geometry
 
@@ -159,8 +105,6 @@ A group homomorphism from a (say, finite for now) group $G$ to the general linea
 - `book` do Carmo - Differential geometry of curves and surfaces
 - `lecture videos` [ICTP Diploma - Differential Geometry - Claudio Arezzo - YouTube](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz) These lectures has pre-requisites of basic linear algebra, analysis in $\mathbb{R}^{n}$, knowing total derivatives and bilinear forms with introducing yourself a little *topology* (compactness, connectedness).
 
-#### GGT
-
 #### probability and information theory
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/v68zYyaEmEA?si=jHpmEwYRdWKGO01Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -178,7 +122,7 @@ A group homomorphism from a (say, finite for now) group $G$ to the general linea
 
 #### set theory
 
-#### real analysis
+#### real analysis II
 
 
 *Total derivative* of function $$ f:U \subseteq V\to W $$ between finite-dim real normed vector spaces at a point $p\in U$ is supposed to be a linear map $$D_{p}f:V\to W$$ that "approximates" $f$ near $p$. So if $D_{p}f$ is a rotation (as a linear map), then $$ f: U \to f(U) $$ should "look" like a rotation "near $p$".
@@ -204,17 +148,47 @@ A group homomorphism from a (say, finite for now) group $G$ to the general linea
 - For a quick one lecture introduction with motivation: [Lecture 1: Topology (International Winter School on Gravity and Light 2015) - YouTube](https://www.youtube.com/watch?v=7G4SqIboeig)
 - [π-Base](https://topology.pi-base.org/)
 
-#### dynamics
-
 #### Galois theory
 
-#### algebraic topology
+
+
+#### algebraic topology I
 
 - `book` [Hatcher's textbook](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
 - `lecture videos` [Algebraic Topology - Pierre Albin - YouTube](https://www.youtube.com/playlist?list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b)
 
+#### topological and geometric group theory
+
+- Clara Loh - "Geometric Group Theory"
+- Pierre de la Harpe - "Topics in Geometric Group Theory"
+-  [Office Hours with a Geometric Group Theorist](http://press.princeton.edu/titles/11042.html)
+
 #### smooth manifolds
-#### semiRiemannian manifolds
+
+
+- [TMS 2024 Spring: Differential Forms in Algebraic Topology](https://www.youtube.com/playlist?list=PLQZfZKhc0kiA149d8nmkY7DARwyjzHfl0)
+
+#### dynamics
+
+This is more a "dynamical systems" course, but has ODEs too
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=hlva1bjtL_s2MCYJ&amp;list=PLLq_gUfXAnkmC-VWIJ_HW8cdOZLEtHfXJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+And follows
+
+- `lecture notes` [SLI.pdf (bris.ac.uk)](https://people.maths.bris.ac.uk/~ip13935/dyn/SLI.pdf)
+
+![|246](https://i.imgur.com/FfULVge.png)
+![](https://i.imgur.com/5wSZ3Dr.png)
+- `book` Arnold's Ordinary Differential Equations is also a good resource.
+- `book` [Gerald Teschl's book on ODEs and dynamical systems](https://www.mat.univie.ac.at/~gerald/ftp/book-ode/index.html) is amazing!
+
+And move onto more dynamical systems
+
+- `book` Hasselblat and A Katok - A First Course in Dynamics
+- `lecture notes` [Dr. Richard Brown Math 110.421, Dynamical Systems, Spring 2010](https://math.jhu.edu/~brown/courses/s10/SyllabusS10421.htm)****
+
+![[everything-in-a-dynamics-pov]]
+
+#### semi-Riemannian manifolds
 
 #### geometric mechanics
 
@@ -230,65 +204,166 @@ People have written up notes from these lectures: [THE WE-HERAEUS INTERNATIONAL 
 - `lecturenotes` Use measure theory to do [Classical Equilibrium Statistical Mechanics](https://warwick.ac.uk/fac/sci/maths/people/staff/stefan_adams/lecturenotestvi/cdias-adams-30.pdf)
 #### symplectic manifolds
 
+- `lecture videos` [Fields Academy Course: Symplectic Geometry](https://www.youtube.com/playlist?list=PLArBKNfJxuukGoNZD6yBjie_zgY-x8Vn2)
+
 #### computation in mathematics
 
 ## IV
 
+- [[course-mit18.96x-geometry]]
+
 #### functional analysis
 
-- https://www.kryakin.site/am2/Stein-Shakarchi%5D-4-Functional-Analys.pdf
+- `book` https://www.kryakin.site/am2/Stein-Shakarchi%5D-4-Functional-Analys.pdf
 - Papa and grandpa Rudin
-- [MIT 18.102 Introduction to Functional Analysis, Spring 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP63micsJp_--fRAjZXPrQzW_)
-- [IMPA Doctorate program: Functional Analysis (2019)](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTIIIRwqK35CbFJieSJEcVR)
+- `lecture videos` [MIT 18.102 Introduction to Functional Analysis, Spring 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP63micsJp_--fRAjZXPrQzW_)
+- `lecture videos` [IMPA Doctorate program: Functional Analysis (2019)](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTIIIRwqK35CbFJieSJEcVR)
 
 #### Fourier analysis
 
+- `book` M Pinsky - Introduction to Fourier Analysis and Wavelets (2009)
+
 #### ergodic theory
+
+- `book` Einsiedler and Ward - Ergodic Theory
+
+![[inculcation-lie-groups#ergodic theory and Lie groups]]
 
 #### PDEs
 
 - [Partial Differential Equations - Giovanni Bellettini - Lecture 01 - YouTube](https://www.youtube.com/watch?v=Rq1iRT2LL-8)
 - `talk` [Mathematics of Turbulent Flows: A Million Dollar Problem! by Edriss S Titi - YouTube](https://www.youtube.com/watch?v=VH4oawCiHPU)
 
-#### Lie groups, Lie algebras and their finite dimensioal representation theory
+#### Lie groups, Lie algebras and their finite dimensional representation theory
 
-#### more mechanics
+- `book` Fulton, Harris - Representation theory
 
-- Gregory L. Naber - Topology, Geometry and Gauge fields - two volumes
-- Mikio Nakahara - Geometry, topology, and physics
+#### mechanics
 
-#### Cartan's geometry
+- `book` Gregory L. Naber - Topology, Geometry and Gauge fields - two volumes
+- `book` Mikio Nakahara - Geometry, topology, and physics
+
+
+#### algebraic topology II
+
+- `book` May - Algebraic topology
+- `lecture videos` https://metaphor.ethz.ch/x/2022/fs/401-3002-12L/ https://www.bilibili.com/video/BV15g411C7g9/
+
+
+#### symplectic dynamics
+
+
+
+#### differential geometry
+
+- `book` R W Sharpe, S S Chern - Differential Geometry Cartan’s Generalization of Klein’s Erlangen Program-Springer (1997)
+
+#### algebraic varieties
+
+- `book` Harris - Algebraic geometry
+
+#### commutative, homological and categorical algebra
+
+
+Well...
+
 #### more complex analysis, Riemann surfaces, algebraic curves, hyperbolic surfaces
 
 ![[inculcation-riemann-surfaces#IV]]
 
-#### several complex variables
 
-#### Algebraic varieties
+#### spectral geometry
 
-#### commutative, homological and categorical algebra
-#### complex manifolds
+
+#### several complex variables and complex manifolds
+
+
+- `lecture notes` https://agag-jboehm.math.rptu.de/~boehm/lehre/21_CM/cm.pdf
+- `lecture notes` [Lecture Notes by Zbigniew Błocki](https://gamma.im.uj.edu.pl/~blocki/publ/ln/)
+- `lecture notes` https://www.math.stonybrook.edu/~cschnell/pdf/notes/complex-manifolds.pdf from https://www.math.stonybrook.edu/~cschnell/mat545/
+- https://www.math.stonybrook.edu/~cschnell/pdf/notes/abelian-varieties.pdf
+- `lecture notes`  https://www.jirka.org/scv/scv.pdf
+- `book` https://link.springer.com/book/10.1007/978-1-4684-9273-6
+- `lecture notes` https://enric-sf.github.io/courses/CG/CG_ln.pdf from https://enric-sf.github.io/courses/CG/complex_geometry.html
+- `book` Herbert Alexander, John Wermer - Several Complex Variables and Banach Algebras
+- `book` Joseph L Taylor - Several complex variables with connections to algebraic geometry and Lie groups
+- `book` Lars Hörmander - An Introduction to Complex Analysis in Several Variables, 3rd Edition (1990)
+- `lecture videos` https://palbin.web.illinois.edu/Math514.Fall2020/Lectures.html
 
 
 ## V
 
 
-### Riemannian geometry
+#### abstract harmonic analysis, operator theory
 
-### symplectic geometry
+- `book` Folland - Abstract harmonic analysis
 
-- [Floer homology](https://math.berkeley.edu/~gbeiner/floer_homology.html)
+![[inculcation-lie-groups#Banach algebras C -algebras]]
 
-### Algebraic geometry
+#### Riemannian geometry
 
-### abstract harmonic analysis
+- `lecture videos` [Gerhard Huisken - Ricci flow](https://www.mfo.de/about-the-institute/staff/prof-dr-gerhard-huisken/lectures/introduction-to-ricci-flow)
+- [Richard H Bamler - Recent developments in Ricci flows](https://arxiv.org/abs/2102.12615)
+- `lecture videos` [Topics in Geometry and Topology: A Second Course in Riemannian Geometry - Fields Academy Shared Graduate Course](https://www.youtube.com/playlist?list=PLArBKNfJxuunOXcRxEq1lbJ2AmwaGCo7E)
 
-### number theory
+We may also look at some Kahler geometry.
 
-### global, microlocal, infinite dimensional analysis
+- `talk video` [Harish Seshadri - Volume and diameter of positively curved Kähler manifolds - YouTube](https://www.youtube.com/watch?v=TbhT0nsp1aY)
 
-### symmetric spaces, semisimple Lie groups, their unitary representations
+#### Algebraic geometry
 
-### Gromov hyperbolic groups
+Well...
 
-### locally symmetric spaces/discrete subgroups: deformations and rigidity
+#### symmetric spaces, semisimple Lie groups, their unitary representations
+
+- [Programa de Doutorado: Lie Groups, Representation Theory and Symmetric Spaces - YouTube](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQ0i1Zf9mSeGzjZ2OMgIzfA)
+
+
+#### global, microlocal, infinite dimensional analysis
+
+- [MIT 18.157 Microlocal Analysis Spring 2021](https://www.bilibili.com/video/BV1uK4y1J7ni/)
+- [Microlocal Analysis - 2021 Fall, Peter Hintz (ETH Zürich)](https://www.bilibili.com/video/BV1nW4y1h7xc/)
+- `lecture notes` http://staff.ustc.edu.cn/~wangzuoq/Courses/20F-SMA/
+- `lecture notes` https://math.mit.edu/~rbm/18.157-F09/18.157-F09.html
+- `lecture videos` [TMS 2018 Spring: An introduction to Geometric Measure Theory](https://www.youtube.com/playlist?list=PLQZfZKhc0kiB2R3BxRidyjo643DtjxVVn)
+
+#### nilpotent Lie groups and their unitary representations
+
+#### symplectic topology
+
+- `list` [Floer homology](https://math.berkeley.edu/~gbeiner/floer_homology.html)
+- `workshop`, `talk videos` https://www.fields.utoronto.ca/activities/24-25/Hamiltonian-Geometry
+- `lecture videos` [Fukaya categories and mirror symmetry](https://www.youtube.com/playlist?list=PLj6jTBBj-5B8sDB0CHOGUBkKUjYRa95E-)
+
+#### number theory
+
+
+#### discrete subgroups of Lie groups
+
+We look at locally symmetric spaces and correspondingly discrete subgroups of semisimple Lie groups: their deformations and penomenon of rigidity. We have Mostow's strong rigidity.
+
+
+
+#### low dimensional topology and geometry
+
+
+#### more rigidity and dynamics
+
+- `book` [Amie Wilkinson - Geometry, Dynamics, and Rigidity](https://www.math.uchicago.edu/~wilkinso/papers/GDRFinalDraft6-4-2026.pdf)
+
+
+
+### VI
+
+- https://mathtube.org/
+- https://www.carmin.tv/en/
+- https://www.math.stonybrook.edu/videos/
+- https://www.birs.ca/videos/
+- https://www.youtube.com/@nctsmathdivision9695/playlists
+- https://www.youtube.com/@workshopingeometrictopolog8344/playlists
+- https://www.youtube.com/@institutfourier/playlists
+- https://www.youtube.com/@mathematicsathse1021/playlists
+- https://www.youtube.com/@nationalcentreformathemati3331/playlists
+- https://www.youtube.com/@impabr/playlists
+- https://www.youtube.com/@FieldsInstitute/playlists
+- https://www.mpim-bonn.mpg.de/search/node/video
