@@ -13,14 +13,14 @@ This list was recently (August '26) revamped!
 
 We start with groups, vector spaces and metric spaces.
 
-#### finite groups
+### finite groups
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/mH0oCDa74tE?si=Kk1xTVuDkV2Ap7Ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The miniseries [Essence of Group Theory - YouTube](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO) carries it forward.
 
 
-#### vector spaces
+### vector spaces
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?si=Cq-M0B5yEuDGeziD&amp;list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -34,23 +34,23 @@ Need help proving stuff? Try following the arrows to prove equivalent conditions
 ![](https://i.imgur.com/Jf457uG.png)
 
 
-#### metric spaces
+### metric spaces
 
-#### real analysis I
+### real analysis I
 
-#### Napkin
+### Napkin
 
 Evan Chen's [A Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf) is an introduction to a lots of fields of math! However, it is NOT a textbook but a really nice introductory reference. It starts with groups and metric spaces!
 
-#### The Prinston Companion to Mathematics
+### The Prinston Companion to Mathematics
 
 [The Princeton Companion to Mathematics](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
 
-#### history of mathematics
+### history of mathematics
 
 `lecture videos` [MathHistory: A course in the History of Mathematics](https://www.youtube.com/playlist?list=PL55C7C83781CF4316) (although be aware, the instructor doesn't believe that $\R$ exists)
 
-#### handwavy physics
+### handwavy physics
 
 We learn physics though the Action principle.
 
@@ -83,7 +83,7 @@ and
 
 We continue with algebra, analysis, topology and geometry.
 
-#### rings and modules
+### rings and modules
 
 
 Looking back on linear algebra, we can reiterate the following.
@@ -93,10 +93,10 @@ A $k$-vector space $V$ with a endomorphism $T$ (fancy name for linear map $V\to 
 I am still looking on how to understand *two* linear endomorphisms giving a $k[X,Y]$ structure on $V$. At the least, I can re-interpret the theorem that says "we always have a common eigenvector of two commuting linear maps" as the following.
 
 Let's say we have a $k[X,Y]$-module $V$ defined by two linear endomorphisms $V\to V$. Then we always have at least one *simple* non-trivial $k[X,Y]$-submodule of $V$. 
-#### representation theory of finite groups
+### representation theory of finite groups
 
 A group homomorphism from a (say, finite for now) group $G$ to the general linear group on a vector space $V$  $$ G \to {GL}(V) $$ is called a *representation of the group $G$*. One can classify and study such homomorphisms (up to an equivalence of course) and it's called representation theory (of finite groups). This "helps" in doing linear algebra when we have a invertible linear map $V\to V$, in my opinion.
-#### cute topology
+### cute topology
 
 - [Topology & Geometry by Dr Tadashi Tokieda - YouTube](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
 - Knot theory
@@ -110,22 +110,22 @@ A group homomorphism from a (say, finite for now) group $G$ to the general linea
 	- [Dirac's belt trick, Topology, and Spin ½ particles - YouTube](https://www.youtube.com/watch?v=ACZC_XEyg9U)
 	- [The derivative isn't what you think it is. - YouTube](https://www.youtube.com/watch?v=2ptFnIj71SM)
 
-#### curves and surfaces
+### curves and surfaces
 
 - `book` do Carmo - Differential geometry of curves and surfaces
 - `lecture videos` [ICTP Diploma - Differential Geometry - Claudio Arezzo - YouTube](https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz) These lectures has pre-requisites of basic linear algebra, analysis in $\mathbb{R}^{n}$, knowing total derivatives and bilinear forms with introducing yourself a little *topology* (compactness, connectedness).
 
-#### probability and information theory
+### probability and information theory
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/v68zYyaEmEA?si=jHpmEwYRdWKGO01Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-#### illustrations in mathematics
+### illustrations in mathematics
 
 - `lecture videos` [2026 - T1 - Illustration as a mathematical research technique | Tag | Carmin.tv](https://www.carmin.tv/en/collections/2026-t1-illustration-as-a-mathematical-research-technique)
 
 
-#### elementary algebraic geometry and number theory
+### elementary algebraic geometry and number theory
 
 [![281](https://m.media-amazon.com/images/I/61A4APM3UNL._SL1257_.jpg)](https://link.springer.com/book/10.1007/978-3-319-18588-0)
 
@@ -133,11 +133,11 @@ A group homomorphism from a (say, finite for now) group $G$ to the general linea
 
 Life and mathematical adventure is very nonlinear, but arguments should not be circular. We linearly construct from the ground up to have a stronger foundation for mathematics.
 
-#### logic
+### logic
 
-#### set theory
+### set theory
 
-#### real analysis II
+### real analysis II
 
 
 *Total derivative* of function $$ f:U \subseteq V\to W $$ between finite-dim real normed vector spaces at a point $p\in U$ is supposed to be a linear map $$D_{p}f:V\to W$$ that "approximates" $f$ near $p$. So if $D_{p}f$ is a rotation (as a linear map), then $$ f: U \to f(U) $$ should "look" like a rotation "near $p$".
@@ -146,15 +146,15 @@ Life and mathematical adventure is very nonlinear, but arguments should not be c
 
 - Analysis by Herbert Amann and Joachim Escher [Volume I](http://library.lol/main/D52F82501240A7F94F77CCA630B43F6E)
 
-#### complex analysis
+### complex analysis
 
-![[inculcation-riemann-surfaces#III]]
+![[inculcation-riemann-surfaces#1]]
 
-#### measure theory
+### measure theory
 
 - [cmat.edu.uy/~mordecki/courses/medida2013/book.pdf](https://www.cmat.edu.uy/~mordecki/courses/medida2013/book.pdf)
 
-#### topology
+### topology
 
 - `book` Munkres
 - http://www.math.toronto.edu/ivan/mat327/?resources
@@ -163,28 +163,28 @@ Life and mathematical adventure is very nonlinear, but arguments should not be c
 - For a quick one lecture introduction with motivation: [Lecture 1: Topology (International Winter School on Gravity and Light 2015) - YouTube](https://www.youtube.com/watch?v=7G4SqIboeig)
 - [π-Base](https://topology.pi-base.org/)
 
-#### Galois theory
+### Galois theory
 
 
 
-#### algebraic topology I
+### algebraic topology I
 
 - `book` [Hatcher's textbook](https://pi.math.cornell.edu/~hatcher/AT/AT.pdf)
 - `lecture videos` [Algebraic Topology - Pierre Albin - YouTube](https://www.youtube.com/playlist?list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b)
 
-#### topological and geometric group theory
+### topological and geometric group theory
 
 - Clara Loh - "Geometric Group Theory"
 - Pierre de la Harpe - "Topics in Geometric Group Theory"
 -  [Office Hours with a Geometric Group Theorist](http://press.princeton.edu/titles/11042.html)
 
-#### smooth manifolds
+### smooth manifolds
 
 
 - `lecture videos` [TMS 2024 Spring: Differential Forms in Algebraic Topology](https://www.youtube.com/playlist?list=PLQZfZKhc0kiA149d8nmkY7DARwyjzHfl0)
 - `lecture videos` https://www.math.iitb.ac.in/~ronnie/Fall2020/MA815.html
 
-#### dynamics
+### dynamics
 
 This is more a "dynamical systems" course, but has ODEs too
 
@@ -209,9 +209,9 @@ And move onto more dynamical systems
 
 ![[everything-in-a-dynamics-pov]]
 
-#### semi-Riemannian manifolds
+### semi-Riemannian manifolds
 
-#### geometric mechanics
+### geometric mechanics
 
 Schuller's lectures are a good place to start.
 
@@ -224,21 +224,21 @@ People have written up notes from these lectures: [THE WE-HERAEUS INTERNATIONAL 
 
 - `lecturenotes` Use measure theory to do [Classical Equilibrium Statistical Mechanics](https://warwick.ac.uk/fac/sci/maths/people/staff/stefan_adams/lecturenotestvi/cdias-adams-30.pdf)
 
-#### PDEs
+### PDEs
 
 - [Partial Differential Equations - Giovanni Bellettini - Lecture 01 - YouTube](https://www.youtube.com/watch?v=Rq1iRT2LL-8)
 - `talk` [Mathematics of Turbulent Flows: A Million Dollar Problem! by Edriss S Titi - YouTube](https://www.youtube.com/watch?v=VH4oawCiHPU)
 
-#### symplectic manifolds
+### symplectic manifolds
 
 - `lecture videos` [Fields Academy Course: Symplectic Geometry](https://www.youtube.com/playlist?list=PLArBKNfJxuukGoNZD6yBjie_zgY-x8Vn2)
 
-#### computation in mathematics
+### computation in mathematics
 
 ## IV
 
 
-#### analysis
+### analysis
 
 We start with some Functional analysis.
 
@@ -257,13 +257,14 @@ Some even more hard-core analysis.
 - `lecture videos` [【MIT数学课程】 微分分析：18.155 Differential Analysis Ⅰ Fall 2020_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12K4y1L7Z4/)
 - `lecture videos` [【MIT数学课程】 微分分析：18.156 Differential Analysis Ⅱ Spring 2021_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1fV411e77t/)
 
-#### ergodic theory
+### ergodic theory
 
 - `book` Einsiedler and Ward - Ergodic Theory
+- `lecture videos` [Ergodic Theory, Geometry and Dynamics](https://people.math.harvard.edu/~ctm/home/text/class/harvard/275/20/html/index.html)
 
 ![[inculcation-lie-groups#ergodic theory and Lie groups]]
 
-#### Lie groups, Lie algebras and their finite dimensional representation theory
+### Lie groups, Lie algebras and their finite dimensional representation theory
 
 ![[inculcation-lie-groups#introductory]]
 
@@ -271,81 +272,45 @@ Some even more hard-core analysis.
 
 ![[inculcation-lie-groups#Lie groups and Lie algebras]]
 
-#### mechanics
+### mechanics
 
 - `book` Gregory L. Naber - Topology, Geometry and Gauge fields - two volumes
 - `book` Mikio Nakahara - Geometry, topology, and physics
 
 
-#### algebraic topology II
+### algebraic topology II
 
 - `book` May - Algebraic topology
 - `lecture videos` https://metaphor.ethz.ch/x/2022/fs/401-3002-12L/ [Algebraic Topology II (Spring 2020)（部分）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1wQ4y1B7xd/)
+- `lecture videos` [Algebraic topology from a geometric perspective](https://pages.uoregon.edu/dps/GeometricAlgebraicTopology/)
+
+### symplectic dynamics
 
 
-#### symplectic dynamics
 
-
-
-#### differential geometry
+### differential geometry
 
 - `book` R W Sharpe, S S Chern - Differential Geometry Cartan’s Generalization of Klein’s Erlangen Program-Springer (1997)
 - `lecture videos` [【MIT数学课程】 黎曼几何：18.965 Geometry of Manifolds Ⅰ 2020 Fall_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV19T4y1M7W5/)
-- `lecture videos` [【MIT数学课程】 流形上的几何：18.966 Geometry of Manifolds Ⅱ 2021 Spring_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Pi4y1K7vH/)
-	- More about this course at [[course-mit18.96x-geometry]]
 
-#### algebraic varieties
+
+### algebraic varieties
 
 - `book` Harris - Algebraic geometry
 
-#### commutative, homological and categorical algebra
+
+
+### commutative, homological and categorical algebra
 
 
 Well...
 
-#### more complex analysis, Riemann surfaces, algebraic curves, hyperbolic surfaces
+### more complex analysis, Riemann surfaces, algebraic curves, hyperbolic surfaces
 
-![[inculcation-riemann-surfaces#IV]]
-
-
-#### Riemannian geometry
+![[inculcation-riemann-surfaces#2]]
 
 
-A second course in Riemannian geometry is of fashion.
-
-- `lecture videos` [Topics in Geometry and Topology: A Second Course in Riemannian Geometry - Fields Academy Shared Graduate Course](https://www.youtube.com/playlist?list=PLArBKNfJxuunOXcRxEq1lbJ2AmwaGCo7E)
-
-We can specifically look at *Ricci flows*!
-
-- `lecture videos` [Gerhard Huisken - Ricci flow](https://www.mfo.de/about-the-institute/staff/prof-dr-gerhard-huisken/lectures/introduction-to-ricci-flow)
-- `article` [Richard H Bamler - Recent developments in Ricci flows](https://arxiv.org/abs/2102.12615)
-
-The fields of spectral geometry and geometric analysis are very interesting!
-
-- `lecture videos` [Masoud Khalkhali - Spectral geometry](https://www.youtube.com/playlist?list=PLFLLJhtIPhRYZ9dRdS_xWvgPafZBdpsKs)
-- `book` Olivier Lablée - Spectral Theory in Riemannian Geometry
-- `lecture videos` [Aaron Naber - Geometric Analysis](https://www.bilibili.com/video/BV1fW41197nr/?spm_id_from=333.337.search-card.all.click)
-	- **Prerequisites:** Basics of manifolds, tensors, and differential forms. Basics of PDE theory, for instance Evans’s book Partial Differential Equations, in particular those chapters on second order elliptic and parabolic equations. Familiarity with exponential maps, injectivity radius, and geodesics would be helpful, for instance chapter one of Jost’s book Riemannian Geometry and Geometric Analysis is more than sufficient.
-	- **Reading:** The main source will be Petersen’s book on Riemannian Geometry. We will also rely on Jost’s Riemannian Geometry and Geometric Analysis, and on the book by Cheeger Degeneration of Riemannian Metrics Under Ricci Curvature Bounds. More advanced topics will use relevant papers in the field.
-	- Week 1: Introduction to Geometric Analysis
-		- Review of Manifolds and Smooth Structure
-		- Introduction to Curvature and Geodesic Coordinates
-		- Laplacians and Harmonic Coordinates
-		- Heat Kernels and Geometry
-		- Sectional Curvature and Finite Diffeomorphism Theorems
-	- Week 2: Topics in Regularity Theory
-		- Ricci Curvature, Volume Monotonicity and Rigidity Theorems
-		- Ricci Curvature and Almost Rigidity Theorems
-		- Lower Ricci Curvature and Stratification Theorems
-		- Bounded Ricci Curvature and ε-regularity Theorems
-		- Outline of Regularity Theory for Einstein Manifolds
-
-
-We may also look at some Kahler geometry.
-
-- `talk video` [Harish Seshadri - Volume and diameter of positively curved Kähler manifolds - YouTube](https://www.youtube.com/watch?v=TbhT0nsp1aY)
-
-#### several complex variables and complex manifolds
+### several complex variables and complex manifolds
 
 
 - `lecture notes` https://agag-jboehm.math.rptu.de/~boehm/lehre/21_CM/cm.pdf
@@ -381,26 +346,74 @@ We may also look at some Kahler geometry.
 		- The Mukai-Umemura Manifold
 
 
-## V
+### Riemannian geometry
 
 
-#### abstract harmonic analysis, operator theory
+A second course in Riemannian geometry is of fashion.
+
+- `lecture videos` [Topics in Geometry and Topology: A Second Course in Riemannian Geometry - Fields Academy Shared Graduate Course](https://www.youtube.com/playlist?list=PLArBKNfJxuunOXcRxEq1lbJ2AmwaGCo7E)
+
+We can specifically look at *Ricci flows*!
+
+- `lecture videos` [Gerhard Huisken - Ricci flow](https://www.mfo.de/about-the-institute/staff/prof-dr-gerhard-huisken/lectures/introduction-to-ricci-flow)
+- `article` [Richard H Bamler - Recent developments in Ricci flows](https://arxiv.org/abs/2102.12615)
+
+The fields of spectral geometry and geometric analysis are very interesting!
+
+- `lecture videos` [Masoud Khalkhali - Spectral geometry](https://www.youtube.com/playlist?list=PLFLLJhtIPhRYZ9dRdS_xWvgPafZBdpsKs)
+- `book` Olivier Lablée - Spectral Theory in Riemannian Geometry
+- `lecture videos` [Aaron Naber - Geometric Analysis](https://www.bilibili.com/video/BV1fW41197nr/?spm_id_from=333.337.search-card.all.click)
+	- **Prerequisites:** Basics of manifolds, tensors, and differential forms. Basics of PDE theory, for instance Evans’s book Partial Differential Equations, in particular those chapters on second order elliptic and parabolic equations. Familiarity with exponential maps, injectivity radius, and geodesics would be helpful, for instance chapter one of Jost’s book Riemannian Geometry and Geometric Analysis is more than sufficient.
+	- **Reading:** The main source will be Petersen’s book on Riemannian Geometry. We will also rely on Jost’s Riemannian Geometry and Geometric Analysis, and on the book by Cheeger Degeneration of Riemannian Metrics Under Ricci Curvature Bounds. More advanced topics will use relevant papers in the field.
+	- Week 1: Introduction to Geometric Analysis
+		- Review of Manifolds and Smooth Structure
+		- Introduction to Curvature and Geodesic Coordinates
+		- Laplacians and Harmonic Coordinates
+		- Heat Kernels and Geometry
+		- Sectional Curvature and Finite Diffeomorphism Theorems
+	- Week 2: Topics in Regularity Theory
+		- Ricci Curvature, Volume Monotonicity and Rigidity Theorems
+		- Ricci Curvature and Almost Rigidity Theorems
+		- Lower Ricci Curvature and Stratification Theorems
+		- Bounded Ricci Curvature and ε-regularity Theorems
+		- Outline of Regularity Theory for Einstein Manifolds
+- `lecture videos` [【MIT数学课程】 流形上的几何：18.966 Geometry of Manifolds Ⅱ 2021 Spring_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Pi4y1K7vH/)
+	- More about this course at [[course-mit18.96x-geometry]]
+- [MAT 6229: Geometric spectral theory | Institut des sciences mathématiques](https://www.ism.uqam.ca/accueil/formation-courses/equations-aux-derivees-partielles-theorie-spectrale-geometrique/?language=default)
+
+We may also look at some Kahler geometry.
+
+- `talk video` [Harish Seshadri - Volume and diameter of positively curved Kähler manifolds - YouTube](https://www.youtube.com/watch?v=TbhT0nsp1aY)
+
+### abstract harmonic analysis, operator theory
 
 - `book` Folland - Abstract harmonic analysis
 
 ![[inculcation-lie-groups#Banach algebras C -algebras]]
 
+### analytic group theory
 
-#### Algebraic geometry
+- `lecture notes` [[2402.15867v1] An Invitation to Analytic Group Theory](https://arxiv.org/abs/2402.15867v1)
+
+### Algebraic geometry
 
 Well...
 
-#### symmetric spaces, semisimple Lie groups, their unitary representations
-
-- [Programa de Doutorado: Lie Groups, Representation Theory and Symmetric Spaces - YouTube](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQ0i1Zf9mSeGzjZ2OMgIzfA)
+## V
 
 
-#### global, microlocal, infinite dimensional analysis
+### symmetric spaces, semisimple Lie groups, their unitary representations and discrete subgroups
+
+
+We look at locally symmetric spaces and correspondingly discrete subgroups of semisimple Lie groups: their deformations and phenomenon of rigidity. We have Mostow's strong rigidity.
+
+![[inculcation-lie-groups#Lie groups symmetric spaces and beyond]]
+
+
+
+![[inculcation-lie-groups#large events]]
+
+### global, microlocal, infinite dimensional analysis
 
 - `lecture videos` [MIT 18.157 Microlocal Analysis Spring 2021](https://www.bilibili.com/video/BV1uK4y1J7ni/)
 - `lecture videos` [Microlocal Analysis - 2021 Fall, Peter Hintz (ETH Zürich)](https://www.bilibili.com/video/BV1nW4y1h7xc/)
@@ -408,28 +421,25 @@ Well...
 - `lecture notes` [18.157: Introduction to Microlocal Analysis](https://math.mit.edu/~rbm/18.157-F09/18.157-F09.html)
 - `lecture videos` [TMS 2018 Spring: An introduction to Geometric Measure Theory](https://www.youtube.com/playlist?list=PLQZfZKhc0kiB2R3BxRidyjo643DtjxVVn)
 
-#### nilpotent Lie groups and their unitary representations
+### nilpotent Lie groups and their unitary representations
 
-#### number theory
+### number theory
 
 
-#### low dimensional topology and geometry
+### low dimensional topology and geometry
 
 - `lecture videos` [Introduction to Knot Theory and 3-manifold Topology - YouTube](https://www.youtube.com/playlist?list=PLQZfZKhc0kiDgNnwBlFhvsYZT_-qtXYS5)
 - `lecture videos` [MT855F20: Low-dimensional topology and the Casson invariant](https://sites.google.com/bc.edu/john-baldwin/teaching/mt855f20?authuser=0)
 
-#### discrete subgroups of Lie groups, rigidity
-
-We look at locally symmetric spaces and correspondingly discrete subgroups of semisimple Lie groups: their deformations and phenomenon of rigidity. We have Mostow's strong rigidity.
-
-![[inculcation-lie-groups#Lie groups symmetric spaces and beyond]]
+### dynamics and rigidity
 
 
 - `book` [Amie Wilkinson - Geometry, Dynamics, and Rigidity](https://www.math.uchicago.edu/~wilkinso/papers/GDRFinalDraft6-4-2026.pdf)
+- `list` [Kathryn Mann - Student reading](https://e.math.cornell.edu/people/mann/studentreading.pdf)
 
+### locally symmetric spaces of higher rank and hyperbolic manifolds in higher dimensions
 
-
-#### symplectic topology
+### symplectic topology
 
 - `list` [Floer homology](https://math.berkeley.edu/~gbeiner/floer_homology.html)
 - `workshop`, `talk videos` [Workshop on Hamiltonian Geometry and Quantization | Fields Institute for Research in Mathematical Sciences](https://www.fields.utoronto.ca/activities/24-25/Hamiltonian-Geometry)
@@ -438,9 +448,10 @@ We look at locally symmetric spaces and correspondingly discrete subgroups of se
 
 ### algebraic curves and Riemann surfaces, moduli and Teichmuller spaces
 
-![[inculcation-riemann-surfaces#V]]
+![[inculcation-riemann-surfaces#3]]
 
 ### VI
+
 
 - https://mathtube.org/
 - https://www.carmin.tv/en/

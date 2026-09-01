@@ -6,7 +6,7 @@ tags:
 title: "Inculcation: complex analysis and Riemann surfaces, that is, complex 1-manifolds, complex algebraic curves, round/flat/hyperbolic surfaces and so on"
 aliases: Riemann surfaces, that is, complex 1-manifolds, complex algebraic curves, round/flat/hyperbolic surfaces and so on
 ---
-###### III
+###### 1
 
 Complex analysis is the study of holomorphic functions on open subsets of $\mathbb{C}$.
 
@@ -44,7 +44,7 @@ We can even look at connections to random processes, fractals and so on.
 
 ---
 
-###### IV
+###### 2
 
 Riemann surfaces are connected complex 1-manifolds. Compact Riemann surfaces are same as $\mathbb {C}$-algebraic curves. We can study meromorphic functions and meromorphic forms on these spaces.
 
@@ -132,7 +132,7 @@ The space of all *marked* Riemann surfaces of genus $g$ is called Teichmuller sp
 
 - `book` Farb Margalit - Mapping class groups
 
-###### V
+###### 3
 
 We can consider the algebraic perspective to Riemann surfaces.
 
