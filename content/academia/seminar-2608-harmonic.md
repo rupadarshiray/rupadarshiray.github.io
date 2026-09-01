@@ -14,7 +14,6 @@ title: "Fall '26 seminar on abstract harmonic analysis"
 | 9 Aug  | [[seminar-2608-harmonic#Schur's lemma for unitary representations\|Schur's lemma for unitary representations]]                               | Joshua     |
 | 16 Aug | [[seminar-2608-harmonic#Borel functional calculus for the proof of Schur's lemma\|Borel functional calculus for the proof of Schur's lemma]] | Rupadarshi |
 | 23 Aug | [[seminar-2608-harmonic#Asymptotic Schur orthogonality\|Asymptotic Schur orthogonality]]                                                     | Manan      |
-
 ## Schur's lemma for unitary representations
 
 Joshua kickstarted our harmonic analysis seminar with the proof of Schur's lemma for unitary representations, following Folland's textbook.

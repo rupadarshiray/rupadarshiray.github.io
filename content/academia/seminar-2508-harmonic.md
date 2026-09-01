@@ -9,7 +9,7 @@ In Fall '25, [[Pahul-Arora|Pahul]], [[Manan-Jain|Manan]] and Rohit (PhD student 
 
 Following Deitmar and Echterhoff's textbook "Principles of Harmonic Analysis", we looked at the standard theory of Banach and $C^{*}$-algebras concluding in the proof of Gelfand-Naimer theorem which I presented.
 
-In preparation, I recorded the following video ( #yt #blackboard ). Please be aware of errors.
+I recorded the following video ( #yt #blackboard ) of a trial of the talk. Please be aware of errors.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/PpTmp2eCyps?si=A73EM8u_wMP4sEII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

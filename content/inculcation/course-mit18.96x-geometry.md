@@ -1,7 +1,7 @@
 ---
 created: 2025-06-22T11:03:56
 modified: 2025-06-22T11:03:56
-tags: []
+tags: [course]
 aliases: []
 title: MIT 18.966 Geometry of Manifolds II 
 ---

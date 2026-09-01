@@ -29,7 +29,7 @@ aliases: "Lie groups, symmetric spaces and beyond"
 	- [CMI Lie algebras - YouTube](https://www.youtube.com/watch?v=GsIus3ETuLo&list=PL2C7934A433FE9E9D&index=1)
 - [Introduction to Lie Algebras Doutorado IMPA Verao 2011 Reimundo Heluani 03/01/2011 aula 01 parte1 (youtube.com)](https://www.youtube.com/watch?v=3HKNJ__VmZk&list=PLyNXqRIyhBrepe203qLZBT4KurJadLBZq&index=2)
 
-## Lie groups and symmetric spaces
+## Lie groups, symmetric spaces and beyond
 
 - [A guide through the theory of symmetric spaces](https://metaphor.ethz.ch/x/2024/hs/401-3226-00L/Literature/lecture_notes_final.pdf)
 - [Programa de Doutorado: Lie Groups, Representation Theory and Symmetric Spaces - YouTube](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQ0i1Zf9mSeGzjZ2OMgIzfA)
@@ -38,7 +38,7 @@ aliases: "Lie groups, symmetric spaces and beyond"
 - [Homogeneous Dynamics and Geometry in Higher-Rank Lie Groups - YouTube](https://www.youtube.com/playlist?list=PLx5f8IelFRgENNBbT_A7c15Cbk1oaqEsF)
 - [Geometry, Groups and Dynamics (GGD) - 2017 | ICTS](https://www.icts.res.in/program/ggd2017)
 
-## broader topics
+----
 
 - [Harish-Chandra & Centenary Celebrations at HRI](https://www.hri.res.in/~hc100/event1.html)
 	- [Syllabus](https://www.hri.res.in/~hc100/Syllabus.pdf)

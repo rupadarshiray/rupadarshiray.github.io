@@ -58,8 +58,6 @@ span.banner img {
       margin-bottom: -170px;
       mix-blend-mode: multiply;
       -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 1)), to(rgba(0, 0, 0, 0)));
-
-
 }
 
 img[alt*="banner+small"],
@@ -82,4 +80,32 @@ span.banner-small img {
     /* #161b22 */
     border: 5px solid var(--background-secondary);
     border-radius: 10px;
+}
+
+/* ─────────────────────────────
+   Long scrollable TOC
+   ───────────────────────────── */
+
+.sidebar.right > .toc {
+  flex: 1 1 0 !important;
+  min-height: 0 !important;
+  overflow: hidden !important;
+}
+
+.sidebar.right > .toc > ul.toc-content.overflow {
+  flex: 1 1 auto;
+  min-height: 0 !important;
+  max-height: none !important;
+
+  overflow-y: auto !important;
+  overflow-x: auto;
+}
+
+.toc .toc-content li,
+.toc .toc-content li > a {
+  white-space: nowrap;
+}
+
+.nav-file-title {
+  white-space: nowrap;
 }

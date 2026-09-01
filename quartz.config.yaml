@@ -80,6 +80,11 @@ plugins:
   - source: github:quartz-community/table-of-contents
     enabled: true
     order: 50
+    options:
+      maxDepth: 6
+      minEntries: 1
+      showByDefault: true
+      collapseByDefault: false
     layout:
       position: right
       priority: 30
@@ -126,7 +131,7 @@ plugins:
       unlistWhenEncrypted: false
       outputPath: static/encryptedContentIndex.json
   - source: github:quartz-community/stacked-pages
-    enabled: true
+    enabled: false
     layout:
       position: afterBody
       priority: 50
@@ -304,8 +309,6 @@ layout:
     folder:
       exclude:
         - reader-mode
-      positions:
-        right: []
     tag:
       exclude:
         - reader-mode

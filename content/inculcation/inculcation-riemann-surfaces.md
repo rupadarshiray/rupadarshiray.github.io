@@ -12,6 +12,7 @@ Complex analysis is the study of holomorphic functions on open subsets of $\math
 
 - `book` Ahlfors - Complex analysis
 - `book` [Stein and Sakarchi - Complex analysis](https://www.fing.edu.uy/~cerminar/Complex_Analysis.pdf)
+- `lecture videos` [Christopher Bishop - MAT 536, Complex Analysis I, Spring 2024](https://www.math.stonybrook.edu/~bishop/classes/math536.S24/)
 
 After a first course on complex analysis, we can move onto functional analytic techniques. Using such tools we can prove the *Riemann mapping theorem*.
 
@@ -32,12 +33,14 @@ We can do even more functional analysis with holomorphic functions. We can ask: 
 One may study a generalization of conformal maps, called *quasiconformal homeomorphisms*. We can prove results about them similar to holomorphic maps. Using this theory, we can produce an explicit sequence of maps that converge to the Riemann mapping as in the *Riemann mapping theorem*.
 
 - `lecture notes` [Tao - 246C notes 2: Circle packings, conformal maps, and quasiconformal maps | What's new](https://terrytao.wordpress.com/2018/04/12/246c-notes-2-circle-packings-conformal-maps-and-quasiconformal-maps/)
-- `lecture notes, videos` [Christopher Bishop  - MAT 627, Topics in Complex Analysis, Spring 2025](https://www.math.stonybrook.edu/~bishop/classes/math627.S25/)
+- `lecture notes, videos` [Christopher Bishop - MAT 627, Topics in Complex Analysis: quasiconformal mappings](https://www.math.stonybrook.edu/~bishop/classes/math627.S25/)
 
-We can even look at some random processes.
+We can even look at connections to random processes, fractals and so on.
 
-- `lecture notes, videos` [McMullen - From Conformal Invariants to Percolation](https://people.math.harvard.edu/~ctm/home/text/class/harvard/219/21/html/syl.html)
+- `lecture notes, videos` [McMullen - From Conformal Invariants to Percolation](https://people.math.harvard.edu/~ctm/home/text/class/harvard/219/21/html/syl.html), [From conformal invariants to percolation - YouTube](https://www.youtube.com/playlist?list=PLNYQfyitVEfS8g-aXqykjDB30iI-iozZV)
 - `lecture notes` [246C notes 4: Brownian motion, conformal invariance, and SLE | What's new](https://terrytao.wordpress.com/2018/05/29/246c-notes-4-brownian-motion-conformal-invariance-and-sle/)
+- `lecture videos` [Christopher Bishop - MAT 627: Topics in Complex Analysis: Conformal Fractals, Spring 2022](https://www.math.stonybrook.edu/~bishop/classes/math627.S22/)
+- `lecture videos` [Christopher Bishop - MAT 639, Topics in Real Analysis: Harmonic measure](https://www.math.stonybrook.edu/~bishop/classes/math639.S26/)
 
 ---
 
@@ -61,7 +64,7 @@ And there are many more references... a hundred more books and notes available o
 
 ---
 
-Standard texts prove the monodromy theorem for analytic continuations. However that just says when two such continuations are bound to be the same. We don't have any result about *existence* of analytic continuations. Why?
+Standard texts prove the monodromy theorem for analytic continuations. However, that just says when two such continuations are bound to be the same. We don't have any result about *existence* of analytic continuations. Why?
 
 It is because they *may* behave very *weirdly*.
 
@@ -131,6 +134,11 @@ The space of all *marked* Riemann surfaces of genus $g$ is called Teichmuller sp
 
 ###### V
 
+We can consider the algebraic perspective to Riemann surfaces.
+
+- `talk` [Algebraic Curves and Belyi's theorem by Anand Deopurkar - YouTube](https://www.youtube.com/watch?v=Q95rGnbeIco&t=363s)
+- `lecture videos` [MAT 670: Topics in Complex Analysis: Dessins and Dynamics (introduction to quasiconformal folding)](https://www.math.stonybrook.edu/~bishop/classes/math670.F23/)
+
 We may define a weaker notion of isomorphism of Riemann surfaces: quasiconformal homeomorphism. The class of marked Riemann surfaces quasiconformal to a fixed Riemann surface generalise the Teichmuller space of compact Riemann surfaces. 
 
 - `book` Hubbard - Teichmuller theory volume 1
@@ -139,6 +147,7 @@ A hyperbolic surface comes with its Laplacian. We may study its spectrum and eig
 
 - `book` [Geometry and Spectra of Compact Riemann Surfaces - Google Books](https://www.google.co.in/books/edition/Geometry_and_Spectra_of_Compact_Riemann/MXL1vO5GmmsC?hl=en&gbpv=1&pg=PR3&printsec=frontcover)
 - `book` *arithmetic quantum unique ergodicity*
+- `lecture videos` [Christopher Bishop - MAT 638: Topics in Real Analysis: Weil-Petersson curves, traveling salesman theorems, and minimal surfaces, Fall 2020](https://www.math.stonybrook.edu/~bishop/classes/math638.F20/)
 
 We may study the spectral theory of modular surfaces and extract number theoretic facts.
 
@@ -147,7 +156,7 @@ We may study the spectral theory of modular surfaces and extract number theoreti
 
 We can ask questions about *moduli* of Riemann surfaces, such as its spectra as genus goes to infinity and so on.
 
-- ???
+- `article` ![](https://www.quantamagazine.org/wp-content/uploads/2025/03/MirzakhaniLegacy-crKristinaArmitage-Lede-1536x864.webp) [Years After the Early Death of a Math Genius, Her Ideas Gain New Life | Quanta Magazine](https://www.quantamagazine.org/years-after-the-early-death-of-a-math-genius-her-ideas-gain-new-life-20250303/)
 
 We can compactify the moduli space.
 
