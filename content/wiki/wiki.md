@@ -1,0 +1,222 @@
+---
+created: 2026-06-18T23:56:05
+modified: 2026-06-18T23:56:05
+tags:
+title: (My) hierarchical wiki of notes on mathematics
+---
+
+
+I am trying to publish my set of ~1300 notes as PDFs which are interlinked by their *URLs*. The following *subset* is currently online.
+
+
+  - [stem](https://rupadarshiray.github.io/notes/kcydepRaDcIa5PHYddfCqz.pdf) stem
+    - [GL](https://rupadarshiray.github.io/notes/bK1RNXplUDUBUCHBKR2uMd.pdf) $\nit{GL}(n)$
+      - [FinGen virt torfree](https://rupadarshiray.github.io/notes/WG4Vk42p3lu3gJgFSwFwik.pdf) Finitely generated linear groups over certain rings are virtually torsion-free
+      - [subg closed T](https://rupadarshiray.github.io/notes/mUUx0h06bvh0VVOiA7TGcY.pdf) $\mathsf{T},\dagger$-closed subgroups of $\nit{GL}(n)$
+        - [reductive](https://rupadarshiray.github.io/notes/BFPS8lsaoTwO7GYP8yOTYP.pdf) $\mathsf{T}$-closed Lie subalgebras are reductive
+    - [GL Cn](https://rupadarshiray.github.io/notes/4PPEv9MPzvcqZMl3ueGGLu.pdf) $\nit{GL}(n)(\C)$
+      - [subg Zariski closure](https://rupadarshiray.github.io/notes/kqNJHlvu2U26FvYfpbr7rh.pdf) Zariski closure of subgroups of $\nit{GL}(n,\C)$
+    - [GL Rn](https://rupadarshiray.github.io/notes/FBUojNY7fuJknqULDNHB7y.pdf) $\nit{GL}(n)(\R)$
+      - [ subg closed T](https://rupadarshiray.github.io/notes/HS9KRas6pqB71LWrPNcKGi.pdf) $\mathsf{T}$-closed, closed subgroups of $GL(n,\R)$
+      - [R subg](https://rupadarshiray.github.io/notes/guX3EQ13qsItH7v0ZRFTcK.pdf) Subgroups of $\nit{GL}(n,\R)$
+      - [R subg compact](https://rupadarshiray.github.io/notes/eLsySesZdSjpDTV2OyCCK6.pdf) Compact subgroups of $\nit{GL}(n)(\R)$
+      - [subg closed T exp](https://rupadarshiray.github.io/notes/D5qoYWgnhcCjD9X7stR5E4.pdf) $\mathsf{T}$-closed, $\exp$-closed closed subgroups of $\nit{GL}(n,\R)$ $\leftrightarrow$ completely geodesic submanifolds of $\nsf{Pd}(n,\R)$
+    - [Man3](https://rupadarshiray.github.io/notes/l03uZUXL2uCOx67uku9Nid.pdf) Objects stemming from $\R$-manifolds of dimension 3
+    - [O+ R1 n](https://rupadarshiray.github.io/notes/.pdf) 
+      - [subg](https://rupadarshiray.github.io/notes/mXXBaQjBJnGFLxx8hhPXtk.pdf) Subgroups of $\nit{O}^{+}(1,n)(\R)$
+        - [limit set](https://rupadarshiray.github.io/notes/3LyuqZH0PKOY6qrJdjekEo.pdf) Limit set of subgroups
+      - [subg discr](https://rupadarshiray.github.io/notes/l3Ukus0WkGEMdJJDBz3fIK.pdf) Discrete subgroups of $O^{+}(1,n)$ $\leftrightarrow$ hyperbolic $n$-manifolds/orbifolds
+        - [cocompact convex](https://rupadarshiray.github.io/notes/f1TEIpYeiHZZLMfcUKJYrj.pdf) Convex cocompact discrete subgroups
+        - [combination](https://rupadarshiray.github.io/notes/ndTqblZtkPiaVoUo30NkG5.pdf) Combination of discrete subgroups of $O^{+}(1,n)(\R)$
+        - [exp sum](https://rupadarshiray.github.io/notes/OOPxKhEnhOIBKF2HAEbNr6.pdf) Exponential sum of a discrete subgroup of $\mor{Isom}(\R \pmb{H}^n)$
+        - [Fg](https://rupadarshiray.github.io/notes/gUWJgSMW7rpl5vhpbkQM5X.pdf) $\mathrm{RepDF}(F_{g},O^{+}(1,n)(\R))$
+        - [homology measure](https://rupadarshiray.github.io/notes/xk8lc3QsOWBe6SjXhFeWF0.pdf) Measure homology on a hyperbolic manifold
+        - [limit discon](https://rupadarshiray.github.io/notes/9WQ6yhcdGiKpGDr7629iTw.pdf) Discrete subgroups with limit set a discontinuum
+        - [limit set](https://rupadarshiray.github.io/notes/wwILrDpHC8SrQeKQO1twn4.pdf) Limit sets of discrete subgroups
+          - [conical](https://rupadarshiray.github.io/notes/KT5BNjwM1frepSo8s7kwzJ.pdf) Conical limit set
+        - [limit set sphere](https://rupadarshiray.github.io/notes/Ff5pXjENMBKVN6JdocACqp.pdf) Discrete subgroups with limit set a $k-1$-sphere
+        - [orbit count](https://rupadarshiray.github.io/notes/XDHGijftJjBeqT4rhmUZBe.pdf) Counting orbits of discrete subgroups of $\nit{O}^{+}(1,n)(\R)$ in $\R \pmb{H}^n$
+        - [rigidity](https://rupadarshiray.github.io/notes/Ur1wTL1cE0z0B1gY8JMw8o.pdf) Rigidity of $\R$-hyperbolic manifolds
+          - [ergodic current](https://rupadarshiray.github.io/notes/Ws2p3gZcbowbN88ph24FUW.pdf) Using ergodic current on $\partial^{2}\R \pmb{H}^{n}$
+          - [measure homology](https://rupadarshiray.github.io/notes/TWlZoJpPwCUZJrGkrqc5hM.pdf) Rigidity using measure homology
+          - [quasiconformal](https://rupadarshiray.github.io/notes/VZV0dBsdH8h2Sh1xDwDB5R.pdf) Rigidity of lattices using quasi-conformal mappings
+        - [Schottky](https://rupadarshiray.github.io/notes/.pdf) 
+          - [cl](https://rupadarshiray.github.io/notes/DjMJJm0f6Tq0GXvSuP51Of.pdf) Classical Schottky subgroups of $O^{+}(1,n)$
+          - [gen](https://rupadarshiray.github.io/notes/hupKrHdtJCYxqgPlVBFybF.pdf) Schottky subgroups of $O^{+}(1,n)$
+        - [surface group](https://rupadarshiray.github.io/notes/Nvqxq0pE0gkbu0P5xgpOZr.pdf) $\mathrm{RepDF}(\pi_{1}(T^{2}_{g}, \bullet),O^{+}(1,n)(\R))$
+    - [Q](https://rupadarshiray.github.io/notes/muM7SOs2sPO2MExcagWg4Z.pdf) Objects stemming from spaces over $\Q$
+      - [1 elliptic](https://rupadarshiray.github.io/notes/CMnZpgSfuaiVkCe8XxkdTU.pdf) Elliptic curves over $\Q$
+      - [ext finite](https://rupadarshiray.github.io/notes/OF5GNtLhsBKj3nXEE1UQeJ.pdf) Algebraic number fields
+    - [R2](https://rupadarshiray.github.io/notes/04XAOsOzP0dn7MtamRYUS6.pdf) Objects stemming from $\R$-spaces of dimension 2
+      - [C](https://rupadarshiray.github.io/notes/mbG58njfMWTOzmqRAUnqQw.pdf) Riemann surfaces
+        - [Bun Vec](https://rupadarshiray.github.io/notes/H3taswkoMoVve2QDhC8Cn3.pdf) Vector bundles on complex 1-manifolds
+        - [classif](https://rupadarshiray.github.io/notes/Ewth89xUsXV7VXy2WAcwPU.pdf) Classification of complex 1-manifold
+        - [covering existence](https://rupadarshiray.github.io/notes/lEomSa1DKSUIsXtd03ll1o.pdf) Riemann's existence of holomorphic maps between compact Riemann surfaces
+        - [cpt divisors](https://rupadarshiray.github.io/notes/ZzSOyo7oIxdXxHtnMX7iOY.pdf) Divisors on compact Riemann surfaces
+        - [Fluid](https://rupadarshiray.github.io/notes/cgMymewrcyKQCJqcBXkJvk.pdf) Fluid
+        - [forms mero](https://rupadarshiray.github.io/notes/gaANcVqSmcrhSwsKbI4Zse.pdf) Meromorphic differentials on Riemann surfaces
+        - [Hol](https://rupadarshiray.github.io/notes/V08OXT31SnKkIBXlo16D8e.pdf) Holomorphic functions on a complex 1-manifold
+          - [global](https://rupadarshiray.github.io/notes/V7wWrZdFGQjulcaX7eqjra.pdf) Global holomorphic functions on a complex 1-manifold
+          - [global algebraic](https://rupadarshiray.github.io/notes/Aya0X2JvdAIe1UxHGoVpj5.pdf) Global algebraic functions on a complex 1-manifold
+          - [loc open](https://rupadarshiray.github.io/notes/g4KQKS4TrXZuwaPyF5V60Y.pdf) Non-constant holomorphic maps between Riemann surfaces locally looks like $w^{k}$ and are open maps
+        - [Hol 0 0 3](https://rupadarshiray.github.io/notes/mi1v4Fg66AjEJoKIlvxcxG.pdf) Holomorphic maps of type $0 \xrightarrow{3} 0$
+        - [Hol 0 0 d](https://rupadarshiray.github.io/notes/4xp5nEK0I81z1YK3E0JVi5.pdf) Rational maps 
+        - [Hol simple](https://rupadarshiray.github.io/notes/nAJMYr1OaOHGB5y6oCUaln.pdf) Hurwitz scheme
+        - [M](https://rupadarshiray.github.io/notes/cokHmFNT8zKSHXL57KCUA2.pdf) Moduli space of $\C$-manifolds
+        - [Mer](https://rupadarshiray.github.io/notes/VWLVMEjsSjishvlfDOSe3x.pdf) Meromorphic functions on a Riemann surface
+        - [normalization](https://rupadarshiray.github.io/notes/pd6q2ceWXARFXxY8q9fFTB.pdf) Normalization of plane projective $\C$-curves and Riemann surfaces
+        - [over a number field](https://rupadarshiray.github.io/notes/WebvzPT1Stl5O5lhFzLcFe.pdf) Riemann surfaces defined over a number field
+        - [over CP1 deg 2](https://rupadarshiray.github.io/notes/M8eJltBmR8qdcIcgkDKrzX.pdf) Hyperelliptic Riemann surfaces
+        - [T C](https://rupadarshiray.github.io/notes/.pdf) 
+          - [01 dual Sym 2](https://rupadarshiray.github.io/notes/bCid7TeOWCyTbgBQ7yN64x.pdf) $\nbit{Sym}^{2}(\T^{(1,0)}X) \twoheadrightarrow X$
+          - [forms](https://rupadarshiray.github.io/notes/hPXiwIkixFC2SjtLnyGlPW.pdf) Differential forms on complex 1-manifolds
+        - [w 1-form](https://rupadarshiray.github.io/notes/jCUnpbqZRSOvBA0ttwPgpx.pdf) Riemann surfaces with a holomorphic 1-form
+      - [CAn1](https://rupadarshiray.github.io/notes/fR5gUS8BpRvgvrqngEKbgO.pdf) $\C$-analytic spaces of dimension 1
+      - [Riem QC](https://rupadarshiray.github.io/notes/c2kXA2hJ1FN4cAhGU5aAGK.pdf) Riemann quasiconformal surfaces
+      - [Teich](https://rupadarshiray.github.io/notes/eQeF372jRAnwKcgYGJWfZB.pdf) Teichmuller space of surfaces
+    - [R4](https://rupadarshiray.github.io/notes/ssmISwpaPl7IEeQViB8VQD.pdf) smooth $\R$-manifolds of dimension 4 and $\C$-manifolds of dimension 2
+    - [RFHconvex](https://rupadarshiray.github.io/notes/7mEpOymo3UH07tSPETE5eW.pdf) Convex sets in $\R^{n}, \R \pmb{H}^{n} \text{ or } S^{n}$
+      - [polyhedron gluings](https://rupadarshiray.github.io/notes/CGzpYLqA8WTOPMuK8fnp2f.pdf) Polyhedron gluings
+      - [simpl cpx](https://rupadarshiray.github.io/notes/ZRFmCHkfN5gm1pnI4J5aky.pdf) $\kappa$-simplicial complex
+    - [Rs](https://rupadarshiray.github.io/notes/JHg0lSXLYrH9XkQQwC6fIT.pdf) Objects stemming from spaces over $\R$
+      - [local](https://rupadarshiray.github.io/notes/9y2ALkbiIgVMSc8foYuSCP.pdf) Local $\R$-algebras
+      - [loci](https://rupadarshiray.github.io/notes/uxByP9hgqAXjtLb9PcaLP5.pdf) Loci on $\cat{FinGen \mathcal{C}^{\infty}exRing}$
+      - [Rn sub closed with smooth](https://rupadarshiray.github.io/notes/WORWEj7awXEEMpCCeYCK7n.pdf) Closed subsets of $\R^{n}$ equipped with smooth functions
+      - [smooth sets](https://rupadarshiray.github.io/notes/DZQlmTCSsnYK457Baly1FI.pdf) Smooth sets
+    - [semisimple R](https://rupadarshiray.github.io/notes/bDpAtwCvTYi0liViMFNVyB.pdf) Objects stemming from $\R$-semi-simple/reductive Lie groups
+      - [subg discr](https://rupadarshiray.github.io/notes/.pdf) 
+        - [rigidity 1](https://rupadarshiray.github.io/notes/mgaE916BHuNcyttM0F8lNP.pdf) Rigidity of discrete subgroups of simple Lie groups of rank $\geq 2$
+    - [set](https://rupadarshiray.github.io/notes/.pdf) 
+      - [simpl](https://rupadarshiray.github.io/notes/Ga9HXUfnhqyz697I1lqTqX.pdf) Simplicial sets
+    - [SL C 2](https://rupadarshiray.github.io/notes/.pdf) 
+      - [rep](https://rupadarshiray.github.io/notes/.pdf) 
+        - [irr FinVecC](https://rupadarshiray.github.io/notes/0hj7MRH1QdVjnzMKuWlBrZ.pdf) $\cat{FinVec}_{\C}$ irreducible representations of $\mathfrak{sl}{(2,\C)}$
+          - [2 x 3 =5 + 3 + 1](https://rupadarshiray.github.io/notes/loLqqXcoiYpY2w8yfraQ59.pdf) $2 \otimes 3 = 5\oplus  3\oplus  1$ for $\cat{FinVec}_{\C}$ irreps of $\goth{sl}({2,\C})$
+          - [Sym2 of 2 = 0 + 4](https://rupadarshiray.github.io/notes/uf1K272cuLPaKLsiMaM4Ox.pdf) $\nbit{Sym}^{2}\nbit{Sym}^{2}(\C^{2}) \isom_{\nit{SL}_{\C}(2)} \nbit{Sym}^{0}(\C^{2})\oplus  \nbit{Sym}^{4}(\C^{2})$
+    - [SL C 2P](https://rupadarshiray.github.io/notes/QXs1reRTQfBHmjrLUBgCE6.pdf) Objects stemming from $\nit{PSL}(2)(\C)$
+      - [disc subg](https://rupadarshiray.github.io/notes/3NmEZKs7L1JAWBll3D2ZAu.pdf) Kleinian groups $\Gamma<_{\mathsf{d}} \nit{PSL}(2)(\C)$ $\leftrightarrow$ Hyperbolic 3-manifolds/orbifolds $\lq{\R\pmb{H}^{3}}{\Gamma}$
+        - [fin gen free](https://rupadarshiray.github.io/notes/UwDjq8iHSWzDyXbryH37mq.pdf) Finitely generated, free Kleinian groups
+        - [gen 2](https://rupadarshiray.github.io/notes/4URfAwXx9DQrOiJB0T3BA5.pdf) 2-generated Kleinian groups
+        - [gen fin](https://rupadarshiray.github.io/notes/dBpucUAyRT0sRgSOjdUQgn.pdf) Finitely generated Kleinian groups $\leftrightarrow$ topologically tame oriented hyperbolic 3-manifolds/finite degree orbifold covers of
+          - [Ahl](https://rupadarshiray.github.io/notes/4QLTmN2RAghM5kV7jPNhgA.pdf) Finiteness of finitely generated Kleinian groups
+        - [gluing polyhedra](https://rupadarshiray.github.io/notes/gyZoe5n5JtNrPPXH7PnbNL.pdf) Building hyperbolic 3-manifolds by gluing polyhedra
+        - [limit set not full](https://rupadarshiray.github.io/notes/mvNf9R5LuIHxBlY9JuagBT.pdf) Kleinian group with $\Lambda(\Gamma)\neq \partial\R \pmb{H}^{3}$
+        - [Marghulis](https://rupadarshiray.github.io/notes/TuGoBhmKa4eLDxtIeNxYjj.pdf) Thick-think decomposition of hyperbolic $3$-manifolds
+        - [Schottky](https://rupadarshiray.github.io/notes/zq3OSOFqSqJFeCTBktPFw6.pdf) Kleinian ultra-Schottky groups $\leftrightarrow$ convex cocompact hyperbolic interior of 3-handlebodies
+          - [space](https://rupadarshiray.github.io/notes/fK8dosniJAfa4GHVrva4TA.pdf) Space of Schottky groups
+      - [Rep F2](https://rupadarshiray.github.io/notes/MftbHh9CJqutcrJT5DDzAi.pdf) $\mor{Rep}(F_{2},\nit{PSL}(2)(\C))$
+    - [SL C n](https://rupadarshiray.github.io/notes/.pdf) 
+      - [subg semisimple](https://rupadarshiray.github.io/notes/tBxLDo98NbLZq1YHXDXWv8.pdf) Subgroups of $\nit{SL}(n,\C)$ that are semi-simple
+    - [SL R 2P](https://rupadarshiray.github.io/notes/.pdf) 
+      - [subg 2](https://rupadarshiray.github.io/notes/nK0aBX7qp34BE0xvjx693m.pdf) 2-generated subgroups of $\nit{PSL}(2)(\R)$
+      - [subg disc](https://rupadarshiray.github.io/notes/CF0udj6Y6bcs2bJUvtIT5m.pdf) Fuchsian groups $\Gamma<_{\mathsf{d}}\nit{PSL}(2)(\R)$ $\leftrightarrow$ oriented hyperbolic 2-manifold/orbifolds $\to$ Riemann surfaces with branching signature
+        - [arithmetic](https://rupadarshiray.github.io/notes/X96tq9Se3ZhHAueha1xOgu.pdf) Artihmetic Fuchsian groups and Artihmetic hyperbolic 2-orbifolds
+        - [cocpt](https://rupadarshiray.github.io/notes/3SLAjSVv599DubrVt1I6LH.pdf) Cocompact Fuchsian groups
+          - [heat](https://rupadarshiray.github.io/notes/n2gQRz5OV5NIj7oUYWxjsl.pdf) Heat flow of a cocompact Fuchsian group
+        - [CSA](https://rupadarshiray.github.io/notes/q6YcHRGTJB9tXUaw2UsbKq.pdf) Central simple algebra
+        - [elem](https://rupadarshiray.github.io/notes/fbw1izCyGsYDB6arxZY3MU.pdf) Elementary Fuchsian groups
+        - [finite](https://rupadarshiray.github.io/notes/TAfZ7s5Z124FdMP7YyTzll.pdf) Finitely generated Fuchsian groups $\leftrightarrow$ geometrically finite Fuchsian groups
+        - [finite coarea](https://rupadarshiray.github.io/notes/v6epzohe5Y6HCAJEeu9OPu.pdf) Fuchsian groups of finite coarea
+        - [geodesic flow](https://rupadarshiray.github.io/notes/gVjop3ebgfY1TPKsPNADW6.pdf) Geodesic flow of Fuchsian groups and hyperbolic surfaces
+        - [hyp decomposition](https://rupadarshiray.github.io/notes/wmeTpSlC3Zmbz4AXFrLoIj.pdf) Decomposition of hyperbolic surfaces
+        - [infinite](https://rupadarshiray.github.io/notes/VjzVbrIMPzze7EIK8kz0FV.pdf) Infinitely generated Fuchsian groups
+        - [limit](https://rupadarshiray.github.io/notes/GVdFTWWUquxrjhSwAutlaG.pdf) Limit set of Fuchsian groups
+        - [marked](https://rupadarshiray.github.io/notes/pzzRRMItIJP5qRjEDp5cE2.pdf) Marked hyperbolic surfaces
+        - [over Q-bar](https://rupadarshiray.github.io/notes/g7owSvPZ5HN3V2BEG8u0NV.pdf) subst.R PSL 2 discrete subg.over Q-bar
+        - [Schottky](https://rupadarshiray.github.io/notes/9pp9UlQMezqnfzPoFa1GUa.pdf) Fuchsian Schottky groups
+        - [spectrum](https://rupadarshiray.github.io/notes/OUoHbfqcqnTZ4s0jBahqrl.pdf) Spectrum of hyperbolic surfaces
+        - [tfree](https://rupadarshiray.github.io/notes/mwCQByM57iGSu1mJSfnNHf.pdf) Torsion-free Fuchsian groups
+        - [tfree cocpt](https://rupadarshiray.github.io/notes/05YF4b8cvZ2AlEfFBUaedX.pdf) Cocompact torsion-free Fuchsian groups
+        - [triangle](https://rupadarshiray.github.io/notes/cH7FAaOH3k99fybtjp7gZD.pdf) Fuchsian triangle groups
+  - [squishy](https://rupadarshiray.github.io/notes/vxj1WL14NteoeSRzg55KjB.pdf) squishy
+    - [1+X2 and 2XY by factor of 1-X2 C](https://rupadarshiray.github.io/notes/ikysXnmRYqxXxcRaJTtDGt.pdf) $(X,Y) \mapsto \left( \frac{1+X^{2}}{1-X^{2}}, \frac{2XY}{(1-X^{2})^{3}}  \right)$
+    - [Bolza](https://rupadarshiray.github.io/notes/Djsu2cR76jP5awihqXCc9o.pdf) Bolza curve
+      - [int](https://rupadarshiray.github.io/notes/SwdGABmEi4aOKl54rncROk.pdf) Hyperelliptic integrals and holomorphic forms on $S(Y^{2}-X^{5}+X)$
+    - [C 2](https://rupadarshiray.github.io/notes/aFCTf64g8bHg3quJMFBAeE.pdf) $$\cat{Mat}_{_{\C}}(2)$$
+      - [exp](https://rupadarshiray.github.io/notes/kcf10AOrT4CQCEGoiNBmjp.pdf) Exponential on $\cat{Mat}_{\C}(2)$
+    - [C annulus](https://rupadarshiray.github.io/notes/Hek6u8jxinAG0VtyJ6yoov.pdf) $A_{r}$
+    - [C minus 2](https://rupadarshiray.github.io/notes/RpHbDBw6mgaGacu3WuaU92.pdf) $\C\setminus \{ 0,1 \}$
+      - [Hol coh](https://rupadarshiray.github.io/notes/UFT7UAOF5YfmsZMRSwaYOd.pdf) Cohomology of holomorphic forms on $\C\setminus\{0,1\}$
+    - [C1 Hol w2-1 2](https://rupadarshiray.github.io/notes/oHftoFYADfHapiW4qBNZhn.pdf) $(w^{2}-1)^{2}$
+    - [CP1 Aut](https://rupadarshiray.github.io/notes/E0hqbF2zVq1oUZHORhWaT5.pdf) $\nit{PSL}(2)(\C) \curvearrowright \C P ^{1}\isom_{\cat{Man}} S^{2}$
+    - [GL](https://rupadarshiray.github.io/notes/PWEdNFkdZ821AEEtgFmys3.pdf) $\nit{GL}$
+      - [C n](https://rupadarshiray.github.io/notes/.pdf) 
+        - [connected](https://rupadarshiray.github.io/notes/0fR5XMOwXxkTI2blTKg4sB.pdf) $\nit{GL}(n,\C)$ is path-connected
+        - [exp surjective](https://rupadarshiray.github.io/notes/OaIOsCTi75P7039ZALjpqG.pdf) surjectivity of exponential map onto $\nit{GL}(n,\C)$
+      - [R 2](https://rupadarshiray.github.io/notes/.pdf) 
+        - [mod GL Z 2](https://rupadarshiray.github.io/notes/IaBS1KWAp6lAqkPNVMELpc.pdf) $\rq{\nit{GL}(2)(\R)}{\nit{GL}(2)(\Z)}$
+    - [H](https://rupadarshiray.github.io/notes/UmvzozyuVd7puYqhb6u81h.pdf) Heisenberg group
+      - [C 3](https://rupadarshiray.github.io/notes/41MGMYq9XE4qq642NjpBp1.pdf) $\nit{H}(3,\C)$
+      - [R 3](https://rupadarshiray.github.io/notes/60YobzVMSkz3f0ZRONqg6y.pdf) $\nit{H}(3,\R)= \nit{N}(3,\R)$
+        - [mod Z](https://rupadarshiray.github.io/notes/cTeSqj1kRZ9K2TnaWf06FW.pdf) $\nit{H}(3,\R) / \Z$
+    - [hyperbolic 2 poly mod side but incompl](https://rupadarshiray.github.io/notes/qFhISw4KsrGO1lx1NpXLpk.pdf) Incomplete hyperbolic polygon mod side-pairing
+    - [hyperbolic R 2](https://rupadarshiray.github.io/notes/DECilUtVwHLKEWWRcavtjEY.pdf) $\R \pmb{H}^{2}$
+      - [polyg](https://rupadarshiray.github.io/notes/bWL9iFZNJfjoelfaFPv2sP.pdf) Polygons in hyperbolic plane
+        - [3](https://rupadarshiray.github.io/notes/QvEk21x08y37Z0WA8RMyAO.pdf) Triangles in hyperbolic plane
+        - [6](https://rupadarshiray.github.io/notes/aTWfGFnXCIbXozWlnU5Cuj.pdf) Hexagons in hyperbolic plane
+      - [side pair](https://rupadarshiray.github.io/notes/PatDqRTjElotL8iBsP4niD.pdf) Side pairings
+    - [hyperbolic R n](https://rupadarshiray.github.io/notes/Jkb0jQYvO9J65QK2tMcrRG.pdf) $\R \pmb{H}^{n}$
+      - [ball](https://rupadarshiray.github.io/notes/f0tCbqeg0im5cjIhEopnOo.pdf) Hyperbolic ball model
+      - [conic nb](https://rupadarshiray.github.io/notes/NHHmqp1NWMBOOIRksLvp5c.pdf) Conic neighborhood
+      - [hyperboloid](https://rupadarshiray.github.io/notes/Y8IeM7CD9EvWRAek4b4W2y.pdf) Hyperboloid model of $\R\pmb{H}^{n}$
+      - [hyperboloid to ball](https://rupadarshiray.github.io/notes/vWW4Sh5DstbTTIMoHCdIVD.pdf) Hyperboloid model to ball model of $\R \pmb{H}^n$
+      - [isometries types](https://rupadarshiray.github.io/notes/0QrdI6pR5nHWpwRPWaSsiV.pdf) Types of isometries of $\R$-hyperbolic space
+    - [Mobius n-sphere](https://rupadarshiray.github.io/notes/QlrgoAoPwkQh72D9zAMpW4.pdf) Mobius endomorphisms
+    - [N](https://rupadarshiray.github.io/notes/.pdf) 
+      - [R n](https://rupadarshiray.github.io/notes/UEhjzpGlc5J03Q8TaA3AWp.pdf) $\nit{N}(n,\R)$
+    - [O](https://rupadarshiray.github.io/notes/.pdf) 
+      - [1 n R](https://rupadarshiray.github.io/notes/gJW7Vm6pm8mhjyWKZFBaec.pdf) $\nit{O}(n,1)(\R)$
+      - [1 n R+](https://rupadarshiray.github.io/notes/eq1vWBEKPRO5hMpTp431A2.pdf) $O^{+}(1,n)(\R)$
+    - [O+ 1 n subg discr geom finite w inf sides elem](https://rupadarshiray.github.io/notes/9EIXyGig30fSDEdnOl6TQv.pdf) Elementary group with finite and infinite sided Dirichlet polyhedra
+    - [Pd](https://rupadarshiray.github.io/notes/.pdf) 
+      - [2](https://rupadarshiray.github.io/notes/Czvn5Wlkj8jwBSdaMYNvAk.pdf) $\nsf{Pd}(2,\R)$
+      - [n](https://rupadarshiray.github.io/notes/IiEk8qD3GS7d1Cj5LtmiLe.pdf) $\nsf{Pd}(n,\R)$
+        - [action GL n R](https://rupadarshiray.github.io/notes/pngDfUeIHn5PGVV3UC3Ora.pdf) $\nit{GL}(n,\R) \curvearrowright \nsf{Pd}(n,\R)$
+        - [Busemann](https://rupadarshiray.github.io/notes/mB8PS3cusuCegi6xUsLKSy.pdf) Horospherical decomposition of $\nsf{Pd}(n,\R)$
+      - [S 2](https://rupadarshiray.github.io/notes/653gTukKhOIsZfSrW8WcAT.pdf) $\nsf{SPd}(2,\R)$
+    - [RxS1 not symplec to R2 minus 1](https://rupadarshiray.github.io/notes/TJ1dv9nczC9CfyEUmdOLTj.pdf) $\T^{*}S^{1} \not\isom_{\cat{Sym}} (\R^{2} \setminus \left\{ 0 \right\}, \dd{x}\wedge \dd{y})$
+    - [S2T 2 sym Cquadratic](https://rupadarshiray.github.io/notes/kQmErfQy4naGFIJh5gloAz.pdf) $Z(z_{1}^{3}+z_{2}^{3}+z_{3}^{3}-1)\isom_{\cat{Sym}} \T^{*}S^{2}$
+    - [SL](https://rupadarshiray.github.io/notes/icsn9sY9iDXzlVEJauSa3Q.pdf) $\nit{SL}$
+      - [2](https://rupadarshiray.github.io/notes/Tf0bH91YPWV3Xd1spTC8b0.pdf) SL(2)
+      - [C 2](https://rupadarshiray.github.io/notes/86m3iZ0tJgv8JvexRdZM3N.pdf) $\nit{SL}(2)(\C)$
+        - [Lie](https://rupadarshiray.github.io/notes/kjRKPAZsK0yLvpETcFfyWZ.pdf) $\goth{sl}(2, \C)$
+        - [PSL](https://rupadarshiray.github.io/notes/YWAFsF7YhIYYCsjEAZGmLW.pdf) $\nit{PSL}(2)(\C)$
+        - [rep](https://rupadarshiray.github.io/notes/.pdf) 
+          - [rat](https://rupadarshiray.github.io/notes/ShB08H5Po859e12lvCAAId.pdf) $\nit{SL}_{\C}(2) \curvearrowright \C(x,y)$
+      - [C 2P](https://rupadarshiray.github.io/notes/D8SVgOQpSZur0tETaiGJ5b.pdf) $\nit{PSL}(n,\C)$
+      - [R 2](https://rupadarshiray.github.io/notes/qfDsD5ppIjNYLFCGzDtdfE.pdf) $\nit{SL}(2)(\R)$
+      - [R 2 mod SL Z 2](https://rupadarshiray.github.io/notes/UfCW9wxjys2TliaobJvgUH.pdf) $\rq{\nit{SL}(2)(\R)}{\nit{SL}(2)(\Z)}$
+      - [R 2P sub Hecke](https://rupadarshiray.github.io/notes/st4snUwsDVWFhFPNW0pVMd.pdf) $H_q$
+      - [R 2P sub PSL ker mod 2](https://rupadarshiray.github.io/notes/XickQ6jX9zTE1s6oOxbcqT.pdf) $\nit{PSL}(2)(\Z)[2]$
+      - [R 2P sub PSL ker mod 2-comm](https://rupadarshiray.github.io/notes/VKfZ3ByWUuVs3W3ZGuJKRN.pdf) $[\nit{PSL}(2)(\Z)[2],\nit{PSL}(2)(\Z)[2]]$
+      - [R 2P sub PSL ker mod N](https://rupadarshiray.github.io/notes/JEpNlOEDtXfu0bKONnu5eS.pdf) $\Gamma(N)$
+      - [R 3](https://rupadarshiray.github.io/notes/W6VAZwBBE45Wd6QjJUqc9x.pdf) $\nit{SL}(3,\R)$
+      - [Z 2](https://rupadarshiray.github.io/notes/FXlOupR82VWhgODDurMd3H.pdf) $\nit{SL}(2)(\Z)$
+      - [Z 2 sub Sanov](https://rupadarshiray.github.io/notes/IZhWzj42KRBjKJEjs7MPG7.pdf) $\bigg\langle \begin{bmatrix} 1 & 2 \\ 0 & 1 \end{bmatrix}, \begin{bmatrix}  1 & 0 \\ 2 & 1 \end{bmatrix} \bigg\rangle < \nit{SL}(2)(\Z)$
+      - [Z 2P](https://rupadarshiray.github.io/notes/7lxpxjLPC8iIqkhMrsW4Qf.pdf) $\nit{PSL}(2)(\Z)$
+      - [Z 2P sub cong](https://rupadarshiray.github.io/notes/t9GzFdoXBpFuH7e5jpE1U8.pdf) Congruent subgroups of $\nit{PSL}(2)(\Z)$
+      - [Z n](https://rupadarshiray.github.io/notes/JadKwxVrGUO5PMixmK924H.pdf) $\nit{SL}(n,\Z)$
+      - [Z2 2](https://rupadarshiray.github.io/notes/a1KS1MD2i9W1PomgkDUy8L.pdf) $\nit{SL}(2)(\Z_{2})$
+    - [SL2 semi N3 C](https://rupadarshiray.github.io/notes/.pdf) 
+      - [Lie](https://rupadarshiray.github.io/notes/kYThKJLyWnyw3xhwsTy0nM.pdf) $\goth{sl}(2,\C) \ltimes \goth{n}(3,\C)$
+    - [SO](https://rupadarshiray.github.io/notes/TdXuCs52GT6cGACWJbkrte.pdf) $\nit{SO}$
+      - [1 1 -sqrt2 Zsqrt 2](https://rupadarshiray.github.io/notes/qcZMiFB46NAGxjzE8Xfh7J.pdf) $\nit{SO}(x^{2}+y^{2}-\sqrt{ 2z^{2} }) (\Z[\sqrt{ 2 }])$
+      - [R 2](https://rupadarshiray.github.io/notes/v5M2xxgYvmFZYlMjAjewBI.pdf) $\nit{SO}(2)(\R)$
+        - [Lie](https://rupadarshiray.github.io/notes/J6UlnfE7SXeTZpBCCRaxFO.pdf) $\goth{so}(2,\R)$
+      - [R 2 2](https://rupadarshiray.github.io/notes/0iIpk3FF9UcoEeGvNWhZdL.pdf) $\nit{SO}^{+}(2,2)(\R)$
+      - [R 3](https://rupadarshiray.github.io/notes/l08IrEAc9kebqUP43Ftt0w.pdf) $\nit{SO}(3,\R)$
+        - [Lie-Poisson](https://rupadarshiray.github.io/notes/scc5cVoR2wze58JPk7AqLX.pdf) $\goth{so}(3, \R)$-Poisson structure on $\R^{3}$
+      - [R 4](https://rupadarshiray.github.io/notes/vN2HeQys9wEbsVU2cgzfQT.pdf) $\nit{SO}(4,\R)$
+    - [Sp](https://rupadarshiray.github.io/notes/.pdf) 
+      - [R 2n](https://rupadarshiray.github.io/notes/BjbR3z9vgG8Rx5CEjTorRi.pdf) $\nit{Sp}(2n,\R)$
+      - [U n](https://rupadarshiray.github.io/notes/04aNvQkK3CpTL5OquM4lHR.pdf) $\nit{USp}(n,\C)$
+    - [SU](https://rupadarshiray.github.io/notes/.pdf) 
+      - [C 2](https://rupadarshiray.github.io/notes/9f9uO5fvjdQnaAST1xKOBG.pdf) $\nit{SU}_{\C}(2)$
+      - [C n](https://rupadarshiray.github.io/notes/aHTkfhJrFzEQ6EleYbdUHu.pdf) $\nit{SU}(n,\C)$
+    - [SW dodecahedral](https://rupadarshiray.github.io/notes/fKAt3gWyJvgQTqaQOXOql8.pdf) Seifert–Weber dodecahedral 3-manifold
+    - [Sym](https://rupadarshiray.github.io/notes/.pdf) 
+      - [R 2](https://rupadarshiray.github.io/notes/JX59fCoBnOATN7qNfm7gUl.pdf) $\nsf{Sym}(2,\R)$
+    - [U](https://rupadarshiray.github.io/notes/DyXSKYGkTAP6m3Ky6wpCqX.pdf) $\nit{U}(n,\C)$
+    - [UT](https://rupadarshiray.github.io/notes/.pdf) 
+      - [2 R](https://rupadarshiray.github.io/notes/THG2zJKJmnMk14rdf3rCWD.pdf) Upper triangular 2x2 $\R$-matrices
+

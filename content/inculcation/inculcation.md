@@ -457,6 +457,7 @@ We look at locally symmetric spaces and correspondingly discrete subgroups of se
 - https://www.carmin.tv/en/
 - https://www.math.stonybrook.edu/videos/
 - https://www.birs.ca/videos/
+- https://video-archive.fields.utoronto.ca/
 - https://www.youtube.com/@nctsmathdivision9695/playlists
 - https://www.youtube.com/@workshopingeometrictopolog8344/playlists
 - https://www.youtube.com/@institutfourier/playlists

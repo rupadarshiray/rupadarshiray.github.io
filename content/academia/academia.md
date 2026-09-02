@@ -9,7 +9,7 @@ title: '(My) academia'
 - [[tags/blackboard|My blackboards]]
 - [[my-masters-at-iiserm|My Masters at IISER Mohali]]
 	- [[my-ms-thesis|My MS thesis]]
-- [[my-wiki|My Wiki of notes on mathematics]]
+- [[wiki|My Wiki of notes on mathematics]]
 
 The events that I have coorganized are the following.
 
