@@ -109,3 +109,21 @@ span.banner-small img {
 .nav-file-title {
   white-space: nowrap;
 }
+
+/* Obsidian-style indentation guides for nested lists */
+.page article li > ul,
+.page article li > ol {
+  position: relative;
+}
+
+.page article li > ul::before,
+.page article li > ol::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -1em;
+  width: 1px;
+  background-color: var(--background-secondary);
+  pointer-events: none;
+}
