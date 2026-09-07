@@ -246,7 +246,7 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
             - [Comparison of constructions with tangent vectors](https://rupadarshiray.github.io/notes/zSlCNJahwinx4MvjUUbiBG.pdf)
             - [Tangent frames on smooth manifolds](https://rupadarshiray.github.io/notes/ts288FU6BO1krYUIaYRvYg.pdf)
             - [Tangent vector fields on a smooth manifold](https://rupadarshiray.github.io/notes/u2QfU0bf6Bm1lfd6IpBvlF.pdf)
-              - [Vector field on smooth manifold $M$ as derivation of $\mathcal{C}^{\infty}(M)$ ](https://rupadarshiray.github.io/notes/ofITS5nUWMLnGlLxOH7t33.pdf)
+              - [Vector field on smooth manifold $M$ as derivation of $\mathcal{C}^{\infty}(M)$](https://rupadarshiray.github.io/notes/ofITS5nUWMLnGlLxOH7t33.pdf)
               - [Exponential of vector fields](https://rupadarshiray.github.io/notes/zRFdLpPRL10c5mGtCSM5ns.pdf)
               - [Index of a vector field](https://rupadarshiray.github.io/notes/HKYKh0QEckz7SfVsB8IHUv.pdf)
               - [Lie bracket of two smooth vector fields on manifold](https://rupadarshiray.github.io/notes/3Pu9vhf3xm552w0gq2dEYZ.pdf)
@@ -370,17 +370,17 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
       - [$\mathsf{Meas}$](https://rupadarshiray.github.io/notes/aJXLr9hH9SVwgdqItXVQPP.pdf)
       - [Functions on measure spaces](https://rupadarshiray.github.io/notes/o42lOj24Y2wv9nPDgUfHxJ.pdf)
         - [Stochastic processes on a probability space](https://rupadarshiray.github.io/notes/1lxb1aNksP8OLMSz8qBfKi.pdf)
-        - [Random $V$-variables on a probability space ](https://rupadarshiray.github.io/notes/pOYdq1GXiFCI8ijZCbgQWO.pdf)
+        - [Random $V$-variables on a probability space](https://rupadarshiray.github.io/notes/pOYdq1GXiFCI8ijZCbgQWO.pdf)
       - [$\mathbb{C}$-measures](https://rupadarshiray.github.io/notes/08Zr0jKfLgOM9SOCvXX1TI.pdf)
-      - [[sett.measure.meas positive|$[0,\infty]$-measure spaces]]
+      - [$[0,\infty]$-measure spaces](https://rupadarshiray.github.io/notes/jQjCCiZbsiXk65mdBlcHgz.pdf)
         - [Measurable action of a topological group on a positive measure space](https://rupadarshiray.github.io/notes/JOhiOaUOaGKF3XUFs73eUT.pdf)
         - [Integral inequalities](https://rupadarshiray.github.io/notes/fHOOSzlXBezNh6X1LHBZPf.pdf)
-        - [[sett.measure.meas positive.integration|Integration of measurable functions with respect to a $[0, \infty]$-measure]]
+        - [Integration of measurable functions with respect to a $[0, \infty]$-measure](https://rupadarshiray.github.io/notes/7Zbq13dRqez5hSRPGxElsU.pdf)
         - [Monotonic subsets in a measure space](https://rupadarshiray.github.io/notes/W377DaB7KyFyuMMRIQreCJ.pdf)
       - [Measure preserving endomorphisms](https://rupadarshiray.github.io/notes/mzXtWSJ5rqfDiwclV0nr2G.pdf)
         - [Interpretation of measure preserving endomorphisms](https://rupadarshiray.github.io/notes/8T4zeB3wlU9dbqAgwJAjLU.pdf)
         - [Recurrence in iterations of a measure preserving endomorphism](https://rupadarshiray.github.io/notes/9IGeDCdytSH2QKl6iYtBBp.pdf)
-      - [[sett.measure.meas positive finite|$[0,1]$-measure spaces]]
+      - [$[0,1]$-measure spaces](https://rupadarshiray.github.io/notes/hqJX1B1vLgMxaDaelClu3M.pdf)
   - [squishy](https://rupadarshiray.github.io/notes/vxj1WL14NteoeSRzg55KjB.pdf)
     - [$\mathit{SL}(2)(\mathbb{R}) \curvearrowright \mathbb{R}^{2}$](https://rupadarshiray.github.io/notes/tkLwfwzDSImOScczT2cT02.pdf)
     - [$\mathit{SL}(2)(\mathbb{R}) \curvearrowright H^{2}_{\mathrm{U}}$](https://rupadarshiray.github.io/notes/VmFXP4UkE51xHvbI18MuN5.pdf)
@@ -389,7 +389,7 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
       - [Exponential on $\mathsf{Mat}_{\mathbb{C}}(2)$](https://rupadarshiray.github.io/notes/kcf10AOrT4CQCEGoiNBmjp.pdf)
     - [$A_{r}$, $\lq{\mathbb{R} \pmb{H}^{2}_{\mathsf{U}}}{\left\langle z \mapsto \lambda z \right\rangle}$](https://rupadarshiray.github.io/notes/Hek6u8jxinAG0VtyJ6yoov.pdf)
     - [$\mathbb{C} \setminus \{ 0 \}$, $\lq{\mathbb{R} \pmb{H}^{2}_{\mathsf{U}}}{\left\langle z \mapsto z+1 \right\rangle}$](https://rupadarshiray.github.io/notes/pUPT6nEGx9yI5rEmjtlKv5.pdf)
-    - [[squishy.C minus 2|$\mathbb{C}\setminus \{ 0,1 \}$, $\lq{\mathbb{R} \pmb{H}^{2}_{\mathsf{U}}}{\mathit{PSL}(2)(\mathbb{Z})[2]}$]]
+    - [$\mathbb{C}\setminus \{ 0,1 \}$, $\lq{\mathbb{R} \pmb{H}^{2}_{\mathsf{U}}}{\mathit{PSL}(2)(\mathbb{Z})[2]}$](https://rupadarshiray.github.io/notes/RpHbDBw6mgaGacu3WuaU92.pdf)
       - [Cohomology of holomorphic forms on $\mathbb{C}\setminus\{0,1\}$](https://rupadarshiray.github.io/notes/UFT7UAOF5YfmsZMRSwaYOd.pdf)
     - [$\mathbb{R} \ltimes_{\theta} \mathbb{C}^{2}$](https://rupadarshiray.github.io/notes/h7A3bTY7A1oldRi1C5vtV3.pdf)
     - [$\mathbfit{Cl}(\mathbb{R}^{n},\ip{\ , \ }_{0,n})$](https://rupadarshiray.github.io/notes/l9aufpfF29Wy70lrufiSH6.pdf)
@@ -457,7 +457,7 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
       - [Pythagorean triples](https://rupadarshiray.github.io/notes/AfxwfIZZOigkVK7Oz3HXAi.pdf)
       - [Bolza curve](https://rupadarshiray.github.io/notes/Djsu2cR76jP5awihqXCc9o.pdf)
         - [Hyperelliptic integrals and holomorphic forms on $S(Y^{2}-X^{5}+X)$](https://rupadarshiray.github.io/notes/SwdGABmEi4aOKl54rncROk.pdf)
-      - [[squishy.poly.C irred polynomials|Irreducible polynomials in $\mathbb{C}[x,y]$]]
+      - [Irreducible polynomials in $\mathbb{C}[x,y]$](https://rupadarshiray.github.io/notes/RwxzWMb2ewUZB78mC0AJAV.pdf)
       - [Polynomial maps $\mathbb{C}^{n}\to\mathbb{C}^{n}$ of degree at most $d$](https://rupadarshiray.github.io/notes/3zzKydcaRzhBo1UNt80yI7.pdf)
       - [Chebyshev polynomials of the first kind](https://rupadarshiray.github.io/notes/KNEUtF3aXQJQnQURe47UW7.pdf)
       - [Logistic map](https://rupadarshiray.github.io/notes/1LGf002oyKPrjJqF9OJw9b.pdf)
@@ -512,9 +512,9 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
       - [$\mathit{SL}(2)(\mathbb{R})$](https://rupadarshiray.github.io/notes/qfDsD5ppIjNYLFCGzDtdfE.pdf)
       - [$\rq{\mathit{SL}(2)(\mathbb{R})}{\mathit{SL}(2)(\mathbb{Z})}$](https://rupadarshiray.github.io/notes/UfCW9wxjys2TliaobJvgUH.pdf)
       - [$H_q$](https://rupadarshiray.github.io/notes/st4snUwsDVWFhFPNW0pVMd.pdf)
-      - [[squishy.SL.R 2P sub PSL ker mod 2|$\mathit{PSL}(2)(\mathbb{Z})[2]$]]
-      - [[squishy.SL.R 2P sub PSL ker mod 2-comm|$[\mathit{PSL}(2)(\mathbb{Z})[2],\mathit{PSL}(2)(\mathbb{Z})[2]]$]]
-      - [[squishy.SL.R 2P sub PSL ker mod N|$\mathit{PSL}(2)(\mathbb{Z})[N]$]]
+      - [$\mathit{PSL}(2)(\mathbb{Z})[2]$](https://rupadarshiray.github.io/notes/XickQ6jX9zTE1s6oOxbcqT.pdf)
+      - [$[\mathit{PSL}(2)(\mathbb{Z})[2],\mathit{PSL}(2)(\mathbb{Z})[2](https://rupadarshiray.github.io/notes/VKfZ3ByWUuVs3W3ZGuJKRN.pdf)$]]
+      - [$\mathit{PSL}(2)(\mathbb{Z})[N]$](https://rupadarshiray.github.io/notes/JEpNlOEDtXfu0bKONnu5eS.pdf)
       - [$\mathit{SL}(3,\mathbb{R})$](https://rupadarshiray.github.io/notes/W6VAZwBBE45Wd6QjJUqc9x.pdf)
       - [$\mathit{SL}(2)(\mathbb{Z})$](https://rupadarshiray.github.io/notes/FXlOupR82VWhgODDurMd3H.pdf)
       - [$\mathit{PSL}(2)(\mathbb{Z})$](https://rupadarshiray.github.io/notes/7lxpxjLPC8iIqkhMrsW4Qf.pdf)
@@ -524,7 +524,7 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
     - [[squishy.SL2 semi N3 C|SL2 semi N3 C]]
       - [$\mathfrak{sl}(2,\mathbb{C}) \ltimes \mathfrak{n}(3,\mathbb{C})$](https://rupadarshiray.github.io/notes/kYThKJLyWnyw3xhwsTy0nM.pdf)
     - [$\mathit{SO}$](https://rupadarshiray.github.io/notes/TdXuCs52GT6cGACWJbkrte.pdf)
-      - [[squishy.SO.1 1 -sqrt2 Zsqrt 2|$\mathit{SO}(x^{2}+y^{2}-\sqrt{ 2z^{2} }) (\mathbb{Z}[\sqrt{ 2 }])$]]
+      - [$\mathit{SO}(x^{2}+y^{2}-\sqrt{ 2z^{2} }) (\mathbb{Z}[\sqrt{ 2 }])$](https://rupadarshiray.github.io/notes/qcZMiFB46NAGxjzE8Xfh7J.pdf)
       - [$\mathit{SO}(2)(\mathbb{R})$](https://rupadarshiray.github.io/notes/v5M2xxgYvmFZYlMjAjewBI.pdf)
         - [$\mathfrak{so}(2,\mathbb{R})$](https://rupadarshiray.github.io/notes/J6UlnfE7SXeTZpBCCRaxFO.pdf)
       - [$\mathit{SO}^{+}(2,2)(\mathbb{R})$](https://rupadarshiray.github.io/notes/0iIpk3FF9UcoEeGvNWhZdL.pdf)
@@ -562,14 +562,14 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
         - [From the symmetries of a $n$-gon](https://rupadarshiray.github.io/notes/jVE5wLREVSBFpsr1USaQuo.pdf)
     - [Free groups](https://rupadarshiray.github.io/notes/ZvSkYzXJFCLxGG5eNOcVbQ.pdf)
       - [$F_{2}$](https://rupadarshiray.github.io/notes/nOeIv5qa4SNqEqsQ3RNUKD.pdf)
-        - [[stretchy.F.2.comm|$[F_{2},F_{2}]$]]
+        - [$[F_{2},F_{2}]$](https://rupadarshiray.github.io/notes/qLi8ZaZP1wucir3LhVuKxS.pdf)
       - [Normal form of elements of a free group](https://rupadarshiray.github.io/notes/qGKbi3CXFbIbjfRFKAVVeR.pdf)
     - [$\mathit{GL}(2)(\mathbb{Z}) \curvearrowright T^{2}$](https://rupadarshiray.github.io/notes/4KjHsCfmPjCG8IKUYYG937.pdf)
       - [Arnold cat map $\begin{bmatrix} 2 & 1\\ 1 & 1 \end{bmatrix} \curvearrowright T^{2}$](https://rupadarshiray.github.io/notes/m29pI7sGr86d7qwKVoZkNg.pdf)
       - [$\mathit{SL}(2)(\mathbb{Z}) \curvearrowright T^{2}$](https://rupadarshiray.github.io/notes/tMS1BouofyV9KuYMa93gKq.pdf)
       - [Suspension flows of $\mathit{SL}(2)(\mathbb{Z}) \curvearrowright T^{2}$](https://rupadarshiray.github.io/notes/VGSCNIjuoxpQJVAWLrpoWA.pdf)
     - [$H^{3}_{2}$](https://rupadarshiray.github.io/notes/KhWZtuQjzPQNsgPd1knCPr.pdf)
-    - [[stretchy.interval closed|$[a,b]$]]
+    - [$[a,b]$](https://rupadarshiray.github.io/notes/imIQpdshchDYWLlOCCeNIV.pdf)
     - [Figure 8 knot](https://rupadarshiray.github.io/notes/hr9cEFliR9MGkDYN0ZxHKd.pdf)
       - [Complement of the figure 8 knot in $S^{3}$](https://rupadarshiray.github.io/notes/xezC6De0BI3NPnhenPu5r8.pdf)
     - [Lamplighter group on $\mathbb{Z}_{2}$](https://rupadarshiray.github.io/notes/LKuQCHBa6tPM8MNehUckaz.pdf)
@@ -660,13 +660,13 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
     - [$T^{2}_{1,1,0}$](https://rupadarshiray.github.io/notes/L0sFYyOKVLkBXJZUa2mrtI.pdf)
       - [Deformation retract of a punchered torus to wedge sum of two circles](https://rupadarshiray.github.io/notes/McaN78QTcneO5ZW2YiqQLF.pdf)
     - [${T}^{2}_{2}$](https://rupadarshiray.github.io/notes/cnPvVMx95JW4tBBYSTMrPN.pdf)
-    - [[stretchy.T2 g00 prod interval|$T^{2}_{g} \times [0,1]$]]
+    - [$T^{2}_{g} \times [0,1]$](https://rupadarshiray.github.io/notes/3HAq3ay2sj22f6Sb2DZben.pdf)
     - [$\#_{\mathbb{N}}T^{2}$](https://rupadarshiray.github.io/notes/d97GZlsNYjsLkOrxaIWpva.pdf)
     - [Thompson's group](https://rupadarshiray.github.io/notes/rf9IdAPwf0tAjSnO2uMUrR.pdf)
     - [$T^{n}$](https://rupadarshiray.github.io/notes/4cJutapDJApsioZmUbzwSi.pdf)
     - [3-valent tree](https://rupadarshiray.github.io/notes/jabG9dO5pc2wffMXvxOALM.pdf)
     - [4-valent tree](https://rupadarshiray.github.io/notes/FhwtqpEK5prxsaNik4sl01.pdf)
-    - [[stretchy.unit prod N|$[0,1]^{\mathbb{N}}$ with product topology]]
+    - [$[0,1]^{\mathbb{N}}$ with product topology](https://rupadarshiray.github.io/notes/Qh1puaGGLD1BYDyLVummiR.pdf)
     - [Whitehead manifolds](https://rupadarshiray.github.io/notes/2RbXdBTULCjcIZQ0spz0D9.pdf)
     - [$\mathbb{Z}$](https://rupadarshiray.github.io/notes/VEXCUJX7ERwVWy5LNyqkvk.pdf)
       - [Division in $\mathbb{Z}$](https://rupadarshiray.github.io/notes/GRLApQhfGUYtMZ1k1XJLNA.pdf)
@@ -675,12 +675,12 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
       - [Primes in $\mathbb{N}$](https://rupadarshiray.github.io/notes/pYN1BY8opNWfJtzr6Qy2Uj.pdf)
       - [Partitions of naturals](https://rupadarshiray.github.io/notes/k2zcCdQL7eH1Yy9oa7oqV6.pdf)
       - [Prime-representing function](https://rupadarshiray.github.io/notes/eKwuusoPyV9p3zu0iomjf8.pdf)
-    - [[stretchy.Z adj sqroot|$\mathbb{Z}[ \sqrt{m}]$]]
-      - [[stretchy.Z adj sqroot.3|$\mathbb{Z}[\sqrt{3}]$]]
-    - [[stretchy.Z poly|$\mathbb{Z}[X]$]]
+    - [$\mathbb{Z}[ \sqrt{m}]$](https://rupadarshiray.github.io/notes/nkeNeZ53djOnAabEKO9DkM.pdf)
+      - [$\mathbb{Z}[\sqrt{3}]$](https://rupadarshiray.github.io/notes/ZhMPiLFsjedHxq9RSPg2Lz.pdf)
+    - [$\mathbb{Z}[X]$](https://rupadarshiray.github.io/notes/0As63YyqBxPNbXKet1MNNp.pdf)
     - [$\mathbb{Z}^{\mathbb{N}}$](https://rupadarshiray.github.io/notes/vLDZDUqo4J6ln8I2zzekwh.pdf)
-    - [[stretchy.Zi|$\mathbb{Z}[i]$]]
-    - [[stretchy.Zi5|$\mathbb{Z}[i\sqrt{5}]$]]
+    - [$\mathbb{Z}[i]$](https://rupadarshiray.github.io/notes/LNngFHbpDGJizG4uoi1AhV.pdf)
+    - [$\mathbb{Z}[i\sqrt{5}]$](https://rupadarshiray.github.io/notes/owOvJubpyST15H1UVLCvCE.pdf)
   - [stem](https://rupadarshiray.github.io/notes/kcydepRaDcIa5PHYddfCqz.pdf)
     - [$\mathit{GL}(n)$](https://rupadarshiray.github.io/notes/bK1RNXplUDUBUCHBKR2uMd.pdf)
       - [$\mathsf{T},\dagger$-closed subgroups of $\mathit{GL}(n)$](https://rupadarshiray.github.io/notes/mUUx0h06bvh0VVOiA7TGcY.pdf)
@@ -741,7 +741,7 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
           - [Global algebraic functions on a complex 1-manifold](https://rupadarshiray.github.io/notes/Aya0X2JvdAIe1UxHGoVpj5.pdf)
           - [Non-constant holomorphic maps between Riemann surfaces locally looks like $w^{k}$ and are open maps](https://rupadarshiray.github.io/notes/g4KQKS4TrXZuwaPyF5V60Y.pdf)
         - [Holomorphic maps of type $0 \xrightarrow{3} 0$](https://rupadarshiray.github.io/notes/mi1v4Fg66AjEJoKIlvxcxG.pdf)
-        - [Rational maps ](https://rupadarshiray.github.io/notes/4xp5nEK0I81z1YK3E0JVi5.pdf)
+        - [Rational maps](https://rupadarshiray.github.io/notes/4xp5nEK0I81z1YK3E0JVi5.pdf)
         - [Hurwitz scheme](https://rupadarshiray.github.io/notes/nAJMYr1OaOHGB5y6oCUaln.pdf)
         - [Moduli space of $\mathbb{C}$-manifolds](https://rupadarshiray.github.io/notes/cokHmFNT8zKSHXL57KCUA2.pdf)
         - [Meromorphic functions on a Riemann surface](https://rupadarshiray.github.io/notes/VWLVMEjsSjishvlfDOSe3x.pdf)
@@ -813,13 +813,13 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
       - [Bounded connected open subsets of $\mathbb{C}^{n}$](https://rupadarshiray.github.io/notes/zxUb68AAuo3BfpbZ7kS48e.pdf)
       - [Connected circular open subsets of $\mathbb{C}^{n}$](https://rupadarshiray.github.io/notes/FfRIa09uihwydScldWTIEl.pdf)
       - [Continuous functions on $\mathbb{R}^{d}$](https://rupadarshiray.github.io/notes/0ZLgSPalfgzot8YDCOSemb.pdf)
-        - [[stem.Rf.cont.0to1 w bd|$\mathcal{C}_{0}[0,1]$]]
+        - [$\mathcal{C}_{0}[0,1]$](https://rupadarshiray.github.io/notes/sH9QOBfB0UKbFLPKRVsXGL.pdf)
         - [Continuous functions on $\mathbb{R}$ with infinite limit are uniformly continuous](https://rupadarshiray.github.io/notes/FDp49sIU0UyicjlWxQZvr5.pdf)
         - [Intermedia value property of continuous functions on intervals](https://rupadarshiray.github.io/notes/ueSyUa8fcgnmpFYx1xKGnz.pdf)
         - [$\mathcal{C}(U, X)$](https://rupadarshiray.github.io/notes/tPGfy5EzLwR9KuwOMqfRQw.pdf)
-        - [[stem.Rf.cont.space cpt|$\mathcal{C}[0,1]$]]
-          - [[stem.Rf.cont.space cpt.dual|Dual space of $\mathcal{C}[0,1]$]]
-          - [[stem.Rf.cont.space cpt.int to R|Riemann integral functional $\int_{[a,b]} : \mathcal{C}[a,b]\to \mathbb{R}$]]
+        - [$\mathcal{C}[0,1]$](https://rupadarshiray.github.io/notes/4JzB7FoN1yqDq9ZoVmu0Kd.pdf)
+          - [Dual space of $\mathcal{C}[0,1]$](https://rupadarshiray.github.io/notes/uXpuB1F9J0Aa2XnzJ7BSsD.pdf)
+          - [Riemann integral functional $\int_{[a,b]} : \mathcal{C}[a,b]\to \mathbb{R}$](https://rupadarshiray.github.io/notes/B8sK8BoHYGSBTZMaA2XDRb.pdf)
       - [Dyadic cubes](https://rupadarshiray.github.io/notes/1MQYqnM5EL8XiHO8CJJyd8.pdf)
       - [Curves](https://rupadarshiray.github.io/notes/rq9TTZqUC1xXsbe0hUIHLc.pdf)
         - [Arc length](https://rupadarshiray.github.io/notes/NC0XHdV4q7mbSOoPv0rfvg.pdf)
@@ -829,12 +829,12 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
         - [Tangent of a curve](https://rupadarshiray.github.io/notes/qPqZxPKxRE4WHS29Vd70uC.pdf)
         - [Unit speed parameterization of a curve](https://rupadarshiray.github.io/notes/0IMPujS76SUNrifX7qEGCR.pdf)
       - [[stem.Rf.dense|dense]]
-        - [[stem.Rf.dense.nowhere diffable in C|Nowhere differentiable functions are dense in $\mathcal{C}[0,1]$]]
-        - [[stem.Rf.dense.on 0to1|Basis of functions on $[0,1], S^{1}$]]
+        - [Nowhere differentiable functions are dense in $\mathcal{C}[0,1]$](https://rupadarshiray.github.io/notes/gDmlIXUiViGIwaAGnuXA2y.pdf)
+        - [Basis of functions on $[0,1], S^{1}$](https://rupadarshiray.github.io/notes/6AsZwwZ0btKsx2cEB6baqH.pdf)
       - [Differentiable functions](https://rupadarshiray.github.io/notes/qkDqFUKKDMBsPSwrLG0giJ.pdf)
         - [Functions $(a,b)\to \mathbb{R}$ differentiable at a point](https://rupadarshiray.github.io/notes/ogq3UdlLE8VDHMIbQYlFno.pdf)
         - [Comparing a function and it derivative](https://rupadarshiray.github.io/notes/zuo1Vr77BJQj8FKCeLYjSt.pdf)
-        - [[stem.Rf.derivative.cont abs|Absolutely continuous functions on $[a,b]$ $\leftrightarrow$ $\int_{[a,-]}(L^{1}[a,b])$]]
+        - [Absolutely continuous functions on $[a,b]$ $\leftrightarrow$ $\int_{[a,-]}(L^{1}[a,b])$](https://rupadarshiray.github.io/notes/3K0SSSfgztpixL0ps4XyH9.pdf)
         - [Distributional derivatives](https://rupadarshiray.github.io/notes/lFT0zlzQrJX5LczNV3OfpN.pdf)
           - [Fractional Sobolev spaces](https://rupadarshiray.github.io/notes/AqiDdOR5QMe3RgZWIzIbCI.pdf)
           - [$H^{1}(U)$](https://rupadarshiray.github.io/notes/VATS8cb3Sx1xIKapnACHaN.pdf)
@@ -844,9 +844,9 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
         - [Fractional derivative](https://rupadarshiray.github.io/notes/vBAsfUCOlJw8JEzGfkPOmH.pdf)
         - [Infinite limit of derivatives](https://rupadarshiray.github.io/notes/gk9QFo6Yakaud6XIhdLg8c.pdf)
         - [Space of continuous and continuously differentiable functions on $\mathbb{R}$](https://rupadarshiray.github.io/notes/oyZw7t0SSzaeJehJyjMbux.pdf)
-          - [[stem.Rf.derivative.space.cpt 1|$\mathcal{C}^{1}([a,b],\mathbb{R})$]]
-            - [[stem.Rf.derivative.space.cpt 1.End d|Derivative operator on $\mathcal{C}^1[a,b]$]]
-            - [[stem.Rf.derivative.space.cpt 1.sup norm|$(\mathcal{C}^{1}([a,b],\mathbb{R}), \norm{}_{\infty})$]]
+          - [$\mathcal{C}^{1}([a,b],\mathbb{R})$](https://rupadarshiray.github.io/notes/bM0JSfzkmbuCC4FhaRz02d.pdf)
+            - [Derivative operator on $\mathcal{C}^1[a,b]$](https://rupadarshiray.github.io/notes/v1AbBtm181IXYOAzaaLnBT.pdf)
+            - [$(\mathcal{C}^{1}([a,b],\mathbb{R}), \norm{}_{\infty})$](https://rupadarshiray.github.io/notes/5zlZGngHfBLlknWFhMbvVS.pdf)
           - [$\mathcal{C}^{k}_{\mathsf{c}}((a,b),\mathbb{R})$](https://rupadarshiray.github.io/notes/dNSsJrVqnm4UaNNynmdKyw.pdf)
         - [Derivative of maps $\mathbb{R}^{n} \to \mathbb{R}^{m}$](https://rupadarshiray.github.io/notes/KDnIMEWa2rciTlQw7ilhF6.pdf)
         - [Zooming of a map $\mathbb{R}^{n}\to \mathbb{R}^{m}$](https://rupadarshiray.github.io/notes/4lkVOGMe2B81WoUjMOpaA4.pdf)
@@ -863,11 +863,11 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
         - [Fourier transform on $L^{2} (-A,A)\leq L^{2}(\mathbb{R})$](https://rupadarshiray.github.io/notes/LcZk8mPqoLuLKtyNRb7UjV.pdf)
         - [$\widehat{\quad}:L^{2}(0, \infty) \cong_{\mathsf{Hilb}} \mathscr{O}^{2}(H^{2}_{\mathrm{U}})$](https://rupadarshiray.github.io/notes/qk6qeu6dfnsH2YrElaB82G.pdf)
         - [Fourier transform on $\mathbb{R}^{n}$](https://rupadarshiray.github.io/notes/xzuATjfSPnuadgEe6hZfxw.pdf)
-        - [[stem.Rf.Fourier.S1|Fourier transform on $S^{1}$, Fourier series on $[0,1]$]]
+        - [Fourier transform on $S^{1}$, Fourier series on $[0,1]$](https://rupadarshiray.github.io/notes/5e8yJhO3MgA4eQFoyG42ao.pdf)
         - [Functions on $S^{1}$ with absolutely converging Fourier series, $\check{l}^{1} (S^{1})$](https://rupadarshiray.github.io/notes/zaqyfRYP03PE1sFl0oMMQE.pdf)
         - [Fourier transform of distributions on $S^{1}$](https://rupadarshiray.github.io/notes/7bwYrZddcj9uATBE3L5F3a.pdf)
-        - [[stem.Rf.Fourier.S1 L1toC0|$\widehat{\quad }: L^{1}[0,1] \to \mathcal{C}_{0}(\mathbb{Z},\mathbb{C})$]]
-        - [[stem.Rf.Fourier.S1 L2tol2|$\widehat{\quad} : L^{2}[0,1] \cong_{\mathsf{Hilb}} l^{2}(\mathbb{Z},\mathbb{C})$]]
+        - [$\widehat{\quad }: L^{1}[0,1] \to \mathcal{C}_{0}(\mathbb{Z},\mathbb{C})$](https://rupadarshiray.github.io/notes/icBja5x16CI4tO5tpewdpP.pdf)
+        - [$\widehat{\quad} : L^{2}[0,1] \cong_{\mathsf{Hilb}} l^{2}(\mathbb{Z},\mathbb{C})$](https://rupadarshiray.github.io/notes/KxTHKYbmW0Pub7kcDtFzfY.pdf)
         - [Fourier transform of measurable subsets](https://rupadarshiray.github.io/notes/MWxDei9adX26E7XyLw1Mh2.pdf)
         - [Unsharpness principles](https://rupadarshiray.github.io/notes/U6Tsoek1YhROPuAjFhQyX2.pdf)
       - [Harmonic functions composed with conformal maps](https://rupadarshiray.github.io/notes/R6jWyiH2dmKCBfwjvncFlp.pdf)
@@ -890,8 +890,8 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
         - [Calderon-Zygmund decomposition](https://rupadarshiray.github.io/notes/Tq2DeituH6u99iqtHHc8t2.pdf)
         - [Lebesgue density of measurable sets](https://rupadarshiray.github.io/notes/WPQqfQTobIRl2BCXcm5imI.pdf)
         - [Functions with uniformly bounded mean oscillations on dyadic cubes](https://rupadarshiray.github.io/notes/eo4OvtPAarUa4p1y7GRpS4.pdf)
-        - [[stem.Rf.Lmeas.End int|Volterra operator $\int_{[0,-]}:L^{1}_{\mathrm{loc}}[0,1)\to \mathcal{C}[0,1)$]]
-          - [[stem.Rf.Lmeas.End int.p to p|Volterra operator $\int_{[0,-]}: L^{p} [a,b]\to L^{p} [a,b]$]]
+        - [Volterra operator $\int_{[0,-]}:L^{1}_{\mathrm{loc}}[0,1)\to \mathcal{C}[0,1)$](https://rupadarshiray.github.io/notes/1cD2nHW24vGEDZWVrMkCTO.pdf)
+          - [Volterra operator $\int_{[0,-]}: L^{p} [a,b]\to L^{p} [a,b]$](https://rupadarshiray.github.io/notes/1hVzLKqd2KaQIak4g2oiBt.pdf)
         - [Measurable functions on $\mathbb{R}^{n}$](https://rupadarshiray.github.io/notes/Mp7rhoRQ2fC2jNv4R7daJj.pdf)
         - [$(\epsilon,n)$-measurable function](https://rupadarshiray.github.io/notes/KFIkg3nSKqEQCwR3DVzctN.pdf)
         - [Integrability and integral of measurable functions on $\mathbb{R}^{n}$](https://rupadarshiray.github.io/notes/hPTCFhZmc1HjlDoSH3i7tQ.pdf)
@@ -900,7 +900,7 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
         - [Integrals of a monotonically converging sequence of functions](https://rupadarshiray.github.io/notes/7wKf9yPaGAWc1A3VFkkrLh.pdf)
         - [Lebesgue integral from measure of undergraph](https://rupadarshiray.github.io/notes/0yV5VeiPhGliABxCXyNEUV.pdf)
         - [$L^{p,q}$](https://rupadarshiray.github.io/notes/CRH6Imq5jr9GY13p7daJe8.pdf)
-        - [[stem.Rf.Lmeas.unit mass|$\mathrm{E}([0,1])=\mathrm{E}(0,1), \mathrm{E}([-\pi,\pi])=\mathrm{E}(S^{1})$]]
+        - [$\mathrm{E}([0,1])=\mathrm{E}(0,1), \mathrm{E}([-\pi,\pi])=\mathrm{E}(S^{1})$](https://rupadarshiray.github.io/notes/LZhOPErpjkcL8oWhj5xTQu.pdf)
       - [Lebesgue measure of boundary of open sets in $\mathbb{R}^{n}$](https://rupadarshiray.github.io/notes/CBmHi3I0I4z0hrK0XuloHU.pdf)
       - [Local $\mathbb{R}$-algebras](https://rupadarshiray.github.io/notes/9y2ALkbiIgVMSc8foYuSCP.pdf)
       - [$l^p(\mathbb{R})$](https://rupadarshiray.github.io/notes/BvjkZWyAiW6uL4ODSXb6Rq.pdf)
@@ -913,7 +913,7 @@ I am trying to publish my set of ~1300 notes on various topics in mathematics, w
         - [Sequence of functions on $\mathbb{R}^{d}$](https://rupadarshiray.github.io/notes/z2TpTxRHK5Ea0TiQbjtvE0.pdf)
       - [Metric density of subsets of $\mathbb{R}^{n}$](https://rupadarshiray.github.io/notes/vMLUaT2WtH6zTbQVXZJ69m.pdf)
       - [Monotone functions on $\mathbb{R}$](https://rupadarshiray.github.io/notes/L6CqfaHZdJdACUixZMijum.pdf)
-        - [[stem.Rf.monotone.asymp|Asymptotics of monotonically increasing functions $[0,\infty]\to [0,\infty]$]]
+        - [Asymptotics of monotonically increasing functions $[0,\infty]\to [0,\infty]$](https://rupadarshiray.github.io/notes/6biVQFtc2vhc6LKHOu7WIu.pdf)
       - [Cauchy integral of periodic functions](https://rupadarshiray.github.io/notes/cRs999LZCE5qbzXi8TZN8o.pdf)
       - [Polygons with integer vertices](https://rupadarshiray.github.io/notes/Mr9OwV9ynVbjj0eG5fACvo.pdf)
       - [[stem.Rf.quasiconformal|quasiconformal]]
