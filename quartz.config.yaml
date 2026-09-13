@@ -99,7 +99,66 @@ plugins:
   - source: github:quartz-community/latex
     enabled: true
     options:
-      renderEngine: katex
+      renderEngine: mathjax
+      customMacros:
+        N: '\mathbb{N}'
+        Q: '\mathbb{Q}'
+        Z: '\mathbb{Z}'
+        R: '\mathbb{R}'
+        C: '\mathbb{C}'
+        H: '\mathbb{H}'
+        O: '\mathbb{O}'
+        F: '\mathbb{F}'
+        g: '\text{g}'
+
+        cosec: ['\mathrm{cosec} #1', 1]
+
+        # Derivatives
+        dd: '\mathrm{d}'
+        ddn: ['\mathrm{d}^{#1} #2', 2]
+        dv: ['\frac{\mathrm{d}}{\mathrm{d} #1}', 1]
+        dvf: ['\frac{\mathrm{d} #1}{\mathrm{d} #2}', 2]
+        dvfn: ['\frac{\mathrm{d}^{#1} #2}{\mathrm{d} #3^{#1}}', 3]
+        pdvf: ['\frac{\partial #1}{\partial #2}', 2]
+        dpartial: '\overset{\int}{\partial}'
+        dpvf: ['\frac{\dpartial #1}{\partial #2}', 2]
+        DD: '\mathfrak{D}'
+        xsim: ['\overset{#1}{\sim}', 1]
+
+        # Algebra
+        ip: ['\left\langle #1 \right\rangle', 1]
+        norm: ['\left\Vert #1 \right\Vert', 1]
+        orb: ['\mathrm{orb}_#1 (#2)', 2]
+        stab: ['\mathrm{stab}_#1 (#2)', 2]
+        coker: '\mathrm{coker}'
+
+        # Categories and fonts
+        mor: ['\mathrm{#1}', 1]
+        cat: ['\mathsf{#1}', 1]
+        nrm: ['\text{#1 }', 1]
+        nit: ['\mathit{#1}', 1]
+        nsf: ['\mathsf{#1}', 1]
+        nbit: ['\boldsymbol{\mathit{#1}}', 1]
+        goth: ['\mathfrak{#1}', 1]
+        sct: ['\boldsymbol{\mathsf{\Gamma #1}}', 1, ' ']
+        mdu: ['\mathop{Mod}_{#1}^{#2}', 2]
+        isom: '\cong'
+        im: '\mathrm{im}\ '
+        T: 'T'
+        lm: ['\boxed{\mathtt{#1}}', 1]
+
+        # Diagram arrows
+        ra: ['\kern-1.5ex\xrightarrow{\ \ #1\ \ }\phantom{}\kern-1.5ex', 1]
+        ras: ['\kern-1.5ex\xrightarrow{\ \ \smash{#1}\ \ }\phantom{}\kern-1.5ex', 1]
+        da: ['\bigg\downarrow\raise.5ex\hbox{\rlap{\scriptstyle #1}}', 1]
+        ua: ['\bigg\uparrow\raise.5ex\hbox{\rlap{\scriptstyle #1}}', 1]
+
+        mapsfrom: '\leftarrow\!\shortmid'
+        longmapsfrom: '\longleftarrow\!\shortmid'
+        Sha: '\text{Ш}'
+
+        lq: ['{_{\Large #2}}\big\backslash{^{\Large #1}}', 2]
+        rq: ['{^{\Large #1}}\big/{_{\Large #2}}', 2]
     order: 80
   - source: github:quartz-community/citations
     enabled: false

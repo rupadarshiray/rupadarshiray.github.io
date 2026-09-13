@@ -1,7 +1,24 @@
-import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
+import {
+  loadQuartzConfig,
+  loadQuartzLayout,
+} from "./quartz/plugins/loader/config-loader"
 
 const config = await loadQuartzConfig()
+
+config.plugins.transformers.unshift({
+  name: "FixBlockLatex",
+
+  textTransform(_ctx, src) {
+    return src.toString().replace(
+      /\$\$([\s\S]*?)\$\$/g,
+      (_match, equation: string) =>
+        `\n\n$$\n${equation.trim()}\n$$\n\n`,
+    )
+  },
+})
+
 export default config
+
 export const layout = await loadQuartzLayout()
 
 // export const layout = await loadQuartzLayout({
