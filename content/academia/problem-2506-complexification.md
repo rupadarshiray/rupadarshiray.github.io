@@ -5,6 +5,8 @@ tags: [problem]
 title: Complexifications in the analytic and algebraic categories
 ---
 
+[[Sanskar]], when discussing with me about the definiton of complexification of $\R$-Lie groups, came to the following conclusion.
+
 The complexification of $\R$ as a Lie group is $\C$. And complexification of $S^{1}$ is $\C^{\times}$.
 
 Now consider the $\R$-Lie group $$ \C^{\times} \isom S^{1} \times \R_{>0} \isom S^{1} \times\R $$
@@ -17,3 +19,5 @@ with the group law pushed forward.
 
 Now, by construction $$ G(\R) \isom \C^{\times} $$
 However, $$ G(\C) \isom\C^{\times} \times\C^{\times} $$
+
+Therefore, algebraic complexification and analytic complexification do not agree with each other.
