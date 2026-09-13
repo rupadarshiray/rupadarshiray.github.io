@@ -1,5 +1,5 @@
 ---
-created: 2026-09-13T18:58:36
+created: 2025-06-15T08:17:37
 modified: 2026-09-13T18:58:36
 tags: [problem]
 title: Complexifications in the analytic and algebraic categories
