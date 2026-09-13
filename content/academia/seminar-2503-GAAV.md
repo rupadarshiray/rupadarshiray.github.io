@@ -3,7 +3,7 @@ created: 2026-06-19T08:17:12
 modified: 2026-06-19T08:17:12
 tags:
   - conference
-  - attended
+  - talk/attended
 title: March 17-19, '25 - Geometric Aspects of Algebraic Varieties, IISER Mohali
 thumbnail: https://pbs.twimg.com/media/Gl6F--obYAMtmXJ?format=jpg&name=4096x4096
 aliases:

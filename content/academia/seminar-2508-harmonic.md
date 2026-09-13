@@ -1,7 +1,7 @@
 ---
 created: 2026-08-25T19:13:43
 modified: 2026-08-25T19:13:43
-tags: [seminar, attended, presented]
+tags: [seminar/attended, seminar/presented]
 title: Fall '25 seminar on abstract harmonic analysis
 ---
 

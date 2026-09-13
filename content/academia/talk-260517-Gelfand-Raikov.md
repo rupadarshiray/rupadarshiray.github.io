@@ -1,7 +1,7 @@
 ---
 created: 2026-05-17
 modified: 2026-05-23T18:33:49
-tags: [talk, attended]
+tags: [talk/attended]
 aliases: []
 title: Talk on the Gelfand-Raikov theorem
 ---

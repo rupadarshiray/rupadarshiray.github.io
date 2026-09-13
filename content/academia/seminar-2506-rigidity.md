@@ -3,7 +3,7 @@ created: 2026-06-19T08:26:58
 modified: 2026-06-19T08:26:58
 tags:
   - school
-  - attended
+  - talk/attended
 title: Summer School on Rigidity of Discrete Groups, June 30 – July 4, 2025 at IISER Mohali
 aliases: "Summer School on Rigidity of Discrete Groups, June 30 – July 4, 2025 at IISER Mohali"
 thumbnail: https://i.imgur.com/8PchWI6.jpeg

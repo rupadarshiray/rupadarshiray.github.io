@@ -1,7 +1,7 @@
 ---
 created: 2023-09-17
 modified: 2026-08-23T19:11:43
-tags: [talk, attended]
+tags: [talk/attended]
 title: Talk on Teichmuller spaces of hyperbolic surfaces
 ---
 
