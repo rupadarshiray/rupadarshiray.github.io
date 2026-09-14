@@ -1,5 +1,5 @@
 ---
-created: 2026-09-14T06:35:33
+created: 2025-02-01
 modified: 2026-09-14T06:35:33
 tags: [problem]
 title: Application of Galois theory to Riemann surfaces

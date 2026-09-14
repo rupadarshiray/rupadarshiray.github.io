@@ -15,7 +15,9 @@ The answer is very simple: no, [the necessary and sufficient condition is that p
 ^[https://math.stackexchange.com/a/3876991/1290493]
 ^[[dg.differential geometry - How do you see that higher genus surfaces are not homogeneous? - MathOverflow](https://mathoverflow.net/questions/104104/how-do-you-see-that-higher-genus-surfaces-are-not-homogeneous#comment267541_104104)]
 
-It is easy to construct counterexamples. Every 2-transitive Lie group action on a connected smooth manifold (of dim $\geq 2$?) cannot be Riemannian because it cannot preserve a metric. Metric can at most take two equidistant points to another pair of equidistant points.
+It is easy to construct counterexamples.
+
+Every 2-transitive Lie group action on a connected smooth manifold (of dim $\geq 2$?) cannot be Riemannian because it cannot preserve a metric. The action can at most take two equidistant points to another pair of equidistant points.
 
 Also, we can easily [count the dimension of the Lie group $\mor{Isom}(M,\g)$ when $M$ is connected](https://rupadarshiray.github.io/notes/JxeubBtaIVyOB55Kt6STWt.pdf). $$\begin{aligned} \lq{\mor{Isom}(M,\g)}{\mor{Isom}(M,\g)_{p}} & \isom_{\cat{Man}}  M\\  \dim \mor{Isom}(M,\g) - \dim \mor{Isom}(M,\g)_{p} &= \dim M \\  \dim \mor{Isom}(M,\g) &\leq  \dim O(\T_{p}M, \g_{p}) + \dim M \\ &= \frac{1}{2} \dim M (\dim M-1) + \dim M \\ &= \frac{1}{2} (\dim M) (\dim +1) \end{aligned}$$ 
 This means, for example, for $\dim M =2$ we have $\dim \mor{Isom}(M,\g) \leq \frac{1}{2}(2)(3)=3$.
