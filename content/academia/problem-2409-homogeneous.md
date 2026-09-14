@@ -1,7 +1,7 @@
 ---
 created: 2025-06-30T19:01:58
 modified: 2026-09-14T05:35:43
-tags: []
+tags: [problem]
 aliases: []
 title: Which smooth manifolds can be made homogeneous?
 ---
