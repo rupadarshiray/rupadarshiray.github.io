@@ -2,8 +2,16 @@ import {
   loadQuartzConfig,
   loadQuartzLayout,
 } from "./quartz/plugins/loader/config-loader"
+import remarkFootnotesExtra from "remark-footnotes-extra"
 
 const config = await loadQuartzConfig()
+
+config.plugins.transformers.push({
+  name: "InlineFootnotes",
+  markdownPlugins() {
+    return [remarkFootnotesExtra]
+  },
+})
 
 config.plugins.transformers.unshift({
   name: "FixBlockLatex",
