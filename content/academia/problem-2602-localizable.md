@@ -1,7 +1,7 @@
 ---
-created: 2026-09-16T15:36:06
+created: 2026-02-03
 modified: 2026-09-16T15:36:06
-tags: []
+tags: [problem]
 title: Intuitively understanding localizable measure spaces
 ---
 
@@ -10,10 +10,13 @@ title: Intuitively understanding localizable measure spaces
 Let $(X,\Sigma, \mu)$ be a $[0, \infty]$-measure space. Consider the natural map $$\begin{aligned}  L^{\infty}(X,\mu)& \to L^{1}(X,\mu)^{\bigstar}  \\ f &\mapsto \left( g \mapsto \int_{X} fg \dd{\mu}  \right)\end{aligned}$$
 Then if $\mu$ is a $\sigma$-finite measure then this is an isometric isomorphism. There is a generalization that says the following.
 
-- The map is an isometric **injection** $\iff$ $\mu$ is **semifinite**, that is, every measurable subset of $X$ (with possibly infinite $\mu$-measure) has a futher finite $\mu$-measure subset.
-	- Here, if $\mu$ is not semifinite, then there is a measurable subset $A$ with $\mu(A)=\infty$ whose measurable subsets are all $\mu$-measure zero. Then for $L^{\infty}$ functions supported on $A$, such as $\chi_{A}$, we have $$ \forall g\in L^{1} , \int_{X} g \chi_{A} \dd{\mu} = 0  $$
-	- So to these $L^{\infty}$ functions are "invisible" to $L^{1}$ functions. Semifiniteness is necessary and sufficient to break that invisibility.
-- The map is an isometric **isomorphism** $\iff$ $\mu$ is **localizable**, that is, semifinite and has a "gluing" property: for any family of measurable functions $\left\{ f_{i}: E_{i} \to \C \right\}$. such that $$ f_{i} \equiv f_{j} \ \text{ae on } E_{i} \cap E_{j} $$ then there is a $f:X\to \C$ such that for each $i$ $$ f\equiv f_{i} \text{ ae on } E_{i} $$^[https://math.stackexchange.com/a/405587/1290493]
+Te map is an isometric **injection** $\iff$ $\mu$ is **semifinite**, that is, every measurable subset of $X$ (with possibly infinite $\mu$-measure) has a futher finite $\mu$-measure subset. Here, if $\mu$ is not semifinite, then there is a measurable subset $A$ with $\mu(A)=\infty$ whose measurable subsets are all $\mu$-measure zero. Then for $L^{\infty}$ functions supported on $A$, such as $\chi_{A}$, we have $$ \forall g\in L^{1} , \int_{X} g \chi_{A} \dd{\mu} = 0  $$So to these $L^{\infty}$ functions are "invisible" to $L^{1}$ functions. Semifiniteness is necessary and sufficient to break that invisibility.
+
+
+
+The map is an isometric **isomorphism** $\iff$ $\mu$ is **localizable**, that is, semifinite and has a "gluing" property: for any family of measurable functions $\left\{ f_{i}: E_{i} \to \C \right\}$. such that $$ f_{i} \equiv f_{j} \ \text{ae on } E_{i} \cap E_{j} $$ then there is a $f:X\to \C$ such that for each $i$ $$ f\equiv f_{i} \text{ ae on } E_{i} $$
+
+^[https://math.stackexchange.com/a/405587/1290493]
 
 
 
