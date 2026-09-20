@@ -3,7 +3,7 @@ created: 2026-09-21T02:01:50
 modified: 2026-09-21T02:01:50
 tags: []
 title: On expanding graphs
-image: "https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-1.png"
+socialImage: "https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-1.png"
 ---
 
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-1.png)
