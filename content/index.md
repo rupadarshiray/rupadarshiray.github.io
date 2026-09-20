@@ -4,7 +4,7 @@ modified: 2021-11-24T14:54:31
 ---
 Hello! I hope this website finds you well!
 
-My name is Rupadarshi Ray. I am from [[balurghat|Balurghat]], a town in the northern part of Bengal, India 🇮🇳. I speak Bengali, English and Hindi. This website is an _academic curation_ and _journaling_; where I document my experience and experiments with mathematics and the theoretical sciences.
+My name is Rupadarshi Ray. I am from [[balurghat|Balurghat]], a town in the northern part of Bengal, India 🇮🇳. I speak Bengali, English and Hindi. This website is an _academic curation_ and _journaling_ of my human adventures in mathematics and the theoretical sciences.
 
 My CV is at [rupadarshiray.github.io/CV/RayCV.pdf](https://rupadarshiray.github.io/CV/RayCV.pdf). 
 

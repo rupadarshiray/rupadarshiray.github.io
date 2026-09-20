@@ -35,12 +35,12 @@ views:
 The events I attended include the following.
 
 ```base
-filters:
-  and:
-    - file.tags.contains("attended")
 views:
   - type: cards
     name: Table
+    filters:
+      and:
+        - file.tags.contains("talk")
     order: []
     sort:
       - property: created

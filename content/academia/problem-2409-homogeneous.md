@@ -8,7 +8,7 @@ title: Which smooth manifolds can be made homogeneous?
 
 During our Riemannian geometry course, [[Manan-Jain|Manan]] asked which homogeneous smooth manifolds $$ G \underbrace{ \curvearrowright }_{ \text{transitive} } M $$ can be made Riemannian homogeneous $$ G \underbrace{ \curvearrowright }_{ \text{transitive} } (M,\g) $$
 
-The answer is very simple: no, [the necessary and sufficient condition is that point stabilizers $G_{p}$, which act linearly on the tangent space $\T_{p}M$, must have pre-compact image in $\nit{GL}(\T_{p}M)$.](https://rupadarshiray.github.io/notes/YiYNs7E5LmU1GrIU2AfctR.pdf)
+The answer is very simple: [the necessary and sufficient condition is that point stabilizers $G_{p}$, which act linearly on the tangent space $\T_{p}M$, must have pre-compact image in $\nit{GL}(\T_{p}M)$.](https://rupadarshiray.github.io/notes/YiYNs7E5LmU1GrIU2AfctR.pdf)
 
 
 ^[https://mathoverflow.net/questions/346364/is-every-homogeneous-space-riemannian-homogeneous]

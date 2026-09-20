@@ -1,13 +1,11 @@
 ---
-created: 2026-09-16T18:09:47
+created: 2026-05-11
 modified: 2026-09-16T18:09:47
 tags:
   - conference
   - talk/attended
 title: Young Mathematicians' Symposium, 11-13 May, 2026, IISER Mohali
 ---
-
-![|334](https://lh3.googleusercontent.com/sitesv/AG8ngQWYlMYDU52y3hDxoAXoaVj6cXgw5hucj92QFRqZ8yRxgQbbTfXjPffaPMcAdlqqi4nGEK1NlyQ3KrkQWtXZ3W7bKzxqAzwqPRxbHjIlGRA6mWb7jcL-eRpg8nNThsN6hXz_PWxl2MRPBUXXmCL0IyNqJ34jRW8cRQgxZtGGK1NFvWF_kJS835y73pHtWeCmj3eNkUYccMfk0jUyL-yu4X3KbMA7QRrfGtZhXVgw9jE=w1280)
 
 The Young Mathematicians' Symposium is an annual event that celebrates the vibrant research culture within our department. It serves as a platform for our PhD scholars and postdoctoral fellows to showcase their work, engage with peers, and spark new ideas through collaboration.
 

@@ -6,7 +6,6 @@ tags:
   - coorganized
 title: Spring '26 seminars
 ---
-
 A series of talks is (ongoing and) planned for the spring semester of '26, organized at IISER Mohali.
 
 - *path to LoHS and beyond*
