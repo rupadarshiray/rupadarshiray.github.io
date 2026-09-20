@@ -2,13 +2,15 @@
 created: 2026-09-21T02:01:50
 modified: 2026-09-21T02:01:50
 tags: []
-title: Expanding graphs
-image: https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-1.png
+title: On expanding graphs
+image: "https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-1.png"
 ---
 
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-1.png)
 
 #current 
+
+We look at expanding graphs coming from Caley graphs of groups.
 
 | Date    | Topic                                              | Speaker                      |
 | ------- | -------------------------------------------------- | ---------------------------- |
