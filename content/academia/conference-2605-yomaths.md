@@ -14,7 +14,7 @@ This was a 3 day event scheduled from May 11 to May 13, 2026. Like every year, t
 ![](https://www.iisermohali.ac.in/images/Events/Conference/2026/YoMathS_2026/pic01.webp)
 
 
-I am not in this photo.
+Unfortunately, I am not in this photo!
 
 ## Jaydeb Sarkar, ISI Bangalore - Interpolation on the unit ball
 
