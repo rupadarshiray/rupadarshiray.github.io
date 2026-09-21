@@ -34,7 +34,20 @@ export default (() => {
     // const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
     //   (e) => e.name === CustomOgImagesEmitterName,
     // )
-    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
+    //const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
+
+    const frontmatterImage =
+      fileData.frontmatter?.socialImage ??
+      fileData.frontmatter?.image ??
+      fileData.frontmatter?.cover
+
+    const ogImagePath = frontmatterImage
+      ? /^https?:\/\//.test(frontmatterImage)
+        ? frontmatterImage
+        : `https://${cfg.baseUrl}/static/${frontmatterImage}`
+      : `https://${cfg.baseUrl}/static/og-image.png`
+
+    const ogImageMimeType = `image/${getFileExtension(ogImagePath) ?? "png"}`
 
     const coreStylesheet = css[0]?.content
     const coreScript = js.find(
@@ -72,15 +85,15 @@ export default (() => {
         <meta property="og:image:alt" content={description} />
 
         {
-        //!usesCustomOgImage && 
+        //!usesCustomOgImage &&
         (
           <>
-            <meta property="og:image" content={ogImageDefaultPath} />
-            <meta property="og:image:url" content={ogImageDefaultPath} />
-            <meta name="twitter:image" content={ogImageDefaultPath} />
+            <meta property="og:image" content={ogImagePath} />
+            <meta property="og:image:url" content={ogImagePath} />
+            <meta name="twitter:image" content={ogImagePath} />
             <meta
               property="og:image:type"
-              content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
+              content={`image/${getFileExtension(ogImagePath) ?? "png"}`}
             />
           </>
         )}

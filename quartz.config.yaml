@@ -349,15 +349,7 @@ plugins:
       exportPadding: 20
     order: 50
   - source: github:quartz-community/og-image
-    enabled: true
-    options:
-      colorScheme: lightMode
-      width: 1200
-      height: 630
-      excludeRoot: true
-      defaultTitle: Untitled
-      defaultDescription: No description provided
-    order: 50
+    enabled: false
 layout:
   groups:
     toolbar:
