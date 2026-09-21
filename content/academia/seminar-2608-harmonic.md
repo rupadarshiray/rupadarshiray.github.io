@@ -5,7 +5,7 @@ tags:
   - seminar
   - coorganized
 title: "Fall '26 seminar on harmonic analysis and geomertic theory of groups"
-cover: https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-2.png
+image: https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-2.png
 ---
 
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-2.png)

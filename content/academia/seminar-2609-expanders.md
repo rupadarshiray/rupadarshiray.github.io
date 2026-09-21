@@ -3,14 +3,14 @@ created: 2026-09-21T02:01:50
 modified: 2026-09-21T02:01:50
 tags: []
 title: On expanding graphs
-socialImage: "https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-1.png"
+image: "https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-1.png"
 ---
 
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-1.png)
 
 #current 
 
-We look at expanding graphs coming from Caley graphs of groups.
+We look at expanding graphs coming from Caley graphs of groups at [[Maximal-Ideals|𝔐𝔞𝔵𝔦𝔪𝔞𝔩 ℑ𝔡𝔢𝔞𝔩]].
 
 | Date    | Topic                                              | Speaker                      |
 | ------- | -------------------------------------------------- | ---------------------------- |
