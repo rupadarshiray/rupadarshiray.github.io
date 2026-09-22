@@ -4,20 +4,21 @@ modified: 2026-08-20T09:40:25
 tags:
   - reading
   - coorganized
-title: Fall '26 reading seminar on global and infinite dimensional analysis
+  - watchparty
+title: Fall '26 reading seminar on global and microlocal analysis in finite and infinite dimensions
 pin: true
 type: analysis
 ---
+[[Naman-Narang|Naman]] and I are organizing a reading seminar following the notes on [Introduction to Global analysis](https://web.math.ucsb.edu/~moore/globalanalysisshort.pdf) by [John Douglas Moore](https://web.math.ucsb.edu/~moore/).
 
-#current [[Naman-Narang|Naman]] and I are organizing a reading seminar following the notes on [Introduction to Global analysis](https://web.math.ucsb.edu/~moore/globalanalysisshort.pdf) by [John Douglas Moore](https://web.math.ucsb.edu/~moore/).
+And we follow [[course-Hintz-microlocal|Peter Hintz - Microlocal analysis]].
 
-And follow the #course on microlocal analysis.
+| Date   | Section                                                                                        |
+| ------ | ---------------------------------------------------------------------------------------------- |
+| 20 Aug | Preface, 1.1, 1.2                                                                              |
+| 27 Aug | Watched first three lectures of [[course-Hintz-microlocal\|Peter Hintz - Microlocal analysis]] |
 
-
-| Date   | Section           |
-| ------ | ----------------- |
-| 20 Aug | Preface, 1.1, 1.2 |
-
+#current
 ## more references
 
-- https://www.ma.imperial.ac.uk/~skdona/GEOMETRICANALYSIS.PDF
+- https://www.ma.imperial.ac.uk/~skdona/GEOMETRICANALYSIS.PDFg

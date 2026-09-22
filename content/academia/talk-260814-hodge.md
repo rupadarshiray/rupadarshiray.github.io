@@ -5,7 +5,7 @@ tags: [watchparty, talk/watch]
 title: "Livia Grammatica - Proving the Hodge Conjecture using group theory"
 ---
 
-[[Sanskar]] proposed to watch [Proving the Hodge Conjecture using group theory - Youtube](https://www.youtube.com/watch?v=kQpEZcoN7CY) by https://irma.math.unistra.fr/~grammatica/ in [[Maximal-Ideals|𝔐𝔞𝔵𝔦𝔪𝔞𝔩 ℑ𝔡𝔢𝔞𝔩]].
+[[Sanskar]] proposed to watch [Proving the Hodge Conjecture using group theory - Youtube](https://www.youtube.com/watch?v=kQpEZcoN7CY) by https://irma.math.unistra.fr/~grammatica/ in [[Maximal-Ideal|𝔐𝔞𝔵𝔦𝔪𝔞𝔩 ℑ𝔡𝔢𝔞𝔩]].
 
 I took the following notes.
 

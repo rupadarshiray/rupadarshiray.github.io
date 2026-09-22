@@ -4,6 +4,7 @@ modified: 2026-08-23T19:19:20
 tags: [course, audited]
 aliases: []
 title: Spring '23 course on Algebraic topology
+image: https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/CB-MTH410-Spring23_1.jpg
 ---
 
 In January and February of 2023, me and [[Pahul-Arora|Pahul]], in our second year of BSMS at the time, audited (half of) a fourth year mathematics elective course on Algebraic topology instructed by Chetan Balwe.

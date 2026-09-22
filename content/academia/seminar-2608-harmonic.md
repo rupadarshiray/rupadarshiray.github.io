@@ -4,13 +4,11 @@ modified: 2026-08-14T15:17:54
 tags:
   - seminar
   - coorganized
-title: "Fall '26 seminar on harmonic analysis and geomertic theory of groups"
+title: "Fall '26 seminar on harmonic analysis on and geometric theory of groups"
 image: https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-2.jpg
 ---
 
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-2.jpg)
-
-#current 
 
 [[Manan-Jain|Manan Jain]], [[Joshua-J-Abraham|Joshua J Abraham]] and company organizes an online seminar on *abstract harmonic analysis* following the beloved textbook by Folland. We shall meet every Sunday at 9 AM.
 
@@ -28,6 +26,7 @@ We revive the seminar by shaking things up!
 | 29 Sept | Ergodic theorem                                                                                                                                                    | Rupadarshi |
 | 6 Oct   | Discussing [[math/0606794v1] Proper metrics on locally compact groups, and proper affine isometric actions on Banach spaces](https://arxiv.org/abs/math/0606794v1) |            |
 
+#current 
 ## Schur's lemma for unitary representations
 
 Joshua kickstarted our harmonic analysis seminar with the proof of Schur's lemma for unitary representations, following Folland's textbook.
@@ -78,3 +77,10 @@ I took the following notes.
 
 > [!abstract]
 > The study of topological groups naturally leads one to the question in the title. In this talk, we will prove the Birkhoff-Kakutani theorem, which shows that the metrisability of a Hausdorff group is equivalent to first countability, which in turn is equivalent to the existence of an invariant metric generating its topology. The proof will illustrate dyadic decompositions in a very general framework. The only formal prerequisites for the talk are basic analysis and group theory.
+
+
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/notes-2609_13.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/notes-2609_14.jpg)
+
+
+Manan shared the following notes: [The Birkhoff-Kakutani Theorem](https://www.mananifold.com/2026/09/the-birkhoff-kakutani-theorem.html).

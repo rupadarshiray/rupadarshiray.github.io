@@ -1,7 +1,8 @@
 ---
 created: 2026-09-17T19:07:57
 modified: 2026-09-17T19:08:14
-tags: []
+tags:
+  - yt
 title: On logic
 ---
 

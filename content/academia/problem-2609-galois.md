@@ -5,7 +5,7 @@ tags: [problem]
 title: How much do symmetries know about geometry?
 ---
 
-At [[Maximal-Ideals|𝔐𝔞𝔵𝔦𝔪𝔞𝔩 ℑ𝔡𝔢𝔞𝔩]], [[Manan-Jain|Manan]] was wondering about the *Neukirch-Uchida-Iwasawa-Ikeda theorem*: why or how does the absolute Galois group encode information about the generators of a number field?
+At [[Maximal-Ideal|𝔐𝔞𝔵𝔦𝔪𝔞𝔩 ℑ𝔡𝔢𝔞𝔩]], [[Manan-Jain|Manan]] was wondering about the *Neukirch-Uchida-Iwasawa-Ikeda theorem*: why or how does the absolute Galois group encode information about the generators of a number field?
 
 I didn't recognise the theorem, so wikipedia came to help: [Neukirch–Uchida theorem - Wikipedia](https://en.wikipedia.org/wiki/Neukirch%E2%80%93Uchida_theorem) says the isomorphisms of two algebraic number fields correspond to isomorphism of its absolute Galois group. So if you know the Galois group, you can detect the specifc number field uniquely among the class of number fields.
 

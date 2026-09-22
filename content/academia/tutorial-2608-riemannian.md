@@ -7,7 +7,7 @@ tags:
 title: On the ways of Riemannian manifolds
 ---
 
-I wish to introduce some fundamentals of Riemannian manifolds at [[Maximal-Ideals|𝔐𝔞𝔵𝔦𝔪𝔞𝔩 ℑ𝔡𝔢𝔞𝔩]].
+I wish to introduce some fundamentals of Riemannian manifolds at [[Maximal-Ideal|𝔐𝔞𝔵𝔦𝔪𝔞𝔩 ℑ𝔡𝔢𝔞𝔩]].
 
 #current
 

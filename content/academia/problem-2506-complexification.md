@@ -5,7 +5,7 @@ tags: [problem]
 title: Complexifications in the analytic and algebraic categories
 ---
 
-[[Sanskar]], when discussing with me about the definiton of complexification of $\R$-Lie groups, came to the following conclusion at [[Maximal-Ideals|𝔐𝔞𝔵𝔦𝔪𝔞𝔩 ℑ𝔡𝔢𝔞𝔩]].
+[[Sanskar]], when discussing with me about the definiton of complexification of $\R$-Lie groups, came to the following conclusion at [[Maximal-Ideal|𝔐𝔞𝔵𝔦𝔪𝔞𝔩 ℑ𝔡𝔢𝔞𝔩]].
 
 The complexification of $\R$ as a Lie group is $\C$. And complexification of $S^{1}$ is $\C^{\times}$.
 
