@@ -19,6 +19,8 @@ The map is an isometric **isomorphism** $\iff$ $\mu$ is **localizable**, that is
 ^[https://math.stackexchange.com/a/405587/1290493]
 
 
+> [!theorem]- A measure space is localisable iff $L^\infty$ is a von Neumann algebra
+
 
 <!---
 

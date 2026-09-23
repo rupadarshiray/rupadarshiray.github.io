@@ -27,6 +27,7 @@ views:
         - file.tags.contains("current")
     order:
       - file.name
+      - file.tags
     sort:
       - property: created
         direction: DESC

@@ -2,7 +2,7 @@
 created: 2025-04-04T17:27:07
 modified: 2025-04-04T17:27:07
 tags: [talk/attended]
-ttile: Kalyan B Sinha, ISI Bangalore - Folner sequences and Spectral Approximation 
+title: Kalyan B Sinha, ISI Bangalore - Folner sequences and Spectral Approximation  
 ---
  
 > [!abstract]
@@ -11,4 +11,4 @@ ttile: Kalyan B Sinha, ISI Bangalore - Folner sequences and Spectral Approximati
 
 
 
-<iframe src="https://drive.google.com/file/d/15w7A2Ej3rA_k_3k1UCLW3DleB6I4--Aw/preview" style="width:100%; border:none;height:900;"></iframe>
+<iframe src="https://drive.google.com/file/d/15w7A2Ej3rA_k_3k1UCLW3DleB6I4--Aw/preview" style="width:100%; border:none;height:700;"></iframe>

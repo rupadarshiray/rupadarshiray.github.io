@@ -1,9 +1,11 @@
 ---
 created: 2026-09-21T02:01:50
 modified: 2026-09-21T02:01:50
-tags: [coorganizing, seminar]
+tags:
+  - seminar
+  - coorganized
 title: On expanding graphs
-image: "https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-1.jpg"
+image: https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-1.jpg
 ---
 
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminars-2609-1.jpg)

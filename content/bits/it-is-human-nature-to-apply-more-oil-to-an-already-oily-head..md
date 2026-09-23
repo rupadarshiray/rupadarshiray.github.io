@@ -1,7 +1,7 @@
 ---
 created: 2026-09-20T14:33:41
 modified: 2026-09-20T14:33:41
-tags: []
+tags:
 title: It is human nature to apply more oil to an already oily head.
 ---
 
