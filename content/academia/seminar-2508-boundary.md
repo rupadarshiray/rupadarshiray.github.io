@@ -35,6 +35,9 @@ My notes in prepation for the half of the talks, not in chronological order, are
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminar-2508-boundary_22.jpg)
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminar-2508-boundary_23.jpg)
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminar-2508-boundary_24.jpg)
+
+I made a mistake in the above conclusion. Consider $$\partial \bigcap_{n\geq 1} \left[ 0, 1+ \frac{1}{n} \right) = [1,0] \not \subseteq \bigcup_{n\geq 1} \left\{ 0, 1+ \frac{1}{n} \right\}$$
+
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminar-2508-boundary_25.jpg)
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminar-2508-boundary_26.jpg)
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/seminar-2508-boundary_27.jpg)

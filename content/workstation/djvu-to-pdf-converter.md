@@ -12,7 +12,7 @@ sudo pacman -S djvulibre python-pipx
 pipx install dpsprep
 ```
 
-Then go to the folder.
+Then go to the folder where the DjVu file is contained and open a terminal there.
 
 ```bash
 dpsprep input.djvu output.pdf

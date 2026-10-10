@@ -20,11 +20,15 @@ image: https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/se
 
 We revive the seminar by shaking things up!
 
-| Date    | Topic                                                                                                                                                              | Speaker    |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| 22 Sept | [[seminar-2608-harmonic#Does every group have an invariant metric\|Does every group have an invariant metric]], on the Birkhoff-Kakutani theorem                   | Manan      |
-| 29 Sept | Ergodic theorem                                                                                                                                                    | Rupadarshi |
-| 6 Oct   | Discussing [[math/0606794v1] Proper metrics on locally compact groups, and proper affine isometric actions on Banach spaces](https://arxiv.org/abs/math/0606794v1) |            |
+| Date    | Topic                                                                                                                                                   | Speaker    |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| 22 Sept | [[seminar-2608-harmonic#Does every group have an invariant metric\|Does every group have an invariant metric]], on the Birkhoff-Kakutani theorem        | Manan      |
+| 26 Sept | [[seminar-2608-harmonic#Yet another talk on amenability\|Yet another talk on amenability]]                                                              | Manan      |
+|         | A zoo of obstructions to invariant metrics                                                                                                              | Rupadarshi |
+|         | Which definition of amenability is your favourite?                                                                                                      | Rupadarshi |
+|         | [[math/0606794v1] Proper metrics on locally compact groups, and proper affine isometric actions on Banach spaces](https://arxiv.org/abs/math/0606794v1) | Manan      |
+|         | Ergodic theorem for metric groups                                                                                                                       | Rupadarshi |
+|         |                                                                                                                                                         |            |
 
 #current 
 ## Schur's lemma for unitary representations
@@ -58,7 +62,7 @@ And then gave a talk on it. The following are the notes from the talk.
 
 ## Asymptotic Schur orthogonality
 
-Manan talked about the topics he had read in the past few months. This became a (shorta) sequel to his previous talk [[talk-260517-Gelfand-Raikov|on the Gelfand-Raikov theorem]].
+Manan talked about the topics he had read in the past few months. This became a (sorta) sequel to his previous talk [[talk-260517-Gelfand-Raikov|on the Gelfand-Raikov theorem]].
 
 I took the following notes.
 
@@ -84,3 +88,9 @@ I took the following notes.
 
 
 Manan shared the following notes: [The Birkhoff-Kakutani Theorem](https://www.mananifold.com/2026/09/the-birkhoff-kakutani-theorem.html).
+
+## Yet another talk on amenability
+
+> [!abstract]
+> The notion of amenability can be traced back to Lebesgue's musings about his description of the integral, which snowballed into the Banach-Tarski paradox, and has now exploded into a vast area of investigation. In this talk, we will discuss this historical backdrop and some equivalent formulations of amenability for groups. The talk will assume some familiarity with basic measure theory and functional analysis. No special knowledge of group theory is needed.
+
