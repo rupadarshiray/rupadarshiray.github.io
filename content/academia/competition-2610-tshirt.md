@@ -34,10 +34,6 @@ title: IISER Mohali T shirt competition '26
 > 
 > **10th October, 2026**
 > 
-> Please submit your design through the Google Form below:
-> 
-> [https://docs.google.com/forms/d/e/1FAIpQLScZUyNT8awlzn3laIiF_Vls8tNLOKpHYV7i_lIT9Vww54WtcA/viewform](https://docs.google.com/forms/d/e/1FAIpQLScZUyNT8awlzn3laIiF_Vls8tNLOKpHYV7i_lIT9Vww54WtcA/viewform)
-> 
 > ### Submission Guidelines
 > 
 > - The design should be **original** and created by you.
@@ -55,3 +51,5 @@ title: IISER Mohali T shirt competition '26
 In the following video, I make of the designs in Illustrator.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Pgzi0SNMFxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+I reused some pieces from [[my-ms-thesis|my MS thesis poster]].
