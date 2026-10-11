@@ -53,3 +53,35 @@ In the following video, I make of the designs in Illustrator.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Pgzi0SNMFxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I reused some pieces from [[my-ms-thesis|my MS thesis poster]].
+
+## quasiconformal rigidity of the cusped thrice punctured 2-sphere
+
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Tshirt-2610-01-1.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Tshirt-2610-01-2.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Tshirt-2610-01-3.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Tshirt-2610-01-4.jpg)
+
+## quasiconformal deformations/moduli space of the compact genus 2 Riemann surface
+
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Tshirt-2610-02-1.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Tshirt-2610-02-2.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Tshirt-2610-02-3.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Tshirt-2610-02-4.jpg)
+
+## the ping pong lemma
+
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Tshirt-2610-03-1.jpg)
+
+## integration by parts
+
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Tshirt-2610-04-1.jpg)
+
+## expander graphs
+
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Tshirt-2610-05-1.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Tshirt-2610-05-2.jpg)
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Tshirt-2610-05-3.jpg)
+
+## tempered representations
+
+![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/Tshirt-2610-06-1.jpg)
