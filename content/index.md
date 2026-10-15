@@ -6,8 +6,6 @@ Hello! I hope this website finds you well!
 
 My name is Rupadarshi Ray. I am from [[balurghat|Balurghat]], a town in the northern part of Bengal, India 🇮🇳. I speak Bengali, English and Hindi. This website is an _academic curation_ and _journaling_ of my human adventures in mathematics and the theoretical sciences.
 
-My CV is at [rupadarshiray.github.io/CV/RayCV.pdf](https://rupadarshiray.github.io/CV/RayCV.pdf). 
-
 [[my-masters-at-iiserm|I graduated from IISER Mohali with a Masters in Mathematics in June '26]] after completing [[my-ms-thesis|my MS thesis in April]]. The following is the poster on its background.
 
 [![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/thesisms-poster.jpg)](https://drive.google.com/file/d/1doddG6TawmzFXSW8okNeC4BSJixTExHi/view?usp=sharing)
