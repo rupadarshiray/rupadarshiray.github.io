@@ -74,5 +74,74 @@ and set it to open from `vault/.obsidian-x11` config folder where I have removed
 
 -->
 
-## omarchy 4
+## cleanup
+
+```bash
+#!/usr/bin/env bash
+
+set -u
+
+echo "===================================="
+echo "      OMARCHY LINUX CLEANUP"
+echo "===================================="
+
+echo
+echo "=== 1. DISK SPACE BEFORE ==="
+sudo df -h
+
+echo
+echo "=== 2. HOME DIRECTORY USAGE ==="
+sudo du -h --max-depth=1 "$HOME" 2>/dev/null | sort -h
+
+echo
+echo "=== 3. PACMAN CACHE BEFORE ==="
+if [ -d /var/cache/pacman/pkg ]; then
+    du -sh /var/cache/pacman/pkg
+fi
+
+echo
+echo "=== 4. CLEAN UNUSED PACMAN CACHE ==="
+if command -v paccache >/dev/null 2>&1; then
+    sudo paccache -r
+else
+    echo "paccache unavailable; skipping package cache cleanup."
+    echo "Install with: sudo pacman -S pacman-contrib"
+fi
+
+echo
+echo "=== 5. USER CACHE SIZE BEFORE ==="
+sudo du -sh "$HOME/.cache" 2>/dev/null || true
+
+echo
+read -r -p "Clear files inside ~/.cache? [y/N] " answer
+if [[ "$answer" =~ ^[Yy]$ ]]; then
+    find "$HOME/.cache" -mindepth 1 -maxdepth 1 \
+        -exec rm -rf -- {} +
+    echo "User cache cleared."
+else
+    echo "User cache skipped."
+fi
+
+echo
+echo "=== 6. SYSTEM JOURNAL SIZE ==="
+if command -v journalctl >/dev/null 2>&1; then
+    journalctl --disk-usage
+    read -r -p "Remove journal entries older than 7 days? [y/N] " answer
+    if [[ "$answer" =~ ^[Yy]$ ]]; then
+        sudo journalctl --vacuum-time=7d
+    fi
+fi
+
+echo
+echo "=== 7. LARGE FILES IN HOME (>500 MB) ==="
+find "$HOME" -type f -size +500M \
+    -printf '%s bytes  %p\n' 2>/dev/null | sort -n
+
+echo
+echo "=== 8. DISK SPACE AFTER ==="
+df -h
+
+echo
+echo "=== CLEANUP FINISHED ==="
+```
 
