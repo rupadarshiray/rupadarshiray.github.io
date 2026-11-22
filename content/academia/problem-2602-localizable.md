@@ -10,7 +10,7 @@ title: Intuitively understanding localizable measure spaces
 Let $(X,\Sigma, \mu)$ be a $[0, \infty]$-measure space. Consider the natural map $$\begin{aligned}  L^{\infty}(X,\mu)& \to L^{1}(X,\mu)^{\bigstar}  \\ f &\mapsto \left( g \mapsto \int_{X} fg \dd{\mu}  \right)\end{aligned}$$
 Then if $\mu$ is a $\sigma$-finite measure then this is an isometric isomorphism. There is a generalization that says the following.
 
-Te map is an isometric **injection** $\iff$ $\mu$ is **semifinite**, that is, every measurable subset of $X$ (with possibly infinite $\mu$-measure) has a futher finite $\mu$-measure subset. Here, if $\mu$ is not semifinite, then there is a measurable subset $A$ with $\mu(A)=\infty$ whose measurable subsets are all $\mu$-measure zero. Then for $L^{\infty}$ functions supported on $A$, such as $\chi_{A}$, we have $$ \forall g\in L^{1} , \int_{X} g \chi_{A} \dd{\mu} = 0  $$So to these $L^{\infty}$ functions are "invisible" to $L^{1}$ functions. Semifiniteness is necessary and sufficient to break that invisibility.
+The map is an isometric **injection** $\iff$ $\mu$ is **semifinite**, that is, every measurable subset of $X$ (with possibly infinite $\mu$-measure) has a futher finite $\mu$-measure subset. Here, if $\mu$ is not semifinite, then there is a measurable subset $A$ with $\mu(A)=\infty$ whose measurable subsets are all $\mu$-measure zero. Then for $L^{\infty}$ functions supported on $A$, such as $\chi_{A}$, we have $$ \forall g\in L^{1} , \int_{X} g \chi_{A} \dd{\mu} = 0  $$So to these $L^{\infty}$ functions are "invisible" to $L^{1}$ functions. Semifiniteness is necessary and sufficient to break that invisibility.
 
 
 

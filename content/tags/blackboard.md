@@ -6,3 +6,4 @@ aliases:
   - My blackboards
 ---
 
+## my blackboard in Mohali
