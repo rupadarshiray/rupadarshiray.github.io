@@ -5,7 +5,7 @@ tags: []
 title: 'Kleinian groups in higher dimensions: in search for finitely generated non-convex cocompact groups of purely hyperbolic-type'
 image: https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/head-2612-02.png
 ---
-
+Since July '26, I am studying various open questions related to discrete subgroups of $\mor{Isom}(\R \pmb{H}^{d})$ for $d>3$, informally called, Kleinian groups in higher dimensions.
 
 ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/head-2612-02.png)
 
