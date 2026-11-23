@@ -4,13 +4,13 @@ modified: 2021-11-24T14:54:31
 ---
 Hello! I hope this website finds you well!
 
-My name is Rupadarshi Ray. I am from [[balurghat|Balurghat]], a town in the northern part of Bengal, India 🇮🇳. I speak Bengali, English and Hindi. This website is an _academic curation_ and _journaling_ of my human adventures in mathematics and the theoretical sciences.
+My name is Rupadarshi Ray. I am from [[balurghat|Balurghat]], a town in the northern part of Bengal, India 🇮🇳. I speak Bengali, English and Hindi. This website is an _academic curation_ and _journaling_ of my human adventures in mathematics and the theoretical sciences. Almost everything in this website is human created.
 
 > I am going to attend the [[seminar-2612-surfaces|NCMW ATM School on Geometric Structures on Surfaces, Moduli Spaces and Dynamics at CIMS BHU, Varanasi, December 7-17 '26]].
 > ![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/head-2612-01.png)
 > 
 
-> Since July '26, I am studying various open questions related to discrete subgroups of $\mor{Isom}(\R \pmb{H}^{d})$ for $d>3$, informally called, [[research-2606-higher-dim|Kleinian groups in higher dimensions]].![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/head-2612-02.png)
+> Since July '26, I am studying various open questions related to discrete subgroups of $\mor{Isom}(\R \pmb{H}^{d})$ for $d>3$, informally called, [[research-2606-Kleinian-higher|Kleinian groups in higher dimensions]].![](https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/head-2612-02.png)
 
 
 > [[my-masters-at-iiserm|I graduated from IISER Mohali with a Masters in Mathematics in June '26]] after completing [[my-ms-thesis|my MS thesis in April]]. The following is the poster on its background.

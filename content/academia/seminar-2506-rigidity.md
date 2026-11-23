@@ -9,6 +9,12 @@ aliases: "Summer School on Rigidity of Discrete Groups, June 30 – July 4, 2025
 image: https://i.imgur.com/8PchWI6.jpeg
 ---
 
+In Summer '25, I attended the summer school on ***Rigidity of Discrete Groups*** at IISER Mohali. In the year that followed this school, I completely shifted to working on the theory of discrete groups and GGT.
+
+![](https://i.imgur.com/mMRbAyO.jpeg)
+
+I photographed this poster which was placed in front of LH3 in [[iiserm|the LHC at IISER Mohali]] where the lectures were being held.
+
 > [!abstract] 
 > In the proposed meeting, we shall focus on some aspects of the broad topic Rigidity in Geometry and Topology. The geometric form of Mostow’s celebrated rigidity theorem states that every isomorphism between fundamental groups of closed hyperbolic manifolds of dimension at least 3, is induced by an isometry. This result was followed by a similar theorem of Prasad for nonuniform lattices. However, in a spectacular breakthrough, G. A. Margulis obtained a far reaching generalization of these theorems for irreducible lattices in higher rank groups. This result is now known as the Margulis’ Superrigidity Theorem. The ideas behind proofs of these theorems have become very important and fruitful in modern mathematics.  In the proposed workshop, we aim to provide a gentle introduction  to these results along with similar rigidity theorems in geometry and topology through mini courses and survey talks.
 

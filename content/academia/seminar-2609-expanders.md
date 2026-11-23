@@ -17,7 +17,7 @@ We look at expanding graphs coming from Caley graphs of groups at [[Maximal-Idea
 | ------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
 | 20 Sept | [[seminar-2609-expanders#A dishonest and naive portrait of Bourgain-Gamburd\|A dishonest and naive portrait of Bourgain-Gamburd]] | [[Joshua-J-Abraham\|Joshua]] |
 
-This inspired me to read [[book-Tao-expanders|Tao's book on the subject]]/
+This inspired me to read [[book-Tao-expanders|Tao's book on the subject]].
 
 We may have futute talks on the following.
 

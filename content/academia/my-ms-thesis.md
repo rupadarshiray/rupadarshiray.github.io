@@ -180,6 +180,14 @@ We look at two proofs of Mostow's rigidity theorem. First one uses the theory of
 
 Second one considers conformal density on the boundary of hyperbolic, constructed by Patterson and Sullivan, and follows Sullivan's proof of preservation of cross-ratios almost everywhere with respect to the Patterson-Sullivan density supported on the limit sets. This result gives us a measurable rigidity of these limit sets: it says that if we have a measurable map between the limit sets of two hyperbolic manifolds, which takes measure zero sets of the Patterson-Sullivan desnity to measure zero sets in both directions, then the map preserves the cross-ratios almost everywhere. This quickly produces a conformal between these limit sets. Thus, in short if these limit sets are measurably conjugate then they has be to be conformally conjugate. Again, because in the case of closed or finite volume hyperbolic manifolds, the limit sets are the whole sphere, and this implies that the map is a conformal map of the sphere, which extends to an isometry of the hyperbolic space. This gives us Mostow and Prasad's rigidity theorem.
 
+The read the theory of Patterson-Sullivan densities from the following book by Nicholls.
+
+![](https://i.imgur.com/FFjAgRG.jpeg)
+
+However, this book does not prove the rigidity theorem. For that, and the origins of quasiconformal rigidity theorem as well, I looked at the original papers by Sullivan, Tukia and many others.
+
+![](https://i.imgur.com/1j2pyaP.jpeg)
+
 [The slides for my PRJ502 presentation is here.](https://dub.sh/thesismsPRJ) I styled it as a literature survey, motivating the use of Patterson-Sulivan densities in the proof of Mostow rigidity as generalization of similar result with respect to Lebesgue measure for cocompact discrete subgroups.
 
 I also had to presented a poster my thesis. I decided to make a poster on Teichmuller theory and Mostow rigidity, targetting third and fourth year math major, while making it virually appealing for non-math students.

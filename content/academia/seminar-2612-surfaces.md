@@ -29,6 +29,6 @@ The coordinator of the training sessions, who will help also the students in sol
 ### Interactive session
 
 
-> Duration: 3 hours
+Duration: 3 hours
 
 The last session of last two days of the workshop will consist of interactive sessions with the participants. Those who will have most actively participated to the program will be asked to give short talks on topics with their choice, the professors and the other students will comment.
