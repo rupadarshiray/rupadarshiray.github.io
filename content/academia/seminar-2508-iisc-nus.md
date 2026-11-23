@@ -1,7 +1,7 @@
 ---
 created: 2025-08-25
 modified: 2026-11-23T14:58:19
-tags: [workshop, talk/attended]
+tags: [workshop, talk/attended, trip]
 title: The Singapore-Bangalore "What is ...?" Workshop on Mathematics, IISc, Bangalore, August 23-24 '25
 image: https://i.imgur.com/24WkMYe.jpeg
 ---
@@ -216,7 +216,7 @@ We attended a few talks.
 Then we went for lunch and roamed around the campus a little more.
 
 ![](https://i.imgur.com/24WkMYe.jpeg)
-![](https://i.imgur.com/QFcr843.jpeg)
+
 
 We went a little too far away, and had to run back to catch the next talk.
 

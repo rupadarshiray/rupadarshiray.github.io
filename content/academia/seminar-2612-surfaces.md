@@ -1,7 +1,7 @@
 ---
 created: 2026-11-20T18:56:23
 modified: 2026-11-20T18:56:23
-tags: [workshop, talk, current]
+tags: [workshop, talk, current, trip]
 title: NCMW ATM School on Geometric Structures on Surfaces, Moduli Spaces and Dynamics at CIMS BHU, Varanasi, December 7-17 '26
 image: https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/head-2612-01.png
 ---
