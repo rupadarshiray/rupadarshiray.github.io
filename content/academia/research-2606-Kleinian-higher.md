@@ -1,7 +1,7 @@
 ---
 created: 2026-11-23T01:02:33
 modified: 2026-11-23T01:02:33
-tags: []
+tags: [research]
 title: 'Kleinian groups in higher dimensions: in search for finitely generated non-convex cocompact groups of purely hyperbolic-type'
 image: https://raw.githubusercontent.com/rupadarshiray/images/refs/heads/main/head-2612-02.png
 ---
