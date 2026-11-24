@@ -16,6 +16,7 @@ The IISER Mohali campus is a very pretty place if one goes out of their hostel r
 ![](https://i.imgur.com/nvDqmC5.jpeg)
 ![](https://i.imgur.com/KxwuQH0.jpeg)
 ![](https://i.imgur.com/cuBjusR.jpeg)
+![](https://i.imgur.com/1twg6Eb.jpeg)
 
 The buildings live among a very green environment.
 
@@ -31,6 +32,12 @@ The campus also has lots of flora and fauna of colors different than green.
 ![](https://i.imgur.com/yNcdC2P.jpeg)
 ![](https://i.imgur.com/VDISZyW.jpeg)
 ![](https://i.imgur.com/hBDIojR.jpeg)
+
+The winters are different.
+
+![](https://i.imgur.com/1nCPI13.jpeg)
+![](https://i.imgur.com/3DOE7Ag.jpeg)
+
 
 But sometimes it feels like you're in a cage.
 

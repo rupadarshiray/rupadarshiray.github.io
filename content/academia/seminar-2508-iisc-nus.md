@@ -1,7 +1,7 @@
 ---
 created: 2025-08-25
 modified: 2026-11-23T14:58:19
-tags: [workshop, talk/attended, trip]
+tags: [workshop, talk/attended, trip, photograph, videograph]
 title: The Singapore-Bangalore "What is ...?" Workshop on Mathematics, IISc, Bangalore, August 23-24 '25
 image: https://i.imgur.com/24WkMYe.jpeg
 ---

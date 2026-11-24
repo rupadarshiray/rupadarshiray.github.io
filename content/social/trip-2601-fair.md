@@ -1,7 +1,12 @@
 ---
 created: 2026-11-23T16:30:31
 modified: 2026-11-23T16:30:31
-tags: [trip]
+tags:
+  - trip
+  - photograph
+  - fair
+  - book
+  - train
 title: Visit to the World Book Fair, New Delhi, January '26
 image: https://i.imgur.com/jK7pJa9.jpeg
 ---
