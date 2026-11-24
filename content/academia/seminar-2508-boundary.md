@@ -5,7 +5,7 @@ tags: [seminar/presented]
 title: "Fall '25 seminar on the boundary of symmetric spaces"
 ---
 
-Organized by [[Arghya-Mondal|Arghya Mondal]].
+A seminar on symmetric spaces with emphasis on understanding their boundaries in the higher rank case was organized by [[Arghya-Mondal|Arghya Mondal]] during Fall '25 and Spring '26.
 
 I copresented some sections of the text *Martin R Bridson, André Häfliger - Metric Spaces of Non-Positive Curvature*.
 
