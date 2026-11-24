@@ -14,9 +14,8 @@ The venue was (funnily enough) [Biological Sciences Auditorium, IISc](https://ww
 
 > [!abstract] Objective
 > The Department of Mathematics at the National University of Singapore (NUS) invites students to apply for its upcoming Prospective PhD Student Workshop, to be held at the Indian Institute of Science (IISc), Bengaluru on 23rd & 24th August 2025. This workshop is part of NUS’s strategic initiative to engage with outstanding undergraduate/masters students from premier institutions across India who are considering doctoral studies in mathematics. As the name suggests, the workshop will feature leading professors from NUS giving expository talks on their broad areas of interest, at a level accessible to advanced undergraduate and masters students. The event will offer the participants the opportunity to interact with faculty members from NUS, explore ongoing research programmes, and gain insight into academic life at one of Asia’s leading universities.
-### Speakers
 
-List of Speakers: 
+### Speakers
 
 - Wee Teck Gan
     
